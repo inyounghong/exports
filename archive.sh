@@ -9,23 +9,74 @@ getStats() {
         { "$group" : {
             _id:"$'"$1"'",
             count: {$sum: 1},
-            kudos: {$avg: "$kudos"},
-            comments: {$avg: "$comments"},
-            hits: {$avg: "$hits"},
-            words: {$avg: "$words"},
-            chapters: {$avg: "$chapters"},
+            word_sum: {$sum: "$words"},
+            kudo_sum: {$sum: "$kudos"},
+            comment_sum: {$sum: "$comments"},
+            hit_sum: {$sum: "$hits"},
+            kudo_average: {$avg: "$kudos"},
+            comment_average: {$avg: "$comments"},
+            hit_average: {$avg: "$hits"},
+            word_average: {$avg: "$words"},
+            chapter_average: {$avg: "$chapters"},
+            wip_average: {$avg: "$iswip"}
             }
         },
-        { $sort: {"count":-1}}
+        { $sort: {'"$3"'}},
+        { $limit: 100 }
     ]).toArray())' > $2
 }
 
+getPerMonth() {
+    mongo --quiet archive --eval 'printjson(db.getCollection("'"$Fandom"'")
+    .aggregate([
+        { $match: { '"$1"' }},
+        {
+           $project: {
+              yearMonth: { $dateToString: { format: "%Y-%m", date: "$datePublished" } },
+           }
+       },
+       { $group : {
+            _id: "$yearMonth",
+            count: { $sum: 1 },
+            }
+        },
+        { $sort: { _id: 1 } },
+    ]).toArray())' > $2
+}
+
+getPerMonth "" works_per_month.json
+getPerMonth "characters:\"Hermione Granger\"" hermione_per_month.json
+getPerMonth "characters:\"Harry Potter\"" harry_per_month.json
+getPerMonth "characters:\"Draco Malfoy\"" draco_per_month.json
+getPerMonth "characters:\"Newt Scamander\"" draco_per_month.json
+getPerMonth "characters:\"Daphne Greengrass\"" draco_per_month.json
+
+
+# works per month
+# mongo --quiet archive --eval 'printjson(db.getCollection("'"$Fandom"'")
+# .aggregate([
+#     {
+#        $project: {
+#           yearMonth: { $dateToString: { format: "%Y-%m", date: "$datePublished" } },
+#        }
+#    },
+#    { $group : {
+#         _id: "$yearMonth",
+#         count: { $sum: 1 },
+#         }
+#     },
+#     { $sort: { _id: 1 } },
+# ]).toArray())' > works_per_month.json
+
+
 # character, count
 
-getStats "characters" character_count.json
-getStats "categories" category_count.json
-getStats "relationships" relationship_count.json
-getStats "fandoms" fandom_count.json
+getStats "characters" character_count.json "\"count\":-1"
+getStats "categories" category_count.json "\"count\":-1"
+getStats "relationships" relationship_count.json "\"count\":-1"
+getStats "fandoms" fandom_count.json "\"count\":-1"
+getStats "rating" rating_count.json "\"_id\":1"
+getStats "language" language_count.json "\"count\":-1"
 
 # category, count (wrapped)
 # mongo --quiet archive --eval 'printjson(db.getCollection("'"$Fandom"'")
@@ -35,38 +86,15 @@ getStats "fandoms" fandom_count.json
 # ]).toArray())' > category_count_wrapped.json
 
 
-# fandom, count
+# All works
 mongo --quiet archive --eval 'printjson(db.getCollection("'"$Fandom"'")
-.aggregate([
-    { "$unwind" : "$fandoms" },
-    { "$group" : {
-        _id:"$fandoms",
-        count: {$sum: 1},
-        kudos: {$avg: "$kudos"},
-        comments: {$avg: "$kudos"},
-        hits: {$avg: "$hits"},
-        words: {$avg: "$words"},
-        chapters: {$avg: "$chapters"},
-        }
-    },
-    { $sort: {"count":-1}}
-]).toArray())' > fandom_count.json
+    .find(
+        {}, 
+        {rating: 1, iswip: 1, language: 1, words: 1, chapters: 1, kudos: 1, comments: 1, hits: 1,})
+).toArray())' > all_stories.json
 
-# works per month
-mongo --quiet archive --eval 'printjson(db.getCollection("'"$Fandom"'")
-.aggregate([
-    {
-       $project: {
-          yearMonth: { $dateToString: { format: "%Y-%m", date: "$datePublished" } },
-       }
-   },
-   { $group : {
-        _id: "$yearMonth",
-        count: { $sum: 1 },
-        }
-    },
-    { $sort: { _id: 1 } },
-]).toArray())' > works_per_month.json
+
+
 
 # totals
 

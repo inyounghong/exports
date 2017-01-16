@@ -1,0 +1,72 @@
+[
+	{
+		"_id" : 0,
+		"count" : 368,
+		"word_sum" : 2736103,
+		"kudo_sum" : 16937,
+		"comment_sum" : 5249,
+		"hit_sum" : 272637,
+		"kudo_average" : 46.02445652173913,
+		"comment_average" : 14.263586956521738,
+		"hit_average" : 740.8614130434783,
+		"word_average" : 7435.0625,
+		"chapter_average" : 3.625,
+		"wip_average" : 0.3342391304347826
+	},
+	{
+		"_id" : 1,
+		"count" : 593,
+		"word_sum" : 11417375,
+		"kudo_sum" : 51723,
+		"comment_sum" : 16906,
+		"hit_sum" : 823686,
+		"kudo_average" : 87.22259696458684,
+		"comment_average" : 28.50927487352445,
+		"hit_average" : 1389.0151770657674,
+		"word_average" : 19253.58347386172,
+		"chapter_average" : 7.301854974704891,
+		"wip_average" : 0.6155143338954469
+	},
+	{
+		"_id" : 2,
+		"count" : 404,
+		"word_sum" : 11557869,
+		"kudo_sum" : 65328,
+		"comment_sum" : 24845,
+		"hit_sum" : 1316476,
+		"kudo_average" : 161.7029702970297,
+		"comment_average" : 61.49752475247525,
+		"hit_average" : 3258.6039603960394,
+		"word_average" : 28608.586633663366,
+		"chapter_average" : 9.368811881188119,
+		"wip_average" : 0.7326732673267327
+	},
+	{
+		"_id" : 3,
+		"count" : 390,
+		"word_sum" : 13666305,
+		"kudo_sum" : 59686,
+		"comment_sum" : 21370,
+		"hit_sum" : 1462637,
+		"kudo_average" : 153.04102564102564,
+		"comment_average" : 54.794871794871796,
+		"hit_average" : 3750.351282051282,
+		"word_average" : 35041.807692307695,
+		"chapter_average" : 8.266666666666667,
+		"wip_average" : 0.5487179487179488
+	},
+	{
+		"_id" : 4,
+		"count" : 184,
+		"word_sum" : 2368441,
+		"kudo_sum" : 12653,
+		"comment_sum" : 4482,
+		"hit_sum" : 208445,
+		"kudo_average" : 68.7663043478261,
+		"comment_average" : 24.358695652173914,
+		"hit_average" : 1132.8532608695652,
+		"word_average" : 12871.96195652174,
+		"chapter_average" : 5.679347826086956,
+		"wip_average" : 0.6413043478260869
+	}
+]

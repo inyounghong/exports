@@ -1,0 +1,295 @@
+[
+	{
+		"_id" : [
+			"M/M"
+		],
+		"count" : 146
+	},
+	{
+		"_id" : [
+			"F/M"
+		],
+		"count" : 99
+	},
+	{
+		"_id" : [
+			"Gen"
+		],
+		"count" : 48
+	},
+	{
+		"_id" : [
+			"F/M",
+			"M/M"
+		],
+		"count" : 20
+	},
+	{
+		"_id" : [
+			"No category"
+		],
+		"count" : 18
+	},
+	{
+		"_id" : [
+			"Multi"
+		],
+		"count" : 11
+	},
+	{
+		"_id" : [
+			"Gen",
+			"M/M"
+		],
+		"count" : 10
+	},
+	{
+		"_id" : [
+			"F/F",
+			"F/M",
+			"M/M"
+		],
+		"count" : 8
+	},
+	{
+		"_id" : [
+			"F/F"
+		],
+		"count" : 7
+	},
+	{
+		"_id" : [
+			"F/M",
+			"Gen"
+		],
+		"count" : 7
+	},
+	{
+		"_id" : [
+			"Other"
+		],
+		"count" : 6
+	},
+	{
+		"_id" : [
+			"F/M",
+			"M/M",
+			"Multi"
+		],
+		"count" : 6
+	},
+	{
+		"_id" : [
+			"M/M",
+			"Multi"
+		],
+		"count" : 5
+	},
+	{
+		"_id" : [
+			"F/F",
+			"M/M"
+		],
+		"count" : 5
+	},
+	{
+		"_id" : [
+			"F/M",
+			"Multi"
+		],
+		"count" : 4
+	},
+	{
+		"_id" : [
+			"F/M",
+			"Gen",
+			"M/M"
+		],
+		"count" : 4
+	},
+	{
+		"_id" : [
+			"F/F",
+			"F/M",
+			"M/M",
+			"Multi"
+		],
+		"count" : 4
+	},
+	{
+		"_id" : [
+			"M/M",
+			"F/M"
+		],
+		"count" : 3
+	},
+	{
+		"_id" : [
+			"F/F",
+			"M/M",
+			"Multi"
+		],
+		"count" : 2
+	},
+	{
+		"_id" : [
+			"F/F",
+			"F/M"
+		],
+		"count" : 2
+	},
+	{
+		"_id" : [
+			"F/M",
+			"Gen",
+			"M/M",
+			"Multi"
+		],
+		"count" : 2
+	},
+	{
+		"_id" : [
+			"F/M",
+			"Gen",
+			"Multi",
+			"Other"
+		],
+		"count" : 2
+	},
+	{
+		"_id" : [
+			"F/M",
+			"Gen",
+			"Other"
+		],
+		"count" : 1
+	},
+	{
+		"_id" : [
+			"F/M",
+			"F/F"
+		],
+		"count" : 1
+	},
+	{
+		"_id" : [
+			"M/M",
+			"F/F"
+		],
+		"count" : 1
+	},
+	{
+		"_id" : [
+			"F/M",
+			"Gen",
+			"Multi"
+		],
+		"count" : 1
+	},
+	{
+		"_id" : [
+			"F/F",
+			"F/M",
+			"Gen",
+			"Multi"
+		],
+		"count" : 1
+	},
+	{
+		"_id" : [
+			"F/M",
+			"F/F",
+			"Multi"
+		],
+		"count" : 1
+	},
+	{
+		"_id" : [
+			"F/M",
+			"M/M",
+			"Multi",
+			"Other"
+		],
+		"count" : 1
+	},
+	{
+		"_id" : [
+			"F/F",
+			"F/M",
+			"M/M",
+			"Multi",
+			"Other"
+		],
+		"count" : 1
+	},
+	{
+		"_id" : [
+			"F/F",
+			"F/M",
+			"Gen",
+			"Multi",
+			"Other"
+		],
+		"count" : 1
+	},
+	{
+		"_id" : [
+			"F/M",
+			"M/M",
+			"Other",
+			"F/F"
+		],
+		"count" : 1
+	},
+	{
+		"_id" : [
+			"Gen",
+			"M/M",
+			"Multi"
+		],
+		"count" : 1
+	},
+	{
+		"_id" : [
+			"M/M",
+			"Other"
+		],
+		"count" : 1
+	},
+	{
+		"_id" : [
+			"F/M",
+			"M/M",
+			"Other"
+		],
+		"count" : 1
+	},
+	{
+		"_id" : [
+			"Gen",
+			"F/M",
+			"M/M",
+			"Multi"
+		],
+		"count" : 1
+	},
+	{
+		"_id" : [
+			"F/F",
+			"F/M",
+			"Gen",
+			"M/M",
+			"Multi",
+			"Other"
+		],
+		"count" : 1
+	},
+	{
+		"_id" : [
+			"M/M",
+			"F/F",
+			"F/M"
+		],
+		"count" : 1
+	}
+]

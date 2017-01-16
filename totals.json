@@ -1,0 +1,13 @@
+[
+	{
+		"_id" : null,
+		"words_total" : 25562170,
+		"kudos_total" : 113199,
+		"comments_total" : 43155,
+		"hits_total" : 2339636,
+		"kudo_average" : 107.5014245014245,
+		"comments_average" : 40.98290598290598,
+		"hits_average" : 2221.8765432098767,
+		"words_average" : 24275.56505223172
+	}
+]

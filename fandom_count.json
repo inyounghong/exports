@@ -1,0 +1,1883 @@
+[
+	{
+		"_id" : "Harry Potter - J. K. Rowling",
+		"count" : 834,
+		"kudos" : 102.97362110311751,
+		"comments" : 102.97362110311751,
+		"hits" : 2401.1954436450837,
+		"words" : 28414.03597122302,
+		"chapters" : 8.715827338129497
+	},
+	{
+		"_id" : "Fantastic Beasts and Where to Find Them (Movies)",
+		"count" : 226,
+		"kudos" : 150.03097345132744,
+		"comments" : 150.03097345132744,
+		"hits" : 1847.8053097345132,
+		"words" : 8615.787610619469,
+		"chapters" : 4.371681415929204
+	},
+	{
+		"_id" : "Harry Potter - Fandom",
+		"count" : 31,
+		"kudos" : 47.29032258064516,
+		"comments" : 47.29032258064516,
+		"hits" : 721.3548387096774,
+		"words" : 11145.09677419355,
+		"chapters" : 4.806451612903226
+	},
+	{
+		"_id" : "Harry Potter and the Cursed Child - Thorne & Rowling",
+		"count" : 20,
+		"kudos" : 102.15,
+		"comments" : 102.15,
+		"hits" : 2197.25,
+		"words" : 18737.45,
+		"chapters" : 6.55
+	},
+	{
+		"_id" : "Supernatural",
+		"count" : 18,
+		"kudos" : 70.44444444444444,
+		"comments" : 70.44444444444444,
+		"hits" : 1863.3333333333333,
+		"words" : 11072.5,
+		"chapters" : 7.5
+	},
+	{
+		"_id" : "The Avengers (Marvel Movies)",
+		"count" : 12,
+		"kudos" : 86.83333333333333,
+		"comments" : 86.83333333333333,
+		"hits" : 1287.75,
+		"words" : 10190.333333333334,
+		"chapters" : 5.416666666666667
+	},
+	{
+		"_id" : "Sherlock (TV)",
+		"count" : 9,
+		"kudos" : 40.22222222222222,
+		"comments" : 40.22222222222222,
+		"hits" : 1115.5555555555557,
+		"words" : 10166.333333333334,
+		"chapters" : 7
+	},
+	{
+		"_id" : "Marvel Cinematic Universe",
+		"count" : 8,
+		"kudos" : 378,
+		"comments" : 378,
+		"hits" : 10082.75,
+		"words" : 36917.625,
+		"chapters" : 21.625
+	},
+	{
+		"_id" : "The Hobbit - All Media Types",
+		"count" : 6,
+		"kudos" : 33.166666666666664,
+		"comments" : 33.166666666666664,
+		"hits" : 1265.3333333333333,
+		"words" : 14119.5,
+		"chapters" : 11
+	},
+	{
+		"_id" : "Supergirl (TV 2015)",
+		"count" : 5,
+		"kudos" : 135.6,
+		"comments" : 135.6,
+		"hits" : 6580,
+		"words" : 52473.4,
+		"chapters" : 11.4
+	},
+	{
+		"_id" : "Buffy the Vampire Slayer",
+		"count" : 5,
+		"kudos" : 52.6,
+		"comments" : 52.6,
+		"hits" : 4467.2,
+		"words" : 38785,
+		"chapters" : 14.6
+	},
+	{
+		"_id" : "The Walking Dead (TV)",
+		"count" : 5,
+		"kudos" : 238.8,
+		"comments" : 238.8,
+		"hits" : 6502.4,
+		"words" : 57609,
+		"chapters" : 14.8
+	},
+	{
+		"_id" : "Undertale (Video Game)",
+		"count" : 4,
+		"kudos" : 32,
+		"comments" : 32,
+		"hits" : 388.25,
+		"words" : 9043.25,
+		"chapters" : 4.25
+	},
+	{
+		"_id" : "Percy Jackson and the Olympians - Rick Riordan",
+		"count" : 4,
+		"kudos" : 18.75,
+		"comments" : 18.75,
+		"hits" : 391.75,
+		"words" : 8779.5,
+		"chapters" : 3.75
+	},
+	{
+		"_id" : "Doctor Who",
+		"count" : 4,
+		"kudos" : 65,
+		"comments" : 65,
+		"hits" : 1986,
+		"words" : 20174.5,
+		"chapters" : 18.5
+	},
+	{
+		"_id" : "Star Wars - All Media Types",
+		"count" : 4,
+		"kudos" : 33.25,
+		"comments" : 33.25,
+		"hits" : 461.5,
+		"words" : 20554,
+		"chapters" : 8.25
+	},
+	{
+		"_id" : "Captain America (Movies)",
+		"count" : 4,
+		"kudos" : 645.75,
+		"comments" : 645.75,
+		"hits" : 14807.5,
+		"words" : 27266.25,
+		"chapters" : 31.75
+	},
+	{
+		"_id" : "Thor (Movies)",
+		"count" : 4,
+		"kudos" : 87.25,
+		"comments" : 87.25,
+		"hits" : 2519.75,
+		"words" : 47959,
+		"chapters" : 14.5
+	},
+	{
+		"_id" : "Doctor Who (2005)",
+		"count" : 4,
+		"kudos" : 63,
+		"comments" : 63,
+		"hits" : 1578.75,
+		"words" : 14248.75,
+		"chapters" : 14.5
+	},
+	{
+		"_id" : "Merlin (TV)",
+		"count" : 4,
+		"kudos" : 73,
+		"comments" : 73,
+		"hits" : 718.75,
+		"words" : 4864,
+		"chapters" : 1.5
+	},
+	{
+		"_id" : "The Hobbit (Jackson Movies)",
+		"count" : 4,
+		"kudos" : 45.75,
+		"comments" : 45.75,
+		"hits" : 1462.25,
+		"words" : 18956.5,
+		"chapters" : 14.5
+	},
+	{
+		"_id" : "Teen Wolf (TV)",
+		"count" : 4,
+		"kudos" : 288.75,
+		"comments" : 288.75,
+		"hits" : 4149,
+		"words" : 13169.75,
+		"chapters" : 10.75
+	},
+	{
+		"_id" : "Smallville",
+		"count" : 3,
+		"kudos" : 52.333333333333336,
+		"comments" : 52.333333333333336,
+		"hits" : 8258,
+		"words" : 79419,
+		"chapters" : 15
+	},
+	{
+		"_id" : "Naruto",
+		"count" : 3,
+		"kudos" : 173,
+		"comments" : 173,
+		"hits" : 1289.3333333333333,
+		"words" : 11151.666666666666,
+		"chapters" : 2.6666666666666665
+	},
+	{
+		"_id" : "The Lord of the Rings - J. R. R. Tolkien",
+		"count" : 3,
+		"kudos" : 6.333333333333333,
+		"comments" : 6.333333333333333,
+		"hits" : 625.6666666666666,
+		"words" : 14651.666666666666,
+		"chapters" : 9.333333333333334
+	},
+	{
+		"_id" : "Star Wars Episode VII: The Force Awakens (2015)",
+		"count" : 3,
+		"kudos" : 20.333333333333332,
+		"comments" : 20.333333333333332,
+		"hits" : 754.3333333333334,
+		"words" : 4294.333333333333,
+		"chapters" : 2.3333333333333335
+	},
+	{
+		"_id" : "Actor RPF",
+		"count" : 2,
+		"kudos" : 22,
+		"comments" : 22,
+		"hits" : 254.5,
+		"words" : 4272,
+		"chapters" : 4.5
+	},
+	{
+		"_id" : "Arrow (TV 2012)",
+		"count" : 2,
+		"kudos" : 78,
+		"comments" : 78,
+		"hits" : 12356,
+		"words" : 118208,
+		"chapters" : 22
+	},
+	{
+		"_id" : "Marvel Cinematic Universe RPF",
+		"count" : 2,
+		"kudos" : 1230.5,
+		"comments" : 1230.5,
+		"hits" : 27818,
+		"words" : 48271.5,
+		"chapters" : 64
+	},
+	{
+		"_id" : "A Song of Ice and Fire - George R. R. Martin",
+		"count" : 2,
+		"kudos" : 160,
+		"comments" : 160,
+		"hits" : 2357.5,
+		"words" : 11263.5,
+		"chapters" : 5
+	},
+	{
+		"_id" : "Hamilton - Miranda",
+		"count" : 2,
+		"kudos" : 11.5,
+		"comments" : 11.5,
+		"hits" : 189.5,
+		"words" : 1461,
+		"chapters" : 3
+	},
+	{
+		"_id" : "The Avengers (Marvel) - All Media Types",
+		"count" : 2,
+		"kudos" : 456.5,
+		"comments" : 456.5,
+		"hits" : 7549.5,
+		"words" : 70719,
+		"chapters" : 17
+	},
+	{
+		"_id" : "Haikyuu!!",
+		"count" : 2,
+		"kudos" : 147.5,
+		"comments" : 147.5,
+		"hits" : 1832,
+		"words" : 24470,
+		"chapters" : 6
+	},
+	{
+		"_id" : "Hunger Games Trilogy - Suzanne Collins",
+		"count" : 2,
+		"kudos" : 8,
+		"comments" : 8,
+		"hits" : 103.5,
+		"words" : 6244,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Sword Art Online",
+		"count" : 2,
+		"kudos" : 98.5,
+		"comments" : 98.5,
+		"hits" : 2730.5,
+		"words" : 211126,
+		"chapters" : 31.5
+	},
+	{
+		"_id" : "Hawaii Five-0 (2010)",
+		"count" : 2,
+		"kudos" : 12.5,
+		"comments" : 12.5,
+		"hits" : 256.5,
+		"words" : 33769.5,
+		"chapters" : 5.5
+	},
+	{
+		"_id" : "MASH (TV)",
+		"count" : 2,
+		"kudos" : 57.5,
+		"comments" : 57.5,
+		"hits" : 1429,
+		"words" : 2897.5,
+		"chapters" : 12.5
+	},
+	{
+		"_id" : "Jurassic World (2015)",
+		"count" : 2,
+		"kudos" : 41,
+		"comments" : 41,
+		"hits" : 823.5,
+		"words" : 2872.5,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Gilmore Girls",
+		"count" : 2,
+		"kudos" : 44.5,
+		"comments" : 44.5,
+		"hits" : 1256.5,
+		"words" : 2782,
+		"chapters" : 12
+	},
+	{
+		"_id" : "Leverage",
+		"count" : 2,
+		"kudos" : 47.5,
+		"comments" : 47.5,
+		"hits" : 1334,
+		"words" : 5973.5,
+		"chapters" : 12.5
+	},
+	{
+		"_id" : "Twilight Series - Stephenie Meyer",
+		"count" : 2,
+		"kudos" : 8.5,
+		"comments" : 8.5,
+		"hits" : 98.5,
+		"words" : 5172,
+		"chapters" : 2
+	},
+	{
+		"_id" : "NCIS",
+		"count" : 2,
+		"kudos" : 49,
+		"comments" : 49,
+		"hits" : 1423,
+		"words" : 3122,
+		"chapters" : 12.5
+	},
+	{
+		"_id" : "Fullmetal Alchemist: Brotherhood & Manga",
+		"count" : 2,
+		"kudos" : 180,
+		"comments" : 180,
+		"hits" : 1918.5,
+		"words" : 43598,
+		"chapters" : 8
+	},
+	{
+		"_id" : "Star Trek: The Original Series",
+		"count" : 2,
+		"kudos" : 45,
+		"comments" : 45,
+		"hits" : 1270,
+		"words" : 1719.5,
+		"chapters" : 15
+	},
+	{
+		"_id" : "Game of Thrones (TV)",
+		"count" : 2,
+		"kudos" : 160,
+		"comments" : 160,
+		"hits" : 2357.5,
+		"words" : 11263.5,
+		"chapters" : 5
+	},
+	{
+		"_id" : "Glee",
+		"count" : 2,
+		"kudos" : 21.5,
+		"comments" : 21.5,
+		"hits" : 99.5,
+		"words" : 6056.5,
+		"chapters" : 1.5
+	},
+	{
+		"_id" : "True Blood",
+		"count" : 2,
+		"kudos" : 0.5,
+		"comments" : 0.5,
+		"hits" : 28.5,
+		"words" : 3006,
+		"chapters" : 1
+	},
+	{
+		"_id" : "Iron Man (Movies)",
+		"count" : 2,
+		"kudos" : 18,
+		"comments" : 18,
+		"hits" : 924,
+		"words" : 2497.5,
+		"chapters" : 1.5
+	},
+	{
+		"_id" : "Labyrinth (1986)",
+		"count" : 2,
+		"kudos" : 22.5,
+		"comments" : 22.5,
+		"hits" : 228.5,
+		"words" : 8593.5,
+		"chapters" : 5.5
+	},
+	{
+		"_id" : "Katekyou Hitman Reborn!",
+		"count" : 2,
+		"kudos" : 510.5,
+		"comments" : 510.5,
+		"hits" : 8177.5,
+		"words" : 28497.5,
+		"chapters" : 16.5
+	},
+	{
+		"_id" : "Dirty Dancing Havana Nights",
+		"count" : 2,
+		"kudos" : 60.5,
+		"comments" : 60.5,
+		"hits" : 2408.5,
+		"words" : 9208.5,
+		"chapters" : 14
+	},
+	{
+		"_id" : "Once Upon a Time (TV)",
+		"count" : 2,
+		"kudos" : 8,
+		"comments" : 8,
+		"hits" : 871.5,
+		"words" : 4445.5,
+		"chapters" : 4
+	},
+	{
+		"_id" : "The Lord of the Rings - All Media Types",
+		"count" : 2,
+		"kudos" : 2,
+		"comments" : 2,
+		"hits" : 114,
+		"words" : 21490,
+		"chapters" : 15.5
+	},
+	{
+		"_id" : "The Hobbit - J. R. R. Tolkien",
+		"count" : 2,
+		"kudos" : 31,
+		"comments" : 31,
+		"hits" : 516,
+		"words" : 28704.5,
+		"chapters" : 15
+	},
+	{
+		"_id" : "Original Work",
+		"count" : 2,
+		"kudos" : 140.5,
+		"comments" : 140.5,
+		"hits" : 3829.5,
+		"words" : 90856,
+		"chapters" : 28
+	},
+	{
+		"_id" : "James Bond (Craig movies)",
+		"count" : 2,
+		"kudos" : 25,
+		"comments" : 25,
+		"hits" : 254,
+		"words" : 894,
+		"chapters" : 1
+	},
+	{
+		"_id" : "Phandom/The Fantastic Foursome (YouTube RPF)",
+		"count" : 2,
+		"kudos" : 20,
+		"comments" : 20,
+		"hits" : 233.5,
+		"words" : 2720.5,
+		"chapters" : 1.5
+	},
+	{
+		"_id" : "DCU (Comics)",
+		"count" : 1,
+		"kudos" : 11,
+		"comments" : 11,
+		"hits" : 1082,
+		"words" : 3438,
+		"chapters" : 1
+	},
+	{
+		"_id" : "Constantine (TV)",
+		"count" : 1,
+		"kudos" : 1,
+		"comments" : 1,
+		"hits" : 126,
+		"words" : 4408,
+		"chapters" : 2
+	},
+	{
+		"_id" : "One Piece",
+		"count" : 1,
+		"kudos" : 0,
+		"comments" : 0,
+		"hits" : 52,
+		"words" : 1073,
+		"chapters" : 4
+	},
+	{
+		"_id" : "Fallen - Lauren Kate",
+		"count" : 1,
+		"kudos" : 2,
+		"comments" : 2,
+		"hits" : 40,
+		"words" : 8016,
+		"chapters" : 9
+	},
+	{
+		"_id" : "James Bond (Movies)",
+		"count" : 1,
+		"kudos" : 8,
+		"comments" : 8,
+		"hits" : 44,
+		"words" : 100,
+		"chapters" : 1
+	},
+	{
+		"_id" : "Tomb Raider (Video Game)",
+		"count" : 1,
+		"kudos" : 116,
+		"comments" : 116,
+		"hits" : 18612,
+		"words" : 172980,
+		"chapters" : 33
+	},
+	{
+		"_id" : "Bleach",
+		"count" : 1,
+		"kudos" : 18,
+		"comments" : 18,
+		"hits" : 200,
+		"words" : 1691,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Undermountain resource book D&D 2nd Ed",
+		"count" : 1,
+		"kudos" : 47,
+		"comments" : 47,
+		"hits" : 1069,
+		"words" : 3259,
+		"chapters" : 9
+	},
+	{
+		"_id" : "The Danish Girl - All Media Types",
+		"count" : 1,
+		"kudos" : 42,
+		"comments" : 42,
+		"hits" : 464,
+		"words" : 1688,
+		"chapters" : 1
+	},
+	{
+		"_id" : "The Runestone",
+		"count" : 1,
+		"kudos" : 3,
+		"comments" : 3,
+		"hits" : 70,
+		"words" : 5365,
+		"chapters" : 7
+	},
+	{
+		"_id" : "X-Men: Days of Future Past (2014) - Fandom",
+		"count" : 1,
+		"kudos" : 2447,
+		"comments" : 2447,
+		"hits" : 55508,
+		"words" : 89501,
+		"chapters" : 123
+	},
+	{
+		"_id" : "The Avengers (2012)",
+		"count" : 1,
+		"kudos" : 2447,
+		"comments" : 2447,
+		"hits" : 55508,
+		"words" : 89501,
+		"chapters" : 123
+	},
+	{
+		"_id" : "X-Men: First Class (2011) RPF",
+		"count" : 1,
+		"kudos" : 2447,
+		"comments" : 2447,
+		"hits" : 55508,
+		"words" : 89501,
+		"chapters" : 123
+	},
+	{
+		"_id" : "X-Men - All Media Types",
+		"count" : 1,
+		"kudos" : 2447,
+		"comments" : 2447,
+		"hits" : 55508,
+		"words" : 89501,
+		"chapters" : 123
+	},
+	{
+		"_id" : "X-Men: First Class (2011) - Fandom",
+		"count" : 1,
+		"kudos" : 2447,
+		"comments" : 2447,
+		"hits" : 55508,
+		"words" : 89501,
+		"chapters" : 123
+	},
+	{
+		"_id" : "Stargate SG-1",
+		"count" : 1,
+		"kudos" : 2,
+		"comments" : 2,
+		"hits" : 36,
+		"words" : 9184,
+		"chapters" : 1
+	},
+	{
+		"_id" : "iZombie (TV)",
+		"count" : 1,
+		"kudos" : 2,
+		"comments" : 2,
+		"hits" : 96,
+		"words" : 6777,
+		"chapters" : 6
+	},
+	{
+		"_id" : "Vikings (TV)",
+		"count" : 1,
+		"kudos" : 1,
+		"comments" : 1,
+		"hits" : 62,
+		"words" : 1841,
+		"chapters" : 1
+	},
+	{
+		"_id" : "Carmilla (Web Series)",
+		"count" : 1,
+		"kudos" : 44,
+		"comments" : 44,
+		"hits" : 1842,
+		"words" : 56066,
+		"chapters" : 10
+	},
+	{
+		"_id" : "Max Headroom - Fandom",
+		"count" : 1,
+		"kudos" : 3,
+		"comments" : 3,
+		"hits" : 70,
+		"words" : 5365,
+		"chapters" : 7
+	},
+	{
+		"_id" : "The Librarians (TV 2014)",
+		"count" : 1,
+		"kudos" : 8,
+		"comments" : 8,
+		"hits" : 199,
+		"words" : 9647,
+		"chapters" : 2
+	},
+	{
+		"_id" : "DmC: Devil May Cry",
+		"count" : 1,
+		"kudos" : 33,
+		"comments" : 33,
+		"hits" : 964,
+		"words" : 131895,
+		"chapters" : 19
+	},
+	{
+		"_id" : "Devil May Cry",
+		"count" : 1,
+		"kudos" : 33,
+		"comments" : 33,
+		"hits" : 964,
+		"words" : 131895,
+		"chapters" : 19
+	},
+	{
+		"_id" : "Pride and Prejudice - Jane Austen",
+		"count" : 1,
+		"kudos" : 9,
+		"comments" : 9,
+		"hits" : 187,
+		"words" : 20028,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Graceling - Kristin Cashore",
+		"count" : 1,
+		"kudos" : 16,
+		"comments" : 16,
+		"hits" : 192,
+		"words" : 7690,
+		"chapters" : 3
+	},
+	{
+		"_id" : "Divergent Series - Veronica Roth",
+		"count" : 1,
+		"kudos" : 16,
+		"comments" : 16,
+		"hits" : 192,
+		"words" : 7690,
+		"chapters" : 3
+	},
+	{
+		"_id" : "Spring Awakening - Sheik/Sater",
+		"count" : 1,
+		"kudos" : 24,
+		"comments" : 24,
+		"hits" : 495,
+		"words" : 7480,
+		"chapters" : 18
+	},
+	{
+		"_id" : "Code Geass",
+		"count" : 1,
+		"kudos" : 13,
+		"comments" : 13,
+		"hits" : 289,
+		"words" : 6274,
+		"chapters" : 3
+	},
+	{
+		"_id" : "Saint Beast",
+		"count" : 1,
+		"kudos" : 3,
+		"comments" : 3,
+		"hits" : 70,
+		"words" : 5365,
+		"chapters" : 7
+	},
+	{
+		"_id" : "Homestuck",
+		"count" : 1,
+		"kudos" : 18,
+		"comments" : 18,
+		"hits" : 92,
+		"words" : 2158,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Torchwood",
+		"count" : 1,
+		"kudos" : 107,
+		"comments" : 107,
+		"hits" : 2222,
+		"words" : 429248,
+		"chapters" : 188
+	},
+	{
+		"_id" : "Carry On - Rainbow Rowell",
+		"count" : 1,
+		"kudos" : 7,
+		"comments" : 7,
+		"hits" : 90,
+		"words" : 1364,
+		"chapters" : 1
+	},
+	{
+		"_id" : "Star Wars Prequel Trilogy",
+		"count" : 1,
+		"kudos" : 83,
+		"comments" : 83,
+		"hits" : 1159,
+		"words" : 70308,
+		"chapters" : 21
+	},
+	{
+		"_id" : "Tokyo Ghoul",
+		"count" : 1,
+		"kudos" : 0,
+		"comments" : 0,
+		"hits" : 30,
+		"words" : 3424,
+		"chapters" : 4
+	},
+	{
+		"_id" : "Mission: Impossible - Ghost Protocol (2011)",
+		"count" : 1,
+		"kudos" : 2447,
+		"comments" : 2447,
+		"hits" : 55508,
+		"words" : 89501,
+		"chapters" : 123
+	},
+	{
+		"_id" : "Doctor Who & Related Fandoms",
+		"count" : 1,
+		"kudos" : 6,
+		"comments" : 6,
+		"hits" : 104,
+		"words" : 2469,
+		"chapters" : 8
+	},
+	{
+		"_id" : "Final Fantasy VIII",
+		"count" : 1,
+		"kudos" : 34,
+		"comments" : 34,
+		"hits" : 748,
+		"words" : 3653,
+		"chapters" : 10
+	},
+	{
+		"_id" : "Rogue One: A Star Wars Story (2016)",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	},
+	{
+		"_id" : "British Television/Films",
+		"count" : 1,
+		"kudos" : 6,
+		"comments" : 6,
+		"hits" : 104,
+		"words" : 2469,
+		"chapters" : 8
+	},
+	{
+		"_id" : "The Almighty Johnsons",
+		"count" : 1,
+		"kudos" : 2,
+		"comments" : 2,
+		"hits" : 96,
+		"words" : 6777,
+		"chapters" : 6
+	},
+	{
+		"_id" : "Fifth Element (1997)",
+		"count" : 1,
+		"kudos" : 3,
+		"comments" : 3,
+		"hits" : 70,
+		"words" : 5365,
+		"chapters" : 7
+	},
+	{
+		"_id" : "Boy Meets World",
+		"count" : 1,
+		"kudos" : 10,
+		"comments" : 10,
+		"hits" : 315,
+		"words" : 7302,
+		"chapters" : 4
+	},
+	{
+		"_id" : "Kuroshitsuji | Black Butler",
+		"count" : 1,
+		"kudos" : 3,
+		"comments" : 3,
+		"hits" : 70,
+		"words" : 5365,
+		"chapters" : 7
+	},
+	{
+		"_id" : "Creepypasta - Fandom",
+		"count" : 1,
+		"kudos" : 2,
+		"comments" : 2,
+		"hits" : 54,
+		"words" : 2740,
+		"chapters" : 1
+	},
+	{
+		"_id" : "True Love (TV)",
+		"count" : 1,
+		"kudos" : 17,
+		"comments" : 17,
+		"hits" : 168,
+		"words" : 3418,
+		"chapters" : 5
+	},
+	{
+		"_id" : "Dirk Gently's Holistic Detective Agency - Fandom",
+		"count" : 1,
+		"kudos" : 3,
+		"comments" : 3,
+		"hits" : 70,
+		"words" : 5365,
+		"chapters" : 7
+	},
+	{
+		"_id" : "The Silmarillion and other histories of Middle-Earth - J. R. R. Tolkien",
+		"count" : 1,
+		"kudos" : 61,
+		"comments" : 61,
+		"hits" : 875,
+		"words" : 15568,
+		"chapters" : 6
+	},
+	{
+		"_id" : "Ouran High School Host Club - All Media Types",
+		"count" : 1,
+		"kudos" : 41,
+		"comments" : 41,
+		"hits" : 441,
+		"words" : 6817,
+		"chapters" : 3
+	},
+	{
+		"_id" : "DC Animated Universe",
+		"count" : 1,
+		"kudos" : 289,
+		"comments" : 289,
+		"hits" : 77779,
+		"words" : 1828023,
+		"chapters" : 254
+	},
+	{
+		"_id" : "Star Wars Episode I: The Phantom Menace",
+		"count" : 1,
+		"kudos" : 0,
+		"comments" : 0,
+		"hits" : 5,
+		"words" : 1389,
+		"chapters" : 1
+	},
+	{
+		"_id" : "The Trials of Apollo - Rick Riordan",
+		"count" : 1,
+		"kudos" : 17,
+		"comments" : 17,
+		"hits" : 819,
+		"words" : 10250,
+		"chapters" : 7
+	},
+	{
+		"_id" : "Jonathan Creek (TV)",
+		"count" : 1,
+		"kudos" : 2,
+		"comments" : 2,
+		"hits" : 36,
+		"words" : 9184,
+		"chapters" : 1
+	},
+	{
+		"_id" : "The Maze Runner Series - James Dashner",
+		"count" : 1,
+		"kudos" : 16,
+		"comments" : 16,
+		"hits" : 192,
+		"words" : 7690,
+		"chapters" : 3
+	},
+	{
+		"_id" : "Stargate Atlantis",
+		"count" : 1,
+		"kudos" : 68,
+		"comments" : 68,
+		"hits" : 760,
+		"words" : 8068,
+		"chapters" : 5
+	},
+	{
+		"_id" : "House M.D.",
+		"count" : 1,
+		"kudos" : 46,
+		"comments" : 46,
+		"hits" : 718,
+		"words" : 9590,
+		"chapters" : 4
+	},
+	{
+		"_id" : "Fantastic Beasts and Where to Find Them (Movies) RPF",
+		"count" : 1,
+		"kudos" : 30,
+		"comments" : 30,
+		"hits" : 381,
+		"words" : 1502,
+		"chapters" : 4
+	},
+	{
+		"_id" : "Fantastic Four",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	},
+	{
+		"_id" : "The 100 (TV)",
+		"count" : 1,
+		"kudos" : 38,
+		"comments" : 38,
+		"hits" : 519,
+		"words" : 7205,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Chronicles of Narnia - All Media Types",
+		"count" : 1,
+		"kudos" : 3,
+		"comments" : 3,
+		"hits" : 71,
+		"words" : 1139,
+		"chapters" : 7
+	},
+	{
+		"_id" : "Ten Inch Hero",
+		"count" : 1,
+		"kudos" : 87,
+		"comments" : 87,
+		"hits" : 2469,
+		"words" : 2300,
+		"chapters" : 23
+	},
+	{
+		"_id" : "The Heroes of Olympus - Rick Riordan",
+		"count" : 1,
+		"kudos" : 17,
+		"comments" : 17,
+		"hits" : 819,
+		"words" : 10250,
+		"chapters" : 7
+	},
+	{
+		"_id" : "Outlander Series - Diana Gabaldon",
+		"count" : 1,
+		"kudos" : 3,
+		"comments" : 3,
+		"hits" : 71,
+		"words" : 1139,
+		"chapters" : 7
+	},
+	{
+		"_id" : "Malcolm in the Middle",
+		"count" : 1,
+		"kudos" : 87,
+		"comments" : 87,
+		"hits" : 2469,
+		"words" : 2300,
+		"chapters" : 23
+	},
+	{
+		"_id" : "Compilation of Final Fantasy VII",
+		"count" : 1,
+		"kudos" : 13,
+		"comments" : 13,
+		"hits" : 346,
+		"words" : 10407,
+		"chapters" : 7
+	},
+	{
+		"_id" : "Doctor Strange (2016)",
+		"count" : 1,
+		"kudos" : 136,
+		"comments" : 136,
+		"hits" : 2280,
+		"words" : 9225,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Firefly",
+		"count" : 1,
+		"kudos" : 2447,
+		"comments" : 2447,
+		"hits" : 55508,
+		"words" : 89501,
+		"chapters" : 123
+	},
+	{
+		"_id" : "Married With Children",
+		"count" : 1,
+		"kudos" : 87,
+		"comments" : 87,
+		"hits" : 2469,
+		"words" : 2300,
+		"chapters" : 23
+	},
+	{
+		"_id" : "Old World of Darkness",
+		"count" : 1,
+		"kudos" : 0,
+		"comments" : 0,
+		"hits" : 0,
+		"words" : 5772,
+		"chapters" : 1
+	},
+	{
+		"_id" : "僕のヒーローアカデミア | Boku no Hero Academia | My Hero Academia",
+		"count" : 1,
+		"kudos" : 3,
+		"comments" : 3,
+		"hits" : 209,
+		"words" : 4304,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Stonehenge Apocalypse (2010)",
+		"count" : 1,
+		"kudos" : 87,
+		"comments" : 87,
+		"hits" : 2469,
+		"words" : 2300,
+		"chapters" : 23
+	},
+	{
+		"_id" : "Degrassi",
+		"count" : 1,
+		"kudos" : 1,
+		"comments" : 1,
+		"hits" : 62,
+		"words" : 1841,
+		"chapters" : 1
+	},
+	{
+		"_id" : "Fairy Tail",
+		"count" : 1,
+		"kudos" : 5,
+		"comments" : 5,
+		"hits" : 60,
+		"words" : 3355,
+		"chapters" : 2
+	},
+	{
+		"_id" : "X-Men (Movies)",
+		"count" : 1,
+		"kudos" : 2447,
+		"comments" : 2447,
+		"hits" : 55508,
+		"words" : 89501,
+		"chapters" : 123
+	},
+	{
+		"_id" : "Watchmen (2009)",
+		"count" : 1,
+		"kudos" : 87,
+		"comments" : 87,
+		"hits" : 2469,
+		"words" : 2300,
+		"chapters" : 23
+	},
+	{
+		"_id" : "Grey's Anatomy",
+		"count" : 1,
+		"kudos" : 87,
+		"comments" : 87,
+		"hits" : 2469,
+		"words" : 2300,
+		"chapters" : 23
+	},
+	{
+		"_id" : "Rise of the Guardians (2012)",
+		"count" : 1,
+		"kudos" : 2,
+		"comments" : 2,
+		"hits" : 75,
+		"words" : 4901,
+		"chapters" : 7
+	},
+	{
+		"_id" : "Captain America (Movies) RPF",
+		"count" : 1,
+		"kudos" : 2447,
+		"comments" : 2447,
+		"hits" : 55508,
+		"words" : 89501,
+		"chapters" : 123
+	},
+	{
+		"_id" : "Robin Hood (BBC 2006)",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Penelope (2006)",
+		"count" : 1,
+		"kudos" : 2447,
+		"comments" : 2447,
+		"hits" : 55508,
+		"words" : 89501,
+		"chapters" : 123
+	},
+	{
+		"_id" : "Shame (2011)",
+		"count" : 1,
+		"kudos" : 2447,
+		"comments" : 2447,
+		"hits" : 55508,
+		"words" : 89501,
+		"chapters" : 123
+	},
+	{
+		"_id" : "Harry - Fandom",
+		"count" : 1,
+		"kudos" : 74,
+		"comments" : 74,
+		"hits" : 749,
+		"words" : 16624,
+		"chapters" : 8
+	},
+	{
+		"_id" : "Welcome to the Punch (2013)",
+		"count" : 1,
+		"kudos" : 87,
+		"comments" : 87,
+		"hits" : 4069,
+		"words" : 14764,
+		"chapters" : 18
+	},
+	{
+		"_id" : "Perry Rhodan - Various Authors",
+		"count" : 1,
+		"kudos" : 87,
+		"comments" : 87,
+		"hits" : 2469,
+		"words" : 2300,
+		"chapters" : 23
+	},
+	{
+		"_id" : "My Bloody Valentine (2009)",
+		"count" : 1,
+		"kudos" : 87,
+		"comments" : 87,
+		"hits" : 2469,
+		"words" : 2300,
+		"chapters" : 23
+	},
+	{
+		"_id" : "PuppetMaster IV",
+		"count" : 1,
+		"kudos" : 3,
+		"comments" : 3,
+		"hits" : 70,
+		"words" : 5365,
+		"chapters" : 7
+	},
+	{
+		"_id" : "Eureka (TV)",
+		"count" : 1,
+		"kudos" : 11,
+		"comments" : 11,
+		"hits" : 377,
+		"words" : 3944,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Two and a Half Men (TV)",
+		"count" : 1,
+		"kudos" : 87,
+		"comments" : 87,
+		"hits" : 2469,
+		"words" : 2300,
+		"chapters" : 23
+	},
+	{
+		"_id" : "Star Wars Episode VI: Return of the Jedi",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	},
+	{
+		"_id" : "CSI: Crime Scene Investigation",
+		"count" : 1,
+		"kudos" : 87,
+		"comments" : 87,
+		"hits" : 2469,
+		"words" : 2300,
+		"chapters" : 23
+	},
+	{
+		"_id" : "Daredevil (TV)",
+		"count" : 1,
+		"kudos" : 120,
+		"comments" : 120,
+		"hits" : 2843,
+		"words" : 16850,
+		"chapters" : 11
+	},
+	{
+		"_id" : "Sweeney Todd (2007)",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Yu-Gi-Oh!",
+		"count" : 1,
+		"kudos" : 28,
+		"comments" : 28,
+		"hits" : 201,
+		"words" : 28240,
+		"chapters" : 5
+	},
+	{
+		"_id" : "Hannibal (TV)",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Dark Angel",
+		"count" : 1,
+		"kudos" : 87,
+		"comments" : 87,
+		"hits" : 2469,
+		"words" : 2300,
+		"chapters" : 23
+	},
+	{
+		"_id" : "Star Wars Original Trilogy",
+		"count" : 1,
+		"kudos" : 83,
+		"comments" : 83,
+		"hits" : 1159,
+		"words" : 70308,
+		"chapters" : 21
+	},
+	{
+		"_id" : "Pirates of the Caribbean (Movies)",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Flashpoint (TV)",
+		"count" : 1,
+		"kudos" : 12,
+		"comments" : 12,
+		"hits" : 85,
+		"words" : 13029,
+		"chapters" : 9
+	},
+	{
+		"_id" : "The Pacifier (2005)",
+		"count" : 1,
+		"kudos" : 10,
+		"comments" : 10,
+		"hits" : 315,
+		"words" : 7302,
+		"chapters" : 4
+	},
+	{
+		"_id" : "Devour (2005)",
+		"count" : 1,
+		"kudos" : 87,
+		"comments" : 87,
+		"hits" : 2469,
+		"words" : 2300,
+		"chapters" : 23
+	},
+	{
+		"_id" : "Lost Girl",
+		"count" : 1,
+		"kudos" : 116,
+		"comments" : 116,
+		"hits" : 18612,
+		"words" : 172980,
+		"chapters" : 33
+	},
+	{
+		"_id" : "Harry Potter - All Media Types",
+		"count" : 1,
+		"kudos" : 17,
+		"comments" : 17,
+		"hits" : 129,
+		"words" : 1794,
+		"chapters" : 1
+	},
+	{
+		"_id" : "Dallas (TV 2012)",
+		"count" : 1,
+		"kudos" : 10,
+		"comments" : 10,
+		"hits" : 315,
+		"words" : 7302,
+		"chapters" : 4
+	},
+	{
+		"_id" : "The Flash (TV 2014)",
+		"count" : 1,
+		"kudos" : 40,
+		"comments" : 40,
+		"hits" : 6100,
+		"words" : 63436,
+		"chapters" : 11
+	},
+	{
+		"_id" : "Star Wars Episode V: Empire Strikes Back",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Star Wars Legends: Knights of the Old Republic",
+		"count" : 1,
+		"kudos" : 0,
+		"comments" : 0,
+		"hits" : 0,
+		"words" : 5772,
+		"chapters" : 1
+	},
+	{
+		"_id" : "The Covenant (2006)",
+		"count" : 1,
+		"kudos" : 2,
+		"comments" : 2,
+		"hits" : 96,
+		"words" : 6777,
+		"chapters" : 6
+	},
+	{
+		"_id" : "The Thick of It (TV)",
+		"count" : 1,
+		"kudos" : 154,
+		"comments" : 154,
+		"hits" : 3672,
+		"words" : 44727,
+		"chapters" : 30
+	},
+	{
+		"_id" : "musketeers - Fandom",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Guardians of the Galaxy (Movies)",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Star Wars Episode IV: A New Hope",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Sherlock Holmes (Downey films)",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Chronicles of Narnia - C. S. Lewis",
+		"count" : 1,
+		"kudos" : 44,
+		"comments" : 44,
+		"hits" : 347,
+		"words" : 14400,
+		"chapters" : 6
+	},
+	{
+		"_id" : "Columbo",
+		"count" : 1,
+		"kudos" : 3,
+		"comments" : 3,
+		"hits" : 71,
+		"words" : 1139,
+		"chapters" : 7
+	},
+	{
+		"_id" : "PotterworldMC",
+		"count" : 1,
+		"kudos" : 6,
+		"comments" : 6,
+		"hits" : 39,
+		"words" : 8631,
+		"chapters" : 5
+	},
+	{
+		"_id" : "Outlander (TV)",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	},
+	{
+		"_id" : "방탄소년단 | Bangtan Boys | BTS",
+		"count" : 1,
+		"kudos" : 138,
+		"comments" : 138,
+		"hits" : 1668,
+		"words" : 25449,
+		"chapters" : 7
+	},
+	{
+		"_id" : "Pretty Little Liars",
+		"count" : 1,
+		"kudos" : 8,
+		"comments" : 8,
+		"hits" : 199,
+		"words" : 9647,
+		"chapters" : 2
+	},
+	{
+		"_id" : "And a smidge of BBC!Sherlock thrown in",
+		"count" : 1,
+		"kudos" : 74,
+		"comments" : 74,
+		"hits" : 4089,
+		"words" : 117883,
+		"chapters" : 29
+	},
+	{
+		"_id" : "Mulan (1998)",
+		"count" : 1,
+		"kudos" : 1,
+		"comments" : 1,
+		"hits" : 157,
+		"words" : 41841,
+		"chapters" : 24
+	},
+	{
+		"_id" : "Magic: The Gathering",
+		"count" : 1,
+		"kudos" : 28,
+		"comments" : 28,
+		"hits" : 413,
+		"words" : 40022,
+		"chapters" : 13
+	},
+	{
+		"_id" : "The Secret World of Alex Mack",
+		"count" : 1,
+		"kudos" : 2,
+		"comments" : 2,
+		"hits" : 36,
+		"words" : 9184,
+		"chapters" : 1
+	},
+	{
+		"_id" : "Fantastic Beasts and Where to Find Them - Fandom",
+		"count" : 1,
+		"kudos" : 0,
+		"comments" : 0,
+		"hits" : 2,
+		"words" : 1204,
+		"chapters" : 1
+	},
+	{
+		"_id" : "Ant-Man (Movies)",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Marvel (Movies)",
+		"count" : 1,
+		"kudos" : 11,
+		"comments" : 11,
+		"hits" : 1082,
+		"words" : 3438,
+		"chapters" : 1
+	},
+	{
+		"_id" : "DC Comics",
+		"count" : 1,
+		"kudos" : 289,
+		"comments" : 289,
+		"hits" : 77779,
+		"words" : 1828023,
+		"chapters" : 254
+	},
+	{
+		"_id" : "Frühlings Erwachen | Spring Awakening - Frank Wedekind",
+		"count" : 1,
+		"kudos" : 24,
+		"comments" : 24,
+		"hits" : 495,
+		"words" : 7480,
+		"chapters" : 18
+	},
+	{
+		"_id" : "Trigun",
+		"count" : 1,
+		"kudos" : 87,
+		"comments" : 87,
+		"hits" : 4069,
+		"words" : 14764,
+		"chapters" : 18
+	},
+	{
+		"_id" : "Doctor Strange (Comics)",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Final Fantasy VII",
+		"count" : 1,
+		"kudos" : 13,
+		"comments" : 13,
+		"hits" : 346,
+		"words" : 10407,
+		"chapters" : 7
+	},
+	{
+		"_id" : "The Worst Witch - All Media Types",
+		"count" : 1,
+		"kudos" : 1,
+		"comments" : 1,
+		"hits" : 157,
+		"words" : 41841,
+		"chapters" : 24
+	},
+	{
+		"_id" : "Twilight Series - All Media Types",
+		"count" : 1,
+		"kudos" : 9,
+		"comments" : 9,
+		"hits" : 200,
+		"words" : 607,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Golden Girls",
+		"count" : 1,
+		"kudos" : 87,
+		"comments" : 87,
+		"hits" : 2469,
+		"words" : 2300,
+		"chapters" : 23
+	},
+	{
+		"_id" : "Now You See Me (Movies)",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Bishoujo Senshi Sailor Moon | Pretty Guardian Sailor Moon (Anime & Manga)",
+		"count" : 1,
+		"kudos" : 1,
+		"comments" : 1,
+		"hits" : 93,
+		"words" : 35601,
+		"chapters" : 8
+	},
+	{
+		"_id" : "The Lord of the Rings (Movies)",
+		"count" : 1,
+		"kudos" : 1,
+		"comments" : 1,
+		"hits" : 157,
+		"words" : 41841,
+		"chapters" : 24
+	},
+	{
+		"_id" : "The Big Bang Theory (TV)",
+		"count" : 1,
+		"kudos" : 87,
+		"comments" : 87,
+		"hits" : 2469,
+		"words" : 2300,
+		"chapters" : 23
+	},
+	{
+		"_id" : "Silent Hill (Video Game Series)",
+		"count" : 1,
+		"kudos" : 0,
+		"comments" : 0,
+		"hits" : 3,
+		"words" : 1661,
+		"chapters" : 1
+	},
+	{
+		"_id" : "teen wolf - Fandom",
+		"count" : 1,
+		"kudos" : 8,
+		"comments" : 8,
+		"hits" : 199,
+		"words" : 9647,
+		"chapters" : 2
+	},
+	{
+		"_id" : "Greek and Roman Mythology",
+		"count" : 1,
+		"kudos" : 281,
+		"comments" : 281,
+		"hits" : 7607,
+		"words" : 180639,
+		"chapters" : 52
+	},
+	{
+		"_id" : "D.Gray-man",
+		"count" : 1,
+		"kudos" : 0,
+		"comments" : 0,
+		"hits" : 0,
+		"words" : 468,
+		"chapters" : 1
+	},
+	{
+		"_id" : "Batman - All Media Types",
+		"count" : 1,
+		"kudos" : 2,
+		"comments" : 2,
+		"hits" : 74,
+		"words" : 2549,
+		"chapters" : 1
+	},
+	{
+		"_id" : "Coronation Street",
+		"count" : 1,
+		"kudos" : 0,
+		"comments" : 0,
+		"hits" : 25,
+		"words" : 576,
+		"chapters" : 1
+	},
+	{
+		"_id" : "Twilight",
+		"count" : 1,
+		"kudos" : 1,
+		"comments" : 1,
+		"hits" : 5,
+		"words" : 2654,
+		"chapters" : 1
+	},
+	{
+		"_id" : "Fullmetal Alchemist - All Media Types",
+		"count" : 1,
+		"kudos" : 79,
+		"comments" : 79,
+		"hits" : 1231,
+		"words" : 31067,
+		"chapters" : 6
+	},
+	{
+		"_id" : "Twilight (Movies)",
+		"count" : 1,
+		"kudos" : 1,
+		"comments" : 1,
+		"hits" : 5,
+		"words" : 2654,
+		"chapters" : 1
+	},
+	{
+		"_id" : "Stardust (2007)",
+		"count" : 1,
+		"kudos" : 80,
+		"comments" : 80,
+		"hits" : 1139,
+		"words" : 21288,
+		"chapters" : 6
+	},
+	{
+		"_id" : "Discworld - Terry Pratchett",
+		"count" : 1,
+		"kudos" : 38,
+		"comments" : 38,
+		"hits" : 488,
+		"words" : 8009,
+		"chapters" : 4
+	},
+	{
+		"_id" : "James Bond - All Media Types",
+		"count" : 1,
+		"kudos" : 8,
+		"comments" : 8,
+		"hits" : 44,
+		"words" : 100,
+		"chapters" : 1
+	},
+	{
+		"_id" : "Norse Religion & Lore",
+		"count" : 1,
+		"kudos" : 281,
+		"comments" : 281,
+		"hits" : 7607,
+		"words" : 180639,
+		"chapters" : 52
+	},
+	{
+		"_id" : "Dungeons & Dragons (Roleplaying Game)",
+		"count" : 1,
+		"kudos" : 2,
+		"comments" : 2,
+		"hits" : 86,
+		"words" : 50928,
+		"chapters" : 10
+	},
+	{
+		"_id" : "Tombstone (1993)",
+		"count" : 1,
+		"kudos" : 10,
+		"comments" : 10,
+		"hits" : 315,
+		"words" : 7302,
+		"chapters" : 4
+	},
+	{
+		"_id" : "Jurassic Park (Movies)",
+		"count" : 1,
+		"kudos" : 14,
+		"comments" : 14,
+		"hits" : 1647,
+		"words" : 2114,
+		"chapters" : 2
+	}
+]

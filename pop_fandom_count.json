@@ -1,15 +1,15 @@
 [
 	{
 		"_id" : "Harry Potter - J. K. Rowling",
-		"count" : 29887
+		"count" : 34809
 	},
 	{
 		"_id" : "Fantastic Beasts and Where to Find Them (Movies)",
-		"count" : 2378
+		"count" : 2382
 	},
 	{
 		"_id" : "Harry Potter - Fandom",
-		"count" : 976
+		"count" : 1118
 	},
 	{
 		"_id" : "Harry Potter and the Cursed Child - Thorne & Rowling",
@@ -17,102 +17,122 @@
 	},
 	{
 		"_id" : "Supernatural",
-		"count" : 265
+		"count" : 307
 	},
 	{
 		"_id" : "Sherlock (TV)",
-		"count" : 234
+		"count" : 271
 	},
 	{
 		"_id" : "The Avengers (Marvel Movies)",
-		"count" : 191
+		"count" : 234
 	},
 	{
 		"_id" : "Marvel Cinematic Universe",
-		"count" : 184
+		"count" : 219
 	},
 	{
 		"_id" : "Percy Jackson and the Olympians - Rick Riordan",
-		"count" : 124
+		"count" : 143
 	},
 	{
 		"_id" : "The Avengers (Marvel) - All Media Types",
-		"count" : 107
+		"count" : 122
 	},
 	{
 		"_id" : "Naruto",
-		"count" : 106
+		"count" : 120
 	},
 	{
 		"_id" : "Doctor Who",
-		"count" : 99
-	},
-	{
-		"_id" : "Merlin (TV)",
-		"count" : 95
+		"count" : 118
 	},
 	{
 		"_id" : "Buffy the Vampire Slayer",
-		"count" : 92
+		"count" : 110
 	},
 	{
-		"_id" : "Star Wars - All Media Types",
-		"count" : 88
-	},
-	{
-		"_id" : "Teen Wolf (TV)",
-		"count" : 81
-	},
-	{
-		"_id" : "Twilight Series - Stephenie Meyer",
-		"count" : 80
+		"_id" : "Merlin (TV)",
+		"count" : 106
 	},
 	{
 		"_id" : "Katekyou Hitman Reborn!",
-		"count" : 79
+		"count" : 103
+	},
+	{
+		"_id" : "Teen Wolf (TV)",
+		"count" : 100
+	},
+	{
+		"_id" : "Star Wars - All Media Types",
+		"count" : 95
+	},
+	{
+		"_id" : "Twilight Series - Stephenie Meyer",
+		"count" : 90
 	},
 	{
 		"_id" : "The Lord of the Rings - All Media Types",
-		"count" : 73
-	},
-	{
-		"_id" : "Game of Thrones (TV)",
-		"count" : 65
-	},
-	{
-		"_id" : "Percy Jackson and the Olympians & Related Fandoms - All Media Types",
-		"count" : 62
-	},
-	{
-		"_id" : "Once Upon a Time (TV)",
-		"count" : 62
-	},
-	{
-		"_id" : "The Heroes of Olympus - Rick Riordan",
-		"count" : 59
+		"count" : 88
 	},
 	{
 		"_id" : "Thor (Movies)",
-		"count" : 59
+		"count" : 76
+	},
+	{
+		"_id" : "Once Upon a Time (TV)",
+		"count" : 72
+	},
+	{
+		"_id" : "Game of Thrones (TV)",
+		"count" : 71
+	},
+	{
+		"_id" : "Percy Jackson and the Olympians & Related Fandoms - All Media Types",
+		"count" : 68
 	},
 	{
 		"_id" : "Captain America (Movies)",
-		"count" : 58
+		"count" : 66
 	},
 	{
-		"_id" : "A Song of Ice and Fire - George R. R. Martin",
-		"count" : 56
+		"_id" : "The Heroes of Olympus - Rick Riordan",
+		"count" : 66
+	},
+	{
+		"_id" : "Doctor Who (2005)",
+		"count" : 65
 	},
 	{
 		"_id" : "Hetalia: Axis Powers",
-		"count" : 52
+		"count" : 64
+	},
+	{
+		"_id" : "A Song of Ice and Fire - George R. R. Martin",
+		"count" : 63
+	},
+	{
+		"_id" : "The Lord of the Rings - J. R. R. Tolkien",
+		"count" : 58
+	},
+	{
+		"_id" : "Glee",
+		"count" : 54
+	},
+	{
+		"_id" : "Drarry - Fandom",
+		"count" : 53
 	},
 	{
 		"_id" : "Undertale (Video Game)",
 		"count" : 52
 	},
 	{
-		"_id" : "Doctor Who (2005)",
+		"_id" : "One Direction (Band)",
+		"count" : 52
+	},
+	{
+		"_id" : "The Hobbit - All Media Types",
 		"count" : 51
 	}
 ]

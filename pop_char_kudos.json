@@ -1,242 +1,252 @@
 [
 	{
 		"_id" : "Original Percival Graves",
-		"count" : 997,
-		"kudos" : 175.1554663991976
+		"count" : 999,
+		"kudos" : 174.83083083083082
 	},
 	{
 		"_id" : "Tina Goldstein",
-		"count" : 901,
-		"kudos" : 173.09877913429523
+		"count" : 905,
+		"kudos" : 172.37900552486187
 	},
 	{
 		"_id" : "Newt Scamander",
-		"count" : 1474,
-		"kudos" : 168.5257801899593
+		"count" : 1476,
+		"kudos" : 168.30623306233062
 	},
 	{
 		"_id" : "Tom Riddle",
-		"count" : 816,
-		"kudos" : 163.5674019607843
+		"count" : 945,
+		"kudos" : 167.22645502645503
 	},
 	{
 		"_id" : "Queenie Goldstein",
-		"count" : 653,
-		"kudos" : 160.5957120980092
-	},
-	{
-		"_id" : "Credence Barebone",
-		"count" : 1113,
-		"kudos" : 144.9694519317161
+		"count" : 655,
+		"kudos" : 160.1206106870229
 	},
 	{
 		"_id" : "Tom Riddle | Voldemort",
-		"count" : 1136,
-		"kudos" : 143.09419014084506
+		"count" : 1271,
+		"kudos" : 149.08339889850512
+	},
+	{
+		"_id" : "Credence Barebone",
+		"count" : 1116,
+		"kudos" : 144.60394265232975
 	},
 	{
 		"_id" : "Voldemort",
-		"count" : 916,
-		"kudos" : 120.97270742358079
+		"count" : 1065,
+		"kudos" : 123.48450704225353
 	},
 	{
 		"_id" : "Lucius Malfoy",
-		"count" : 1955,
-		"kudos" : 116.44296675191816
-	},
-	{
-		"_id" : "Albus Dumbledore",
-		"count" : 2703,
-		"kudos" : 114.62486126526082
+		"count" : 2260,
+		"kudos" : 119.38451327433629
 	},
 	{
 		"_id" : "Blaise Zabini",
-		"count" : 1460,
-		"kudos" : 113.35890410958905
+		"count" : 1660,
+		"kudos" : 117.15060240963855
 	},
 	{
 		"_id" : "Narcissa Black Malfoy",
-		"count" : 1473,
-		"kudos" : 113.34012219959267
+		"count" : 1697,
+		"kudos" : 116.63877430760165
+	},
+	{
+		"_id" : "Albus Dumbledore",
+		"count" : 3142,
+		"kudos" : 116.38001273074475
+	},
+	{
+		"_id" : "Kingsley Shacklebolt",
+		"count" : 506,
+		"kudos" : 113.52766798418972
 	},
 	{
 		"_id" : "Theodore Nott",
-		"count" : 668,
-		"kudos" : 108.27095808383234
+		"count" : 761,
+		"kudos" : 111.15900131406045
 	},
 	{
 		"_id" : "Harry Potter",
-		"count" : 13300,
-		"kudos" : 103.65834586466165
+		"count" : 15516,
+		"kudos" : 108.15977055942253
 	},
 	{
 		"_id" : "Pansy Parkinson",
-		"count" : 1551,
-		"kudos" : 102.16441005802707
+		"count" : 1756,
+		"kudos" : 107.45387243735763
 	},
 	{
 		"_id" : "Draco Malfoy",
-		"count" : 8486,
-		"kudos" : 101.36566108885222
-	},
-	{
-		"_id" : "Regulus Black",
-		"count" : 659,
-		"kudos" : 99.08801213960547
+		"count" : 9751,
+		"kudos" : 106.96523433494
 	},
 	{
 		"_id" : "Ron Weasley",
-		"count" : 5861,
-		"kudos" : 97.59989762839106
+		"count" : 6734,
+		"kudos" : 101.97817047817048
 	},
 	{
 		"_id" : "Minerva McGonagall",
-		"count" : 2056,
-		"kudos" : 97.16099221789884
+		"count" : 2374,
+		"kudos" : 97.83951137320977
 	},
 	{
 		"_id" : "Fred Weasley",
-		"count" : 1339,
-		"kudos" : 92.19417475728156
+		"count" : 1579,
+		"kudos" : 96.27422419252692
 	},
 	{
 		"_id" : "Neville Longbottom",
-		"count" : 2020,
-		"kudos" : 89.4509900990099
+		"count" : 2325,
+		"kudos" : 95.88516129032259
+	},
+	{
+		"_id" : "Regulus Black",
+		"count" : 783,
+		"kudos" : 95.21328224776501
+	},
+	{
+		"_id" : "Daphne Greengrass",
+		"count" : 505,
+		"kudos" : 94.4990099009901
+	},
+	{
+		"_id" : "Andromeda Black Tonks",
+		"count" : 524,
+		"kudos" : 93.60687022900764
 	},
 	{
 		"_id" : "Arthur Weasley",
-		"count" : 723,
-		"kudos" : 89.29183955739973
-	},
-	{
-		"_id" : "Severus Snape",
-		"count" : 5012,
-		"kudos" : 88.82781324820431
+		"count" : 827,
+		"kudos" : 92.66868198307134
 	},
 	{
 		"_id" : "George Weasley",
-		"count" : 1624,
-		"kudos" : 87.86268472906404
+		"count" : 1903,
+		"kudos" : 92.33893851812927
 	},
 	{
 		"_id" : "Hermione Granger",
-		"count" : 8302,
-		"kudos" : 87.69790411948928
-	},
-	{
-		"_id" : "Bill Weasley",
-		"count" : 615,
-		"kudos" : 87.02926829268293
-	},
-	{
-		"_id" : "Seamus Finnigan",
-		"count" : 647,
-		"kudos" : 86.52859350850078
+		"count" : 9588,
+		"kudos" : 91.1816854401335
 	},
 	{
 		"_id" : "Luna Lovegood",
-		"count" : 2132,
-		"kudos" : 84.4437148217636
+		"count" : 2467,
+		"kudos" : 89.50709363599513
 	},
 	{
-		"_id" : "Original Male Character(s)",
-		"count" : 1228,
-		"kudos" : 81.49755700325733
+		"_id" : "Severus Snape",
+		"count" : 5953,
+		"kudos" : 89.02015790357802
+	},
+	{
+		"_id" : "Bill Weasley",
+		"count" : 706,
+		"kudos" : 88.93484419263456
+	},
+	{
+		"_id" : "Seamus Finnigan",
+		"count" : 807,
+		"kudos" : 88.1908302354399
+	},
+	{
+		"_id" : "Fleur Delacour",
+		"count" : 560,
+		"kudos" : 84.67321428571428
+	},
+	{
+		"_id" : "Rubeus Hagrid",
+		"count" : 565,
+		"kudos" : 84.41592920353982
 	},
 	{
 		"_id" : "Charlie Weasley",
-		"count" : 731,
-		"kudos" : 81.07523939808482
+		"count" : 821,
+		"kudos" : 83.68331303288673
 	},
 	{
-		"_id" : "Dean Thomas",
-		"count" : 653,
-		"kudos" : 81.03522205206738
-	},
-	{
-		"_id" : "Nymphadora Tonks",
-		"count" : 693,
-		"kudos" : 80.97113997113998
+		"_id" : "Original Male Character(s)",
+		"count" : 1378,
+		"kudos" : 83.01886792452831
 	},
 	{
 		"_id" : "Molly Weasley",
-		"count" : 1092,
-		"kudos" : 79.37545787545787
+		"count" : 1248,
+		"kudos" : 82.9286858974359
+	},
+	{
+		"_id" : "Dean Thomas",
+		"count" : 799,
+		"kudos" : 82.03879849812266
+	},
+	{
+		"_id" : "Nymphadora Tonks",
+		"count" : 826,
+		"kudos" : 78.02058111380146
 	},
 	{
 		"_id" : "Bellatrix Black Lestrange",
-		"count" : 847,
-		"kudos" : 72.26682408500591
-	},
-	{
-		"_id" : "Percy Weasley",
-		"count" : 558,
-		"kudos" : 70.69175627240143
+		"count" : 978,
+		"kudos" : 76.61860940695297
 	},
 	{
 		"_id" : "Teddy Lupin",
-		"count" : 906,
-		"kudos" : 70.34547461368653
+		"count" : 1058,
+		"kudos" : 75.58317580340265
 	},
 	{
 		"_id" : "Ginny Weasley",
-		"count" : 3581,
-		"kudos" : 69.70511030438425
+		"count" : 4104,
+		"kudos" : 73.54507797270955
 	},
 	{
-		"_id" : "Remus Lupin",
-		"count" : 5320,
-		"kudos" : 65.99248120300751
+		"_id" : "Percy Weasley",
+		"count" : 635,
+		"kudos" : 70.98110236220472
 	},
 	{
 		"_id" : "Sirius Black",
-		"count" : 5543,
-		"kudos" : 65.77539238679415
+		"count" : 6425,
+		"kudos" : 67.96653696498055
+	},
+	{
+		"_id" : "Remus Lupin",
+		"count" : 6235,
+		"kudos" : 67.63544506816359
 	},
 	{
 		"_id" : "Scorpius Malfoy",
-		"count" : 1475,
-		"kudos" : 64.50915254237289
+		"count" : 1614,
+		"kudos" : 67.14684014869889
 	},
 	{
 		"_id" : "Albus Severus Potter",
-		"count" : 1372,
-		"kudos" : 64.4402332361516
+		"count" : 1500,
+		"kudos" : 66.24
+	},
+	{
+		"_id" : "Astoria Greengrass",
+		"count" : 506,
+		"kudos" : 64.93873517786561
 	},
 	{
 		"_id" : "Lily Evans Potter",
-		"count" : 2219,
-		"kudos" : 60.91482649842271
+		"count" : 2608,
+		"kudos" : 63.15414110429448
 	},
 	{
 		"_id" : "James Potter",
-		"count" : 3099,
-		"kudos" : 60.5972894482091
+		"count" : 3638,
+		"kudos" : 62.74024189114898
 	},
 	{
 		"_id" : "James Sirius Potter",
-		"count" : 807,
-		"kudos" : 58.84386617100372
-	},
-	{
-		"_id" : "Peter Pettigrew",
-		"count" : 1628,
-		"kudos" : 58.46007371007371
-	},
-	{
-		"_id" : "Lily Luna Potter",
-		"count" : 600,
-		"kudos" : 56.43833333333333
-	},
-	{
-		"_id" : "Original Female Character(s)",
-		"count" : 1674,
-		"kudos" : 54.578255675029865
-	},
-	{
-		"_id" : "Rose Weasley",
-		"count" : 795,
-		"kudos" : 49.49937106918239
+		"count" : 919,
+		"kudos" : 62.42872687704026
 	}
 ]

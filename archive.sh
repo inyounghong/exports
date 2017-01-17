@@ -45,6 +45,8 @@ getBasicStats "fandoms" "" 'count' pop_fandom_count.json "50"
 getBasicStats "fandoms" 'words: { $sum : "$words" },' 'words' pop_fandom_words.json "50"
 getBasicStats "fandoms" 'kudos: { $avg : "$kudos" },' 'kudos' pop_fandom_kudos.json "50"
 
+getBasicStats "tags" "" 'count' pop_tag_count.json "20"
+
 exit
 
             # word_sum: {$sum: "$words"},

@@ -1,18 +1,18 @@
 [
 	{
 		"_id" : "Harry Potter - J. K. Rowling",
-		"count" : 29887,
-		"words" : 269606950
-	},
-	{
-		"_id" : "Fantastic Beasts and Where to Find Them (Movies)",
-		"count" : 2378,
-		"words" : 9828248
+		"count" : 34809,
+		"words" : 318761415
 	},
 	{
 		"_id" : "Harry Potter - Fandom",
-		"count" : 976,
-		"words" : 8168774
+		"count" : 1118,
+		"words" : 10060280
+	},
+	{
+		"_id" : "Fantastic Beasts and Where to Find Them (Movies)",
+		"count" : 2382,
+		"words" : 9844796
 	},
 	{
 		"_id" : "Harry Potter and the Cursed Child - Thorne & Rowling",
@@ -21,103 +21,128 @@
 	},
 	{
 		"_id" : "Supernatural",
-		"count" : 265,
-		"words" : 2773632
-	},
-	{
-		"_id" : "Sherlock (TV)",
-		"count" : 234,
-		"words" : 2528772
+		"count" : 307,
+		"words" : 3541177
 	},
 	{
 		"_id" : "The Avengers (Marvel Movies)",
-		"count" : 191,
-		"words" : 2270611
+		"count" : 234,
+		"words" : 2859075
+	},
+	{
+		"_id" : "Sherlock (TV)",
+		"count" : 271,
+		"words" : 2824860
 	},
 	{
 		"_id" : "Buffy the Vampire Slayer",
-		"count" : 92,
-		"words" : 1811240
-	},
-	{
-		"_id" : "Naruto",
-		"count" : 106,
-		"words" : 1693401
+		"count" : 110,
+		"words" : 2286610
 	},
 	{
 		"_id" : "Marvel Cinematic Universe",
-		"count" : 184,
-		"words" : 1687904
+		"count" : 219,
+		"words" : 2054745
 	},
 	{
-		"_id" : "Twilight Series - Stephenie Meyer",
-		"count" : 80,
-		"words" : 1504593
-	},
-	{
-		"_id" : "Game of Thrones (TV)",
-		"count" : 65,
-		"words" : 1405223
-	},
-	{
-		"_id" : "A Song of Ice and Fire - George R. R. Martin",
-		"count" : 56,
-		"words" : 1377173
-	},
-	{
-		"_id" : "Merlin (TV)",
-		"count" : 95,
-		"words" : 1343822
+		"_id" : "Naruto",
+		"count" : 120,
+		"words" : 2015152
 	},
 	{
 		"_id" : "Katekyou Hitman Reborn!",
-		"count" : 79,
-		"words" : 1207210
+		"count" : 103,
+		"words" : 1563073
 	},
 	{
-		"_id" : "Thor (Movies)",
-		"count" : 59,
-		"words" : 1156479
+		"_id" : "Twilight Series - Stephenie Meyer",
+		"count" : 90,
+		"words" : 1553268
 	},
 	{
-		"_id" : "The Avengers (Marvel) - All Media Types",
-		"count" : 107,
-		"words" : 1148314
+		"_id" : "Game of Thrones (TV)",
+		"count" : 71,
+		"words" : 1466121
+	},
+	{
+		"_id" : "A Song of Ice and Fire - George R. R. Martin",
+		"count" : 63,
+		"words" : 1448054
 	},
 	{
 		"_id" : "Teen Wolf (TV)",
-		"count" : 81,
-		"words" : 942590
+		"count" : 100,
+		"words" : 1433030
 	},
 	{
-		"_id" : "The Lord of the Rings - All Media Types",
-		"count" : 73,
-		"words" : 924802
+		"_id" : "The Avengers (Marvel) - All Media Types",
+		"count" : 122,
+		"words" : 1426812
+	},
+	{
+		"_id" : "Thor (Movies)",
+		"count" : 76,
+		"words" : 1425291
+	},
+	{
+		"_id" : "Merlin (TV)",
+		"count" : 106,
+		"words" : 1423933
 	},
 	{
 		"_id" : "Percy Jackson and the Olympians - Rick Riordan",
-		"count" : 124,
-		"words" : 850800
+		"count" : 143,
+		"words" : 1283754
 	},
 	{
-		"_id" : "Star Wars - All Media Types",
+		"_id" : "The Lord of the Rings - All Media Types",
 		"count" : 88,
-		"words" : 835152
-	},
-	{
-		"_id" : "Captain America (Movies)",
-		"count" : 58,
-		"words" : 796841
+		"words" : 1220538
 	},
 	{
 		"_id" : "Doctor Who",
-		"count" : 99,
-		"words" : 767779
+		"count" : 118,
+		"words" : 923889
+	},
+	{
+		"_id" : "One Direction (Band)",
+		"count" : 52,
+		"words" : 896495
+	},
+	{
+		"_id" : "Star Wars - All Media Types",
+		"count" : 95,
+		"words" : 865427
+	},
+	{
+		"_id" : "The Lord of the Rings - J. R. R. Tolkien",
+		"count" : 58,
+		"words" : 859585
+	},
+	{
+		"_id" : "Captain America (Movies)",
+		"count" : 66,
+		"words" : 837844
 	},
 	{
 		"_id" : "Once Upon a Time (TV)",
-		"count" : 62,
-		"words" : 675717
+		"count" : 72,
+		"words" : 790806
+	},
+	{
+		"_id" : "The Hobbit - All Media Types",
+		"count" : 51,
+		"words" : 742865
+	},
+	{
+		"_id" : "Drarry - Fandom",
+		"count" : 53,
+		"words" : 725372
+	},
+	{
+		"_id" : "Hetalia: Axis Powers",
+		"count" : 64,
+		"words" : 628825
 	},
 	{
 		"_id" : "Undertale (Video Game)",
@@ -125,23 +150,23 @@
 		"words" : 549724
 	},
 	{
-		"_id" : "Hetalia: Axis Powers",
-		"count" : 52,
-		"words" : 537800
+		"_id" : "Glee",
+		"count" : 54,
+		"words" : 544329
 	},
 	{
 		"_id" : "Percy Jackson and the Olympians & Related Fandoms - All Media Types",
-		"count" : 62,
-		"words" : 454179
-	},
-	{
-		"_id" : "Doctor Who (2005)",
-		"count" : 51,
-		"words" : 296851
+		"count" : 68,
+		"words" : 482119
 	},
 	{
 		"_id" : "The Heroes of Olympus - Rick Riordan",
-		"count" : 59,
-		"words" : 284486
+		"count" : 66,
+		"words" : 453891
+	},
+	{
+		"_id" : "Doctor Who (2005)",
+		"count" : 65,
+		"words" : 348774
 	}
 ]

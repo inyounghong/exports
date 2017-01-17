@@ -1,0 +1,233 @@
+[
+	{
+		"_id" : {
+			"day" : "1-01-2017",
+			"yearMonth" : "2017-01"
+		},
+		"Sirius Black/Remus Lupin" : 119
+	},
+	{
+		"_id" : {
+			"day" : "1-12-2016",
+			"yearMonth" : "2016-12"
+		},
+		"Sirius Black/Remus Lupin" : 63
+	},
+	{
+		"_id" : {
+			"day" : "1-11-2016",
+			"yearMonth" : "2016-11"
+		},
+		"Sirius Black/Remus Lupin" : 11
+	},
+	{
+		"_id" : {
+			"day" : "1-10-2016",
+			"yearMonth" : "2016-10"
+		},
+		"Sirius Black/Remus Lupin" : 6
+	},
+	{
+		"_id" : {
+			"day" : "1-09-2016",
+			"yearMonth" : "2016-09"
+		},
+		"Sirius Black/Remus Lupin" : 3
+	},
+	{
+		"_id" : {
+			"day" : "1-08-2016",
+			"yearMonth" : "2016-08"
+		},
+		"Sirius Black/Remus Lupin" : 4
+	},
+	{
+		"_id" : {
+			"day" : "1-07-2016",
+			"yearMonth" : "2016-07"
+		},
+		"Sirius Black/Remus Lupin" : 4
+	},
+	{
+		"_id" : {
+			"day" : "1-06-2016",
+			"yearMonth" : "2016-06"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-05-2016",
+			"yearMonth" : "2016-05"
+		},
+		"Sirius Black/Remus Lupin" : 2
+	},
+	{
+		"_id" : {
+			"day" : "1-04-2016",
+			"yearMonth" : "2016-04"
+		},
+		"Sirius Black/Remus Lupin" : 8
+	},
+	{
+		"_id" : {
+			"day" : "1-01-2016",
+			"yearMonth" : "2016-01"
+		},
+		"Sirius Black/Remus Lupin" : 4
+	},
+	{
+		"_id" : {
+			"day" : "1-12-2015",
+			"yearMonth" : "2015-12"
+		},
+		"Sirius Black/Remus Lupin" : 2
+	},
+	{
+		"_id" : {
+			"day" : "1-10-2015",
+			"yearMonth" : "2015-10"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-09-2015",
+			"yearMonth" : "2015-09"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-07-2015",
+			"yearMonth" : "2015-07"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-03-2015",
+			"yearMonth" : "2015-03"
+		},
+		"Sirius Black/Remus Lupin" : 2
+	},
+	{
+		"_id" : {
+			"day" : "1-01-2015",
+			"yearMonth" : "2015-01"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-11-2014",
+			"yearMonth" : "2014-11"
+		},
+		"Sirius Black/Remus Lupin" : 2
+	},
+	{
+		"_id" : {
+			"day" : "1-09-2014",
+			"yearMonth" : "2014-09"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-08-2014",
+			"yearMonth" : "2014-08"
+		},
+		"Sirius Black/Remus Lupin" : 2
+	},
+	{
+		"_id" : {
+			"day" : "1-12-2013",
+			"yearMonth" : "2013-12"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-11-2013",
+			"yearMonth" : "2013-11"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-09-2013",
+			"yearMonth" : "2013-09"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-05-2013",
+			"yearMonth" : "2013-05"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-04-2013",
+			"yearMonth" : "2013-04"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-07-2009",
+			"yearMonth" : "2009-07"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-03-2008",
+			"yearMonth" : "2008-03"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-09-2007",
+			"yearMonth" : "2007-09"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-08-2006",
+			"yearMonth" : "2006-08"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-03-2006",
+			"yearMonth" : "2006-03"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-08-2005",
+			"yearMonth" : "2005-08"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-07-2005",
+			"yearMonth" : "2005-07"
+		},
+		"Sirius Black/Remus Lupin" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-04-2005",
+			"yearMonth" : "2005-04"
+		},
+		"Sirius Black/Remus Lupin" : 2
+	}
+]

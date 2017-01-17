@@ -1,0 +1,23 @@
+[
+	{
+		"_id" : {
+			"day" : "1-01-2017",
+			"yearMonth" : "2017-01"
+		},
+		"Newt Scamander" : 315
+	},
+	{
+		"_id" : {
+			"day" : "1-12-2016",
+			"yearMonth" : "2016-12"
+		},
+		"Newt Scamander" : 248
+	},
+	{
+		"_id" : {
+			"day" : "1-11-2016",
+			"yearMonth" : "2016-11"
+		},
+		"Newt Scamander" : 24
+	}
+]

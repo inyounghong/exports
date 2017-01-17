@@ -1,0 +1,1018 @@
+[
+	{
+		"_id" : "2017-01",
+		"total" : 2085,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 35
+			},
+			{
+				"name" : "Draco Malfoy",
+				"count" : 434
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 692
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 456
+			}
+		]
+	},
+	{
+		"_id" : "2016-12",
+		"total" : 1236,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 9
+			},
+			{
+				"name" : "Draco Malfoy",
+				"count" : 255
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 410
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 283
+			}
+		]
+	},
+	{
+		"_id" : "2016-11",
+		"total" : 186,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 5
+			},
+			{
+				"name" : "Draco Malfoy",
+				"count" : 64
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 100
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 75
+			}
+		]
+	},
+	{
+		"_id" : "2016-10",
+		"total" : 85,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 5
+			},
+			{
+				"name" : "Draco Malfoy",
+				"count" : 40
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 53
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 43
+			}
+		]
+	},
+	{
+		"_id" : "2016-09",
+		"total" : 65,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 3
+			},
+			{
+				"name" : "Draco Malfoy",
+				"count" : 23
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 40
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 37
+			}
+		]
+	},
+	{
+		"_id" : "2016-08",
+		"total" : 78,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 3
+			},
+			{
+				"name" : "Draco Malfoy",
+				"count" : 26
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 54
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 34
+			}
+		]
+	},
+	{
+		"_id" : "2016-07",
+		"total" : 53,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 5
+			},
+			{
+				"name" : "Draco Malfoy",
+				"count" : 17
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 34
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 25
+			}
+		]
+	},
+	{
+		"_id" : "2016-06",
+		"total" : 37,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 4
+			},
+			{
+				"name" : "Draco Malfoy",
+				"count" : 14
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 27
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 20
+			}
+		]
+	},
+	{
+		"_id" : "2016-05",
+		"total" : 29,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 11
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 23
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 13
+			}
+		]
+	},
+	{
+		"_id" : "2016-04",
+		"total" : 32,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 4
+			},
+			{
+				"name" : "Draco Malfoy",
+				"count" : 13
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 20
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 18
+			}
+		]
+	},
+	{
+		"_id" : "2016-03",
+		"total" : 26,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 13
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 19
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 12
+			}
+		]
+	},
+	{
+		"_id" : "2016-02",
+		"total" : 22,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 2
+			},
+			{
+				"name" : "Draco Malfoy",
+				"count" : 13
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 18
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 18
+			}
+		]
+	},
+	{
+		"_id" : "2016-01",
+		"total" : 30,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 1
+			},
+			{
+				"name" : "Draco Malfoy",
+				"count" : 12
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 23
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 14
+			}
+		]
+	},
+	{
+		"_id" : "2015-12",
+		"total" : 13,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 7
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 10
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 9
+			}
+		]
+	},
+	{
+		"_id" : "2015-11",
+		"total" : 10,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 5
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 7
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 6
+			}
+		]
+	},
+	{
+		"_id" : "2015-10",
+		"total" : 13,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 4
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 5
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 4
+			}
+		]
+	},
+	{
+		"_id" : "2015-09",
+		"total" : 13,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 2
+			},
+			{
+				"name" : "Draco Malfoy",
+				"count" : 6
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 9
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 8
+			}
+		]
+	},
+	{
+		"_id" : "2015-08",
+		"total" : 16,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 1
+			},
+			{
+				"name" : "Draco Malfoy",
+				"count" : 9
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 10
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 8
+			}
+		]
+	},
+	{
+		"_id" : "2015-07",
+		"total" : 11,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 2
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 7
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 5
+			}
+		]
+	},
+	{
+		"_id" : "2015-06",
+		"total" : 9,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 5
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 6
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 7
+			}
+		]
+	},
+	{
+		"_id" : "2015-05",
+		"total" : 8,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 4
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 8
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 7
+			}
+		]
+	},
+	{
+		"_id" : "2015-04",
+		"total" : 3,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2015-03",
+		"total" : 12,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 5
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 10
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 6
+			}
+		]
+	},
+	{
+		"_id" : "2015-02",
+		"total" : 10,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 2
+			},
+			{
+				"name" : "Draco Malfoy",
+				"count" : 4
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 6
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 3
+			}
+		]
+	},
+	{
+		"_id" : "2015-01",
+		"total" : 6,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 5
+			}
+		]
+	},
+	{
+		"_id" : "2014-12",
+		"total" : 9,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 2
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 8
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 3
+			}
+		]
+	},
+	{
+		"_id" : "2014-11",
+		"total" : 4,
+		"characters" : [
+			{
+				"name" : "Harry Potter",
+				"count" : 2
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2014-10",
+		"total" : 3,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 2
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2014-09",
+		"total" : 6,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 3
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 5
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 2
+			}
+		]
+	},
+	{
+		"_id" : "2014-08",
+		"total" : 6,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 2
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 4
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2014-07",
+		"total" : 3,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 3
+			}
+		]
+	},
+	{
+		"_id" : "2014-06",
+		"total" : 2,
+		"characters" : [
+			{
+				"name" : "Harry Potter",
+				"count" : 2
+			}
+		]
+	},
+	{
+		"_id" : "2014-05",
+		"total" : 3,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 2
+			}
+		]
+	},
+	{
+		"_id" : "2014-04",
+		"total" : 2,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 2
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 2
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 2
+			}
+		]
+	},
+	{
+		"_id" : "2014-03",
+		"total" : 2,
+		"characters" : [
+			{
+				"name" : "Harry Potter",
+				"count" : 1
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2014-02",
+		"total" : 4,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 1
+			},
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 2
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 3
+			}
+		]
+	},
+	{
+		"_id" : "2014-01",
+		"total" : 4,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 3
+			}
+		]
+	},
+	{
+		"_id" : "2013-12",
+		"total" : 2,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2013-11",
+		"total" : 1,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 1
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2013-10",
+		"total" : 3,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 3
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 2
+			}
+		]
+	},
+	{
+		"_id" : "2013-09",
+		"total" : 2,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2013-08",
+		"total" : 2,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 2
+			}
+		]
+	},
+	{
+		"_id" : "2013-07",
+		"total" : 3,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 3
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 2
+			}
+		]
+	},
+	{
+		"_id" : "2013-05",
+		"total" : 2,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 2
+			}
+		]
+	},
+	{
+		"_id" : "2013-04",
+		"total" : 2,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2013-03",
+		"total" : 4,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 2
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 3
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 2
+			}
+		]
+	},
+	{
+		"_id" : "2013-02",
+		"total" : 6,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 2
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 3
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2013-01",
+		"total" : 5,
+		"characters" : [
+			{
+				"name" : "Daphne Greengrass",
+				"count" : 1
+			},
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 4
+			}
+		]
+	},
+	{
+		"_id" : "2012-12",
+		"total" : 3,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 2
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 1
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2012-11",
+		"total" : 2,
+		"characters" : [
+			{
+				"name" : "Harry Potter",
+				"count" : 2
+			}
+		]
+	},
+	{
+		"_id" : "2012-09",
+		"total" : 1,
+		"characters" : [
+			{
+				"name" : "Harry Potter",
+				"count" : 1
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2012-08",
+		"total" : 1,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2012-05",
+		"total" : 1,
+		"characters" : [
+			{
+				"name" : "Harry Potter",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2012-04",
+		"total" : 1,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			},
+			{
+				"name" : "Harry Potter",
+				"count" : 1
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2010-11",
+		"total" : 1,
+		"characters" : [
+			{
+				"name" : "Hermione Granger",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2007-07",
+		"total" : 1,
+		"characters" : [
+			{
+				"name" : "Harry Potter",
+				"count" : 1
+			},
+			{
+				"name" : "Hermione Granger",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2007-02",
+		"total" : 2,
+		"characters" : [
+			{
+				"name" : "Hermione Granger",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2006-08",
+		"total" : 2,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2005-09",
+		"total" : 2,
+		"characters" : [
+			{
+				"name" : "Draco Malfoy",
+				"count" : 1
+			}
+		]
+	},
+	{
+		"_id" : "2004-09",
+		"total" : 1,
+		"characters" : [
+			{
+				"name" : "Harry Potter",
+				"count" : 1
+			}
+		]
+	}
+]

@@ -1,0 +1,1562 @@
+[
+	{
+		"_id" : {
+			"date" : "2017-01",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 181
+	},
+	{
+		"_id" : {
+			"date" : "2017-01",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 369
+	},
+	{
+		"_id" : {
+			"date" : "2017-01",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 324
+	},
+	{
+		"_id" : {
+			"date" : "2017-01",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 637
+	},
+	{
+		"_id" : {
+			"date" : "2017-01",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 571
+	},
+	{
+		"_id" : {
+			"date" : "2016-12",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 71
+	},
+	{
+		"_id" : {
+			"date" : "2016-12",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 120
+	},
+	{
+		"_id" : {
+			"date" : "2016-12",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 145
+	},
+	{
+		"_id" : {
+			"date" : "2016-12",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 229
+	},
+	{
+		"_id" : {
+			"date" : "2016-12",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 133
+	},
+	{
+		"_id" : {
+			"date" : "2016-11",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 23
+	},
+	{
+		"_id" : {
+			"date" : "2016-11",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 31
+	},
+	{
+		"_id" : {
+			"date" : "2016-11",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 51
+	},
+	{
+		"_id" : {
+			"date" : "2016-11",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 58
+	},
+	{
+		"_id" : {
+			"date" : "2016-11",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 23
+	},
+	{
+		"_id" : {
+			"date" : "2016-10",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 9
+	},
+	{
+		"_id" : {
+			"date" : "2016-10",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 18
+	},
+	{
+		"_id" : {
+			"date" : "2016-10",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 19
+	},
+	{
+		"_id" : {
+			"date" : "2016-10",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 28
+	},
+	{
+		"_id" : {
+			"date" : "2016-10",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 11
+	},
+	{
+		"_id" : {
+			"date" : "2016-09",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 4
+	},
+	{
+		"_id" : {
+			"date" : "2016-09",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 13
+	},
+	{
+		"_id" : {
+			"date" : "2016-09",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 14
+	},
+	{
+		"_id" : {
+			"date" : "2016-09",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 22
+	},
+	{
+		"_id" : {
+			"date" : "2016-09",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 12
+	},
+	{
+		"_id" : {
+			"date" : "2016-08",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 4
+	},
+	{
+		"_id" : {
+			"date" : "2016-08",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 13
+	},
+	{
+		"_id" : {
+			"date" : "2016-08",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 24
+	},
+	{
+		"_id" : {
+			"date" : "2016-08",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 25
+	},
+	{
+		"_id" : {
+			"date" : "2016-08",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 12
+	},
+	{
+		"_id" : {
+			"date" : "2016-07",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2016-07",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 13
+	},
+	{
+		"_id" : {
+			"date" : "2016-07",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 13
+	},
+	{
+		"_id" : {
+			"date" : "2016-07",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 18
+	},
+	{
+		"_id" : {
+			"date" : "2016-07",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 8
+	},
+	{
+		"_id" : {
+			"date" : "2016-06",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2016-06",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 6
+	},
+	{
+		"_id" : {
+			"date" : "2016-06",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 13
+	},
+	{
+		"_id" : {
+			"date" : "2016-06",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 12
+	},
+	{
+		"_id" : {
+			"date" : "2016-06",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 4
+	},
+	{
+		"_id" : {
+			"date" : "2016-05",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2016-05",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2016-05",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 12
+	},
+	{
+		"_id" : {
+			"date" : "2016-05",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 12
+	},
+	{
+		"_id" : {
+			"date" : "2016-05",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2016-04",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2016-04",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2016-04",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 11
+	},
+	{
+		"_id" : {
+			"date" : "2016-04",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 8
+	},
+	{
+		"_id" : {
+			"date" : "2016-04",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 7
+	},
+	{
+		"_id" : {
+			"date" : "2016-03",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2016-03",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 7
+	},
+	{
+		"_id" : {
+			"date" : "2016-03",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 7
+	},
+	{
+		"_id" : {
+			"date" : "2016-03",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 8
+	},
+	{
+		"_id" : {
+			"date" : "2016-03",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2016-02",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2016-02",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 4
+	},
+	{
+		"_id" : {
+			"date" : "2016-02",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2016-02",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 13
+	},
+	{
+		"_id" : {
+			"date" : "2016-02",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2016-01",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2016-01",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2016-01",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 11
+	},
+	{
+		"_id" : {
+			"date" : "2016-01",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 7
+	},
+	{
+		"_id" : {
+			"date" : "2016-01",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 6
+	},
+	{
+		"_id" : {
+			"date" : "2015-12",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2015-12",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 4
+	},
+	{
+		"_id" : {
+			"date" : "2015-12",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 5
+	},
+	{
+		"_id" : {
+			"date" : "2015-12",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2015-11",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2015-11",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2015-11",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 4
+	},
+	{
+		"_id" : {
+			"date" : "2015-10",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2015-10",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2015-10",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2015-10",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2015-10",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2015-09",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2015-09",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2015-09",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2015-09",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 8
+	},
+	{
+		"_id" : {
+			"date" : "2015-08",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2015-08",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 5
+	},
+	{
+		"_id" : {
+			"date" : "2015-08",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2015-08",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 5
+	},
+	{
+		"_id" : {
+			"date" : "2015-07",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2015-07",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2015-07",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2015-07",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2015-07",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2015-06",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2015-06",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2015-06",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2015-06",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2015-05",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2015-05",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2015-05",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2015-05",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2015-04",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2015-04",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2015-03",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2015-03",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2015-03",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 5
+	},
+	{
+		"_id" : {
+			"date" : "2015-03",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 4
+	},
+	{
+		"_id" : {
+			"date" : "2015-02",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2015-02",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2015-02",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2015-02",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 5
+	},
+	{
+		"_id" : {
+			"date" : "2015-01",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2015-01",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2015-01",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2015-01",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2014-12",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2014-12",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2014-12",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2014-12",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2014-11",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2014-11",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2014-10",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2014-09",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2014-09",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2014-09",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2014-08",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2014-08",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2014-08",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2014-08",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2014-07",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2014-07",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2014-06",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2014-06",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2014-05",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2014-04",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2014-03",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2014-02",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2014-02",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2014-02",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2014-01",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2014-01",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2013-12",
+			"rating" : 4
+		},
+		"total" : 329,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2013-12",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2013-11",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2013-10",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2013-10",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2013-09",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2013-09",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2013-08",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2013-08",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2013-07",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2013-07",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2013-05",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2013-05",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2013-04",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2013-04",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2013-03",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2013-03",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2013-03",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2013-02",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2013-02",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2013-02",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2013-01",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 3
+	},
+	{
+		"_id" : {
+			"date" : "2013-01",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2012-12",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2012-12",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 2
+	},
+	{
+		"_id" : {
+			"date" : "2012-11",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2012-11",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2012-09",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2012-08",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2012-05",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2012-04",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2010-11",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2009-07",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2008-04",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2008-03",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2007-08",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2007-07",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2006-11",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2006-04",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2006-03",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2006-03",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2006-01",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2005-12",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2005-10",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2005-09",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2005-09",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2005-08",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2005-08",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2005-08",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2005-07",
+			"rating" : 3
+		},
+		"total" : 647,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2005-07",
+			"rating" : 0
+		},
+		"total" : 814,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2005-06",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2005-04",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2005-04",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2005-03",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2004-12",
+			"rating" : 1
+		},
+		"total" : 1158,
+		"ratingCount" : 1
+	},
+	{
+		"_id" : {
+			"date" : "2004-09",
+			"rating" : 2
+		},
+		"total" : 714,
+		"ratingCount" : 1
+	}
+]

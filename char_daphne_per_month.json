@@ -1,0 +1,121 @@
+[
+	{
+		"_id" : {
+			"day" : "1-01-2017",
+			"yearMonth" : "2017-01"
+		},
+		"Daphne Greengrass" : 35
+	},
+	{
+		"_id" : {
+			"day" : "1-12-2016",
+			"yearMonth" : "2016-12"
+		},
+		"Daphne Greengrass" : 9
+	},
+	{
+		"_id" : {
+			"day" : "1-11-2016",
+			"yearMonth" : "2016-11"
+		},
+		"Daphne Greengrass" : 5
+	},
+	{
+		"_id" : {
+			"day" : "1-10-2016",
+			"yearMonth" : "2016-10"
+		},
+		"Daphne Greengrass" : 5
+	},
+	{
+		"_id" : {
+			"day" : "1-09-2016",
+			"yearMonth" : "2016-09"
+		},
+		"Daphne Greengrass" : 3
+	},
+	{
+		"_id" : {
+			"day" : "1-08-2016",
+			"yearMonth" : "2016-08"
+		},
+		"Daphne Greengrass" : 3
+	},
+	{
+		"_id" : {
+			"day" : "1-07-2016",
+			"yearMonth" : "2016-07"
+		},
+		"Daphne Greengrass" : 5
+	},
+	{
+		"_id" : {
+			"day" : "1-06-2016",
+			"yearMonth" : "2016-06"
+		},
+		"Daphne Greengrass" : 4
+	},
+	{
+		"_id" : {
+			"day" : "1-04-2016",
+			"yearMonth" : "2016-04"
+		},
+		"Daphne Greengrass" : 4
+	},
+	{
+		"_id" : {
+			"day" : "1-02-2016",
+			"yearMonth" : "2016-02"
+		},
+		"Daphne Greengrass" : 2
+	},
+	{
+		"_id" : {
+			"day" : "1-01-2016",
+			"yearMonth" : "2016-01"
+		},
+		"Daphne Greengrass" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-09-2015",
+			"yearMonth" : "2015-09"
+		},
+		"Daphne Greengrass" : 2
+	},
+	{
+		"_id" : {
+			"day" : "1-08-2015",
+			"yearMonth" : "2015-08"
+		},
+		"Daphne Greengrass" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-02-2015",
+			"yearMonth" : "2015-02"
+		},
+		"Daphne Greengrass" : 2
+	},
+	{
+		"_id" : {
+			"day" : "1-02-2014",
+			"yearMonth" : "2014-02"
+		},
+		"Daphne Greengrass" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-01-2014",
+			"yearMonth" : "2014-01"
+		},
+		"Daphne Greengrass" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-01-2013",
+			"yearMonth" : "2013-01"
+		},
+		"Daphne Greengrass" : 1
+	}
+]

@@ -26,30 +26,176 @@ getStats() {
     ]).toArray())' > $2
 }
 
+# ratingPerMonth() {
+# mongo --quiet archive --eval 'printjson(db.getCollection("Harry Potter")
+# .aggregate([
+#     {
+#        $project: {
+#             rating: "$rating",
+#             date: { $dateToString: { format: "%Y-%m", date: "$datePublished" } },
+#        }
+#    },
+#     { "$group": {
+#         "_id": "$rating",
+#         "date": { "$push": "$date" },
+#         "total": { "$sum": 1 }
+#     }},
+#     { "$unwind": "$date" },
+#     { "$group": {
+#         "_id": {
+#             "date": "$date",
+#             "rating": "$_id"
+#         },
+#         "total": { "$first": "$total" },
+#         "ratingCount": { "$sum": 1 }
+#     }},
+
+
+#     { $sort: { _id: -1 } },
+# ]).toArray())' > rating_per_month.json
+# }
+
+# ratingPerMonth2() {
+#     mongo --quiet archive --eval 'printjson(db.getCollection("'"$Fandom"'")
+# .aggregate([
+#     {
+#        $project: {
+#             rating: "$rating",
+#             yearMonth: { $dateToString: { format: "%Y-%m", date: "$datePublished" } },
+#        }
+#    },
+#     { "$group": {
+#         "_id": "$yearMonth",
+#         "rating": { "$push": "$rating" },
+#         "total": { "$sum": 1 }
+#     }},
+#     { "$unwind": "$rating" },
+#     { "$group": {
+#         "_id": {
+#             "yearMonth": "$_id",
+#             "rating": "$rating"
+#         },
+#         "total": { "$first": "$total" },
+#         "ratingCount": { "$sum": 1 }
+#     }},
+#     { "$group": {
+#         "_id": "$_id.yearMonth",
+#         "total": { "$first": "$total" },
+#         "rating": {
+#             "$push": { "name": "$_id.rating", 
+#                 "count": "$ratingCount" }
+#         }
+#     }},
+    
+#     { "$unwind": "$rating" },
+     
+#      { $sort: { "rating.name": 1} },
+#          { "$group": {
+#         "_id": "$_id",
+#         "total": { "$first": "$total" },
+#         "rating": {
+#             "$push": { "name": "$rating.name", "count": "$rating.count" },
+            
+#         }
+#     }},
+    
+    
+#     { $sort: { _id: -1 } },
+#     ]).toArray())' > rating_per_month.json
+# }
+
+fullPerMonth() {
+    mongo --quiet archive --eval 'printjson(db.getCollection("Harry Potter")
+.aggregate([
+    {
+       $project: {
+            characters: "$characters",
+            yearMonth: { $dateToString: { format: "%Y-%m", date: "$datePublished" } },
+       }
+   },
+    { "$group": {
+        "_id": "$yearMonth",
+        "characters": { "$push": "$characters" },
+        "total": { "$sum": 1 }
+    }},
+    { "$unwind": "$characters" },
+    { "$unwind": "$characters" },
+    { "$group": {
+        "_id": {
+            "yearMonth": "$_id",
+            "character": "$characters"
+        },
+        "total": { "$first": "$total" },
+        "characterCount": { "$sum": 1 }
+    }},
+    { "$group": {
+        "_id": "$_id.yearMonth",
+        "total": { "$first": "$total" },
+        "characters": {
+            "$push": { "name": "$_id.character", "count": "$characterCount" }
+        }
+    }},
+    
+    { "$unwind": "$characters" },
+    { $match : { $or : [
+        {"characters.name":"Harry Potter"}, 
+        {"characters.name":"Hermione Granger"},
+        {"characters.name":"Draco Malfoy"},
+        {"characters.name":"Daphne Greengrass"},
+     ] } },
+    { $sort: {"characters.name": 1} },
+    
+     { "$group": {
+        "_id": "$_id",
+        "total": { "$first": "$total" },
+        "characters": {
+            "$push": { "name": "$characters.name", "count": "$characters.count" }
+        }
+    }},
+    
+        { $sort: { _id: -1 } }
+    ]).toArray())' > full_per_month.json
+}
+
+fullPerMonth
+
+
 getPerMonth() {
     mongo --quiet archive --eval 'printjson(db.getCollection("'"$Fandom"'")
     .aggregate([
-        { $match: { '"$1"' }},
+        { $match: { '"$1$2"' }},
         {
            $project: {
+               day: { $dateToString: { format: "1-%m-%Y", date: "$datePublished" } },
               yearMonth: { $dateToString: { format: "%Y-%m", date: "$datePublished" } },
            }
        },
        { $group : {
-            _id: "$yearMonth",
-            count: { $sum: 1 },
+             _id: {
+                day: "$day",
+                yearMonth: "$yearMonth",
+            },
+            '"$2"': { $sum: 1 },
             }
         },
-        { $sort: { _id: 1 } },
-    ]).toArray())' > $2
+        { $sort: { "_id.yearMonth": -1 } },
+    ]).toArray())' > $3
 }
 
+getPerMonth "categories: " "\"M/M\"" cat_mm.json
+getPerMonth "categories: " "\"F/M\"" cat_fm.json
+
 getPerMonth "" works_per_month.json
-getPerMonth "characters:\"Hermione Granger\"" hermione_per_month.json
-getPerMonth "characters:\"Harry Potter\"" harry_per_month.json
-getPerMonth "characters:\"Draco Malfoy\"" draco_per_month.json
-getPerMonth "characters:\"Newt Scamander\"" draco_per_month.json
-getPerMonth "characters:\"Daphne Greengrass\"" draco_per_month.json
+getPerMonth "characters: " "\"Hermione Granger\"" char_hermione_per_month.json
+getPerMonth "characters: " "\"Harry Potter\"" char_harry_per_month.json
+getPerMonth "characters: " "\"Draco Malfoy\"" char_draco_per_month.json
+getPerMonth "characters: " "\"Newt Scamander\"" char_newt_per_month.json
+getPerMonth "characters: " "\"Daphne Greengrass\"" char_daphne_per_month.json
+
+getPerMonth "relationships: " "\"Draco Malfoy/Harry Potter\"" rel_draco_harry.json
+getPerMonth "relationships: " "\"Sirius Black/Remus Lupin\"" rel_sirius_remus.json
+getPerMonth "relationships: " "\"Credence Barebone/Original Percival Graves\"" rel_credence_graves.json
+
 
 
 # works per month
@@ -120,7 +266,7 @@ mongo --quiet archive --eval 'printjson(db.getCollection("'"$Fandom"'")
 overview()
 {
     echo ",\n\"$1\":" >> overview.json
-    mongo --quiet archive --eval "$2" >> overview.json
+    mongo --quiet archive --eval 'db.getCollection("'"$Fandom"'").count('"$2"')'  >> overview.json
 }
 
 > overview.json
@@ -128,11 +274,13 @@ overview()
 echo "{" >> overview.json
 echo "\"fandom\": \"Harry Potter\"" >> overview.json
 
-overview "total" 'db.getCollection("'"$Fandom"'").count()'
-overview "no relationship" 'db.getCollection("'"$Fandom"'").count({relationships : []})'
-overview "oneshots" 'db.getCollection("'"$Fandom"'").count({chapters : 1, iswip : 0})'
-overview "completed" 'db.getCollection("'"$Fandom"'").count({iswip : 0})'
-overview "wip" 'db.getCollection("'"$Fandom"'").count({iswip : 1})'
+overview "total" ''
+overview "no relationship" '{relationships : []}'
+overview "relationship" '{characters : { $ne : []}}'
+overview "oneshots" '{chapters : 1, iswip : 0}'
+overview "multichaptered" '{$or : [{chapters : {$gt : 1}}, {chapters: 1, iswip: 1}] }'
+overview "completed" '{iswip : 0}'
+overview "wip" '{iswip : 1}'
 echo "}" >> overview.json # end json
 
 

@@ -1,0 +1,296 @@
+[
+	{
+		"_id" : {
+			"day" : "1-01-2017",
+			"yearMonth" : "2017-01"
+		},
+		"Hermione Granger" : 456
+	},
+	{
+		"_id" : {
+			"day" : "1-12-2016",
+			"yearMonth" : "2016-12"
+		},
+		"Hermione Granger" : 283
+	},
+	{
+		"_id" : {
+			"day" : "1-11-2016",
+			"yearMonth" : "2016-11"
+		},
+		"Hermione Granger" : 75
+	},
+	{
+		"_id" : {
+			"day" : "1-10-2016",
+			"yearMonth" : "2016-10"
+		},
+		"Hermione Granger" : 43
+	},
+	{
+		"_id" : {
+			"day" : "1-09-2016",
+			"yearMonth" : "2016-09"
+		},
+		"Hermione Granger" : 37
+	},
+	{
+		"_id" : {
+			"day" : "1-08-2016",
+			"yearMonth" : "2016-08"
+		},
+		"Hermione Granger" : 34
+	},
+	{
+		"_id" : {
+			"day" : "1-07-2016",
+			"yearMonth" : "2016-07"
+		},
+		"Hermione Granger" : 25
+	},
+	{
+		"_id" : {
+			"day" : "1-06-2016",
+			"yearMonth" : "2016-06"
+		},
+		"Hermione Granger" : 20
+	},
+	{
+		"_id" : {
+			"day" : "1-05-2016",
+			"yearMonth" : "2016-05"
+		},
+		"Hermione Granger" : 13
+	},
+	{
+		"_id" : {
+			"day" : "1-04-2016",
+			"yearMonth" : "2016-04"
+		},
+		"Hermione Granger" : 18
+	},
+	{
+		"_id" : {
+			"day" : "1-03-2016",
+			"yearMonth" : "2016-03"
+		},
+		"Hermione Granger" : 12
+	},
+	{
+		"_id" : {
+			"day" : "1-02-2016",
+			"yearMonth" : "2016-02"
+		},
+		"Hermione Granger" : 18
+	},
+	{
+		"_id" : {
+			"day" : "1-01-2016",
+			"yearMonth" : "2016-01"
+		},
+		"Hermione Granger" : 14
+	},
+	{
+		"_id" : {
+			"day" : "1-12-2015",
+			"yearMonth" : "2015-12"
+		},
+		"Hermione Granger" : 9
+	},
+	{
+		"_id" : {
+			"day" : "1-11-2015",
+			"yearMonth" : "2015-11"
+		},
+		"Hermione Granger" : 6
+	},
+	{
+		"_id" : {
+			"day" : "1-10-2015",
+			"yearMonth" : "2015-10"
+		},
+		"Hermione Granger" : 4
+	},
+	{
+		"_id" : {
+			"day" : "1-09-2015",
+			"yearMonth" : "2015-09"
+		},
+		"Hermione Granger" : 8
+	},
+	{
+		"_id" : {
+			"day" : "1-08-2015",
+			"yearMonth" : "2015-08"
+		},
+		"Hermione Granger" : 8
+	},
+	{
+		"_id" : {
+			"day" : "1-07-2015",
+			"yearMonth" : "2015-07"
+		},
+		"Hermione Granger" : 5
+	},
+	{
+		"_id" : {
+			"day" : "1-06-2015",
+			"yearMonth" : "2015-06"
+		},
+		"Hermione Granger" : 7
+	},
+	{
+		"_id" : {
+			"day" : "1-05-2015",
+			"yearMonth" : "2015-05"
+		},
+		"Hermione Granger" : 7
+	},
+	{
+		"_id" : {
+			"day" : "1-03-2015",
+			"yearMonth" : "2015-03"
+		},
+		"Hermione Granger" : 6
+	},
+	{
+		"_id" : {
+			"day" : "1-02-2015",
+			"yearMonth" : "2015-02"
+		},
+		"Hermione Granger" : 3
+	},
+	{
+		"_id" : {
+			"day" : "1-12-2014",
+			"yearMonth" : "2014-12"
+		},
+		"Hermione Granger" : 3
+	},
+	{
+		"_id" : {
+			"day" : "1-11-2014",
+			"yearMonth" : "2014-11"
+		},
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-10-2014",
+			"yearMonth" : "2014-10"
+		},
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-09-2014",
+			"yearMonth" : "2014-09"
+		},
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : {
+			"day" : "1-08-2014",
+			"yearMonth" : "2014-08"
+		},
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-04-2014",
+			"yearMonth" : "2014-04"
+		},
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : {
+			"day" : "1-03-2014",
+			"yearMonth" : "2014-03"
+		},
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-02-2014",
+			"yearMonth" : "2014-02"
+		},
+		"Hermione Granger" : 3
+	},
+	{
+		"_id" : {
+			"day" : "1-11-2013",
+			"yearMonth" : "2013-11"
+		},
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-10-2013",
+			"yearMonth" : "2013-10"
+		},
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : {
+			"day" : "1-07-2013",
+			"yearMonth" : "2013-07"
+		},
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : {
+			"day" : "1-03-2013",
+			"yearMonth" : "2013-03"
+		},
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : {
+			"day" : "1-02-2013",
+			"yearMonth" : "2013-02"
+		},
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-12-2012",
+			"yearMonth" : "2012-12"
+		},
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-09-2012",
+			"yearMonth" : "2012-09"
+		},
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-04-2012",
+			"yearMonth" : "2012-04"
+		},
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-11-2010",
+			"yearMonth" : "2010-11"
+		},
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-07-2007",
+			"yearMonth" : "2007-07"
+		},
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : {
+			"day" : "1-02-2007",
+			"yearMonth" : "2007-02"
+		},
+		"Hermione Granger" : 1
+	}
+]

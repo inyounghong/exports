@@ -1,46 +1,46 @@
 [
 	{
 		"_id" : 0,
-		"count" : 1278
+		"count" : 7570
 	},
 	{
 		"_id" : 5,
-		"count" : 638
+		"count" : 4052
 	},
 	{
 		"_id" : 10,
-		"count" : 735
+		"count" : 4737
 	},
 	{
 		"_id" : 20,
-		"count" : 1086
+		"count" : 6513
 	},
 	{
 		"_id" : 50,
-		"count" : 690
+		"count" : 4293
 	},
 	{
 		"_id" : 100,
-		"count" : 445
+		"count" : 2948
 	},
 	{
 		"_id" : 200,
-		"count" : 337
+		"count" : 2064
 	},
 	{
 		"_id" : 500,
-		"count" : 105
+		"count" : 511
 	},
 	{
 		"_id" : 1000,
-		"count" : 35
+		"count" : 145
 	},
 	{
 		"_id" : 2000,
-		"count" : 11
+		"count" : 41
 	},
 	{
 		"_id" : 5000,
-		"count" : 2
+		"count" : 4
 	}
 ]

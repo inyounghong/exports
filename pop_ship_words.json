@@ -1,0 +1,252 @@
+[
+	{
+		"_id" : "Draco Malfoy/Harry Potter",
+		"count" : 4770,
+		"words" : 43767138
+	},
+	{
+		"_id" : "Hermione Granger/Ron Weasley",
+		"count" : 1612,
+		"words" : 26294162
+	},
+	{
+		"_id" : "Sirius Black/Remus Lupin",
+		"count" : 2815,
+		"words" : 25457599
+	},
+	{
+		"_id" : "Harry Potter/Ginny Weasley",
+		"count" : 1328,
+		"words" : 21675450
+	},
+	{
+		"_id" : "James Potter/Lily Evans Potter",
+		"count" : 1436,
+		"words" : 17116554
+	},
+	{
+		"_id" : "Hermione Granger/Draco Malfoy",
+		"count" : 1244,
+		"words" : 13674582
+	},
+	{
+		"_id" : "Harry Potter/Severus Snape",
+		"count" : 1144,
+		"words" : 12744572
+	},
+	{
+		"_id" : "Hermione Granger/Severus Snape",
+		"count" : 574,
+		"words" : 9379305
+	},
+	{
+		"_id" : "Harry Potter/Tom Riddle",
+		"count" : 581,
+		"words" : 8909022
+	},
+	{
+		"_id" : "Lucius Malfoy/Narcissa Black Malfoy",
+		"count" : 403,
+		"words" : 8295546
+	},
+	{
+		"_id" : "Hermione Granger/Harry Potter",
+		"count" : 319,
+		"words" : 6366149
+	},
+	{
+		"_id" : "Scorpius Malfoy/Albus Severus Potter",
+		"count" : 705,
+		"words" : 5858432
+	},
+	{
+		"_id" : "Harry Potter/Voldemort",
+		"count" : 319,
+		"words" : 5434137
+	},
+	{
+		"_id" : "Scorpius Malfoy/Rose Weasley",
+		"count" : 277,
+		"words" : 4256677
+	},
+	{
+		"_id" : "Remus Lupin/Nymphadora Tonks",
+		"count" : 303,
+		"words" : 3706874
+	},
+	{
+		"_id" : "Seamus Finnigan/Dean Thomas",
+		"count" : 291,
+		"words" : 3470664
+	},
+	{
+		"_id" : "Arthur Weasley/Molly Weasley",
+		"count" : 186,
+		"words" : 3378363
+	},
+	{
+		"_id" : "Astoria Greengrass/Draco Malfoy",
+		"count" : 248,
+		"words" : 3343688
+	},
+	{
+		"_id" : "Neville Longbottom/Luna Lovegood",
+		"count" : 177,
+		"words" : 2751696
+	},
+	{
+		"_id" : "Lily Evans Potter/Severus Snape",
+		"count" : 191,
+		"words" : 2660388
+	},
+	{
+		"_id" : "Fleur Delacour/Bill Weasley",
+		"count" : 170,
+		"words" : 2631983
+	},
+	{
+		"_id" : "Hermione Granger/Tom Riddle",
+		"count" : 132,
+		"words" : 2529977
+	},
+	{
+		"_id" : "Draco Malfoy/Ginny Weasley",
+		"count" : 123,
+		"words" : 2322720
+	},
+	{
+		"_id" : "Credence Barebone/Original Percival Graves",
+		"count" : 409,
+		"words" : 2253083
+	},
+	{
+		"_id" : "James/Lily",
+		"count" : 214,
+		"words" : 2173399
+	},
+	{
+		"_id" : "Angelina Johnson/George Weasley",
+		"count" : 121,
+		"words" : 2146620
+	},
+	{
+		"_id" : "Remus Lupin/Severus Snape",
+		"count" : 222,
+		"words" : 2050319
+	},
+	{
+		"_id" : "Draco Malfoy & Harry Potter",
+		"count" : 163,
+		"words" : 2020317
+	},
+	{
+		"_id" : "Harry Potter & Severus Snape",
+		"count" : 103,
+		"words" : 2002796
+	},
+	{
+		"_id" : "Severus Snape/Original Female Character(s)",
+		"count" : 117,
+		"words" : 1952383
+	},
+	{
+		"_id" : "Draco Malfoy/Pansy Parkinson",
+		"count" : 101,
+		"words" : 1898714
+	},
+	{
+		"_id" : "Sirius Black/Severus Snape",
+		"count" : 141,
+		"words" : 1893900
+	},
+	{
+		"_id" : "Bellatrix Black Lestrange/Rodolphus Lestrange",
+		"count" : 101,
+		"words" : 1856872
+	},
+	{
+		"_id" : "Hannah Abbott/Neville Longbottom",
+		"count" : 117,
+		"words" : 1810721
+	},
+	{
+		"_id" : "Hermione Granger/Fred Weasley",
+		"count" : 130,
+		"words" : 1718261
+	},
+	{
+		"_id" : "Original Percival Graves/Newt Scamander",
+		"count" : 356,
+		"words" : 1702828
+	},
+	{
+		"_id" : "Harry Potter/Draco Malfoy",
+		"count" : 119,
+		"words" : 1668666
+	},
+	{
+		"_id" : "Luna Lovegood/Harry Potter",
+		"count" : 104,
+		"words" : 1611943
+	},
+	{
+		"_id" : "Teddy Lupin/Victoire Weasley",
+		"count" : 148,
+		"words" : 1508708
+	},
+	{
+		"_id" : "Queenie Goldstein/Jacob Kowalski",
+		"count" : 208,
+		"words" : 1437056
+	},
+	{
+		"_id" : "Lavender Brown/Ron Weasley",
+		"count" : 110,
+		"words" : 1437044
+	},
+	{
+		"_id" : "Tina Goldstein/Newt Scamander",
+		"count" : 250,
+		"words" : 1432219
+	},
+	{
+		"_id" : "Harry Potter/Tom Riddle | Voldemort",
+		"count" : 120,
+		"words" : 1321751
+	},
+	{
+		"_id" : "Harry Potter/Ron Weasley",
+		"count" : 180,
+		"words" : 1223981
+	},
+	{
+		"_id" : "Albus Dumbledore/Gellert Grindelwald",
+		"count" : 155,
+		"words" : 1218859
+	},
+	{
+		"_id" : "Credence Barebone/Percival Graves | Gellert Grindelwald",
+		"count" : 283,
+		"words" : 1125986
+	},
+	{
+		"_id" : "Credence Barebone/Newt Scamander",
+		"count" : 239,
+		"words" : 1006545
+	},
+	{
+		"_id" : "Luna Lovegood/Ginny Weasley",
+		"count" : 234,
+		"words" : 987258
+	},
+	{
+		"_id" : "James Potter & Lily Evans Potter",
+		"count" : 114,
+		"words" : 907174
+	},
+	{
+		"_id" : "Sirius Black/James Potter",
+		"count" : 168,
+		"words" : 799786
+	}
+]

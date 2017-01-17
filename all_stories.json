@@ -1,1 +1,1 @@
-2017-01-16T20:03:55.329-0800 E QUERY    [main] SyntaxError: missing ; before statement @(shell eval):5:11
+2017-01-17T01:28:39.351-0800 E QUERY    [main] SyntaxError: missing ; before statement @(shell eval):5:11

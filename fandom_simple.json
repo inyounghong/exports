@@ -1,242 +1,1086 @@
 [
 	{
 		"_id" : "Harry Potter - J. K. Rowling",
-		"count" : 4129
+		"count" : 27058
 	},
 	{
 		"_id" : "Fantastic Beasts and Where to Find Them (Movies)",
-		"count" : 1294
+		"count" : 2377
 	},
 	{
 		"_id" : "Harry Potter - Fandom",
-		"count" : 134
+		"count" : 846
 	},
 	{
 		"_id" : "Harry Potter and the Cursed Child - Thorne & Rowling",
-		"count" : 88
-	},
-	{
-		"_id" : "The Avengers (Marvel Movies)",
-		"count" : 50
+		"count" : 425
 	},
 	{
 		"_id" : "Supernatural",
-		"count" : 44
+		"count" : 243
 	},
 	{
 		"_id" : "Sherlock (TV)",
-		"count" : 37
+		"count" : 212
+	},
+	{
+		"_id" : "The Avengers (Marvel Movies)",
+		"count" : 173
 	},
 	{
 		"_id" : "Marvel Cinematic Universe",
-		"count" : 36
-	},
-	{
-		"_id" : "Naruto",
-		"count" : 20
-	},
-	{
-		"_id" : "Doctor Who",
-		"count" : 19
-	},
-	{
-		"_id" : "Iron Man (Movies)",
-		"count" : 19
-	},
-	{
-		"_id" : "Merlin (TV)",
-		"count" : 17
-	},
-	{
-		"_id" : "Star Wars - All Media Types",
-		"count" : 15
-	},
-	{
-		"_id" : "Katekyou Hitman Reborn!",
-		"count" : 14
-	},
-	{
-		"_id" : "Captain America (Movies)",
-		"count" : 13
-	},
-	{
-		"_id" : "Buffy the Vampire Slayer",
-		"count" : 13
+		"count" : 160
 	},
 	{
 		"_id" : "Percy Jackson and the Olympians - Rick Riordan",
-		"count" : 12
+		"count" : 108
 	},
 	{
-		"_id" : "Thor (Movies)",
-		"count" : 12
-	},
-	{
-		"_id" : "Undertale (Video Game)",
-		"count" : 11
-	},
-	{
-		"_id" : "Haikyuu!!",
-		"count" : 11
-	},
-	{
-		"_id" : "The Hobbit - All Media Types",
-		"count" : 11
-	},
-	{
-		"_id" : "Teen Wolf (TV)",
-		"count" : 11
-	},
-	{
-		"_id" : "One Piece",
-		"count" : 10
-	},
-	{
-		"_id" : "Hannibal (TV)",
-		"count" : 10
-	},
-	{
-		"_id" : "Twilight Series - Stephenie Meyer",
-		"count" : 9
-	},
-	{
-		"_id" : "Voltron: Legendary Defender",
-		"count" : 9
-	},
-	{
-		"_id" : "Once Upon a Time (TV)",
-		"count" : 9
-	},
-	{
-		"_id" : "The Lord of the Rings - All Media Types",
-		"count" : 9
-	},
-	{
-		"_id" : "Dramione - Fandom",
-		"count" : 8
-	},
-	{
-		"_id" : "A Song of Ice and Fire - George R. R. Martin",
-		"count" : 8
+		"_id" : "Naruto",
+		"count" : 100
 	},
 	{
 		"_id" : "The Avengers (Marvel) - All Media Types",
-		"count" : 8
+		"count" : 97
 	},
 	{
-		"_id" : "Rise of the Guardians (2012)",
-		"count" : 8
+		"_id" : "Doctor Who",
+		"count" : 90
 	},
 	{
-		"_id" : "Supergirl (TV 2015)",
-		"count" : 8
+		"_id" : "Merlin (TV)",
+		"count" : 90
 	},
 	{
-		"_id" : "Doctor Who (2005)",
-		"count" : 8
+		"_id" : "Star Wars - All Media Types",
+		"count" : 82
 	},
 	{
-		"_id" : "The Lord of the Rings - J. R. R. Tolkien",
-		"count" : 8
+		"_id" : "Buffy the Vampire Slayer",
+		"count" : 78
 	},
 	{
-		"_id" : "Fullmetal Alchemist - All Media Types",
-		"count" : 8
+		"_id" : "Twilight Series - Stephenie Meyer",
+		"count" : 74
 	},
 	{
-		"_id" : "The Walking Dead (TV)",
-		"count" : 8
+		"_id" : "Katekyou Hitman Reborn!",
+		"count" : 74
 	},
 	{
-		"_id" : "Fairy Tail",
-		"count" : 7
+		"_id" : "Teen Wolf (TV)",
+		"count" : 69
+	},
+	{
+		"_id" : "The Lord of the Rings - All Media Types",
+		"count" : 65
 	},
 	{
 		"_id" : "Game of Thrones (TV)",
-		"count" : 7
+		"count" : 57
 	},
 	{
-		"_id" : "InuYasha - A Feudal Fairy Tale",
-		"count" : 7
+		"_id" : "Once Upon a Time (TV)",
+		"count" : 57
 	},
 	{
-		"_id" : "Original Work",
-		"count" : 7
-	},
-	{
-		"_id" : "His Dark Materials - Philip Pullman",
-		"count" : 6
-	},
-	{
-		"_id" : "Drarry - Fandom",
-		"count" : 6
-	},
-	{
-		"_id" : "Star Wars Episode VII: The Force Awakens (2015)",
-		"count" : 6
-	},
-	{
-		"_id" : "James Bond (Craig movies)",
-		"count" : 6
-	},
-	{
-		"_id" : "Charmed (TV)",
-		"count" : 6
+		"_id" : "Captain America (Movies)",
+		"count" : 55
 	},
 	{
 		"_id" : "Percy Jackson and the Olympians & Related Fandoms - All Media Types",
-		"count" : 6
+		"count" : 54
 	},
 	{
-		"_id" : "Yuri!!! on Ice (Anime)",
-		"count" : 6
+		"_id" : "A Song of Ice and Fire - George R. R. Martin",
+		"count" : 52
 	},
 	{
-		"_id" : "Homestuck",
-		"count" : 6
+		"_id" : "Thor (Movies)",
+		"count" : 52
 	},
 	{
-		"_id" : "X-Men - All Media Types",
-		"count" : 6
-	},
-	{
-		"_id" : "Stargate SG-1",
-		"count" : 6
+		"_id" : "Undertale (Video Game)",
+		"count" : 50
 	},
 	{
 		"_id" : "The Heroes of Olympus - Rick Riordan",
-		"count" : 6
-	},
-	{
-		"_id" : "NCIS",
-		"count" : 6
-	},
-	{
-		"_id" : "Hunger Games Trilogy - Suzanne Collins",
-		"count" : 6
-	},
-	{
-		"_id" : "Fantastic Beasts and Where to Find Them - Fandom",
-		"count" : 6
+		"count" : 50
 	},
 	{
 		"_id" : "Hetalia: Axis Powers",
-		"count" : 5
+		"count" : 48
+	},
+	{
+		"_id" : "Doctor Who (2005)",
+		"count" : 46
+	},
+	{
+		"_id" : "Glee",
+		"count" : 42
+	},
+	{
+		"_id" : "The Lord of the Rings - J. R. R. Tolkien",
+		"count" : 41
+	},
+	{
+		"_id" : "Star Wars Episode VII: The Force Awakens (2015)",
+		"count" : 40
+	},
+	{
+		"_id" : "Haikyuu!!",
+		"count" : 40
+	},
+	{
+		"_id" : "The Flash (TV 2014)",
+		"count" : 39
+	},
+	{
+		"_id" : "Iron Man (Movies)",
+		"count" : 38
+	},
+	{
+		"_id" : "Drarry - Fandom",
+		"count" : 38
+	},
+	{
+		"_id" : "Rise of the Guardians (2012)",
+		"count" : 38
+	},
+	{
+		"_id" : "Harry Potter RPF",
+		"count" : 36
+	},
+	{
+		"_id" : "One Piece",
+		"count" : 36
+	},
+	{
+		"_id" : "Twilight Series - All Media Types",
+		"count" : 35
+	},
+	{
+		"_id" : "The Hobbit - All Media Types",
+		"count" : 34
+	},
+	{
+		"_id" : "One Direction (Band)",
+		"count" : 34
+	},
+	{
+		"_id" : "Sherlock Holmes & Related Fandoms",
+		"count" : 32
 	},
 	{
 		"_id" : "Criminal Minds",
-		"count" : 5
+		"count" : 32
+	},
+	{
+		"_id" : "Original Work",
+		"count" : 31
+	},
+	{
+		"_id" : "The Walking Dead (TV)",
+		"count" : 29
+	},
+	{
+		"_id" : "Marvel",
+		"count" : 29
+	},
+	{
+		"_id" : "Dramione - Fandom",
+		"count" : 29
+	},
+	{
+		"_id" : "Bleach",
+		"count" : 29
+	},
+	{
+		"_id" : "Charmed (TV)",
+		"count" : 28
+	},
+	{
+		"_id" : "Homestuck",
+		"count" : 28
+	},
+	{
+		"_id" : "X-Men - All Media Types",
+		"count" : 27
+	},
+	{
+		"_id" : "Batman - All Media Types",
+		"count" : 27
 	},
 	{
 		"_id" : "Gundam Wing",
-		"count" : 5
+		"count" : 26
+	},
+	{
+		"_id" : "Frozen (2013)",
+		"count" : 26
+	},
+	{
+		"_id" : "Agents of S.H.I.E.L.D. (TV)",
+		"count" : 25
+	},
+	{
+		"_id" : "Stargate SG-1",
+		"count" : 25
+	},
+	{
+		"_id" : "Hamilton - Miranda",
+		"count" : 25
 	},
 	{
 		"_id" : "Chronicles of Narnia - C. S. Lewis",
-		"count" : 5
+		"count" : 25
+	},
+	{
+		"_id" : "The Lord of the Rings (Movies)",
+		"count" : 25
+	},
+	{
+		"_id" : "The Vampire Diaries (TV)",
+		"count" : 24
+	},
+	{
+		"_id" : "Kuroshitsuji | Black Butler",
+		"count" : 23
+	},
+	{
+		"_id" : "NCIS",
+		"count" : 23
+	},
+	{
+		"_id" : "Fullmetal Alchemist - All Media Types",
+		"count" : 23
+	},
+	{
+		"_id" : "Stargate Atlantis",
+		"count" : 22
+	},
+	{
+		"_id" : "Harry Potter - J.K. Rowling",
+		"count" : 22
+	},
+	{
+		"_id" : "Arrow (TV 2012)",
+		"count" : 22
+	},
+	{
+		"_id" : "Death Note",
+		"count" : 22
+	},
+	{
+		"_id" : "Supergirl (TV 2015)",
+		"count" : 22
+	},
+	{
+		"_id" : "Torchwood",
+		"count" : 21
+	},
+	{
+		"_id" : "James Bond (Craig movies)",
+		"count" : 21
+	},
+	{
+		"_id" : "Hunger Games Series - All Media Types",
+		"count" : 20
+	},
+	{
+		"_id" : "Pirates of the Caribbean (Movies)",
+		"count" : 20
+	},
+	{
+		"_id" : "The 100 (TV)",
+		"count" : 20
+	},
+	{
+		"_id" : "Hannibal (TV)",
+		"count" : 20
+	},
+	{
+		"_id" : "X-Men (Movieverse)",
+		"count" : 19
+	},
+	{
+		"_id" : "Shadowhunters (TV)",
+		"count" : 19
+	},
+	{
+		"_id" : "Fairy Tail",
+		"count" : 19
+	},
+	{
+		"_id" : "Shingeki no Kyojin | Attack on Titan",
+		"count" : 19
+	},
+	{
+		"_id" : "Hunger Games Trilogy - Suzanne Collins",
+		"count" : 19
+	},
+	{
+		"_id" : "Phandom/The Fantastic Foursome (YouTube RPF)",
+		"count" : 18
+	},
+	{
+		"_id" : "InuYasha - A Feudal Fairy Tale",
+		"count" : 18
+	},
+	{
+		"_id" : "Final Fantasy VII",
+		"count" : 18
+	},
+	{
+		"_id" : "Carry On - Rainbow Rowell",
+		"count" : 17
+	},
+	{
+		"_id" : "Daredevil (TV)",
+		"count" : 17
+	},
+	{
+		"_id" : "Pocket Monsters | Pokemon - All Media Types",
+		"count" : 17
+	},
+	{
+		"_id" : "Star Trek",
+		"count" : 16
+	},
+	{
+		"_id" : "Miraculous Ladybug",
+		"count" : 16
+	},
+	{
+		"_id" : "marauders - Fandom",
+		"count" : 16
+	},
+	{
+		"_id" : "How to Train Your Dragon (Movies)",
+		"count" : 16
+	},
+	{
+		"_id" : "Labyrinth (1986)",
+		"count" : 16
+	},
+	{
+		"_id" : "Tokyo Ghoul",
+		"count" : 16
+	},
+	{
+		"_id" : "Fullmetal Alchemist: Brotherhood & Manga",
+		"count" : 16
+	},
+	{
+		"_id" : "Chronicles of Narnia - All Media Types",
+		"count" : 15
+	},
+	{
+		"_id" : "His Dark Materials - Philip Pullman",
+		"count" : 15
+	},
+	{
+		"_id" : "Star Trek: Alternate Original Series (Movies)",
+		"count" : 15
+	},
+	{
+		"_id" : "The Sentinel",
+		"count" : 15
+	},
+	{
+		"_id" : "A Song of Ice and Fire & Related Fandoms",
+		"count" : 15
+	},
+	{
+		"_id" : "Star Wars Prequel Trilogy",
+		"count" : 15
+	},
+	{
+		"_id" : "Ouran High School Host Club - All Media Types",
+		"count" : 15
+	},
+	{
+		"_id" : "Star Wars Original Trilogy",
+		"count" : 15
+	},
+	{
+		"_id" : "Mortal Instruments Series - Cassandra Clare",
+		"count" : 14
+	},
+	{
+		"_id" : "Good Omens - Neil Gaiman & Terry Pratchett",
+		"count" : 14
+	},
+	{
+		"_id" : "Yu-Gi-Oh!",
+		"count" : 14
+	},
+	{
+		"_id" : "The Hobbit (Jackson Movies)",
+		"count" : 14
+	},
+	{
+		"_id" : "Les Misérables - All Media Types",
+		"count" : 14
+	},
+	{
+		"_id" : "Greek and Roman Mythology",
+		"count" : 14
+	},
+	{
+		"_id" : "Doctor Who & Related Fandoms",
+		"count" : 14
+	},
+	{
+		"_id" : "The Maze Runner Series - James Dashner",
+		"count" : 14
+	},
+	{
+		"_id" : "Angel: the Series",
+		"count" : 13
+	},
+	{
+		"_id" : "Steven Universe (Cartoon)",
+		"count" : 13
+	},
+	{
+		"_id" : "Avatar: The Last Airbender",
+		"count" : 13
+	},
+	{
+		"_id" : "Fantastic Beasts and Where to Find Them - Fandom",
+		"count" : 13
+	},
+	{
+		"_id" : "Thor - All Media Types",
+		"count" : 13
+	},
+	{
+		"_id" : "Kingdom Hearts",
+		"count" : 13
+	},
+	{
+		"_id" : "Firefly",
+		"count" : 13
+	},
+	{
+		"_id" : "Voltron: Legendary Defender",
+		"count" : 13
+	},
+	{
+		"_id" : "Brave (2012)",
+		"count" : 12
+	},
+	{
+		"_id" : "Gossip Girl",
+		"count" : 12
+	},
+	{
+		"_id" : "Captain America - All Media Types",
+		"count" : 12
+	},
+	{
+		"_id" : "D.Gray-man",
+		"count" : 12
+	},
+	{
+		"_id" : "Iron Man - All Media Types",
+		"count" : 12
+	},
+	{
+		"_id" : "방탄소년단 | Bangtan Boys | BTS",
+		"count" : 12
+	},
+	{
+		"_id" : "Yuri!!! on Ice (Anime)",
+		"count" : 12
+	},
+	{
+		"_id" : "Suicide Squad (2016)",
+		"count" : 12
+	},
+	{
+		"_id" : "Twilight (Movies)",
+		"count" : 12
+	},
+	{
+		"_id" : "Tangled (2010)",
+		"count" : 11
+	},
+	{
+		"_id" : "Gravity Falls",
+		"count" : 11
+	},
+	{
+		"_id" : "Harry - Fandom",
+		"count" : 11
+	},
+	{
+		"_id" : "幽☆遊☆白書 | YuYu Hakusho: Ghost Files",
+		"count" : 11
+	},
+	{
+		"_id" : "Hawaii Five-0 (2010)",
+		"count" : 11
+	},
+	{
+		"_id" : "Arthurian Mythology",
+		"count" : 10
+	},
+	{
+		"_id" : "My Chemical Romance",
+		"count" : 10
+	},
+	{
+		"_id" : "Guardians of the Galaxy (Movies)",
+		"count" : 10
+	},
+	{
+		"_id" : "Young Justice (Cartoon)",
+		"count" : 10
+	},
+	{
+		"_id" : "Norse Religion & Lore",
+		"count" : 10
+	},
+	{
+		"_id" : "Carmilla (Web Series)",
+		"count" : 10
+	},
+	{
+		"_id" : "X-Men (Movies)",
+		"count" : 10
 	},
 	{
 		"_id" : "Smallville",
+		"count" : 10
+	},
+	{
+		"_id" : "Welcome to Night Vale",
+		"count" : 10
+	},
+	{
+		"_id" : "The Originals (TV)",
+		"count" : 10
+	},
+	{
+		"_id" : "Discworld - Terry Pratchett",
+		"count" : 10
+	},
+	{
+		"_id" : "Panic! at the Disco",
+		"count" : 9
+	},
+	{
+		"_id" : "RWBY",
+		"count" : 9
+	},
+	{
+		"_id" : "Fullmetal Alchemist (Anime 2003)",
+		"count" : 9
+	},
+	{
+		"_id" : "James Bond (Movies)",
+		"count" : 9
+	},
+	{
+		"_id" : "Compilation of Final Fantasy VII",
+		"count" : 9
+	},
+	{
+		"_id" : "Sherlock - Fandom",
+		"count" : 9
+	},
+	{
+		"_id" : "Danny Phantom",
+		"count" : 9
+	},
+	{
+		"_id" : "Assassin's Creed",
+		"count" : 9
+	},
+	{
+		"_id" : "Wolfstar - Fandom",
+		"count" : 9
+	},
+	{
+		"_id" : "Sword Art Online",
+		"count" : 9
+	},
+	{
+		"_id" : "DCU",
+		"count" : 9
+	},
+	{
+		"_id" : "The Hobbit - J. R. R. Tolkien",
+		"count" : 9
+	},
+	{
+		"_id" : "Primeval",
+		"count" : 8
+	},
+	{
+		"_id" : "Big Hero 6 (2014)",
+		"count" : 8
+	},
+	{
+		"_id" : "The X-Files",
+		"count" : 8
+	},
+	{
+		"_id" : "Spider-Man - All Media Types",
+		"count" : 8
+	},
+	{
+		"_id" : "My Immortal",
+		"count" : 8
+	},
+	{
+		"_id" : "Agent Carter (TV)",
+		"count" : 8
+	},
+	{
+		"_id" : "Kingsman (Movies)",
+		"count" : 8
+	},
+	{
+		"_id" : "House M.D.",
+		"count" : 8
+	},
+	{
+		"_id" : "DC's Legends of Tomorrow (TV)",
+		"count" : 8
+	},
+	{
+		"_id" : "A Very Potter Musical Series - Team StarKid",
+		"count" : 8
+	},
+	{
+		"_id" : "The Beatles",
+		"count" : 8
+	},
+	{
+		"_id" : "Creepypasta - Fandom",
+		"count" : 8
+	},
+	{
+		"_id" : "The Hunger Games (Movies)",
+		"count" : 8
+	},
+	{
+		"_id" : "Check Please! (Webcomic)",
+		"count" : 8
+	},
+	{
+		"_id" : "Soul Eater",
+		"count" : 8
+	},
+	{
+		"_id" : "LEGO Harry Potter (Video Games)",
+		"count" : 8
+	},
+	{
+		"_id" : "DC Cinematic Universe",
+		"count" : 8
+	},
+	{
+		"_id" : "Jurassic World (2015)",
+		"count" : 8
+	},
+	{
+		"_id" : "Deadpool - All Media Types",
+		"count" : 8
+	},
+	{
+		"_id" : "Twilight",
+		"count" : 8
+	},
+	{
+		"_id" : "X-Men: First Class (2011) - Fandom",
+		"count" : 7
+	},
+	{
+		"_id" : "Kingsman: The Secret Service (2015)",
+		"count" : 7
+	},
+	{
+		"_id" : "Shadowhunter Chronicles - Cassandra Clare",
+		"count" : 7
+	},
+	{
+		"_id" : "Artemis Fowl - Eoin Colfer",
+		"count" : 7
+	},
+	{
+		"_id" : "Castle",
+		"count" : 7
+	},
+	{
+		"_id" : "Jessica Jones (TV)",
+		"count" : 7
+	},
+	{
+		"_id" : "Twenty One Pilots",
+		"count" : 7
+	},
+	{
+		"_id" : "Sherlock Holmes - Arthur Conan Doyle",
+		"count" : 7
+	},
+	{
+		"_id" : "The Silmarillion and other histories of Middle-Earth - J. R. R. Tolkien",
+		"count" : 7
+	},
+	{
+		"_id" : "Overwatch (Video Game)",
+		"count" : 7
+	},
+	{
+		"_id" : "True Blood",
+		"count" : 7
+	},
+	{
+		"_id" : "Buffy the Vampire Slayer - fandom",
+		"count" : 7
+	},
+	{
+		"_id" : "Star Trek: The Original Series",
+		"count" : 7
+	},
+	{
+		"_id" : "Bishoujo Senshi Sailor Moon | Pretty Guardian Sailor Moon",
+		"count" : 7
+	},
+	{
+		"_id" : "Stargate - All Series",
+		"count" : 7
+	},
+	{
+		"_id" : "Real Person Fiction",
+		"count" : 7
+	},
+	{
+		"_id" : "The Little Mermaid (1989)",
+		"count" : 7
+	},
+	{
+		"_id" : "Chronicles of Narnia (Movies)",
+		"count" : 7
+	},
+	{
+		"_id" : "Actor RPF",
+		"count" : 7
+	},
+	{
+		"_id" : "Ronsy - Fandom",
+		"count" : 7
+	},
+	{
+		"_id" : "The Marauders - Fandom",
+		"count" : 7
+	},
+	{
+		"_id" : "Disney - All Media Types",
+		"count" : 7
+	},
+	{
+		"_id" : "Mass Effect",
+		"count" : 7
+	},
+	{
+		"_id" : "Grimm (TV)",
+		"count" : 7
+	},
+	{
+		"_id" : "DC Animated Universe",
+		"count" : 7
+	},
+	{
+		"_id" : "The Inheritance Cycle - Christopher Paolini",
+		"count" : 7
+	},
+	{
+		"_id" : "Mulan (1998)",
+		"count" : 7
+	},
+	{
+		"_id" : "Girl Meets World",
+		"count" : 7
+	},
+	{
+		"_id" : "Les Misérables - Victor Hugo",
+		"count" : 6
+	},
+	{
+		"_id" : "Marvel (Movies)",
+		"count" : 6
+	},
+	{
+		"_id" : "Dexter (TV)",
+		"count" : 6
+	},
+	{
+		"_id" : "Vampire Knight",
+		"count" : 6
+	},
+	{
+		"_id" : "Harry Potter Crossover",
+		"count" : 6
+	},
+	{
+		"_id" : "The Magnificent Seven (TV)",
+		"count" : 6
+	},
+	{
+		"_id" : "Addams Family - All Media Types",
+		"count" : 6
+	},
+	{
+		"_id" : "hogwarts - Fandom",
+		"count" : 6
+	},
+	{
+		"_id" : "Downton Abbey",
+		"count" : 6
+	},
+	{
+		"_id" : "Avatar: Legend of Korra",
+		"count" : 6
+	},
+	{
+		"_id" : "(My) Immortal: The Web Series",
+		"count" : 6
+	},
+	{
+		"_id" : "Deadpool (2016)",
+		"count" : 6
+	},
+	{
+		"_id" : "Bandom",
+		"count" : 6
+	},
+	{
+		"_id" : "Multi-Fandom",
+		"count" : 6
+	},
+	{
+		"_id" : "Arthurian Mythology & Related Fandoms",
+		"count" : 6
+	},
+	{
+		"_id" : "Leverage",
+		"count" : 6
+	},
+	{
+		"_id" : "Crisis Core: Final Fantasy VII",
+		"count" : 6
+	},
+	{
+		"_id" : "teen wolf - Fandom",
+		"count" : 6
+	},
+	{
+		"_id" : "The Kane Chronicles - Rick Riordan",
+		"count" : 6
+	},
+	{
+		"_id" : "Batman (Movies - Nolan)",
+		"count" : 6
+	},
+	{
+		"_id" : "Fall Out Boy",
+		"count" : 6
+	},
+	{
+		"_id" : "Phan",
+		"count" : 6
+	},
+	{
+		"_id" : "Elder Scrolls V: Skyrim",
+		"count" : 6
+	},
+	{
+		"_id" : "Kuroko no Basuke | Kuroko's Basketball",
+		"count" : 6
+	},
+	{
+		"_id" : "Suits (TV)",
+		"count" : 6
+	},
+	{
+		"_id" : "Ao no Exorcist | Blue Exorcist",
+		"count" : 6
+	},
+	{
+		"_id" : "Divergent Series - Veronica Roth",
+		"count" : 6
+	},
+	{
+		"_id" : "Flashpoint (TV)",
+		"count" : 6
+	},
+	{
+		"_id" : "DCU (Comics)",
+		"count" : 6
+	},
+	{
+		"_id" : "Magic: The Gathering",
+		"count" : 6
+	},
+	{
+		"_id" : "James Bond - All Media Types",
+		"count" : 6
+	},
+	{
+		"_id" : "Gilmore Girls",
+		"count" : 6
+	},
+	{
+		"_id" : "Marvel (Comics)",
+		"count" : 6
+	},
+	{
+		"_id" : "Dragon Age - All Media Types",
+		"count" : 6
+	},
+	{
+		"_id" : "Batman (Comics)",
+		"count" : 6
+	},
+	{
+		"_id" : "Maximum Ride - James Patterson",
+		"count" : 5
+	},
+	{
+		"_id" : "The Silence of the Lambs (1991)",
+		"count" : 5
+	},
+	{
+		"_id" : "Fast and the Furious Series",
+		"count" : 5
+	},
+	{
+		"_id" : "Free!",
+		"count" : 5
+	},
+	{
+		"_id" : "Dragon Age II",
+		"count" : 5
+	},
+	{
+		"_id" : "Dragon Age: Inquisition",
+		"count" : 5
+	},
+	{
+		"_id" : "Futurama",
+		"count" : 5
+	},
+	{
+		"_id" : "Percy Jackson and the Olympians",
+		"count" : 5
+	},
+	{
+		"_id" : "Star Wars",
+		"count" : 5
+	},
+	{
+		"_id" : "World Wrestling Entertainment",
+		"count" : 5
+	},
+	{
+		"_id" : "London Spy",
+		"count" : 5
+	},
+	{
+		"_id" : "EXO (Band)",
+		"count" : 5
+	},
+	{
+		"_id" : "Grey's Anatomy",
+		"count" : 5
+	},
+	{
+		"_id" : "The Lion King (1994)",
+		"count" : 5
+	},
+	{
+		"_id" : "Harry Potter and the Cursed Child - Fandom",
+		"count" : 5
+	},
+	{
+		"_id" : "Highschool DxD",
+		"count" : 5
+	},
+	{
+		"_id" : "Marauders Era - Fandom",
+		"count" : 5
+	},
+	{
+		"_id" : "xxxHoLic",
+		"count" : 5
+	},
+	{
+		"_id" : "Jurassic Park (Movies)",
+		"count" : 5
+	},
+	{
+		"_id" : "White Collar",
+		"count" : 5
+	},
+	{
+		"_id" : "The Addams Family (1991)",
+		"count" : 5
+	},
+	{
+		"_id" : "Charlie and the Chocolate Factory (2005)",
+		"count" : 5
+	},
+	{
+		"_id" : "Lucifer (TV)",
+		"count" : 5
+	},
+	{
+		"_id" : "The Thin Veil Series - Jodi McIsaac",
+		"count" : 5
+	},
+	{
+		"_id" : "CSI: Miami",
+		"count" : 5
+	},
+	{
+		"_id" : "Star Trek: The Next Generation",
+		"count" : 5
+	},
+	{
+		"_id" : "Bones (TV)",
+		"count" : 5
+	},
+	{
+		"_id" : "Peter Pan & Related Fandoms",
+		"count" : 5
+	},
+	{
+		"_id" : "Vampire Academy Series - Richelle Mead",
+		"count" : 5
+	},
+	{
+		"_id" : "Magi: The Labyrinth of Magic",
+		"count" : 5
+	},
+	{
+		"_id" : "percy jackson - Fandom",
+		"count" : 5
+	},
+	{
+		"_id" : "Shadowhunter Chronicles - All Media Types",
+		"count" : 5
+	},
+	{
+		"_id" : "Love Live! School Idol Project",
+		"count" : 5
+	},
+	{
+		"_id" : "Adventure Time",
 		"count" : 5
 	},
 	{
@@ -244,199 +1088,351 @@
 		"count" : 5
 	},
 	{
-		"_id" : "Hawaii Five-0 (2010)",
+		"_id" : "South Park",
 		"count" : 5
 	},
 	{
-		"_id" : "The Flash (TV 2014)",
+		"_id" : "My Little Pony: Friendship is Magic",
 		"count" : 5
 	},
 	{
-		"_id" : "Phandom/The Fantastic Foursome (YouTube RPF)",
+		"_id" : "Devil May Cry",
 		"count" : 5
 	},
 	{
-		"_id" : "Glee",
+		"_id" : "K-pop",
 		"count" : 5
 	},
 	{
-		"_id" : "The Hobbit (Jackson Movies)",
+		"_id" : "Pretty Little Liars",
 		"count" : 5
 	},
 	{
-		"_id" : "Batman - All Media Types",
+		"_id" : "HP",
 		"count" : 5
 	},
 	{
-		"_id" : "How to Train Your Dragon (Movies)",
+		"_id" : "Dragon Age (Video Games)",
+		"count" : 5
+	},
+	{
+		"_id" : "Mystic Messenger (Video Game)",
+		"count" : 5
+	},
+	{
+		"_id" : "Harry Potter (all media types)",
+		"count" : 5
+	},
+	{
+		"_id" : "Avengers",
+		"count" : 5
+	},
+	{
+		"_id" : "Underworld (Movies)",
 		"count" : 4
 	},
 	{
-		"_id" : "Twilight Series - All Media Types",
+		"_id" : "Farscape",
 		"count" : 4
 	},
 	{
-		"_id" : "Harry Potter RPF",
+		"_id" : "Princess Bride (1987)",
 		"count" : 4
 	},
 	{
-		"_id" : "Danny Phantom",
+		"_id" : "Robin Hood (BBC 2006)",
 		"count" : 4
 	},
 	{
-		"_id" : "Actor RPF",
+		"_id" : "逆転裁判 | Gyakuten Saiban | Ace Attorney",
 		"count" : 4
 	},
 	{
-		"_id" : "Sherlock Holmes & Related Fandoms",
+		"_id" : "Rhett & Link",
 		"count" : 4
 	},
 	{
-		"_id" : "Ronsy - Fandom",
+		"_id" : "Hetalia - Fandom",
 		"count" : 4
 	},
 	{
-		"_id" : "Guardians of the Galaxy (Movies)",
+		"_id" : "The Mentalist",
 		"count" : 4
 	},
 	{
-		"_id" : "Arrow (TV 2012)",
+		"_id" : "Witches of East End (TV)",
 		"count" : 4
 	},
 	{
-		"_id" : "Frozen (2013)",
+		"_id" : "Football RPF",
 		"count" : 4
 	},
 	{
-		"_id" : "Hamilton - Miranda",
+		"_id" : "The Avengers - Ambiguous Fandom",
 		"count" : 4
 	},
 	{
-		"_id" : "Tokyo Ghoul",
+		"_id" : "Pocket Monsters | Pokemon (Anime)",
 		"count" : 4
 	},
 	{
-		"_id" : "Doctor Who & Related Fandoms",
+		"_id" : "Shameless (US)",
 		"count" : 4
 	},
 	{
-		"_id" : "DC Animated Universe",
+		"_id" : "The Losers (2010)",
 		"count" : 4
 	},
 	{
-		"_id" : "Shingeki no Kyojin | Attack on Titan",
+		"_id" : "American Horror Story",
 		"count" : 4
 	},
 	{
-		"_id" : "Fullmetal Alchemist: Brotherhood & Manga",
+		"_id" : "ワンパンマン | One-Punch Man",
 		"count" : 4
 	},
 	{
-		"_id" : "The Hobbit - J. R. R. Tolkien",
+		"_id" : "ジョジョの奇妙な冒険 | JoJo no Kimyou na Bouken | JoJo's Bizarre Adventure",
 		"count" : 4
 	},
 	{
-		"_id" : "방탄소년단 | Bangtan Boys | BTS",
+		"_id" : "Final Fantasy VIII",
 		"count" : 4
 	},
 	{
-		"_id" : "Final Fantasy VII",
+		"_id" : "Durarara!!",
 		"count" : 4
 	},
 	{
-		"_id" : "The Lord of the Rings (Movies)",
+		"_id" : "Raven Cycle - Maggie Stiefvater",
 		"count" : 4
 	},
 	{
-		"_id" : "Twilight (Movies)",
+		"_id" : "Hinny - Fandom",
 		"count" : 4
 	},
 	{
-		"_id" : "Star Trek: Alternate Original Series (Movies)",
-		"count" : 3
+		"_id" : "The Social Network (2010)",
+		"count" : 4
+	},
+	{
+		"_id" : "Person of Interest (TV)",
+		"count" : 4
+	},
+	{
+		"_id" : "Pride and Prejudice - Jane Austen",
+		"count" : 4
+	},
+	{
+		"_id" : "Peter Pan (2003)",
+		"count" : 4
+	},
+	{
+		"_id" : "Titanic (1997)",
+		"count" : 4
+	},
+	{
+		"_id" : "Tortall - Tamora Pierce",
+		"count" : 4
+	},
+	{
+		"_id" : "Indiana Jones Series",
+		"count" : 4
+	},
+	{
+		"_id" : "CSI: Crime Scene Investigation",
+		"count" : 4
+	},
+	{
+		"_id" : "Xena: Warrior Princess",
+		"count" : 4
+	},
+	{
+		"_id" : "Dragonriders of Pern - Anne McCaffrey",
+		"count" : 4
+	},
+	{
+		"_id" : "jily - Fandom",
+		"count" : 4
+	},
+	{
+		"_id" : "Star Trek: Voyager",
+		"count" : 4
+	},
+	{
+		"_id" : "Beauty and the Beast (1991)",
+		"count" : 4
+	},
+	{
+		"_id" : "The Princess Bride - William Goldman",
+		"count" : 4
 	},
 	{
 		"_id" : "Fright Night (2011)",
-		"count" : 3
+		"count" : 4
 	},
 	{
-		"_id" : "The Thin Veil Series - Jodi McIsaac",
-		"count" : 3
+		"_id" : "Draco Malfoy - Fandom",
+		"count" : 4
 	},
 	{
-		"_id" : "Shadowhunters (TV)",
-		"count" : 3
+		"_id" : "TOLKIEN J. R. R. - Works & Related Fandoms",
+		"count" : 4
 	},
 	{
-		"_id" : "The Mortal Instruments Series - Cassandra Clare",
-		"count" : 3
+		"_id" : "All For the Game - Nora Sakavic",
+		"count" : 4
 	},
 	{
-		"_id" : "Harry Potter - Marauders",
-		"count" : 3
+		"_id" : "The West Wing",
+		"count" : 4
 	},
 	{
-		"_id" : "Thor - All Media Types",
-		"count" : 3
+		"_id" : "Transformers (Bay Movies)",
+		"count" : 4
 	},
 	{
-		"_id" : "Iron Man - All Media Types",
-		"count" : 3
+		"_id" : "Cabin Pressure",
+		"count" : 4
 	},
 	{
-		"_id" : "Labyrinth (1986)",
-		"count" : 3
+		"_id" : "The Danish Girl - All Media Types",
+		"count" : 4
 	},
 	{
-		"_id" : "Agents of S.H.I.E.L.D. (TV)",
-		"count" : 3
+		"_id" : "A Christmas Carol - Charles Dickens",
+		"count" : 4
 	},
 	{
-		"_id" : "Young Justice (Cartoon)",
-		"count" : 3
+		"_id" : "The Vampire Diaries - L. J. Smith",
+		"count" : 4
 	},
 	{
-		"_id" : "Futurama",
-		"count" : 3
+		"_id" : "Snarry - Fandom",
+		"count" : 4
 	},
 	{
-		"_id" : "Creepypasta - Fandom",
-		"count" : 3
+		"_id" : "Pocket Monsters | Pokemon (Main Video Game Series)",
+		"count" : 4
 	},
 	{
-		"_id" : "Star Trek: The Original Series",
-		"count" : 3
+		"_id" : "Dragon Ball",
+		"count" : 4
 	},
 	{
-		"_id" : "Greek and Roman Mythology",
-		"count" : 3
+		"_id" : "The Maze Runner Series - All Media Types",
+		"count" : 4
 	},
 	{
-		"_id" : "Big Hero 6 (2014)",
-		"count" : 3
+		"_id" : "Once Upon a Time in Wonderland (TV)",
+		"count" : 4
 	},
 	{
-		"_id" : "Chronicles of Narnia - All Media Types",
-		"count" : 3
+		"_id" : "ノラガミ | Noragami",
+		"count" : 4
+	},
+	{
+		"_id" : "Star Wars Episode V: Empire Strikes Back",
+		"count" : 4
+	},
+	{
+		"_id" : "Slavic Mythology & Folklore",
+		"count" : 4
+	},
+	{
+		"_id" : "文豪ストレイドッグス | Bungou Stray Dogs",
+		"count" : 4
+	},
+	{
+		"_id" : "The Musketeers (2014)",
+		"count" : 4
 	},
 	{
 		"_id" : "K (Anime)",
+		"count" : 4
+	},
+	{
+		"_id" : "anime - Fandom",
+		"count" : 4
+	},
+	{
+		"_id" : "Jacksepticeye (YouTuber RPF)",
+		"count" : 4
+	},
+	{
+		"_id" : "The Librarians (TV 2014)",
+		"count" : 4
+	},
+	{
+		"_id" : "Anita Blake: Vampire Hunter - Laurell K. Hamilton",
+		"count" : 4
+	},
+	{
+		"_id" : "Temeraire - Naomi Novik",
+		"count" : 4
+	},
+	{
+		"_id" : "Code Geass",
+		"count" : 4
+	},
+	{
+		"_id" : "Doctor Strange (Comics)",
+		"count" : 4
+	},
+	{
+		"_id" : "Star-Crossed (TV 2014)",
+		"count" : 4
+	},
+	{
+		"_id" : "MASH (TV)",
+		"count" : 4
+	},
+	{
+		"_id" : "Aladdin (1992)",
+		"count" : 4
+	},
+	{
+		"_id" : "Peaky Blinders (TV)",
+		"count" : 4
+	},
+	{
+		"_id" : "Degrassi",
+		"count" : 4
+	},
+	{
+		"_id" : "Merlin - Fandom",
+		"count" : 4
+	},
+	{
+		"_id" : "Markiplier (Youtuber RPF)",
+		"count" : 4
+	},
+	{
+		"_id" : "Infernal Devices Series - Cassandra Clare",
+		"count" : 4
+	},
+	{
+		"_id" : "5 Seconds of Summer (Band)",
+		"count" : 4
+	},
+	{
+		"_id" : "Serenity (2005)",
+		"count" : 4
+	},
+	{
+		"_id" : "The Covenant (2006)",
+		"count" : 4
+	},
+	{
+		"_id" : "Blood and Chocolate - Annette Curtis Klause",
 		"count" : 3
 	},
 	{
-		"_id" : "幽☆遊☆白書 | YuYu Hakusho: Ghost Files",
+		"_id" : "Disney Fairies",
 		"count" : 3
 	},
 	{
-		"_id" : "Stargate Atlantis",
-		"count" : 3
-	},
-	{
-		"_id" : "The Sentinel",
-		"count" : 3
-	},
-	{
-		"_id" : "Bleach",
+		"_id" : "How I Met Your Mother",
 		"count" : 3
 	},
 	{
@@ -444,147 +1440,567 @@
 		"count" : 3
 	},
 	{
-		"_id" : "Carmilla (Web Series)",
+		"_id" : "The Wicked Years Series - Gregory Maguire",
 		"count" : 3
 	},
 	{
-		"_id" : "True Blood",
+		"_id" : "Hitchhiker's Guide to the Galaxy - Douglas Adams",
 		"count" : 3
 	},
 	{
-		"_id" : "Devil May Cry",
+		"_id" : "Until Dawn (Video Game)",
 		"count" : 3
 	},
 	{
-		"_id" : "Kuroshitsuji | Black Butler",
+		"_id" : "Abrahamic Religions",
 		"count" : 3
 	},
 	{
-		"_id" : "The Silmarillion and other histories of Middle-Earth - J. R. R. Tolkien",
+		"_id" : "Hogwartvengers",
 		"count" : 3
 	},
 	{
-		"_id" : "The Maze Runner Series - James Dashner",
+		"_id" : "Fate/stay night & Related Fandoms",
 		"count" : 3
 	},
 	{
-		"_id" : "The 100 (TV)",
+		"_id" : "Undertale",
 		"count" : 3
 	},
 	{
-		"_id" : "Agent Carter (TV)",
+		"_id" : "The Sound of Music - Rodgers/Hammerstein/Lindsay & Crouse",
 		"count" : 3
 	},
 	{
-		"_id" : "Les Misérables - All Media Types",
+		"_id" : "The Good Wife (TV)",
 		"count" : 3
 	},
 	{
-		"_id" : "Jurassic World (2015)",
+		"_id" : "Death Note & Related Fandoms",
 		"count" : 3
 	},
 	{
-		"_id" : "Yu-Gi-Oh!",
+		"_id" : "Disney Princesses",
 		"count" : 3
 	},
 	{
-		"_id" : "Star Wars Original Trilogy",
+		"_id" : "Fantastic Beasts - Fandom",
 		"count" : 3
 	},
 	{
-		"_id" : "Hinny - Fandom",
+		"_id" : "Wizards of Waverly Place",
 		"count" : 3
 	},
 	{
-		"_id" : "Hunger Games Series - All Media Types",
+		"_id" : "Hostel (Movies)",
 		"count" : 3
 	},
 	{
-		"_id" : "Urban Strangers - Fandom",
-		"count" : 2
+		"_id" : "Misfits",
+		"count" : 3
 	},
 	{
-		"_id" : "jily - Fandom",
-		"count" : 2
+		"_id" : "Rurouni Kenshin",
+		"count" : 3
 	},
 	{
-		"_id" : "marauders - Fandom",
-		"count" : 2
+		"_id" : "The Pretender",
+		"count" : 3
 	},
 	{
-		"_id" : "fbawtft - Fandom",
-		"count" : 2
+		"_id" : "Alice in Wonderland (Movies - Burton)",
+		"count" : 3
 	},
 	{
-		"_id" : "Kingsman (Movies)",
-		"count" : 2
+		"_id" : "Sherlock Holmes (Downey films)",
+		"count" : 3
 	},
 	{
-		"_id" : "Steven Universe (Cartoon)",
-		"count" : 2
+		"_id" : "亜人 - 三浦追儺 & 桜井画門 | Ajin - Miura Tsuina & Sakurai Gamon",
+		"count" : 3
 	},
 	{
-		"_id" : "Kuroko no Basuke | Kuroko's Basketball",
-		"count" : 2
+		"_id" : "Dangan Ronpa",
+		"count" : 3
 	},
 	{
-		"_id" : "Sherlock - Fandom",
-		"count" : 2
+		"_id" : "Star Trek: Deep Space Nine",
+		"count" : 3
 	},
 	{
-		"_id" : "Batman (Movies - Nolan)",
-		"count" : 2
+		"_id" : "Super Smash Brothers",
+		"count" : 3
 	},
 	{
-		"_id" : "Teen Titans (Comics)",
-		"count" : 2
+		"_id" : "SpongeBob SquarePants (Cartoon)",
+		"count" : 3
 	},
 	{
-		"_id" : "The West Wing",
-		"count" : 2
+		"_id" : "The Matrix (Movies)",
+		"count" : 3
 	},
 	{
-		"_id" : "DC's Legends of Tomorrow (TV)",
-		"count" : 2
+		"_id" : "seamus finnigan - Fandom",
+		"count" : 3
 	},
 	{
-		"_id" : "A Christmas Carol - Charles Dickens",
-		"count" : 2
+		"_id" : "dean thomas - Fandom",
+		"count" : 3
 	},
 	{
-		"_id" : "Marvel",
-		"count" : 2
+		"_id" : "Neon Genesis Evangelion",
+		"count" : 3
 	},
 	{
-		"_id" : "We Need to Talk About Kevin - All Media Types",
-		"count" : 2
+		"_id" : "Gundam SEED",
+		"count" : 3
 	},
 	{
-		"_id" : "The Beatles",
-		"count" : 2
+		"_id" : "X-Men (Alternate Timeline Movies)",
+		"count" : 3
 	},
 	{
-		"_id" : "Death Note",
-		"count" : 2
+		"_id" : "Bishoujo Senshi Sailor Moon | Pretty Guardian Sailor Moon (Anime & Manga)",
+		"count" : 3
 	},
 	{
-		"_id" : "Peter Pan & Related Fandoms",
-		"count" : 2
+		"_id" : "The Dresden Files - Jim Butcher",
+		"count" : 3
 	},
 	{
-		"_id" : "The Hunger Games (Movies)",
-		"count" : 2
+		"_id" : "SEVENTEEN (Band)",
+		"count" : 3
 	},
 	{
-		"_id" : "Grimm (TV)",
-		"count" : 2
+		"_id" : "Junjou Romantica",
+		"count" : 3
 	},
 	{
-		"_id" : "Veritas - Fandom",
-		"count" : 2
+		"_id" : "Ben 10 Series",
+		"count" : 3
+	},
+	{
+		"_id" : "Irish Mythology",
+		"count" : 3
+	},
+	{
+		"_id" : "Baccano!",
+		"count" : 3
+	},
+	{
+		"_id" : "Winnie-the-Pooh - All Media Types",
+		"count" : 3
+	},
+	{
+		"_id" : "Doctor Who (1963)",
+		"count" : 3
+	},
+	{
+		"_id" : "Practical Magic (1998)",
+		"count" : 3
+	},
+	{
+		"_id" : "How to Get Away with Murder",
+		"count" : 3
+	},
+	{
+		"_id" : "The Legend of Zelda: Twilight Princess",
+		"count" : 3
+	},
+	{
+		"_id" : "American Horror Story: Coven",
+		"count" : 3
+	},
+	{
+		"_id" : "Pokemon",
+		"count" : 3
+	},
+	{
+		"_id" : "X-Men",
+		"count" : 3
+	},
+	{
+		"_id" : "Video Blogging (RPF)",
+		"count" : 3
+	},
+	{
+		"_id" : "World of Warcraft",
+		"count" : 3
+	},
+	{
+		"_id" : "モブサイコ100 | Mob Psycho 100",
+		"count" : 3
+	},
+	{
+		"_id" : "Tsubasa: Reservoir Chronicle",
+		"count" : 3
+	},
+	{
+		"_id" : "Star Wars: The Clone Wars (2008) - All Media Types",
+		"count" : 3
+	},
+	{
+		"_id" : "Pokemon GO",
+		"count" : 3
+	},
+	{
+		"_id" : "Orphan Black (TV)",
+		"count" : 3
+	},
+	{
+		"_id" : "Heroes (TV)",
+		"count" : 3
+	},
+	{
+		"_id" : "Hunter X Hunter",
+		"count" : 3
+	},
+	{
+		"_id" : "Peter Pan - J. M. Barrie",
+		"count" : 3
+	},
+	{
+		"_id" : "due South",
+		"count" : 3
+	},
+	{
+		"_id" : "Zayn Malik (Musician)",
+		"count" : 3
+	},
+	{
+		"_id" : "Inception (2010)",
+		"count" : 3
+	},
+	{
+		"_id" : "Tarzan (1999)",
+		"count" : 3
+	},
+	{
+		"_id" : "Magnus Chase and the Gods of Asgard - Rick Riordan",
+		"count" : 3
+	},
+	{
+		"_id" : "Scorbus - Fandom",
+		"count" : 3
+	},
+	{
+		"_id" : "Fantastic Four",
+		"count" : 3
+	},
+	{
+		"_id" : "X-Men Evolution",
+		"count" : 3
+	},
+	{
+		"_id" : "The Mortal Instruments Series - Cassandra Clare",
+		"count" : 3
+	},
+	{
+		"_id" : "Cardcaptor Sakura",
+		"count" : 3
+	},
+	{
+		"_id" : "Harry Potter - Marauders",
+		"count" : 3
+	},
+	{
+		"_id" : "Alice in Wonderland (2010)",
+		"count" : 3
+	},
+	{
+		"_id" : "The Lord of the Rings RPF",
+		"count" : 3
+	},
+	{
+		"_id" : "CLAMP - Works",
+		"count" : 3
+	},
+	{
+		"_id" : "Dogma",
+		"count" : 3
+	},
+	{
+		"_id" : "Political RPF - US 21st c.",
+		"count" : 3
+	},
+	{
+		"_id" : "Terminator: The Sarah Connor Chronicles",
+		"count" : 3
+	},
+	{
+		"_id" : "Teenage Mutant Ninja Turtles (TV 2012)",
+		"count" : 3
+	},
+	{
+		"_id" : "Revenge (TV)",
+		"count" : 3
+	},
+	{
+		"_id" : "Star Wars Episode IV: A New Hope",
+		"count" : 3
 	},
 	{
 		"_id" : "Pushing Daisies",
+		"count" : 3
+	},
+	{
+		"_id" : "The Sandman (Comics)",
+		"count" : 3
+	},
+	{
+		"_id" : "Law & Order: SVU",
+		"count" : 3
+	},
+	{
+		"_id" : "Cursed Child - Fandom",
+		"count" : 3
+	},
+	{
+		"_id" : "Harry Potter - JK Rowling",
+		"count" : 3
+	},
+	{
+		"_id" : "Little Mix (Band)",
+		"count" : 3
+	},
+	{
+		"_id" : "Guardians of Childhood - William Joyce",
+		"count" : 3
+	},
+	{
+		"_id" : "game of thrones",
+		"count" : 3
+	},
+	{
+		"_id" : "The Amazing Spider-Man (Movies - Webb)",
+		"count" : 3
+	},
+	{
+		"_id" : "Persona 3",
+		"count" : 3
+	},
+	{
+		"_id" : "X-Men: Days of Future Past (2014) - Fandom",
+		"count" : 3
+	},
+	{
+		"_id" : "Historical RPF",
+		"count" : 3
+	},
+	{
+		"_id" : "Assassin's Heir",
+		"count" : 3
+	},
+	{
+		"_id" : "Graceling - Kristin Cashore",
+		"count" : 3
+	},
+	{
+		"_id" : "Guardians of the Galaxy - All Media Types",
+		"count" : 3
+	},
+	{
+		"_id" : "The Fosters (TV 2013)",
+		"count" : 3
+	},
+	{
+		"_id" : "Digimon Adventure Zero Two | Digimon Adventure 02",
+		"count" : 3
+	},
+	{
+		"_id" : "Star Wars Episode I: The Phantom Menace",
+		"count" : 3
+	},
+	{
+		"_id" : "The Trials of Apollo - Rick Riordan",
+		"count" : 3
+	},
+	{
+		"_id" : "dan and phil",
+		"count" : 3
+	},
+	{
+		"_id" : "deamus - Fandom",
+		"count" : 3
+	},
+	{
+		"_id" : "crossover - Fandom",
+		"count" : 3
+	},
+	{
+		"_id" : "Now You See Me (Movies)",
+		"count" : 3
+	},
+	{
+		"_id" : "Supernatural RPF",
+		"count" : 3
+	},
+	{
+		"_id" : "Zootopia (2016)",
+		"count" : 3
+	},
+	{
+		"_id" : "The Chronicles of Riddick Series",
+		"count" : 3
+	},
+	{
+		"_id" : "Jeeves & Wooster",
+		"count" : 3
+	},
+	{
+		"_id" : "Mahou Shoujo Madoka Magika | Puella Magi Madoka Magica",
+		"count" : 3
+	},
+	{
+		"_id" : "Video Blogging RPF",
+		"count" : 3
+	},
+	{
+		"_id" : "Star Wars Legends: Knights of the Old Republic",
+		"count" : 3
+	},
+	{
+		"_id" : "Hogwarts Au - Fandom",
+		"count" : 3
+	},
+	{
+		"_id" : "Super Mario & Related Fandoms",
+		"count" : 3
+	},
+	{
+		"_id" : "Harry Potter and Game of Thrones Crossover",
+		"count" : 3
+	},
+	{
+		"_id" : "DC Comics",
+		"count" : 3
+	},
+	{
+		"_id" : "Assassin's Creed - All Media Types",
+		"count" : 3
+	},
+	{
+		"_id" : "Subspecies",
+		"count" : 2
+	},
+	{
+		"_id" : "Star Wars Episode III: Revenge of the Sith",
+		"count" : 2
+	},
+	{
+		"_id" : "Dragon Age",
+		"count" : 2
+	},
+	{
+		"_id" : "Dark Harry Potter - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Enemy at the Gates (2001)",
+		"count" : 2
+	},
+	{
+		"_id" : "Resident Evil (Movieverse)",
+		"count" : 2
+	},
+	{
+		"_id" : "Elder Scrolls",
+		"count" : 2
+	},
+	{
+		"_id" : "Forgotten Realms",
+		"count" : 2
+	},
+	{
+		"_id" : "Without a Trace",
+		"count" : 2
+	},
+	{
+		"_id" : "Potpourri - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Pottertalia - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "The Song of Achilles - Madeline Miller",
+		"count" : 2
+	},
+	{
+		"_id" : "Addams Family (TV 1964)",
+		"count" : 2
+	},
+	{
+		"_id" : "Star Trek: Enterprise",
+		"count" : 2
+	},
+	{
+		"_id" : "Endeavour (TV)",
+		"count" : 2
+	},
+	{
+		"_id" : "Mighty Morphin Power Rangers",
+		"count" : 2
+	},
+	{
+		"_id" : "Lost Boys (1987)",
+		"count" : 2
+	},
+	{
+		"_id" : "Snow White and the Seven Dwarfs (1937)",
+		"count" : 2
+	},
+	{
+		"_id" : "Scandal (TV)",
+		"count" : 2
+	},
+	{
+		"_id" : "Vampire Academy & Related Fandoms",
+		"count" : 2
+	},
+	{
+		"_id" : "Multiple fandoms - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Bend It Like Beckham (2002)",
+		"count" : 2
+	},
+	{
+		"_id" : "The Real Ghostbusters",
+		"count" : 2
+	},
+	{
+		"_id" : "The Magicians (TV)",
+		"count" : 2
+	},
+	{
+		"_id" : "The Flash - All Media Types",
+		"count" : 2
+	},
+	{
+		"_id" : "Sleepy Hollow (TV)",
+		"count" : 2
+	},
+	{
+		"_id" : "The Simpsons",
+		"count" : 2
+	},
+	{
+		"_id" : "Hellboy (Movies)",
+		"count" : 2
+	},
+	{
+		"_id" : "Weiß Kreuz",
+		"count" : 2
+	},
+	{
+		"_id" : "Penny Dreadful (TV)",
+		"count" : 2
+	},
+	{
+		"_id" : "game of thrones crossover - Fandom",
 		"count" : 2
 	},
 	{
@@ -592,235 +2008,195 @@
 		"count" : 2
 	},
 	{
-		"_id" : "Norse Religion & Lore",
+		"_id" : "Cinderella (1950)",
 		"count" : 2
 	},
 	{
-		"_id" : "The Secret World of Alex Mack",
+		"_id" : "Subspecies (1991)",
 		"count" : 2
 	},
 	{
-		"_id" : "James Bond (Movies)",
+		"_id" : "North and South - Elizabeth Gaskell | UK TV",
 		"count" : 2
 	},
 	{
-		"_id" : "Star Trek",
+		"_id" : "Justice League - All Media Types",
 		"count" : 2
 	},
 	{
-		"_id" : "ノラガミ | Noragami",
+		"_id" : "Grease (1978)",
 		"count" : 2
 	},
 	{
-		"_id" : "文豪ストレイドッグス | Bungou Stray Dogs",
+		"_id" : "Batman: Arkham - All Media Types",
 		"count" : 2
 	},
 	{
-		"_id" : "Robin Hood (BBC 2006)",
+		"_id" : "Marble Hornets",
 		"count" : 2
 	},
 	{
-		"_id" : "Free!",
+		"_id" : "A Song of Ice and Fire Crossover",
 		"count" : 2
 	},
 	{
-		"_id" : "One Direction (Band)",
+		"_id" : "Rooster Teeth/Achievement Hunter/Funhaus RPF",
 		"count" : 2
 	},
 	{
-		"_id" : "Ao no Exorcist | Blue Exorcist",
+		"_id" : "Alien Nation",
 		"count" : 2
 	},
 	{
-		"_id" : "Sword Art Online",
+		"_id" : "Hannibal Lecter Series - All Media Types",
 		"count" : 2
 	},
 	{
-		"_id" : "game of thrones",
+		"_id" : "Saiyuki",
 		"count" : 2
 	},
 	{
-		"_id" : "The Danish Girl - All Media Types",
+		"_id" : "The Perfect American",
 		"count" : 2
 	},
 	{
-		"_id" : "The Vampire Diaries (TV)",
+		"_id" : "Persona Series",
 		"count" : 2
 	},
 	{
-		"_id" : "Magic: The Gathering",
+		"_id" : "Batman (Movies 1989-1997)",
 		"count" : 2
 	},
 	{
-		"_id" : "The Jungle Book - Rudyard Kipling",
+		"_id" : "The Almighty Johnsons",
 		"count" : 2
 	},
 	{
-		"_id" : "Anita Blake: Vampire Hunter - Laurell K. Hamilton",
+		"_id" : "Youtube RPF",
 		"count" : 2
 	},
 	{
-		"_id" : "Check Please! (Webcomic)",
+		"_id" : "Religion & Lore - Ambiguous Fandom",
 		"count" : 2
 	},
 	{
-		"_id" : "Marvel Cinematic Universe RPF",
+		"_id" : "Les Misérables - Schönberg/Boublil",
 		"count" : 2
 	},
 	{
-		"_id" : "Avatar: The Last Airbender",
+		"_id" : "LEGO Star Wars - All Media Types",
 		"count" : 2
 	},
 	{
-		"_id" : "Disney - All Media Types",
+		"_id" : "Tengen Toppa Gurren Lagann",
 		"count" : 2
 	},
 	{
-		"_id" : "Divergent Series - Veronica Roth",
+		"_id" : "Danisnotonfire - Fandom",
 		"count" : 2
 	},
 	{
-		"_id" : "Torchwood",
+		"_id" : "Battlestar Galactica (1978)",
 		"count" : 2
 	},
 	{
-		"_id" : "ワンパンマン | One-Punch Man",
+		"_id" : "Harry Potter AU - Fandom",
 		"count" : 2
 	},
 	{
-		"_id" : "Ouran High School Host Club - All Media Types",
+		"_id" : "Five Nights at Freddy's",
 		"count" : 2
 	},
 	{
-		"_id" : "Welcome to Night Vale",
+		"_id" : "Life on Mars (UK)",
 		"count" : 2
 	},
 	{
-		"_id" : "The Trials of Apollo - Rick Riordan",
+		"_id" : "Potter - Fandom",
 		"count" : 2
 	},
 	{
-		"_id" : "MASH (TV)",
+		"_id" : "Le Comte de Monte-Cristo | Count of Monte Cristo - Alexandre Dumas",
 		"count" : 2
 	},
 	{
-		"_id" : "Aladdin (1992)",
+		"_id" : "The Cursed Child - Fandom",
 		"count" : 2
 	},
 	{
-		"_id" : "HP",
+		"_id" : "Repo! The Genetic Opera (2008)",
 		"count" : 2
 	},
 	{
-		"_id" : "The Maze Runner Series - All Media Types",
+		"_id" : "Gotham (TV)",
 		"count" : 2
 	},
 	{
-		"_id" : "Peaky Blinders (TV)",
+		"_id" : "Bee Movie (2007)",
 		"count" : 2
 	},
 	{
-		"_id" : "Firefly",
+		"_id" : "Scream (TV)",
 		"count" : 2
 	},
 	{
-		"_id" : "僕のヒーローアカデミア | Boku no Hero Academia | My Hero Academia",
+		"_id" : "The Nightmare Before Christmas (1993)",
 		"count" : 2
 	},
 	{
-		"_id" : "Degrassi",
+		"_id" : "Back to the Future (Movies)",
 		"count" : 2
 	},
 	{
-		"_id" : "Assassin's Heir",
+		"_id" : "Frozen - Fandom",
 		"count" : 2
 	},
 	{
-		"_id" : "X-Men (Movies)",
+		"_id" : "Guardians of Childhood & Related Fandoms",
 		"count" : 2
 	},
 	{
-		"_id" : "DC Cinematic Universe",
+		"_id" : "Being Human (UK)",
 		"count" : 2
 	},
 	{
-		"_id" : "Gilmore Girls",
+		"_id" : "The Avengers (2012)",
 		"count" : 2
 	},
 	{
-		"_id" : "Leverage",
+		"_id" : "Mary Poppins - P. L. Travers",
 		"count" : 2
 	},
 	{
-		"_id" : "Red Hood and the Outlaws (Comics)",
+		"_id" : "Richard III - Shakespeare",
 		"count" : 2
 	},
 	{
-		"_id" : "Supernatural RPF",
+		"_id" : "Romeo And Juliet - Shakespeare",
 		"count" : 2
 	},
 	{
-		"_id" : "Harry - Fandom",
+		"_id" : "Merry Gentry - Laurell K Hamilton",
 		"count" : 2
 	},
 	{
-		"_id" : "Mystic Messenger (Video Game)",
+		"_id" : "Bayonetta (Video Games)",
 		"count" : 2
 	},
 	{
-		"_id" : "CSI: Crime Scene Investigation",
+		"_id" : "Naruto Crossover - Fandom",
 		"count" : 2
 	},
 	{
-		"_id" : "Daredevil (TV)",
+		"_id" : "Forever (TV)",
 		"count" : 2
 	},
 	{
-		"_id" : "The Chronicles of Riddick Series",
+		"_id" : "Hercules (1997)",
 		"count" : 2
 	},
 	{
-		"_id" : "Deadpool - All Media Types",
-		"count" : 2
-	},
-	{
-		"_id" : "Pirates of the Caribbean (Movies)",
-		"count" : 2
-	},
-	{
-		"_id" : "Flashpoint (TV)",
-		"count" : 2
-	},
-	{
-		"_id" : "Phineas and Ferb",
-		"count" : 2
-	},
-	{
-		"_id" : "Dransy - Fandom",
-		"count" : 2
-	},
-	{
-		"_id" : "James Bond - All Media Types",
-		"count" : 2
-	},
-	{
-		"_id" : "Guardians of the Galaxy - All Media Types",
-		"count" : 2
-	},
-	{
-		"_id" : "Mulan (1998)",
-		"count" : 2
-	},
-	{
-		"_id" : "Marvel (Movies)",
-		"count" : 2
-	},
-	{
-		"_id" : "DC Comics",
-		"count" : 2
-	},
-	{
-		"_id" : "Discworld - Terry Pratchett",
+		"_id" : "Where's Waldo - Martin Handford",
 		"count" : 2
 	},
 	{
@@ -828,15 +2204,787 @@
 		"count" : 2
 	},
 	{
-		"_id" : "Assassin's Creed - All Media Types",
+		"_id" : "Sex Pistols | Love Pistols",
 		"count" : 2
 	},
 	{
-		"_id" : "Good Omens - Neil Gaiman & Terry Pratchett",
+		"_id" : "Shrek (2001)",
 		"count" : 2
 	},
 	{
-		"_id" : "D.Gray-man",
+		"_id" : "Gaston (bande dessinée)",
+		"count" : 2
+	},
+	{
+		"_id" : "Fred Weasley - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Jewish Legend & Lore",
+		"count" : 2
+	},
+	{
+		"_id" : "Dangan Ronpa - All Media Types",
+		"count" : 2
+	},
+	{
+		"_id" : "American Horror Story: Hotel",
+		"count" : 2
+	},
+	{
+		"_id" : "Justice League & Justice League Unlimited (Cartoons)",
+		"count" : 2
+	},
+	{
+		"_id" : "七つの大罪 | Nanatsu no Taizai | The Seven Deadly Sins",
+		"count" : 2
+	},
+	{
+		"_id" : "Hamilton - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Majo no Takkyuubin | Kiki's Delivery Service",
+		"count" : 2
+	},
+	{
+		"_id" : "Kingsman (2014)",
+		"count" : 2
+	},
+	{
+		"_id" : "Sleeping Beauty (Fairy Tale)",
+		"count" : 2
+	},
+	{
+		"_id" : "Olympus Has Fallen (Movies)",
+		"count" : 2
+	},
+	{
+		"_id" : "Sleeping Beauty (1959)",
+		"count" : 2
+	},
+	{
+		"_id" : "Magisterium Series - Holly Black & Cassandra Clare",
+		"count" : 2
+	},
+	{
+		"_id" : "Turn (TV 2014)",
+		"count" : 2
+	},
+	{
+		"_id" : "Younger (TV)",
+		"count" : 2
+	},
+	{
+		"_id" : "X-Men (Comicverse)",
+		"count" : 2
+	},
+	{
+		"_id" : "Phil Lester - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Tsukihime",
+		"count" : 2
+	},
+	{
+		"_id" : "The Diary of Rachel Lockhart",
+		"count" : 2
+	},
+	{
+		"_id" : "Star Trek: The Original Series (Movies)",
+		"count" : 2
+	},
+	{
+		"_id" : "Steven Universe - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Star Wars Legends - All Media Types",
+		"count" : 2
+	},
+	{
+		"_id" : "Godzilla - All Media Types",
+		"count" : 2
+	},
+	{
+		"_id" : "Elementary (TV)",
+		"count" : 2
+	},
+	{
+		"_id" : "Wiedźmin | The Witcher Series - Andrzej Sapkowski",
+		"count" : 2
+	},
+	{
+		"_id" : "Series of Unfortunate Events - Lemony Snicket",
+		"count" : 2
+	},
+	{
+		"_id" : "Shrek Series",
+		"count" : 2
+	},
+	{
+		"_id" : "Black Butler",
+		"count" : 2
+	},
+	{
+		"_id" : "f(x)",
+		"count" : 2
+	},
+	{
+		"_id" : "Lilo & Stitch (2002)",
+		"count" : 2
+	},
+	{
+		"_id" : "Thuna - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "MS Paint Adventures",
+		"count" : 2
+	},
+	{
+		"_id" : "Love Rosie (2014)",
+		"count" : 2
+	},
+	{
+		"_id" : "Taylor Swift (Musician)",
+		"count" : 2
+	},
+	{
+		"_id" : "Degrassi the Next Generation",
+		"count" : 2
+	},
+	{
+		"_id" : "Power Rangers",
+		"count" : 2
+	},
+	{
+		"_id" : "Dan Howell - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Mean Girls (2004)",
+		"count" : 2
+	},
+	{
+		"_id" : "Queer as Folk (US)",
+		"count" : 2
+	},
+	{
+		"_id" : "The Mummy (1999)",
+		"count" : 2
+	},
+	{
+		"_id" : "Cthulhu Mythos - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "romione - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Kim Possible (Cartoon)",
+		"count" : 2
+	},
+	{
+		"_id" : "Hotel Transylvania (2012)",
+		"count" : 2
+	},
+	{
+		"_id" : "Old Kingdom - Garth Nix",
+		"count" : 2
+	},
+	{
+		"_id" : "Hunger Games - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Harry Potter and the Philosopher's Stone - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Marvel Cinematic Universe RPF",
+		"count" : 2
+	},
+	{
+		"_id" : "Robin Hood (Traditional)",
+		"count" : 2
+	},
+	{
+		"_id" : "Mary Poppins (1964)",
+		"count" : 2
+	},
+	{
+		"_id" : "markiplier - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Fangirl - Rainbow Rowell",
+		"count" : 2
+	},
+	{
+		"_id" : "David Bowie (Musician)",
+		"count" : 2
+	},
+	{
+		"_id" : "Archer (Cartoon)",
+		"count" : 2
+	},
+	{
+		"_id" : "Terminator (Movies)",
+		"count" : 2
+	},
+	{
+		"_id" : "hermione granger - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Trinity Blood",
+		"count" : 2
+	},
+	{
+		"_id" : "Sky High (2005)",
+		"count" : 2
+	},
+	{
+		"_id" : "Fake News RPF",
+		"count" : 2
+	},
+	{
+		"_id" : "Tokyo Mew Mew",
+		"count" : 2
+	},
+	{
+		"_id" : "Peanuts",
+		"count" : 2
+	},
+	{
+		"_id" : "Transformers - All Media Types",
+		"count" : 2
+	},
+	{
+		"_id" : "Vorkosigan Saga - Lois McMaster Bujold",
+		"count" : 2
+	},
+	{
+		"_id" : "Divergent - All Media Types",
+		"count" : 2
+	},
+	{
+		"_id" : "Final Fantasy XIII",
+		"count" : 2
+	},
+	{
+		"_id" : "youtube - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Total Drama",
+		"count" : 2
+	},
+	{
+		"_id" : "Loveless",
+		"count" : 2
+	},
+	{
+		"_id" : "Disney RPF",
+		"count" : 2
+	},
+	{
+		"_id" : "Rocky Horror Picture Show",
+		"count" : 2
+	},
+	{
+		"_id" : "Hellsing",
+		"count" : 2
+	},
+	{
+		"_id" : "Dogma (1999)",
+		"count" : 2
+	},
+	{
+		"_id" : "One Direction",
+		"count" : 2
+	},
+	{
+		"_id" : "Cinderella (Fairy Tale)",
+		"count" : 2
+	},
+	{
+		"_id" : "The Cabin in the Woods (2011)",
+		"count" : 2
+	},
+	{
+		"_id" : "iZombie (TV)",
+		"count" : 2
+	},
+	{
+		"_id" : "Highlander: The Series",
+		"count" : 2
+	},
+	{
+		"_id" : "DC's Legends of Tomorrow (TV) RPF",
+		"count" : 2
+	},
+	{
+		"_id" : "Animorphs - Katherine A. Applegate",
+		"count" : 2
+	},
+	{
+		"_id" : "Matilda - Roald Dahl",
+		"count" : 2
+	},
+	{
+		"_id" : "5SOS",
+		"count" : 2
+	},
+	{
+		"_id" : "CSI: NY",
+		"count" : 2
+	},
+	{
+		"_id" : "X-Men: First Class (2011) RPF",
+		"count" : 2
+	},
+	{
+		"_id" : "Princess Tutu",
+		"count" : 2
+	},
+	{
+		"_id" : "etc - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Wiedźmin | The Witcher (Video Game)",
+		"count" : 2
+	},
+	{
+		"_id" : "jacksepticeye",
+		"count" : 2
+	},
+	{
+		"_id" : "A Winter's Tale",
+		"count" : 2
+	},
+	{
+		"_id" : "Hawkeye (Comics)",
+		"count" : 2
+	},
+	{
+		"_id" : "The Shoebox Project - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "ああっ女神さまっ | Ah! Megami-sama! | Oh My Goddess!",
+		"count" : 2
+	},
+	{
+		"_id" : "Digimon Adventure",
+		"count" : 2
+	},
+	{
+		"_id" : "DC - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Slings & Arrows",
+		"count" : 2
+	},
+	{
+		"_id" : "Meet the Robinsons (2007)",
+		"count" : 2
+	},
+	{
+		"_id" : "Urban Strangers - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Arrow - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Flintwood - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Bambi (1942)",
+		"count" : 2
+	},
+	{
+		"_id" : "Dishonored (Video Game)",
+		"count" : 2
+	},
+	{
+		"_id" : "Elder Scrolls IV: Oblivion",
+		"count" : 2
+	},
+	{
+		"_id" : "Kingsman (2015)",
+		"count" : 2
+	},
+	{
+		"_id" : "Lord of the Rings - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Dracula - Bram Stoker",
+		"count" : 2
+	},
+	{
+		"_id" : "fbawtft - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Super Dangan Ronpa 2",
+		"count" : 2
+	},
+	{
+		"_id" : "Parks and Recreation",
+		"count" : 2
+	},
+	{
+		"_id" : "British Royalty RPF",
+		"count" : 2
+	},
+	{
+		"_id" : "LEGO Star Wars: The Yoda Chronicles",
+		"count" : 2
+	},
+	{
+		"_id" : "The Charioteer - Mary Renault",
+		"count" : 2
+	},
+	{
+		"_id" : "Akatsuki no Yona | Yona of the Dawn",
+		"count" : 2
+	},
+	{
+		"_id" : "Homicide: Life on the Street",
+		"count" : 2
+	},
+	{
+		"_id" : "ゼロの使い魔 | Zero no Tsukaima | The Familiar of Zero",
+		"count" : 2
+	},
+	{
+		"_id" : "Thor (Comics)",
+		"count" : 2
+	},
+	{
+		"_id" : "All Time Low",
+		"count" : 2
+	},
+	{
+		"_id" : "Jurassic Park III (2001)",
+		"count" : 2
+	},
+	{
+		"_id" : "Silent Hill (Video Game Series)",
+		"count" : 2
+	},
+	{
+		"_id" : "Girl Genius",
+		"count" : 2
+	},
+	{
+		"_id" : "The Hobbit",
+		"count" : 2
+	},
+	{
+		"_id" : "Fruits Basket",
+		"count" : 2
+	},
+	{
+		"_id" : "Amazingphil - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Sports Night",
+		"count" : 2
+	},
+	{
+		"_id" : "Dead Like Me",
+		"count" : 2
+	},
+	{
+		"_id" : "The Professionals",
+		"count" : 2
+	},
+	{
+		"_id" : "Veritas - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Infinite (Band)",
+		"count" : 2
+	},
+	{
+		"_id" : "Southern Vampire Mysteries - Charlaine Harris",
+		"count" : 2
+	},
+	{
+		"_id" : "Lunar Chronicles - Marissa Meyer",
+		"count" : 2
+	},
+	{
+		"_id" : "Veronica Mars (TV)",
+		"count" : 2
+	},
+	{
+		"_id" : "Wicked - Schwartz/Holzman",
+		"count" : 2
+	},
+	{
+		"_id" : "Simon Snow series - Gemma T. Leslie",
+		"count" : 2
+	},
+	{
+		"_id" : "The Legend of Zelda: Majora's Mask",
+		"count" : 2
+	},
+	{
+		"_id" : "Troy (2004)",
+		"count" : 2
+	},
+	{
+		"_id" : "Roswell (TV)",
+		"count" : 2
+	},
+	{
+		"_id" : "Teenage Mutant Ninja Turtles - All Media Types",
+		"count" : 2
+	},
+	{
+		"_id" : "Popslash",
+		"count" : 2
+	},
+	{
+		"_id" : "Léon | The Professional (1994)",
+		"count" : 2
+	},
+	{
+		"_id" : "Doctor Strange (2016)",
+		"count" : 2
+	},
+	{
+		"_id" : "Sabrina the Teenage Witch (TV)",
+		"count" : 2
+	},
+	{
+		"_id" : "Stranger Things (TV 2016)",
+		"count" : 2
+	},
+	{
+		"_id" : "We Need to Talk About Kevin - All Media Types",
+		"count" : 2
+	},
+	{
+		"_id" : "Assassination Classroom",
+		"count" : 2
+	},
+	{
+		"_id" : "Ranma 1/2",
+		"count" : 2
+	},
+	{
+		"_id" : "Final Fantasy XV",
+		"count" : 2
+	},
+	{
+		"_id" : "Inkheart (2008)",
+		"count" : 2
+	},
+	{
+		"_id" : "Red Hood and the Outlaws (Comics)",
+		"count" : 2
+	},
+	{
+		"_id" : "Men in Black (Movies)",
+		"count" : 2
+	},
+	{
+		"_id" : "The Secret World of Alex Mack",
+		"count" : 2
+	},
+	{
+		"_id" : "Dransy - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Teen Titans (Comics)",
+		"count" : 2
+	},
+	{
+		"_id" : "Phandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Fifth Element (1997)",
+		"count" : 2
+	},
+	{
+		"_id" : "Mercy Street (TV)",
+		"count" : 2
+	},
+	{
+		"_id" : "Wiedźmin | The Witcher - All Media Types",
+		"count" : 2
+	},
+	{
+		"_id" : "Bewitched",
+		"count" : 2
+	},
+	{
+		"_id" : "Pandora Hearts",
+		"count" : 2
+	},
+	{
+		"_id" : "She's the Man (2006)",
+		"count" : 2
+	},
+	{
+		"_id" : "神々の悪戯 | Kamigami no Asobi",
+		"count" : 2
+	},
+	{
+		"_id" : "Dragon Age: Origins",
+		"count" : 2
+	},
+	{
+		"_id" : "The Mortal Instruments",
+		"count" : 2
+	},
+	{
+		"_id" : "Tintenwelt-Trilogie | Inkheart Trilogy - Cornelia Funke",
+		"count" : 2
+	},
+	{
+		"_id" : "Ghost Hunt",
+		"count" : 2
+	},
+	{
+		"_id" : "Harry Potter - J.K Rowling",
+		"count" : 2
+	},
+	{
+		"_id" : "No. 6 (Anime & Manga)",
+		"count" : 2
+	},
+	{
+		"_id" : "BBC Radio 1 RPF",
+		"count" : 2
+	},
+	{
+		"_id" : "Call the Midwife",
+		"count" : 2
+	},
+	{
+		"_id" : "Blindspot (TV)",
+		"count" : 2
+	},
+	{
+		"_id" : "Harry Potter and the Methods of Rationality",
+		"count" : 2
+	},
+	{
+		"_id" : "Constantine (TV)",
+		"count" : 2
+	},
+	{
+		"_id" : "The Jungle Book - Rudyard Kipling",
+		"count" : 2
+	},
+	{
+		"_id" : "Ghost Whisperer",
+		"count" : 2
+	},
+	{
+		"_id" : "Rapunzel (Fairy Tale)",
+		"count" : 2
+	},
+	{
+		"_id" : "Throne of Glass Series - Sarah J. Maas",
+		"count" : 2
+	},
+	{
+		"_id" : "LEGO The Lord of the Rings",
+		"count" : 2
+	},
+	{
+		"_id" : "Before Crisis: Final Fantasy VII",
+		"count" : 2
+	},
+	{
+		"_id" : "Golden Girls",
+		"count" : 2
+	},
+	{
+		"_id" : "Clueless (1995)",
+		"count" : 2
+	},
+	{
+		"_id" : "Rise of The Brave Tangled Dragons - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Star Wars Episode VI: Return of the Jedi",
+		"count" : 2
+	},
+	{
+		"_id" : "Гарри Поттер - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "僕のヒーローアカデミア | Boku no Hero Academia | My Hero Academia",
+		"count" : 2
+	},
+	{
+		"_id" : "Lost",
+		"count" : 2
+	},
+	{
+		"_id" : "Emperor's New Groove (2000)",
+		"count" : 2
+	},
+	{
+		"_id" : "Broadchurch",
+		"count" : 2
+	},
+	{
+		"_id" : "Robin Hood - All Media Types",
+		"count" : 2
+	},
+	{
+		"_id" : "the rising - Fandom",
+		"count" : 2
+	},
+	{
+		"_id" : "Jane Eyre - Charlotte Brontë",
+		"count" : 2
+	},
+	{
+		"_id" : "Phineas and Ferb",
+		"count" : 2
+	},
+	{
+		"_id" : "Lewis (TV)",
+		"count" : 2
+	},
+	{
+		"_id" : "Yu-Gi-Oh! GX",
+		"count" : 2
+	},
+	{
+		"_id" : "Ant-Man (Movies)",
+		"count" : 2
+	},
+	{
+		"_id" : "Trigun",
+		"count" : 2
+	},
+	{
+		"_id" : "Dark Artifices Series - Cassandra Clare",
 		"count" : 2
 	},
 	{
@@ -844,19 +2992,3051 @@
 		"count" : 2
 	},
 	{
-		"_id" : "teen wolf - Fandom",
+		"_id" : "Led Zeppelin",
 		"count" : 2
 	},
 	{
-		"_id" : "Batman (Comics)",
+		"_id" : "High School Musical (Movies)",
 		"count" : 2
 	},
 	{
-		"_id" : "Pocket Monsters | Pokemon - All Media Types",
-		"count" : 2
+		"_id" : "King John - Shakespeare",
+		"count" : 1
 	},
 	{
-		"_id" : "DC's Legends of Tomorrow (TV) RPF",
+		"_id" : "Kyou Kara Maou!",
+		"count" : 1
+	},
+	{
+		"_id" : "Elfquest",
+		"count" : 1
+	},
+	{
+		"_id" : "Dragonlance - Margaret Weis & Tracy Hickman",
+		"count" : 1
+	},
+	{
+		"_id" : "Vertigo (Comics)",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter (just a bare smidge)",
+		"count" : 1
+	},
+	{
+		"_id" : "LEGO Pirates of the Caribbean",
+		"count" : 1
+	},
+	{
+		"_id" : "Sherlock (reference only)",
+		"count" : 1
+	},
+	{
+		"_id" : "Tales of Rowan Hood - Nancy Springer",
+		"count" : 1
+	},
+	{
+		"_id" : "Alan Rickman - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Secretary (2002)",
+		"count" : 1
+	},
+	{
+		"_id" : "hp world",
+		"count" : 1
+	},
+	{
+		"_id" : "To Kill a Mockingbird - Harper Lee",
+		"count" : 1
+	},
+	{
+		"_id" : "10 Things I Hate About You (1999)",
+		"count" : 1
+	},
+	{
+		"_id" : "AKB48",
+		"count" : 1
+	},
+	{
+		"_id" : "48group",
+		"count" : 1
+	},
+	{
+		"_id" : "Mary Poppins - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "終わりのセラフ | Owari no Seraph | Seraph of the End",
+		"count" : 1
+	},
+	{
+		"_id" : "Command & Conquer (Video Games)",
+		"count" : 1
+	},
+	{
+		"_id" : "1960s Music Scene RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "Carmilla - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "The Avengers",
+		"count" : 1
+	},
+	{
+		"_id" : "Political RPF - Australian 20th-21st c.",
+		"count" : 1
+	},
+	{
+		"_id" : "Magical Girl Lyrical Nanoha",
+		"count" : 1
+	},
+	{
+		"_id" : "Vampirates - Justin Somper",
+		"count" : 1
+	},
+	{
+		"_id" : "Assassins - Sondheim/Weidman",
+		"count" : 1
+	},
+	{
+		"_id" : "american wizarding world",
+		"count" : 1
+	},
+	{
+		"_id" : "Prison School",
+		"count" : 1
+	},
+	{
+		"_id" : "Dorian Gray (2009)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Lion King 2: Simba's Pride (1998)",
+		"count" : 1
+	},
+	{
+		"_id" : "Inuyasha - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Albus Dumbledore - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Emma Watson - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Daniel Radcliffe - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Hamlet - Shakespeare",
+		"count" : 1
+	},
+	{
+		"_id" : "Gate 7",
+		"count" : 1
+	},
+	{
+		"_id" : "X -エックス- | X/1999",
+		"count" : 1
+	},
+	{
+		"_id" : "Tokyo Babylon",
+		"count" : 1
+	},
+	{
+		"_id" : "Ancient Rome - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Biography Of A Child Assassin-Daiyu Amaya",
+		"count" : 1
+	},
+	{
+		"_id" : "The Witcher 3 (Videogame)",
+		"count" : 1
+	},
+	{
+		"_id" : "Otbleski Eterny | Reflections of Eterna - Vera Kamsha",
+		"count" : 1
+	},
+	{
+		"_id" : "He-Man and the Masters of the Universe",
+		"count" : 1
+	},
+	{
+		"_id" : "The Odyssey - Homer",
+		"count" : 1
+	},
+	{
+		"_id" : "Disney - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Kanjani8 (Band)",
+		"count" : 1
+	},
+	{
+		"_id" : "Young Wizards - Diane Duane",
+		"count" : 1
+	},
+	{
+		"_id" : "Luna Lovegood - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Kairos (O'Keefe) Series - Madeleine L'Engle",
+		"count" : 1
+	},
+	{
+		"_id" : "DRAMAtical Murder (Visual Novel)",
+		"count" : 1
+	},
+	{
+		"_id" : "Fallout 4",
+		"count" : 1
+	},
+	{
+		"_id" : "Queen (Band)",
+		"count" : 1
+	},
+	{
+		"_id" : "悪魔城ドラキュラ | Castlevania Series",
+		"count" : 1
+	},
+	{
+		"_id" : "Donald Trump - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Howl no Ugoku Shiro | Howl's Moving Castle",
+		"count" : 1
+	},
+	{
+		"_id" : "Jossverse",
+		"count" : 1
+	},
+	{
+		"_id" : "The Tudors (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Atlas Shrugged - Ayn Rand",
+		"count" : 1
+	},
+	{
+		"_id" : "Doom (2005)",
+		"count" : 1
+	},
+	{
+		"_id" : "Drarry-Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Possibly Harry Potter",
+		"count" : 1
+	},
+	{
+		"_id" : "The Restaurant at the End of the Universe",
+		"count" : 1
+	},
+	{
+		"_id" : "Shaman King",
+		"count" : 1
+	},
+	{
+		"_id" : "The Saga of Darren Shan - Darren Shan",
+		"count" : 1
+	},
+	{
+		"_id" : "Katekyo Hitman Reborn!",
+		"count" : 1
+	},
+	{
+		"_id" : "Weiss Side B - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Weiss Kreuz",
+		"count" : 1
+	},
+	{
+		"_id" : "House of Night - P. C. Cast & Kristin Cast",
+		"count" : 1
+	},
+	{
+		"_id" : "Bedknobs and Broomsticks (1971)",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter Movies - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Alfred Hitchcock RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "Breakfast at Tiffany's (1961)",
+		"count" : 1
+	},
+	{
+		"_id" : "Lab Rats - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Soul Eater Not!",
+		"count" : 1
+	},
+	{
+		"_id" : "Nero Wolfe - Rex Stout",
+		"count" : 1
+	},
+	{
+		"_id" : "Yamato Nadeshiko Shichi Henge | The Wallflower - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Italian Job (2003)",
+		"count" : 1
+	},
+	{
+		"_id" : "Wò Hǔ Cáng Lóng | Crouching Tiger Hidden Dragon (2003)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Mask of Zorro (1998)",
+		"count" : 1
+	},
+	{
+		"_id" : "Smokin' Aces (2006)",
+		"count" : 1
+	},
+	{
+		"_id" : "Alias (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Mad Max Series (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "Edge of Tomorrow (2014)",
+		"count" : 1
+	},
+	{
+		"_id" : "Wild (2014)",
+		"count" : 1
+	},
+	{
+		"_id" : "California Diaries - Ann M. Martin",
+		"count" : 1
+	},
+	{
+		"_id" : "Emelan - Tamora Pierce",
+		"count" : 1
+	},
+	{
+		"_id" : "Sisterhood of the Traveling Pants - Ann Brashares",
+		"count" : 1
+	},
+	{
+		"_id" : "Mighty Ducks (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "One Tree Hill",
+		"count" : 1
+	},
+	{
+		"_id" : "Breed (2006)",
+		"count" : 1
+	},
+	{
+		"_id" : "Bring It On (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "Full House (US)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Chronicles of Riddick (2004)",
+		"count" : 1
+	},
+	{
+		"_id" : "Buffalo Wizards RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "Sakamichi no Apollon | Kids on the Slope",
+		"count" : 1
+	},
+	{
+		"_id" : "Once and Future King Series - T. H. White",
+		"count" : 1
+	},
+	{
+		"_id" : "Seachange (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Podfic Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "名探偵コナン | Detective Conan | Case Closed",
+		"count" : 1
+	},
+	{
+		"_id" : "Hot Topic - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Breaking Bad",
+		"count" : 1
+	},
+	{
+		"_id" : "Bill & Ted (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "Metroid Series",
+		"count" : 1
+	},
+	{
+		"_id" : "The Legend of Zelda & Related Fandoms",
+		"count" : 1
+	},
+	{
+		"_id" : "Splatoon",
+		"count" : 1
+	},
+	{
+		"_id" : "The Very Hungry Caterpillar - Eric Carle",
+		"count" : 1
+	},
+	{
+		"_id" : "Neverwinter (Video Game)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Legend of Zelda: The Ocarina of Time",
+		"count" : 1
+	},
+	{
+		"_id" : "The Vampire Chronicles",
+		"count" : 1
+	},
+	{
+		"_id" : "Superpotter",
+		"count" : 1
+	},
+	{
+		"_id" : "SPECTRE (2015)",
+		"count" : 1
+	},
+	{
+		"_id" : "Author Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "excplicit",
+		"count" : 1
+	},
+	{
+		"_id" : "Draco Mlafoy love story",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter's sister",
+		"count" : 1
+	},
+	{
+		"_id" : "Diablo II",
+		"count" : 1
+	},
+	{
+		"_id" : "Sevily - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Team Fortress 2",
+		"count" : 1
+	},
+	{
+		"_id" : "Fantastic Four (Movies 2005-2007)",
+		"count" : 1
+	},
+	{
+		"_id" : "Mighty Max",
+		"count" : 1
+	},
+	{
+		"_id" : "Metalocalypse",
+		"count" : 1
+	},
+	{
+		"_id" : "7th Heaven",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter Next generation - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry and the Potters",
+		"count" : 1
+	},
+	{
+		"_id" : "Blood Drips on Newsies Square",
+		"count" : 1
+	},
+	{
+		"_id" : "Om Shanti Om (2007)",
+		"count" : 1
+	},
+	{
+		"_id" : "Battlestar Galactica (2003)",
+		"count" : 1
+	},
+	{
+		"_id" : "SKE48",
+		"count" : 1
+	},
+	{
+		"_id" : "Brokeback Mountain (2005)",
+		"count" : 1
+	},
+	{
+		"_id" : "The L Word",
+		"count" : 1
+	},
+	{
+		"_id" : "Prison Break",
+		"count" : 1
+	},
+	{
+		"_id" : "SHAKESPEARE William - Works",
+		"count" : 1
+	},
+	{
+		"_id" : "Band of Brothers",
+		"count" : 1
+	},
+	{
+		"_id" : "Forever Knight",
+		"count" : 1
+	},
+	{
+		"_id" : "Queer as Folk (UK)",
+		"count" : 1
+	},
+	{
+		"_id" : "NSYNC",
+		"count" : 1
+	},
+	{
+		"_id" : "Hard Core Logo (1996)",
+		"count" : 1
+	},
+	{
+		"_id" : "Oz (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Friends (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Hercules: The Legendary Journeys",
+		"count" : 1
+	},
+	{
+		"_id" : "3rd Rock from the Sun",
+		"count" : 1
+	},
+	{
+		"_id" : "Remington Steele (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Robin of Sherwood",
+		"count" : 1
+	},
+	{
+		"_id" : "The Sandbaggers",
+		"count" : 1
+	},
+	{
+		"_id" : "Red Dwarf",
+		"count" : 1
+	},
+	{
+		"_id" : "The Goonies (1985)",
+		"count" : 1
+	},
+	{
+		"_id" : "21 Jump Street (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Hornblower (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Wiseguy",
+		"count" : 1
+	},
+	{
+		"_id" : "The Outsiders (1983)",
+		"count" : 1
+	},
+	{
+		"_id" : "Quantum Leap",
+		"count" : 1
+	},
+	{
+		"_id" : "This is Spinal Tap (1984)",
+		"count" : 1
+	},
+	{
+		"_id" : "Justified",
+		"count" : 1
+	},
+	{
+		"_id" : "Another Country (1984)",
+		"count" : 1
+	},
+	{
+		"_id" : "Yes Minister",
+		"count" : 1
+	},
+	{
+		"_id" : "Raffles - E. W. Hornung",
+		"count" : 1
+	},
+	{
+		"_id" : "Blue Crush (2002)",
+		"count" : 1
+	},
+	{
+		"_id" : "Blake's 7",
+		"count" : 1
+	},
+	{
+		"_id" : "Dark Shadows (1966)",
+		"count" : 1
+	},
+	{
+		"_id" : "Sherlock Holmes (1965 TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Hawaii Five-O (1968)",
+		"count" : 1
+	},
+	{
+		"_id" : "Monty Python's Flying Circus",
+		"count" : 1
+	},
+	{
+		"_id" : "Atlantis: The Lost Empire (2001)",
+		"count" : 1
+	},
+	{
+		"_id" : "Pocahontas (1995)",
+		"count" : 1
+	},
+	{
+		"_id" : "Baby-Sitters Club - Ann M. Martin",
+		"count" : 1
+	},
+	{
+		"_id" : "The Princess and the Frog (2009)",
+		"count" : 1
+	},
+	{
+		"_id" : "Star Wars: The Old Republic",
+		"count" : 1
+	},
+	{
+		"_id" : "Preacher (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Mulitple Fandoms",
+		"count" : 1
+	},
+	{
+		"_id" : "Robin Hood: Prince of Thieves (1991)",
+		"count" : 1
+	},
+	{
+		"_id" : "BEN Drowned",
+		"count" : 1
+	},
+	{
+		"_id" : "Blade Runner (1982)",
+		"count" : 1
+	},
+	{
+		"_id" : "The 39 Clues - Various Authors",
+		"count" : 1
+	},
+	{
+		"_id" : "Veep",
+		"count" : 1
+	},
+	{
+		"_id" : "哈利·波特-J.K.罗琳",
+		"count" : 1
+	},
+	{
+		"_id" : "Star Wars Legends: Knights of the Old Republic II: The Sith Lords",
+		"count" : 1
+	},
+	{
+		"_id" : "Shadow Chasers",
+		"count" : 1
+	},
+	{
+		"_id" : "Отблески Этерны",
+		"count" : 1
+	},
+	{
+		"_id" : "Once a Thief (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Real Adventures of Jonny Quest",
+		"count" : 1
+	},
+	{
+		"_id" : "Doc Savage - Kenneth Robeson",
+		"count" : 1
+	},
+	{
+		"_id" : "Severus Snape and the Marauders",
+		"count" : 1
+	},
+	{
+		"_id" : "Wilfred (US)",
+		"count" : 1
+	},
+	{
+		"_id" : "My Little Pony: Equestria Girls",
+		"count" : 1
+	},
+	{
+		"_id" : "Last Tango In Halifax",
+		"count" : 1
+	},
+	{
+		"_id" : "Комиксы Bubble",
+		"count" : 1
+	},
+	{
+		"_id" : "Bubble Comics",
+		"count" : 1
+	},
+	{
+		"_id" : "كتاب ألف ليلة وليلة | Kitaab 'alf layla wa-layla | One Thousand and One Nights",
+		"count" : 1
+	},
+	{
+		"_id" : "The Mummy Series",
+		"count" : 1
+	},
+	{
+		"_id" : "Майор Гром | Major Thunder",
+		"count" : 1
+	},
+	{
+		"_id" : "Dane Gang - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "The Incredible Hulk - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "King Arthur (2004)",
+		"count" : 1
+	},
+	{
+		"_id" : "NCIS: Los Angeles",
+		"count" : 1
+	},
+	{
+		"_id" : "One Direction (Band);",
+		"count" : 1
+	},
+	{
+		"_id" : "Captian America: CIvil War",
+		"count" : 1
+	},
+	{
+		"_id" : "American Horror Story: Murder House",
+		"count" : 1
+	},
+	{
+		"_id" : "Banana Bus Squad",
+		"count" : 1
+	},
+	{
+		"_id" : "harmony - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "harry/hermione - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "hms pumpkin pie",
+		"count" : 1
+	},
+	{
+		"_id" : "Skins (UK)",
+		"count" : 1
+	},
+	{
+		"_id" : "Cold Case",
+		"count" : 1
+	},
+	{
+		"_id" : "Hikaru no Go",
+		"count" : 1
+	},
+	{
+		"_id" : "the maze runner",
+		"count" : 1
+	},
+	{
+		"_id" : "Director RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "Demashitaa! Powerpuff Girls Z",
+		"count" : 1
+	},
+	{
+		"_id" : "Malfoy - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "JK Rowling - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Yu Yu Hakusho",
+		"count" : 1
+	},
+	{
+		"_id" : "Cowboy Bebop",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter/Mary Poppins",
+		"count" : 1
+	},
+	{
+		"_id" : "New Politics",
+		"count" : 1
+	},
+	{
+		"_id" : "Pride and Prejudice",
+		"count" : 1
+	},
+	{
+		"_id" : "Vocaloids - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Sherlock (TV) - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Attack on Titan",
+		"count" : 1
+	},
+	{
+		"_id" : "The Kane Chronicles",
+		"count" : 1
+	},
+	{
+		"_id" : "The Heroes of Olympus - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "The Lady of Shalott - Alfred Lord Tennyson",
+		"count" : 1
+	},
+	{
+		"_id" : "Darry - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Finding Dory (2016)",
+		"count" : 1
+	},
+	{
+		"_id" : "Draco Malfoy/ Potter's sister",
+		"count" : 1
+	},
+	{
+		"_id" : "Trigger warning! If you are sensitive to self harm or suicide do not read",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter fanfictions",
+		"count" : 1
+	},
+	{
+		"_id" : "2 Fast 2 Furious (2003)",
+		"count" : 1
+	},
+	{
+		"_id" : "Marvel Ultimates",
+		"count" : 1
+	},
+	{
+		"_id" : "VIXX",
+		"count" : 1
+	},
+	{
+		"_id" : "10th Kingdom",
+		"count" : 1
+	},
+	{
+		"_id" : "American Idol RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "the sixth sense",
+		"count" : 1
+	},
+	{
+		"_id" : "Highlander",
+		"count" : 1
+	},
+	{
+		"_id" : "Dracula Untold (2014)",
+		"count" : 1
+	},
+	{
+		"_id" : "Civilization (Video Games)",
+		"count" : 1
+	},
+	{
+		"_id" : "The X Factor - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "The Hunger Games",
+		"count" : 1
+	},
+	{
+		"_id" : "Bill the Galactic Hero (Harry Harrison)",
+		"count" : 1
+	},
+	{
+		"_id" : "Nightmare on Elm Street (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "Myth-o-maniac",
+		"count" : 1
+	},
+	{
+		"_id" : "Ever After High",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter -J. K. Rowling",
+		"count" : 1
+	},
+	{
+		"_id" : "How to Train Your Dragon - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "The Little Mermaid - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Prototype (Video Games)",
+		"count" : 1
+	},
+	{
+		"_id" : "Swan Princess (1994)",
+		"count" : 1
+	},
+	{
+		"_id" : "Final Fantasy X-2",
+		"count" : 1
+	},
+	{
+		"_id" : "Dungeons & Dragons (Roleplaying Game)",
+		"count" : 1
+	},
+	{
+		"_id" : "Fate/stay night - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Sora wa Akai Kawa no Hotori | Red River",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter - J.K.Rowling",
+		"count" : 1
+	},
+	{
+		"_id" : "Tonari no Totoro | My Neighbor Totoro (1988)",
+		"count" : 1
+	},
+	{
+		"_id" : "Sex and the City (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Yu-Gi-Oh the Abridged Series",
+		"count" : 1
+	},
+	{
+		"_id" : "Joker Game (Anime)",
+		"count" : 1
+	},
+	{
+		"_id" : "Sherlock Holmes - fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Yu-Gi-Oh! Series",
+		"count" : 1
+	},
+	{
+		"_id" : "Connor Franta - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "In the Flesh (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter and the Order of the Phoenix - J. K. Rowling",
+		"count" : 1
+	},
+	{
+		"_id" : "Hanson (Band)",
+		"count" : 1
+	},
+	{
+		"_id" : "Magi the kingdom of magic",
+		"count" : 1
+	},
+	{
+		"_id" : "D -Gray Man",
+		"count" : 1
+	},
+	{
+		"_id" : "Wizard101",
+		"count" : 1
+	},
+	{
+		"_id" : "Jonathan Strange & Mr Norrell - Susanna Clarke",
+		"count" : 1
+	},
+	{
+		"_id" : "all of them - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Лабиринты Ехо - Макс Фрай | The Labyrinths of Echo - Max Frei",
+		"count" : 1
+	},
+	{
+		"_id" : "Black Lagoon",
+		"count" : 1
+	},
+	{
+		"_id" : "Teen Titans (Animated Series)",
+		"count" : 1
+	},
+	{
+		"_id" : "Famous Five - Enid Blyton",
+		"count" : 1
+	},
+	{
+		"_id" : "Charley Davidson Series - Darynda Jones",
+		"count" : 1
+	},
+	{
+		"_id" : "drug and drop",
+		"count" : 1
+	},
+	{
+		"_id" : "Chì bì | Red Cliff (2008)",
+		"count" : 1
+	},
+	{
+		"_id" : "Journeyman",
+		"count" : 1
+	},
+	{
+		"_id" : "Shazam (Comics)",
+		"count" : 1
+	},
+	{
+		"_id" : "Armageddon (1998)",
+		"count" : 1
+	},
+	{
+		"_id" : "VH - A Harry Potter Roleplay Site",
+		"count" : 1
+	},
+	{
+		"_id" : "The Picture of Dorian Gray - Oscar Wilde",
+		"count" : 1
+	},
+	{
+		"_id" : "Virtual Hogwarts",
+		"count" : 1
+	},
+	{
+		"_id" : "Desperate Housewives",
+		"count" : 1
+	},
+	{
+		"_id" : "How the Grinch Stole Christmas! - Dr. Seuss",
+		"count" : 1
+	},
+	{
+		"_id" : "All fandoms welcome",
+		"count" : 1
+	},
+	{
+		"_id" : "Onyx Path",
+		"count" : 1
+	},
+	{
+		"_id" : "Servamp",
+		"count" : 1
+	},
+	{
+		"_id" : "Mighty Ducks (animated)",
+		"count" : 1
+	},
+	{
+		"_id" : "Beyblade",
+		"count" : 1
+	},
+	{
+		"_id" : "Google RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "Megamind - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Scooby Doo - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "The Secrets of the Immortal Nicholas Flamel - Michael Scott",
+		"count" : 1
+	},
+	{
+		"_id" : "HarryPotter - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Jonathan Strange and Mr Norrell - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Fire Emblem: Kakusei | Fire Emblem: Awakening",
+		"count" : 1
+	},
+	{
+		"_id" : "The OC",
+		"count" : 1
+	},
+	{
+		"_id" : "Panny Wyklęte (music album)",
+		"count" : 1
+	},
+	{
+		"_id" : "ashton irwin - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Fate/stay night (Visual Novel)",
+		"count" : 1
+	},
+	{
+		"_id" : "SHINee",
+		"count" : 1
+	},
+	{
+		"_id" : "Kyuuketsu Yuugi",
+		"count" : 1
+	},
+	{
+		"_id" : "MIKA (Musician) RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "Tank Girl (1995)",
+		"count" : 1
+	},
+	{
+		"_id" : "Shin Megami Tensei: Devil Survivor",
+		"count" : 1
+	},
+	{
+		"_id" : "Horns (2013)",
+		"count" : 1
+	},
+	{
+		"_id" : "Alice In Wonderland - Lewis Carroll",
+		"count" : 1
+	},
+	{
+		"_id" : "Dead Poets Society (1989)",
+		"count" : 1
+	},
+	{
+		"_id" : "Warcraft - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "inFAMOUS (Video Games)",
+		"count" : 1
+	},
+	{
+		"_id" : "Youtubers",
+		"count" : 1
+	},
+	{
+		"_id" : "Maruaders - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Real life - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Initial D",
+		"count" : 1
+	},
+	{
+		"_id" : "Zombieland (2009)",
+		"count" : 1
+	},
+	{
+		"_id" : "My Little Pony",
+		"count" : 1
+	},
+	{
+		"_id" : "Weather Warden - Rachel Caine",
+		"count" : 1
+	},
+	{
+		"_id" : "BBC Shipping Forecast",
+		"count" : 1
+	},
+	{
+		"_id" : "Fables - Willingham",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter Universe - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "1/2 Wangzi | 1/2 Prince",
+		"count" : 1
+	},
+	{
+		"_id" : "LEGO The Hobbit",
+		"count" : 1
+	},
+	{
+		"_id" : "LEGO Star Wars: The Freemaker Adventures",
+		"count" : 1
+	},
+	{
+		"_id" : "Mabinogion (Myth)",
+		"count" : 1
+	},
+	{
+		"_id" : "Dioses Griegos",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter - Rowling",
+		"count" : 1
+	},
+	{
+		"_id" : "Eragon - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Sān guó yǎn yì | Romance of the Three Kingdoms - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Marvel - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Scream (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "Bates Motel (2013)",
+		"count" : 1
+	},
+	{
+		"_id" : "A Nightmare on Elm Street (1984)",
+		"count" : 1
+	},
+	{
+		"_id" : "Saint Beast",
+		"count" : 1
+	},
+	{
+		"_id" : "League of Legends RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "Lost Girl",
+		"count" : 1
+	},
+	{
+		"_id" : "Westlife",
+		"count" : 1
+	},
+	{
+		"_id" : "Vampire Chronicles - Anne Rice",
+		"count" : 1
+	},
+	{
+		"_id" : "Andromeda (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "St Trinian's (2007)",
+		"count" : 1
+	},
+	{
+		"_id" : "J.K. Rowling's Wizarding World",
+		"count" : 1
+	},
+	{
+		"_id" : "砂時計 | Sunadokei | Sand Chronicles - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Tennis no Oujisama | Prince of Tennis",
+		"count" : 1
+	},
+	{
+		"_id" : "私がモテてどうすんだ | Watashi ga Motete Dousunda | Kiss Him Not Me",
+		"count" : 1
+	},
+	{
+		"_id" : "Almost Famous (2000)",
+		"count" : 1
+	},
+	{
+		"_id" : "Needful Things - Stephen King",
+		"count" : 1
+	},
+	{
+		"_id" : "Draco and Hermione",
+		"count" : 1
+	},
+	{
+		"_id" : "Ranger's Apprentice - John Flanagan",
+		"count" : 1
+	},
+	{
+		"_id" : "Valhalla Series - Ari Bach",
+		"count" : 1
+	},
+	{
+		"_id" : "Jonas Brothers",
+		"count" : 1
+	},
+	{
+		"_id" : "Henry IV - Shakespeare",
+		"count" : 1
+	},
+	{
+		"_id" : "15th Century CE RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "Lady Jane (1986)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Changeover - Margaret Mahy",
+		"count" : 1
+	},
+	{
+		"_id" : "Il servitore di due padroni - Carlo Goldoni",
+		"count" : 1
+	},
+	{
+		"_id" : "Здравствуйте я ваша тетя! (1975)",
+		"count" : 1
+	},
+	{
+		"_id" : "Secret Diary of a Call Girl (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Madagascar (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "the bee movie",
+		"count" : 1
+	},
+	{
+		"_id" : "Lord of the Rings in 60 Seconds",
+		"count" : 1
+	},
+	{
+		"_id" : "Scatterlings - Isobelle Carmody",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter J.K. Rowling",
+		"count" : 1
+	},
+	{
+		"_id" : "Mekakushi no Kuni | Land of the Blindfolded",
+		"count" : 1
+	},
+	{
+		"_id" : "Ilvermorny - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Oxford Time Travel Universe - Connie Willis",
+		"count" : 1
+	},
+	{
+		"_id" : "My Mad Fat Diary",
+		"count" : 1
+	},
+	{
+		"_id" : "Draco - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Ghostbusters - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Pocket Monsters: X & Y | Pokemon X & Y Versions",
+		"count" : 1
+	},
+	{
+		"_id" : "Avatar the Last Airbender - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "TMNT - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Toaru Majutsu no Index | A Certain Magical Index",
+		"count" : 1
+	},
+	{
+		"_id" : "Narnia - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Les Misérables (2012)",
+		"count" : 1
+	},
+	{
+		"_id" : "No Game No Life - Kamiya Yuu",
+		"count" : 1
+	},
+	{
+		"_id" : "Arctic Monkeys",
+		"count" : 1
+	},
+	{
+		"_id" : "Dancing with the Stars (US) RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "albius - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Star Wars Rebels",
+		"count" : 1
+	},
+	{
+		"_id" : "Once Upon A Time - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "James Bond - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Aion (Video Game)",
+		"count" : 1
+	},
+	{
+		"_id" : "Jonathan Strange & Mr Norrell (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Impractical Jokers",
+		"count" : 1
+	},
+	{
+		"_id" : "And a smidge of BBC!Sherlock thrown in",
+		"count" : 1
+	},
+	{
+		"_id" : "not REALLY Harry Potter but...",
+		"count" : 1
+	},
+	{
+		"_id" : "Monster High",
+		"count" : 1
+	},
+	{
+		"_id" : "xmas - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "cristmas - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "vergin mary",
+		"count" : 1
+	},
+	{
+		"_id" : "Moon (2009)",
+		"count" : 1
+	},
+	{
+		"_id" : "moon - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "glitterforever17",
+		"count" : 1
+	},
+	{
+		"_id" : "baby ariel",
+		"count" : 1
+	},
+	{
+		"_id" : "psychic twins - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "freelee",
+		"count" : 1
+	},
+	{
+		"_id" : "jacob sartorioius",
+		"count" : 1
+	},
+	{
+		"_id" : "Caspar Lee - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "うる星やつら | Urusei Yatsura",
+		"count" : 1
+	},
+	{
+		"_id" : "Pulsation by Patrick Carman",
+		"count" : 1
+	},
+	{
+		"_id" : "Black Books",
+		"count" : 1
+	},
+	{
+		"_id" : "2P Hetalia - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Where the Wild Things Are (2009)",
+		"count" : 1
+	},
+	{
+		"_id" : "Shugo Chara!",
+		"count" : 1
+	},
+	{
+		"_id" : "Pitch Black (2000)",
+		"count" : 1
+	},
+	{
+		"_id" : "Final Fantasy IX",
+		"count" : 1
+	},
+	{
+		"_id" : "The Spiderwick Chronicles (2008)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Neverending Story (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "Ramona and Beezus (2010)",
+		"count" : 1
+	},
+	{
+		"_id" : "Young Sherlock Holmes (1985)",
+		"count" : 1
+	},
+	{
+		"_id" : "Pan (2015)",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter and the Sorcerer's Stone (2001)",
+		"count" : 1
+	},
+	{
+		"_id" : "Fairy Tale: A True Story (1997)",
+		"count" : 1
+	},
+	{
+		"_id" : "Brammetje Baas (2012)",
+		"count" : 1
+	},
+	{
+		"_id" : "Green Lantern (2011)",
+		"count" : 1
+	},
+	{
+		"_id" : "Earth to Echo (2014)",
+		"count" : 1
+	},
+	{
+		"_id" : "Bridge to Terabithia (2007)",
+		"count" : 1
+	},
+	{
+		"_id" : "Katekyo Hitman Reborn",
+		"count" : 1
+	},
+	{
+		"_id" : "Eyeshield 21",
+		"count" : 1
+	},
+	{
+		"_id" : "Tiger's Curse Series - Colleen Houck",
+		"count" : 1
+	},
+	{
+		"_id" : "赤髪の白雪姫 | Akagami no Shirayukihime",
+		"count" : 1
+	},
+	{
+		"_id" : "The Seven Realms Series - Cinda Williams Chima",
+		"count" : 1
+	},
+	{
+		"_id" : "Ancient Mythology - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Suppli - Mari Okazaki",
+		"count" : 1
+	},
+	{
+		"_id" : "A Court of Thorns and Roses Series - Sarah J. Maas",
+		"count" : 1
+	},
+	{
+		"_id" : "Pitch Perfect (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "Matilda (1996)",
+		"count" : 1
+	},
+	{
+		"_id" : "Magic In North America - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Phantom of the Opera - Lloyd Webber",
+		"count" : 1
+	},
+	{
+		"_id" : "Backstreet Boys",
+		"count" : 1
+	},
+	{
+		"_id" : "Bullet in the Face",
+		"count" : 1
+	},
+	{
+		"_id" : "Reign (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "catching fire - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Fire Emblem Series",
+		"count" : 1
+	},
+	{
+		"_id" : "The Hunchback of Notre Dame (1996)",
+		"count" : 1
+	},
+	{
+		"_id" : "Potterheads - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "The Dresden Files - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Tonks - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Remus Lupin - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Say Yes to the Dress RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "The Omen (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "Deal or No Deal RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "D. Gray-man",
+		"count" : 1
+	},
+	{
+		"_id" : "Disney Cartoons (Classic)",
+		"count" : 1
+	},
+	{
+		"_id" : "Ancient Roman Religion & Lore",
+		"count" : 1
+	},
+	{
+		"_id" : "Pride and Prejudice (2005)",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter x Naruto Crossover",
+		"count" : 1
+	},
+	{
+		"_id" : "Common Law",
+		"count" : 1
+	},
+	{
+		"_id" : "Persona Q: Shadow of the Labyrinth",
+		"count" : 1
+	},
+	{
+		"_id" : "World of Darkness (Games)",
+		"count" : 1
+	},
+	{
+		"_id" : "Little Brother - Cory Doctorow",
+		"count" : 1
+	},
+	{
+		"_id" : "艦隊これくしょん | Kantai Collection",
+		"count" : 1
+	},
+	{
+		"_id" : "Hanna (2011)",
+		"count" : 1
+	},
+	{
+		"_id" : "American Mary (2012)",
+		"count" : 1
+	},
+	{
+		"_id" : "Perry Rhodan - Various Authors",
+		"count" : 1
+	},
+	{
+		"_id" : "Babylon 5",
+		"count" : 1
+	},
+	{
+		"_id" : "The Tribe (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Slam Dunk",
+		"count" : 1
+	},
+	{
+		"_id" : "Crimson Peak (2015)",
+		"count" : 1
+	},
+	{
+		"_id" : "James Sirius Potter - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Teeth (2007)",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter- All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Vocaloid",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter- Movies",
+		"count" : 1
+	},
+	{
+		"_id" : "HPDM - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Monster Hunter (Video Games)",
+		"count" : 1
+	},
+	{
+		"_id" : "Motionless in White (Band)",
+		"count" : 1
+	},
+	{
+		"_id" : "Undermountain resource book D&D 2nd Ed",
+		"count" : 1
+	},
+	{
+		"_id" : "Marriage Law - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "American Dragon: Jake Long",
+		"count" : 1
+	},
+	{
+		"_id" : "Eddsworld - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Vampire Empire",
+		"count" : 1
+	},
+	{
+		"_id" : "The 100 Series - Kass Morgan",
+		"count" : 1
+	},
+	{
+		"_id" : "Love Actually (2003)",
+		"count" : 1
+	},
+	{
+		"_id" : "Shane Dawson - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "魔女と百騎兵 | Majo to hyakkihei | The Witch and the Hundred Knight",
+		"count" : 1
+	},
+	{
+		"_id" : "Cognitive Psychology",
+		"count" : 1
+	},
+	{
+		"_id" : "Kill Bill (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "Women of the Otherworld - Kelley Armstrong",
+		"count" : 1
+	},
+	{
+		"_id" : "The Grisha Trilogy - Leigh Bardugo",
+		"count" : 1
+	},
+	{
+		"_id" : "The Ascendance Trilogy - Jennifer A. Nielsen",
+		"count" : 1
+	},
+	{
+		"_id" : "marauders' era - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Brideshead Revisited - Evelyn Waugh",
+		"count" : 1
+	},
+	{
+		"_id" : "harry potter- next generation",
+		"count" : 1
+	},
+	{
+		"_id" : "Alex Rider - Anthony Horowitz",
+		"count" : 1
+	},
+	{
+		"_id" : "Funny - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "甘々と稲妻 | Amaama to Inazuma | Sweetness & Lightning (Anime)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Tiffany Aching Series - Terry Pratchett",
+		"count" : 1
+	},
+	{
+		"_id" : "Primal Fear (1996)",
+		"count" : 1
+	},
+	{
+		"_id" : "Hellraiser (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "Captive Prince - C. S. Pacat",
+		"count" : 1
+	},
+	{
+		"_id" : "addam",
+		"count" : 1
+	},
+	{
+		"_id" : "Greek and Norse Mythology",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter and the Methods of Rationality - Eliezer Yudkowsky",
+		"count" : 1
+	},
+	{
+		"_id" : "The Hunger Games - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Super Sentai Series",
+		"count" : 1
+	},
+	{
+		"_id" : "The Office (US)",
+		"count" : 1
+	},
+	{
+		"_id" : "Tales of Beedle the Bard",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter - J.K. Rowling Movies",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potterh",
+		"count" : 1
+	},
+	{
+		"_id" : "Spider-Man (Movies - Raimi)",
+		"count" : 1
+	},
+	{
+		"_id" : "genie - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Gym Class Heroes",
+		"count" : 1
+	},
+	{
+		"_id" : "Don't Starve (Video Game)",
+		"count" : 1
+	},
+	{
+		"_id" : "Cobra Starship",
+		"count" : 1
+	},
+	{
+		"_id" : "Mikagura School Suite",
+		"count" : 1
+	},
+	{
+		"_id" : "Winnie-the-Pooh (Disney)",
+		"count" : 1
+	},
+	{
+		"_id" : "未来日記 | Mirai Nikki | Future Diary",
+		"count" : 1
+	},
+	{
+		"_id" : "Metal Gear",
+		"count" : 1
+	},
+	{
+		"_id" : "07-Ghost",
+		"count" : 1
+	},
+	{
+		"_id" : "Sleeper Cell",
+		"count" : 1
+	},
+	{
+		"_id" : "더 게이머 | The Gamer (Webcomic)",
+		"count" : 1
+	},
+	{
+		"_id" : "Perception (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Mentions of Merlin (BBC)",
+		"count" : 1
+	},
+	{
+		"_id" : "Hanson",
+		"count" : 1
+	},
+	{
+		"_id" : "Star Wars Legends: The Old Republic",
+		"count" : 1
+	},
+	{
+		"_id" : "Ratatouille (2007)",
+		"count" : 1
+	},
+	{
+		"_id" : "Multiple Xrossovers - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Coronation Street",
+		"count" : 1
+	},
+	{
+		"_id" : "Ultimate Ace Champions",
+		"count" : 1
+	},
+	{
+		"_id" : "All - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Descendants (2015)",
+		"count" : 1
+	},
+	{
+		"_id" : "Mortal Kombat - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "The Tree of Life (2011)",
+		"count" : 1
+	},
+	{
+		"_id" : "Mrs. Pollifax - Dorothy Gilman",
+		"count" : 1
+	},
+	{
+		"_id" : "Sonic the Hedgehog - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Christian Bible (New Testament)",
+		"count" : 1
+	},
+	{
+		"_id" : "Yogscast",
+		"count" : 1
+	},
+	{
+		"_id" : "Hat Films - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "New Tricks",
+		"count" : 1
+	},
+	{
+		"_id" : "jesus - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "And Many More! - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Archie Comics & Related Fandoms",
+		"count" : 1
+	},
+	{
+		"_id" : "Voltron: Lion Voltron",
+		"count" : 1
+	},
+	{
+		"_id" : "own characters - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Kamen Rider Wizard",
+		"count" : 1
+	},
+	{
+		"_id" : "Probably also - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Ten Inch Hero",
+		"count" : 1
+	},
+	{
+		"_id" : "Finder no Hyouteki | Finder Series",
+		"count" : 1
+	},
+	{
+		"_id" : "HPxNaruto Crossover",
+		"count" : 1
+	},
+	{
+		"_id" : "Sonic the Hedgehog - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Harrypotter after the war",
+		"count" : 1
+	},
+	{
+		"_id" : "Fire Emblem: Soen no Kiseki/Akatsuki no Megami | Fire Emblem Path of Radiance/Radiant Dawn",
+		"count" : 1
+	},
+	{
+		"_id" : "Fucking ALL OF THEM - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "tronnor - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "troye sivan - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Young Justice",
+		"count" : 1
+	},
+	{
+		"_id" : "Lords of the Underworld - Gena Showalter",
+		"count" : 1
+	},
+	{
+		"_id" : "Pete's Dragon (2016)",
+		"count" : 1
+	},
+	{
+		"_id" : "Code Name: Sailor V",
+		"count" : 1
+	},
+	{
+		"_id" : "八犬伝 -東方八犬異聞- | Hakkenden: Eight Dogs of the East",
+		"count" : 1
+	},
+	{
+		"_id" : "Huntik: Secrets & Seekers",
+		"count" : 1
+	},
+	{
+		"_id" : "Fear the Walking Dead (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Life and Lies of Albus Dumbledore - Rita Skeeter",
+		"count" : 1
+	},
+	{
+		"_id" : "The Shadowhunter Chronicles - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Roxanne weasley - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Silk (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "101 Dalmatians (1996)",
+		"count" : 1
+	},
+	{
+		"_id" : "Humans (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Paris enquêtes criminelles | Paris Criminal Investigations",
+		"count" : 1
+	},
+	{
+		"_id" : "Murder She Wrote",
+		"count" : 1
+	},
+	{
+		"_id" : "The Golden Girls",
+		"count" : 1
+	},
+	{
+		"_id" : "Fairly OddParents",
+		"count" : 1
+	},
+	{
+		"_id" : "19 Kids and Counting RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "Doctor Who (BBC)",
+		"count" : 1
+	},
+	{
+		"_id" : "Life Is Strange",
+		"count" : 1
+	},
+	{
+		"_id" : "Young Justice - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "They Might Be Giants",
+		"count" : 1
+	},
+	{
+		"_id" : "Teen Titans - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Linny - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "The Daily Show",
+		"count" : 1
+	},
+	{
+		"_id" : "Bellamione - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Legend of the Seeker",
+		"count" : 1
+	},
+	{
+		"_id" : "New character - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "The Magicians - Lev Grossman",
+		"count" : 1
+	},
+	{
+		"_id" : "God Eater",
+		"count" : 1
+	},
+	{
+		"_id" : "Murder Princess",
+		"count" : 1
+	},
+	{
+		"_id" : "Community (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Pottermore - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Shoujo Kakumei Utena | Revolutionary Girl Utena",
+		"count" : 1
+	},
+	{
+		"_id" : "Haibane Renmei",
+		"count" : 1
+	},
+	{
+		"_id" : "Silmarillion",
+		"count" : 1
+	},
+	{
+		"_id" : "Dirge of Cerberus: Final Fantasy VII",
+		"count" : 1
+	},
+	{
+		"_id" : "Hitman: Agent 47 (2015)",
+		"count" : 1
+	},
+	{
+		"_id" : "Star Wars: Rebels",
+		"count" : 1
+	},
+	{
+		"_id" : "Teletubbies (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "RED (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "Sengoku Basara",
+		"count" : 1
+	},
+	{
+		"_id" : "Pre-Hogwarts - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Rupert Grint - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Miss Marple - Agatha Christie",
+		"count" : 1
+	},
+	{
+		"_id" : "The Lion in Winter - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Holby City",
+		"count" : 1
+	},
+	{
+		"_id" : "Characters in Violation of Google's Real Name Policy",
+		"count" : 1
+	},
+	{
+		"_id" : "Persepolis - Marjane Satrapi",
+		"count" : 1
+	},
+	{
+		"_id" : "Macbeth - Shakespeare",
+		"count" : 1
+	},
+	{
+		"_id" : "5 Second Of Summer",
+		"count" : 1
+	},
+	{
+		"_id" : "Justice League",
+		"count" : 1
+	},
+	{
+		"_id" : "Where in the World Is Carmen Sandiego?",
+		"count" : 1
+	},
+	{
+		"_id" : "Alien: Isolation (Video Game)",
+		"count" : 1
+	},
+	{
+		"_id" : "Internet Personalities",
+		"count" : 1
+	},
+	{
+		"_id" : "Toaru Kagaku no Railgun | A Certain Scientific Railgun",
+		"count" : 1
+	},
+	{
+		"_id" : "Hotel Dusk",
+		"count" : 1
+	},
+	{
+		"_id" : "The Scarlet Pimpernel - Baroness Orczy",
+		"count" : 1
+	},
+	{
+		"_id" : "Child of the Virus",
+		"count" : 1
+	},
+	{
+		"_id" : "LEGO Star Wars: The New Yoda Chronicles",
+		"count" : 1
+	},
+	{
+		"_id" : "Explorers (1985)",
+		"count" : 1
+	},
+	{
+		"_id" : "Much Ado About Nothing - Shakespeare",
+		"count" : 1
+	},
+	{
+		"_id" : "Aquarius (US TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Tomorrowland (2015)",
+		"count" : 1
+	},
+	{
+		"_id" : "Cloud Atlas (2012)",
+		"count" : 1
+	},
+	{
+		"_id" : "Sister Princess",
+		"count" : 1
+	},
+	{
+		"_id" : "Lupin III",
+		"count" : 1
+	},
+	{
+		"_id" : "Watchmen (2009)",
+		"count" : 1
+	},
+	{
+		"_id" : "plus others if I think of them",
+		"count" : 1
+	},
+	{
+		"_id" : "Skylanders - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Harvey Beaks (Cartoon)",
+		"count" : 1
+	},
+	{
+		"_id" : "Shorts (2009)",
+		"count" : 1
+	},
+	{
+		"_id" : "We Bare Bears (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Akame ga Kill!",
+		"count" : 1
+	},
+	{
+		"_id" : "Law & Order: Criminal Intent",
+		"count" : 1
+	},
+	{
+		"_id" : "Wheel of Time - Robert Jordan",
+		"count" : 1
+	},
+	{
+		"_id" : "PewDiePie (YouTube RPF)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Walking Dead (Video Games)",
+		"count" : 1
+	},
+	{
+		"_id" : "Alien vs Predator (2004)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Road to El Dorado (2000)",
+		"count" : 1
+	},
+	{
+		"_id" : "Ao no Exorcist",
+		"count" : 1
+	},
+	{
+		"_id" : "Frankenstein - Mary Shelley",
+		"count" : 1
+	},
+	{
+		"_id" : "The Muppets - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Mr. Magorium's Wonder Emporium (2007)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Lovely Bones - Alice Sebold",
+		"count" : 1
+	},
+	{
+		"_id" : "Luke Cage (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Greater Good (fanfilm)",
+		"count" : 1
+	},
+	{
+		"_id" : "Professor Dowell's Head - Alexander Belyayev | Голова профессора Доуэля - Александр Беляев",
+		"count" : 1
+	},
+	{
+		"_id" : "Past One at Rodney's - O. Henry | Во втором часу у Руни - О. Генри",
+		"count" : 1
+	},
+	{
+		"_id" : "Pac-Man (Video Games)",
+		"count" : 1
+	},
+	{
+		"_id" : "Beauxbatons - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Walking Dead",
+		"count" : 1
+	},
+	{
+		"_id" : "Godzilla (2014)",
+		"count" : 1
+	},
+	{
+		"_id" : "双星の陰陽師 | Sousei no Onmyouji | Twin Star Exorcists",
+		"count" : 1
+	},
+	{
+		"_id" : "SPN",
+		"count" : 1
+	},
+	{
+		"_id" : "Jurassic Park - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Firefly - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Alles was zählt",
+		"count" : 1
+	},
+	{
+		"_id" : "Black Jewels - Anne Bishop",
+		"count" : 1
+	},
+	{
+		"_id" : "Please Like Me (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Wynonna Earp (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "House",
+		"count" : 1
+	},
+	{
+		"_id" : "Original Story",
+		"count" : 1
+	},
+	{
+		"_id" : "DragonVale (Video Game)",
+		"count" : 1
+	},
+	{
+		"_id" : "Carnivale",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter and the Chamber of Secrets (2002)",
+		"count" : 1
+	},
+	{
+		"_id" : "Phandom - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "seraph of the end - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Fairy Tail - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter and the Song of Ice and Fire Crossover",
+		"count" : 1
+	},
+	{
+		"_id" : "Dracula & Related Fandoms",
+		"count" : 1
+	},
+	{
+		"_id" : "Little Miss Sunshine",
+		"count" : 1
+	},
+	{
+		"_id" : "Kamen Rider - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "robin hood - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Fairy Tales - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "ST:TNG",
+		"count" : 1
+	},
+	{
+		"_id" : "Discworld",
+		"count" : 1
+	},
+	{
+		"_id" : "Yugioh",
+		"count" : 1
+	},
+	{
+		"_id" : "Sailor Moon",
+		"count" : 1
+	},
+	{
+		"_id" : "Dawson's Creek",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter m",
+		"count" : 1
+	},
+	{
+		"_id" : "Diablo (Video Game)",
+		"count" : 1
+	},
+	{
+		"_id" : "Sailor Moon Crystal - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Legal Drug",
+		"count" : 1
+	},
+	{
+		"_id" : "Buffythe Vampire Slayer",
+		"count" : 1
+	},
+	{
+		"_id" : "Death Note X Harry Potter Crossover",
+		"count" : 1
+	},
+	{
+		"_id" : "Wonder Woman comics",
+		"count" : 1
+	},
+	{
+		"_id" : "Lavender Brown - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Batman Comics",
+		"count" : 1
+	},
+	{
+		"_id" : "Bandoms",
+		"count" : 1
+	},
+	{
+		"_id" : "Eyewitness (US TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "ジパング | ZIPANG (Manga)",
+		"count" : 1
+	},
+	{
+		"_id" : "Justice League International (Comics)",
+		"count" : 1
+	},
+	{
+		"_id" : "dank memes - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "True Love (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "North and South - Elizabeth Gaskell",
+		"count" : 1
+	},
+	{
+		"_id" : "Ghost Trick: Phantom Detective",
+		"count" : 1
+	},
+	{
+		"_id" : "iKON (Kpop)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Room (2003)",
+		"count" : 1
+	},
+	{
+		"_id" : "Layton Kyouju Series | Professor Layton Series",
+		"count" : 1
+	},
+	{
+		"_id" : "どうぶつの森 | Animal Crossing Series",
+		"count" : 1
+	},
+	{
+		"_id" : "various - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "哈利波特 - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Tomione - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Stonehenge Apocalypse (2010)",
+		"count" : 1
+	},
+	{
+		"_id" : "Jupiter Ascending (2015)",
+		"count" : 1
+	},
+	{
+		"_id" : "Bartimaeus - Jonathan Stroud",
+		"count" : 1
+	},
+	{
+		"_id" : "Raving Rabbids",
+		"count" : 1
+	},
+	{
+		"_id" : "Wolfstar mencionado",
+		"count" : 1
+	},
+	{
+		"_id" : "alladin - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Always Crashing in the Same Car (2007)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Bane Chronicles - Sarah Rees Brennan & Cassandra Clare & Maureen Johnson",
+		"count" : 1
+	},
+	{
+		"_id" : "Next Generation (Harry Potter)",
+		"count" : 1
+	},
+	{
+		"_id" : "Star Wars: Revelations",
+		"count" : 1
+	},
+	{
+		"_id" : "Jack Ketchum's The Girl Next Door",
+		"count" : 1
+	},
+	{
+		"_id" : "Star Wars Episode II: Attack of the Clones",
+		"count" : 1
+	},
+	{
+		"_id" : "モンスター娘のいる日常 | Monster Musume no Iru Nichijou",
+		"count" : 1
+	},
+	{
+		"_id" : "Peter and the Starcatchers Series - Dave Barry & Ridley Pearson",
+		"count" : 1
+	},
+	{
+		"_id" : "Eternal Sabbath",
+		"count" : 1
+	},
+	{
+		"_id" : "Outlander (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Dark!Hermione - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "The Book of Mormon - Ambiguous Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Monster",
+		"count" : 1
+	},
+	{
+		"_id" : "Mumintroll | Moomins Series - Tove Jansson",
+		"count" : 1
+	},
+	{
+		"_id" : "Avengers - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Momo - Michael Ende",
+		"count" : 1
+	},
+	{
+		"_id" : "Celtic Mythology",
+		"count" : 1
+	},
+	{
+		"_id" : "Mytho - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Class (TV 2016)",
+		"count" : 1
+	},
+	{
+		"_id" : "Greek Mythology",
+		"count" : 1
+	},
+	{
+		"_id" : "The Hollows - Kim Harrison",
+		"count" : 1
+	},
+	{
+		"_id" : "Norse Mythology",
+		"count" : 1
+	},
+	{
+		"_id" : "Secret Garden - Norman/Simon",
+		"count" : 1
+	},
+	{
+		"_id" : "AS MANY FANDOMS AS POSSIBLE",
+		"count" : 1
+	},
+	{
+		"_id" : "The 100 (TV) RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "Themione",
+		"count" : 1
+	},
+	{
+		"_id" : "Digimon - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Fantastic Beasts and Where to Find Them (movie)",
+		"count" : 1
+	},
+	{
+		"_id" : "Animorphs (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Total Recall (2012)",
+		"count" : 1
+	},
+	{
+		"_id" : "Generation Kill",
+		"count" : 1
+	},
+	{
+		"_id" : "The Queen's Thief - Megan Whalen Turner",
+		"count" : 1
+	},
+	{
+		"_id" : "Asoiaf - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Left 4 Dead 2",
+		"count" : 1
+	},
+	{
+		"_id" : "Rent - Larson",
+		"count" : 1
+	},
+	{
+		"_id" : "Blamione",
+		"count" : 1
+	},
+	{
+		"_id" : "draco malfoy and harry potter",
+		"count" : 1
+	},
+	{
+		"_id" : "Psych",
+		"count" : 1
+	},
+	{
+		"_id" : "Tom Riddle/Hermione Granger - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "The Core (2003)",
+		"count" : 1
+	},
+	{
+		"_id" : "Fantastic beast and where to find them",
+		"count" : 1
+	},
+	{
+		"_id" : "Evanescence (Band)",
+		"count" : 1
+	},
+	{
+		"_id" : "Invader Zim",
+		"count" : 1
+	},
+	{
+		"_id" : "The Princess Diaries - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Sevmione - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "British Actor RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "Pretty Little Liars Series - Sara Shepard",
+		"count" : 1
+	},
+	{
+		"_id" : "Alice au Royaume de Coeur",
+		"count" : 1
+	},
+	{
+		"_id" : "Man of Steel (2013)",
+		"count" : 1
+	},
+	{
+		"_id" : "Ronald Weasley - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Chris Evans (actor)",
+		"count" : 1
+	},
+	{
+		"_id" : "Divergent (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "12th Century CE RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "Jane Eyre - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Cambridge Latin Course",
+		"count" : 1
+	},
+	{
+		"_id" : "Jane Eyre (2006)",
+		"count" : 1
+	},
+	{
+		"_id" : "Mission: Impossible (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "Jane Eyre (2011)",
+		"count" : 1
+	},
+	{
+		"_id" : "La La Land (2016)",
+		"count" : 1
+	},
+	{
+		"_id" : "Hellcats",
+		"count" : 1
+	},
+	{
+		"_id" : "Riddick (2013)",
+		"count" : 1
+	},
+	{
+		"_id" : "Calvin & Hobbes",
+		"count" : 1
+	},
+	{
+		"_id" : "Total Nonstop Action Wrestling",
+		"count" : 1
+	},
+	{
+		"_id" : "新白雪姫伝説プリーティア | Shin Shirayuki-hime Densetsu Prétear | Prétear - The New Legend of Snow White",
+		"count" : 1
+	},
+	{
+		"_id" : "Dance with Devils (Anime)",
+		"count" : 1
+	},
+	{
+		"_id" : "genie from aladin",
+		"count" : 1
+	},
+	{
+		"_id" : "Call of Duty",
+		"count" : 1
+	},
+	{
+		"_id" : "Black & White (Lionhead Video Game)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Sims (Video Games)",
 		"count" : 1
 	},
 	{
@@ -864,15 +6044,35 @@
 		"count" : 1
 	},
 	{
-		"_id" : "5SOS",
+		"_id" : "Horns - Joe Hill",
 		"count" : 1
 	},
 	{
-		"_id" : "Arthurian Mythology & Related Fandoms",
+		"_id" : "FAKE (Manga)",
+		"count" : 1
+	},
+	{
+		"_id" : "Neon Genesis Evangelion: Gakuen Datenroku | Campus Apocalypse",
+		"count" : 1
+	},
+	{
+		"_id" : "The Defenders (Marvel TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Eaglecrest - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Pocket Monsters: Sun & Moon | Pokemon Sun & Moon Versions",
 		"count" : 1
 	},
 	{
 		"_id" : "Max Headroom (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "RuPaul's Drag Race RPF",
 		"count" : 1
 	},
 	{
@@ -884,11 +6084,27 @@
 		"count" : 1
 	},
 	{
+		"_id" : "Starsky & Hutch",
+		"count" : 1
+	},
+	{
+		"_id" : "3 Percent (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter-J.K Rowling",
+		"count" : 1
+	},
+	{
 		"_id" : "gradence - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Fantastic Beasts - Fandom",
+		"_id" : "Newsies (1992)",
+		"count" : 1
+	},
+	{
+		"_id" : "harry potter/game of thrones - Fandom",
 		"count" : 1
 	},
 	{
@@ -896,27 +6112,23 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Crisis Core: Final Fantasy VII",
+		"_id" : "The Night Manager (TV)",
 		"count" : 1
 	},
 	{
-		"_id" : "X-Men (Movieverse)",
+		"_id" : "Prince of Stride: Alternative (Anime)",
 		"count" : 1
 	},
 	{
-		"_id" : "etc - Fandom",
+		"_id" : "Guardians of Ga'hoole - Kathryn Lasky",
 		"count" : 1
 	},
 	{
-		"_id" : "Wiedźmin | The Witcher (Video Game)",
+		"_id" : "Nurarihyon no Mago | Nura: Rise of the Yokai Clan",
 		"count" : 1
 	},
 	{
-		"_id" : "Overwatch (Video Game)",
-		"count" : 1
-	},
-	{
-		"_id" : "双星の陰陽師 | Sousei no Onmyouji | Twin Star Exorcists",
+		"_id" : "Smutna Rzeczywistość",
 		"count" : 1
 	},
 	{
@@ -924,23 +6136,19 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Thuna - Fandom",
+		"_id" : "Anderson Cooper 360",
 		"count" : 1
 	},
 	{
-		"_id" : "Hawkeye (Comics)",
+		"_id" : "BrainDead (TV)",
 		"count" : 1
 	},
 	{
-		"_id" : "Peter Pan (2003)",
+		"_id" : "Justice League (2017)",
 		"count" : 1
 	},
 	{
-		"_id" : "Tortall - Tamora Pierce",
-		"count" : 1
-	},
-	{
-		"_id" : "Peter Pan - J. M. Barrie",
+		"_id" : "Skulduggery Pleasant - Derek Landy",
 		"count" : 1
 	},
 	{
@@ -948,7 +6156,15 @@
 		"count" : 1
 	},
 	{
+		"_id" : "Robot Series - Isaac Asimov",
+		"count" : 1
+	},
+	{
 		"_id" : "Punisher (Comics)",
+		"count" : 1
+	},
+	{
+		"_id" : "Hart of Dixie",
 		"count" : 1
 	},
 	{
@@ -956,15 +6172,35 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Xena: Warrior Princess",
+		"_id" : "Colbert Report RPF",
 		"count" : 1
 	},
 	{
-		"_id" : "DC - Fandom",
+		"_id" : "Levyaku - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Gor novels (John Norman)",
+		"count" : 1
+	},
+	{
+		"_id" : "Fairy Tales & Related Fandoms",
+		"count" : 1
+	},
+	{
+		"_id" : "Black Sails",
 		"count" : 1
 	},
 	{
 		"_id" : "gravebone - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Psycho Pass",
+		"count" : 1
+	},
+	{
+		"_id" : "The Symphony of Ages - Elizabeth Haydon",
 		"count" : 1
 	},
 	{
@@ -976,7 +6212,7 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Hogwartvengers",
+		"_id" : "Ed Edd n Eddy",
 		"count" : 1
 	},
 	{
@@ -984,15 +6220,23 @@
 		"count" : 1
 	},
 	{
+		"_id" : "Dallas (TV 2012)",
+		"count" : 1
+	},
+	{
+		"_id" : "Midsomer Murders - All Media Types",
+		"count" : 1
+	},
+	{
 		"_id" : "heralds of valdamar",
 		"count" : 1
 	},
 	{
-		"_id" : "Monster High",
+		"_id" : "The Monkees",
 		"count" : 1
 	},
 	{
-		"_id" : "The Core (2003)",
+		"_id" : "Cabbages and Kings - O. Henry",
 		"count" : 1
 	},
 	{
@@ -1000,7 +6244,19 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Hunter X Hunter",
+		"_id" : "Monty Python's The Meaning of Life (1983)",
+		"count" : 1
+	},
+	{
+		"_id" : "Wallander Series - Henning Mankell",
+		"count" : 1
+	},
+	{
+		"_id" : "Sons of Anarchy",
+		"count" : 1
+	},
+	{
+		"_id" : "Monsters Inc (2001)",
 		"count" : 1
 	},
 	{
@@ -1016,15 +6272,11 @@
 		"count" : 1
 	},
 	{
-		"_id" : "ああっ女神さまっ | Ah! Megami-sama! | Oh My Goddess!",
+		"_id" : "ハイパープロジェクション演劇「ハイキュー!!」| Hyper Projection Play \"Haikyuu!!\" RPF",
 		"count" : 1
 	},
 	{
-		"_id" : "Dragonriders of Pern - Anne McCaffrey",
-		"count" : 1
-	},
-	{
-		"_id" : "Twenty One Pilots",
+		"_id" : "Captain America (Movies) RPF",
 		"count" : 1
 	},
 	{
@@ -1040,7 +6292,23 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Slings & Arrows",
+		"_id" : "The Kinks (Band)",
+		"count" : 1
+	},
+	{
+		"_id" : "Street Fighter",
+		"count" : 1
+	},
+	{
+		"_id" : "EOS 10 (Podcast)",
+		"count" : 1
+	},
+	{
+		"_id" : "DRAMAtical Murder - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Le Fantôme de l'Opéra | Phantom of the Opera & Related Fandoms",
 		"count" : 1
 	},
 	{
@@ -1048,11 +6316,19 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Harrypotter after the war",
+		"_id" : "Lumione - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "supercorp - Fandom",
 		"count" : 1
 	},
 	{
 		"_id" : "harry potter series",
+		"count" : 1
+	},
+	{
+		"_id" : "The Hot Topic Krew - Fandom",
 		"count" : 1
 	},
 	{
@@ -1072,15 +6348,11 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Arrow - Fandom",
+		"_id" : "Shinedown (Band)",
 		"count" : 1
 	},
 	{
-		"_id" : "Magnus Chase and the Gods of Asgard - Rick Riordan",
-		"count" : 1
-	},
-	{
-		"_id" : "The Sound of Music - Rodgers/Hammerstein/Lindsay & Crouse",
+		"_id" : "Cry Baby - Melanie Martinez (Album)",
 		"count" : 1
 	},
 	{
@@ -1088,7 +6360,11 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Phan",
+		"_id" : "others not mention - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "The Fast and the Furious (2001)",
 		"count" : 1
 	},
 	{
@@ -1096,7 +6372,15 @@
 		"count" : 1
 	},
 	{
-		"_id" : "The Legend of Zelda: Twilight Princess",
+		"_id" : "The Chronicles of Chrestomanci - Diana Wynne Jones",
+		"count" : 1
+	},
+	{
+		"_id" : "Prom Night (2008)",
+		"count" : 1
+	},
+	{
+		"_id" : "Arts & Sciences RPF",
 		"count" : 1
 	},
 	{
@@ -1104,11 +6388,11 @@
 		"count" : 1
 	},
 	{
-		"_id" : "White Collar",
+		"_id" : "Dishonored (Video Games)",
 		"count" : 1
 	},
 	{
-		"_id" : "Primeval",
+		"_id" : "The Secret of Moonacre (2008)",
 		"count" : 1
 	},
 	{
@@ -1116,7 +6400,7 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Percy Jackson and the Olympians",
+		"_id" : "Oliver Wood - Fandom",
 		"count" : 1
 	},
 	{
@@ -1124,11 +6408,15 @@
 		"count" : 1
 	},
 	{
-		"_id" : "James Sirius Potter - Fandom",
+		"_id" : "Harry Potter- J. K. Rowling",
 		"count" : 1
 	},
 	{
-		"_id" : "Star Trek: Voyager",
+		"_id" : "Spartacus Series (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "My Bloody Valentine (2009)",
 		"count" : 1
 	},
 	{
@@ -1140,6 +6428,14 @@
 		"count" : 1
 	},
 	{
+		"_id" : "Peter Pan (1953)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Night Circus - Erin Morgenstern",
+		"count" : 1
+	},
+	{
 		"_id" : "more tba - Fandom",
 		"count" : 1
 	},
@@ -1148,11 +6444,23 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Harry Potter - J.K. Rowling",
+		"_id" : "Kiss of the Spider Woman - All Media Types",
 		"count" : 1
 	},
 	{
-		"_id" : "British Royalty RPF",
+		"_id" : "恋姫†無双 | Koihime Musou",
+		"count" : 1
+	},
+	{
+		"_id" : "Sonic the Hedgehog (Video Games)",
+		"count" : 1
+	},
+	{
+		"_id" : "Snowbaz - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "2016 presidential race",
 		"count" : 1
 	},
 	{
@@ -1164,7 +6472,11 @@
 		"count" : 1
 	},
 	{
-		"_id" : "哈利波特 - Fandom",
+		"_id" : "phan au - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "classics - Fandom",
 		"count" : 1
 	},
 	{
@@ -1184,23 +6496,31 @@
 		"count" : 1
 	},
 	{
-		"_id" : "The Losers (2010)",
+		"_id" : "The Man From U.N.C.L.E. (TV)",
 		"count" : 1
 	},
 	{
-		"_id" : "Akatsuki no Yona | Yona of the Dawn",
+		"_id" : "The Fault in Our Stars - John Green",
 		"count" : 1
 	},
 	{
-		"_id" : "Pokemon GO",
+		"_id" : "Darker Than BLACK",
 		"count" : 1
 	},
 	{
-		"_id" : "Homicide: Life on the Street",
+		"_id" : "Father Brown (2013)",
 		"count" : 1
 	},
 	{
-		"_id" : "Miraculous Ladybug",
+		"_id" : "Hellblazer & Related Fandoms",
+		"count" : 1
+	},
+	{
+		"_id" : "The Worst Witch - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Van Helsing (2004)",
 		"count" : 1
 	},
 	{
@@ -1208,23 +6528,35 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Thor (Comics)",
+		"_id" : "Seventh Carrier",
 		"count" : 1
 	},
 	{
-		"_id" : "X-Men Evolution",
+		"_id" : "光神話 | Kid Icarus (Video Games)",
 		"count" : 1
 	},
 	{
-		"_id" : "Invader Zim",
+		"_id" : "Equilibrium (2002)",
 		"count" : 1
 	},
 	{
-		"_id" : "Flintwood - Fandom",
+		"_id" : "Sherlock Holmes (1984 TV)",
 		"count" : 1
 	},
 	{
-		"_id" : "La La Land (2016)",
+		"_id" : "Community",
+		"count" : 1
+	},
+	{
+		"_id" : "British Television/Films",
+		"count" : 1
+	},
+	{
+		"_id" : "Tales of Zestira",
+		"count" : 1
+	},
+	{
+		"_id" : "Malcolm in the Middle",
 		"count" : 1
 	},
 	{
@@ -1236,11 +6568,31 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Captain America - All Media Types",
+		"_id" : "Columbo",
 		"count" : 1
 	},
 	{
-		"_id" : "Girl Genius",
+		"_id" : "The Children of Hurin - J.R.R. Tolkien",
+		"count" : 1
+	},
+	{
+		"_id" : "Hitchhiker's Guide to the Galaxy",
+		"count" : 1
+	},
+	{
+		"_id" : "The Bill (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Aliens (1986)",
+		"count" : 1
+	},
+	{
+		"_id" : "Lily Evans - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Primeval (TV) - Fandom",
 		"count" : 1
 	},
 	{
@@ -1248,11 +6600,23 @@
 		"count" : 1
 	},
 	{
-		"_id" : "The Shadowhunter Chronicles - All Media Types",
+		"_id" : "Mononoke-hime | Princess Mononoke",
 		"count" : 1
 	},
 	{
-		"_id" : "Parks and Recreation",
+		"_id" : "OFF (Game)",
+		"count" : 1
+	},
+	{
+		"_id" : "Christmas - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Dragonball GT",
+		"count" : 1
+	},
+	{
+		"_id" : "DeathNote",
 		"count" : 1
 	},
 	{
@@ -1260,11 +6624,11 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Matilda - Roald Dahl",
+		"_id" : "Sibelius RPF",
 		"count" : 1
 	},
 	{
-		"_id" : "Fruits Basket",
+		"_id" : "Disney Animated Fandoms",
 		"count" : 1
 	},
 	{
@@ -1272,19 +6636,43 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Sports Night",
-		"count" : 1
-	},
-	{
 		"_id" : "Bishoujo Senshi Sailor Moon | Pretty Guardian Sailor Moon (Anime)",
 		"count" : 1
 	},
 	{
-		"_id" : "Cardcaptor Sakura",
+		"_id" : "Zathura: A Space Adventure (2005)",
 		"count" : 1
 	},
 	{
-		"_id" : "Baccano!",
+		"_id" : "Home Alone (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "Manyuu Hikenchou",
+		"count" : 1
+	},
+	{
+		"_id" : "Dark!Ron - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter and the Order of the Phoenix- film",
+		"count" : 1
+	},
+	{
+		"_id" : "Superman comics",
+		"count" : 1
+	},
+	{
+		"_id" : "Strictly Come Dancing RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "Outlaw Josey Wales (1976)",
+		"count" : 1
+	},
+	{
+		"_id" : "Final Fantasy XIII-2",
 		"count" : 1
 	},
 	{
@@ -1292,7 +6680,7 @@
 		"count" : 1
 	},
 	{
-		"_id" : "EXO (Band)",
+		"_id" : "Harry Potter JKR",
 		"count" : 1
 	},
 	{
@@ -1300,7 +6688,31 @@
 		"count" : 1
 	},
 	{
+		"_id" : "The Maze Runner (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "Grim Adventures of Billy & Mandy",
+		"count" : 1
+	},
+	{
+		"_id" : "Bridget Jones's Diary - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "The Runestone",
+		"count" : 1
+	},
+	{
 		"_id" : "Twitches (2005)",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter (Marauders Era)",
+		"count" : 1
+	},
+	{
+		"_id" : "Nim's Island (2008)",
 		"count" : 1
 	},
 	{
@@ -1308,15 +6720,15 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Harry Potter-J.K Rowling",
+		"_id" : "Batman - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Celtic Mythology",
+		"_id" : "Pulp Fiction (1994)",
 		"count" : 1
 	},
 	{
-		"_id" : "All For the Game - Nora Sakavic",
+		"_id" : "Muse (Band)",
 		"count" : 1
 	},
 	{
@@ -1328,15 +6740,15 @@
 		"count" : 1
 	},
 	{
+		"_id" : "Toradora!",
+		"count" : 1
+	},
+	{
 		"_id" : "The Sopranos",
 		"count" : 1
 	},
 	{
-		"_id" : "Hitchhiker's Guide to the Galaxy - Douglas Adams",
-		"count" : 1
-	},
-	{
-		"_id" : "Infinite (Band)",
+		"_id" : "Bishoujo Senshi Sailor Moon | Pretty Guardian Sailor Moon (Live Action TV)",
 		"count" : 1
 	},
 	{
@@ -1348,11 +6760,23 @@
 		"count" : 1
 	},
 	{
+		"_id" : "greg - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "The Last Dragonlord - Joanne Bertin",
+		"count" : 1
+	},
+	{
 		"_id" : "The Culture - Iain M. Banks",
 		"count" : 1
 	},
 	{
-		"_id" : "Holby City",
+		"_id" : "Harry Potter and Death Note Crossover",
+		"count" : 1
+	},
+	{
+		"_id" : "Temple Run",
 		"count" : 1
 	},
 	{
@@ -1360,11 +6784,19 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Stargate - All Series",
+		"_id" : "Halo (Video Games) & Related Fandoms",
 		"count" : 1
 	},
 	{
-		"_id" : "The Lord of the Rings RPF",
+		"_id" : "Nikita (TV 2010)",
+		"count" : 1
+	},
+	{
+		"_id" : "Stick It (2006)",
+		"count" : 1
+	},
+	{
+		"_id" : "Ancient Egyptian Religion",
 		"count" : 1
 	},
 	{
@@ -1372,191 +6804,11 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Tales from the White Hart (Arthur C. Clarke)",
+		"_id" : "Of Mice and Men - John Steinbeck",
 		"count" : 1
 	},
 	{
-		"_id" : "supercorp - Fandom",
-		"count" : 1
-	},
-	{
-		"_id" : "Thoroughly Modern Milly",
-		"count" : 1
-	},
-	{
-		"_id" : "Princess Bride - William Goldman",
-		"count" : 1
-	},
-	{
-		"_id" : "Highlander - All Media Types",
-		"count" : 1
-	},
-	{
-		"_id" : "The Changeover - Margaret Mahy",
-		"count" : 1
-	},
-	{
-		"_id" : "The Sandman (Comics)",
-		"count" : 1
-	},
-	{
-		"_id" : "Léon | The Professional (1994)",
-		"count" : 1
-	},
-	{
-		"_id" : "Terminator: The Sarah Connor Chronicles",
-		"count" : 1
-	},
-	{
-		"_id" : "Gor novels (John Norman)",
-		"count" : 1
-	},
-	{
-		"_id" : "Rhett & Link",
-		"count" : 1
-	},
-	{
-		"_id" : "Pulp Fiction (1994)",
-		"count" : 1
-	},
-	{
-		"_id" : "The Prisoner (1967)",
-		"count" : 1
-	},
-	{
-		"_id" : "Angel: the Series",
-		"count" : 1
-	},
-	{
-		"_id" : "Bill the Galactic Hero (Harry Harrison)",
-		"count" : 1
-	},
-	{
-		"_id" : "Richard III - Shakespeare",
-		"count" : 1
-	},
-	{
-		"_id" : "Wicked - Schwartz/Holzman",
-		"count" : 1
-	},
-	{
-		"_id" : "Dark Knight (2008)",
-		"count" : 1
-	},
-	{
-		"_id" : "Troy (2004)",
-		"count" : 1
-	},
-	{
-		"_id" : "Bones (TV)",
-		"count" : 1
-	},
-	{
-		"_id" : "The Fast and the Furious (2001)",
-		"count" : 1
-	},
-	{
-		"_id" : "赤髪の白雪姫 | Akagami no Shirayukihime",
-		"count" : 1
-	},
-	{
-		"_id" : "Charmed",
-		"count" : 1
-	},
-	{
-		"_id" : "The Vampire Diaries - L. J. Smith",
-		"count" : 1
-	},
-	{
-		"_id" : "unpredictable story",
-		"count" : 1
-	},
-	{
-		"_id" : "Fast and the Furious Series",
-		"count" : 1
-	},
-	{
-		"_id" : "Chronicles of Narnia (Movies)",
-		"count" : 1
-	},
-	{
-		"_id" : "Teenage Mutant Ninja Turtles - All Media Types",
-		"count" : 1
-	},
-	{
-		"_id" : "The Kane Chronicles - Rick Riordan",
-		"count" : 1
-	},
-	{
-		"_id" : "Suits (TV)",
-		"count" : 1
-	},
-	{
-		"_id" : "Darker Than BLACK",
-		"count" : 1
-	},
-	{
-		"_id" : "The Tomorrow People (2013)",
-		"count" : 1
-	},
-	{
-		"_id" : "Vampire Academy Series - Richelle Mead",
-		"count" : 1
-	},
-	{
-		"_id" : "Popslash",
-		"count" : 1
-	},
-	{
-		"_id" : "Teenage Mutant Ninja Turtles (TV 2012)",
-		"count" : 1
-	},
-	{
-		"_id" : "Finding Dory (2016)",
-		"count" : 1
-	},
-	{
-		"_id" : "Türkisch Für Anfänger",
-		"count" : 1
-	},
-	{
-		"_id" : "A Very Potter Musical Series - Team StarKid",
-		"count" : 1
-	},
-	{
-		"_id" : "Unbreakable Kimmy Schmidt",
-		"count" : 1
-	},
-	{
-		"_id" : "Stranger Things (TV 2016)",
-		"count" : 1
-	},
-	{
-		"_id" : "3 Percent (TV)",
-		"count" : 1
-	},
-	{
-		"_id" : "Heroes (TV)",
-		"count" : 1
-	},
-	{
-		"_id" : "Ant-Man (Movies)",
-		"count" : 1
-	},
-	{
-		"_id" : "Atlantis: The Lost Empire (2001)",
-		"count" : 1
-	},
-	{
-		"_id" : "Tarzan (1999)",
-		"count" : 1
-	},
-	{
-		"_id" : "Hercules (1997)",
-		"count" : 1
-	},
-	{
-		"_id" : "British Television/Films",
+		"_id" : "PJO (Percy Jackson and the Olympians)",
 		"count" : 1
 	},
 	{
@@ -1564,75 +6816,147 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Wives and Daughters - Elizabeth Gaskell",
+		"_id" : "Ghostbusters (2016)",
 		"count" : 1
 	},
 	{
-		"_id" : "Beauty and the Beast (1991)",
+		"_id" : "The Book of Mormon - Parker/Stone/Lopez",
 		"count" : 1
 	},
 	{
-		"_id" : "The Loud House (Cartoon)",
+		"_id" : "Don't Hug Me I'm Scared (Short Film)",
 		"count" : 1
 	},
 	{
-		"_id" : "血界戦線 | Kekkai Sensen | Blood Blockade Battlefront",
+		"_id" : "Tales from the White Hart (Arthur C. Clarke)",
 		"count" : 1
 	},
 	{
-		"_id" : "The Little Mermaid (1989)",
+		"_id" : "Thoroughly Modern Milly",
 		"count" : 1
 	},
 	{
-		"_id" : "Pocahontas (1995)",
+		"_id" : "Alien Series",
 		"count" : 1
 	},
 	{
-		"_id" : "Snow White and the Seven Dwarfs (1937)",
+		"_id" : "Deltora Quest - Emily Rodda",
 		"count" : 1
 	},
 	{
-		"_id" : "Vorkosigan Saga - Lois McMaster Bujold",
+		"_id" : "The Prisoner (1967)",
 		"count" : 1
 	},
 	{
-		"_id" : "Hunger - Fandom",
+		"_id" : "Dark Knight (2008)",
 		"count" : 1
 	},
 	{
-		"_id" : "Disney Princesses",
+		"_id" : "Hogwarts School of Prayer and Miracles",
 		"count" : 1
 	},
 	{
-		"_id" : "Harry Potter (Next Generation)",
+		"_id" : "Girlfight (2000)",
 		"count" : 1
 	},
 	{
-		"_id" : "Assassination Classroom",
+		"_id" : "Charmed",
 		"count" : 1
 	},
 	{
-		"_id" : "Ginyuu Mokushiroku Meine Liebe | Meine Liebe",
+		"_id" : "Heathers: The Musical - Murphy & O'Keefe",
 		"count" : 1
 	},
 	{
-		"_id" : "The Perfect American",
+		"_id" : "Musicals - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "The Magnificent Seven (TV)",
+		"_id" : "No Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Magi: The Labyrinth of Magic",
+		"_id" : "Mystery Skulls Animated",
 		"count" : 1
 	},
 	{
-		"_id" : "Snarry - Fandom",
+		"_id" : "The Legend of Zelda: Hyrule Warriors",
 		"count" : 1
 	},
 	{
-		"_id" : "Star Wars Prequel Trilogy",
+		"_id" : "unpredictable story",
+		"count" : 1
+	},
+	{
+		"_id" : "Heist Society Series - Ally Carter",
+		"count" : 1
+	},
+	{
+		"_id" : "God of War",
+		"count" : 1
+	},
+	{
+		"_id" : "Miami Vice (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Rachel Maddow Show",
+		"count" : 1
+	},
+	{
+		"_id" : "The Craft (1996)",
+		"count" : 1
+	},
+	{
+		"_id" : "12 Angry Men (1957)",
+		"count" : 1
+	},
+	{
+		"_id" : "Larry Stylinson - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "The Tomorrow People (2013)",
+		"count" : 1
+	},
+	{
+		"_id" : "Phoebe in Wonderland (2008)",
+		"count" : 1
+	},
+	{
+		"_id" : "She-Ra: Princess Of Power",
+		"count" : 1
+	},
+	{
+		"_id" : "Dicks Out for Harambe",
+		"count" : 1
+	},
+	{
+		"_id" : "ココロコネクト | Kokoro Connect",
+		"count" : 1
+	},
+	{
+		"_id" : "DOGS (Manga)",
+		"count" : 1
+	},
+	{
+		"_id" : "Türkisch Für Anfänger",
+		"count" : 1
+	},
+	{
+		"_id" : "Two and a Half Men (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "おそ松さん | Osomatsu-san (Anime)",
+		"count" : 1
+	},
+	{
+		"_id" : "Unbreakable Kimmy Schmidt",
+		"count" : 1
+	},
+	{
+		"_id" : "Thunderbirds",
 		"count" : 1
 	},
 	{
@@ -1640,7 +6964,55 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Norse Mythology",
+		"_id" : "Cinderella (2015)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Wizard of Oz & Related Fandoms",
+		"count" : 1
+	},
+	{
+		"_id" : "13 Going On 30 (2004)",
+		"count" : 1
+	},
+	{
+		"_id" : "American Idiot - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "mauraders - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Black Dagger Brotherhood - J. R. Ward",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter (Next Generation)",
+		"count" : 1
+	},
+	{
+		"_id" : "Panty & Stocking with Garterbelt",
+		"count" : 1
+	},
+	{
+		"_id" : "Ginyuu Mokushiroku Meine Liebe | Meine Liebe",
+		"count" : 1
+	},
+	{
+		"_id" : "Hunger - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Little Red Riding Hood (Fairy Tale)",
+		"count" : 1
+	},
+	{
+		"_id" : "Wuthering Heights - Emily Brontë",
+		"count" : 1
+	},
+	{
+		"_id" : "Sacrifices Arc",
 		"count" : 1
 	},
 	{
@@ -1652,7 +7024,15 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Harry Potter and the Philosopher's Stone - Fandom",
+		"_id" : "SW:Episode I",
+		"count" : 1
+	},
+	{
+		"_id" : "Ouran High School Host Club - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "The Shadowhunter Chronicles - Cassandra Clare",
 		"count" : 1
 	},
 	{
@@ -1660,27 +7040,23 @@
 		"count" : 1
 	},
 	{
-		"_id" : "American Idiot - All Media Types",
+		"_id" : "Sebastian Stan (Actor)",
 		"count" : 1
 	},
 	{
-		"_id" : "Ranma 1/2",
+		"_id" : "Dangan Ronpa 3: The End of 希望ヶ峰学園 | The End of Kibougamine Gakuen | End of Hope's Peak High School",
 		"count" : 1
 	},
 	{
-		"_id" : "Star Wars Episode IV: A New Hope",
+		"_id" : "Royalty RPF",
 		"count" : 1
 	},
 	{
-		"_id" : "percy jackson - Fandom",
+		"_id" : "Tales from the Shadowhunter Academy - Cassandra Clare",
 		"count" : 1
 	},
 	{
-		"_id" : "Video Blogging (RPF)",
-		"count" : 1
-	},
-	{
-		"_id" : "Sons of Anarchy",
+		"_id" : "Hufflepuff - Fandom",
 		"count" : 1
 	},
 	{
@@ -1688,11 +7064,19 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Final Fantasy XV",
+		"_id" : "Yakulev - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Saint Beast",
+		"_id" : "Thor - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Pacific Rim (2013)",
+		"count" : 1
+	},
+	{
+		"_id" : "Justice League vs. Teen Titans (2016)",
 		"count" : 1
 	},
 	{
@@ -1704,11 +7088,11 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Inkheart (2008)",
+		"_id" : "gredence - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Primal Fear (1996)",
+		"_id" : "Sen to Chihiro no Kamikakushi | Spirited Away",
 		"count" : 1
 	},
 	{
@@ -1716,51 +7100,35 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Once Upon a Time in Wonderland (TV)",
-		"count" : 1
-	},
-	{
 		"_id" : "Passengers (2016)",
 		"count" : 1
 	},
 	{
-		"_id" : "Stonehenge Apocalypse (2010)",
+		"_id" : "Lord Peter Wimsey - Dorothy L. Sayers",
 		"count" : 1
 	},
 	{
-		"_id" : "Robot Series - Isaac Asimov",
+		"_id" : "Devour (2005)",
 		"count" : 1
 	},
 	{
-		"_id" : "Sleeping Beauty (1959)",
+		"_id" : "Teen Titans",
 		"count" : 1
 	},
 	{
-		"_id" : "Doctor Strange (2016)",
+		"_id" : "Keys to the Kingdom - Garth Nix",
 		"count" : 1
 	},
 	{
-		"_id" : "Law & Order: SVU",
+		"_id" : "The Incredible Hulk (2008)",
 		"count" : 1
 	},
 	{
-		"_id" : "Brave (2012)",
+		"_id" : "Formula 1 RPF",
 		"count" : 1
 	},
 	{
-		"_id" : "Heathers: The Musical - Murphy & O'Keefe",
-		"count" : 1
-	},
-	{
-		"_id" : "Monsters Inc (2001)",
-		"count" : 1
-	},
-	{
-		"_id" : "Star Trek: The Next Generation",
-		"count" : 1
-	},
-	{
-		"_id" : "Transformers (Bay Movies)",
+		"_id" : "uta no prince sama",
 		"count" : 1
 	},
 	{
@@ -1768,7 +7136,15 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Assassin's Creed",
+		"_id" : "Jeux D'Enfants | Love Me If You Dare (2003)",
+		"count" : 1
+	},
+	{
+		"_id" : "JONAS",
+		"count" : 1
+	},
+	{
+		"_id" : "The Unicorn Chronicles - Bruce Coville",
 		"count" : 1
 	},
 	{
@@ -1776,51 +7152,59 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Fifth Element (1997)",
+		"_id" : "Brady Bunch",
 		"count" : 1
 	},
 	{
-		"_id" : "Temple Run",
+		"_id" : "Green Day",
 		"count" : 1
 	},
 	{
-		"_id" : "Cursed Child - Fandom",
+		"_id" : "Home Fires (UK TV)",
 		"count" : 1
 	},
 	{
-		"_id" : "Bewitched",
+		"_id" : "Highlander - All Media Types",
 		"count" : 1
 	},
 	{
-		"_id" : "The Marauders - Fandom",
+		"_id" : "GetBackers",
 		"count" : 1
 	},
 	{
-		"_id" : "Pandora Hearts",
+		"_id" : "Dangerverse - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Sabrina the Teenage Witch (TV)",
+		"_id" : "musketeers - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Bishoujo Senshi Sailor Moon | Pretty Guardian Sailor Moon (Anime & Manga)",
+		"_id" : "Friday the 13th Series (Movies)",
 		"count" : 1
 	},
 	{
-		"_id" : "Practical Magic (1998)",
+		"_id" : "Mage: The Ascension",
 		"count" : 1
 	},
 	{
-		"_id" : "Little Mix (Band)",
+		"_id" : "death eaters - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Bridget Jones's Diary - All Media Types",
+		"_id" : "Stargate Universe",
 		"count" : 1
 	},
 	{
-		"_id" : "The Night Manager (TV)",
+		"_id" : "Westworld (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Grimm's Fairy Tales",
+		"count" : 1
+	},
+	{
+		"_id" : "Toriko (Anime & Manga)",
 		"count" : 1
 	},
 	{
@@ -1832,43 +7216,39 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Cthulhu Mythos - Fandom",
-		"count" : 1
-	},
-	{
 		"_id" : "Xiaolin Showdown (Cartoon)",
 		"count" : 1
 	},
 	{
-		"_id" : "Columbo",
+		"_id" : "Percy Jackson & the Olympians: The Lightning Thief (2010)",
 		"count" : 1
 	},
 	{
-		"_id" : "Old World of Darkness",
+		"_id" : "Teddy lupin - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "The Princess and the Frog (2009)",
+		"_id" : "First Robotics",
 		"count" : 1
 	},
 	{
-		"_id" : "GetBackers",
+		"_id" : "Beyonders Series - Brandon Mull",
 		"count" : 1
 	},
 	{
-		"_id" : "Southern Vampire Mysteries - Charlaine Harris",
+		"_id" : "Star Wars Legends: Darth Plagueis - James Luceno",
 		"count" : 1
 	},
 	{
-		"_id" : "神々の悪戯 | Kamigami no Asobi",
+		"_id" : "Herbie Movies",
 		"count" : 1
 	},
 	{
-		"_id" : "The Musketeers (2014)",
+		"_id" : "Fallen - Lauren Kate",
 		"count" : 1
 	},
 	{
-		"_id" : "甘々と稲妻 | Amaama to Inazuma | Sweetness & Lightning (Anime)",
+		"_id" : "Care Bears",
 		"count" : 1
 	},
 	{
@@ -1880,7 +7260,7 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Tintenwelt-Trilogie | Inkheart Trilogy - Cornelia Funke",
+		"_id" : "padfoot and moony",
 		"count" : 1
 	},
 	{
@@ -1888,19 +7268,31 @@
 		"count" : 1
 	},
 	{
-		"_id" : "私がモテてどうすんだ | Watashi ga Motete Dousunda | Kiss Him Not Me",
+		"_id" : "Mulit - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Digimon Adventure",
+		"_id" : "Ms. Marvel (Comics)",
 		"count" : 1
 	},
 	{
-		"_id" : "Ghost Hunt",
+		"_id" : "Supernatural - Fandom - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "The Addams Family (1991)",
+		"_id" : "Making Out - Katherine Applegate",
+		"count" : 1
+	},
+	{
+		"_id" : "Australian Census",
+		"count" : 1
+	},
+	{
+		"_id" : "Lego Ninjago",
+		"count" : 1
+	},
+	{
+		"_id" : "Xenoblade Chronicles",
 		"count" : 1
 	},
 	{
@@ -1908,7 +7300,23 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Harry Potter - J.K Rowling",
+		"_id" : "The Loud House (Cartoon)",
+		"count" : 1
+	},
+	{
+		"_id" : "血界戦線 | Kekkai Sensen | Blood Blockade Battlefront",
+		"count" : 1
+	},
+	{
+		"_id" : "The Middleman (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Love Live! Sunshine!!",
+		"count" : 1
+	},
+	{
+		"_id" : "rise of the guardians",
 		"count" : 1
 	},
 	{
@@ -1916,39 +7324,47 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Hart of Dixie",
+		"_id" : "Sports RPF",
 		"count" : 1
 	},
 	{
-		"_id" : "Charlie and the Chocolate Factory (2005)",
+		"_id" : "A Little Princess (1995)",
 		"count" : 1
 	},
 	{
-		"_id" : "Gotham (TV)",
+		"_id" : "Sense8 (TV)",
 		"count" : 1
 	},
 	{
-		"_id" : "Westlife",
+		"_id" : "maze runner",
 		"count" : 1
 	},
 	{
-		"_id" : "BBC Radio 1 RPF",
+		"_id" : "Tatennant Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Call the Midwife",
+		"_id" : "Wives and Daughters - Elizabeth Gaskell",
 		"count" : 1
 	},
 	{
-		"_id" : "Series of Unfortunate Events - Lemony Snicket",
+		"_id" : "Other Fandoms To Be Added Later - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "North and South - Elizabeth Gaskell | UK TV",
+		"_id" : "Lost In Austen",
 		"count" : 1
 	},
 	{
-		"_id" : "anime - Fandom",
+		"_id" : "Boy Meets World",
+		"count" : 1
+	},
+	{
+		"_id" : "Magic Kaito",
+		"count" : 1
+	},
+	{
+		"_id" : "Tonari no Kaibutsu-kun | My Little Monster",
 		"count" : 1
 	},
 	{
@@ -1956,27 +7372,11 @@
 		"count" : 1
 	},
 	{
-		"_id" : "harry potter/game of thrones - Fandom",
+		"_id" : "LOVECRAFT H. P. - Works",
 		"count" : 1
 	},
 	{
-		"_id" : "DCU (Comics)",
-		"count" : 1
-	},
-	{
-		"_id" : "Constantine (TV)",
-		"count" : 1
-	},
-	{
-		"_id" : "Irish Mythology",
-		"count" : 1
-	},
-	{
-		"_id" : "ハイパープロジェクション演劇「ハイキュー!!」| Hyper Projection Play \"Haikyuu!!\" RPF",
-		"count" : 1
-	},
-	{
-		"_id" : "The Hunchback of Notre Dame (1996)",
+		"_id" : "five seconds of summer",
 		"count" : 1
 	},
 	{
@@ -1984,7 +7384,11 @@
 		"count" : 1
 	},
 	{
-		"_id" : "The Librarians (TV 2014)",
+		"_id" : "Canadian Actor RPF",
+		"count" : 1
+	},
+	{
+		"_id" : "lupin x remus",
 		"count" : 1
 	},
 	{
@@ -1996,159 +7400,31 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Fallen - Lauren Kate",
+		"_id" : "rise of the brave tangled frozen dragons - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Undermountain resource book D&D 2nd Ed",
+		"_id" : "PuppetMaster IV",
 		"count" : 1
 	},
 	{
-		"_id" : "The Princess Bride - William Goldman",
+		"_id" : "Charmione - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "A Song of Ice and Fire & Related Fandoms",
+		"_id" : "Alice in Wonderland (1951)",
 		"count" : 1
 	},
 	{
-		"_id" : "The Runestone",
+		"_id" : "Last 5 Years - Brown",
 		"count" : 1
 	},
 	{
-		"_id" : "X-Men: Days of Future Past (2014) - Fandom",
+		"_id" : "Ib (Video Game)",
 		"count" : 1
 	},
 	{
-		"_id" : "Real Person Fiction",
-		"count" : 1
-	},
-	{
-		"_id" : "My Immortal",
-		"count" : 1
-	},
-	{
-		"_id" : "The Avengers (2012)",
-		"count" : 1
-	},
-	{
-		"_id" : "X-Men: First Class (2011) RPF",
-		"count" : 1
-	},
-	{
-		"_id" : "DCU",
-		"count" : 1
-	},
-	{
-		"_id" : "Charlie Countryman (2013)",
-		"count" : 1
-	},
-	{
-		"_id" : "X-Men: First Class (2011) - Fandom",
-		"count" : 1
-	},
-	{
-		"_id" : "Kpop - Fandom",
-		"count" : 1
-	},
-	{
-		"_id" : "New character - Fandom",
-		"count" : 1
-	},
-	{
-		"_id" : "Star vs. The Forces Of Evil",
-		"count" : 1
-	},
-	{
-		"_id" : "iZombie (TV)",
-		"count" : 1
-	},
-	{
-		"_id" : "Jacksepticeye (YouTuber RPF)",
-		"count" : 1
-	},
-	{
-		"_id" : "Phandom",
-		"count" : 1
-	},
-	{
-		"_id" : "Max Headroom - Fandom",
-		"count" : 1
-	},
-	{
-		"_id" : "Doctor Who (1963)",
-		"count" : 1
-	},
-	{
-		"_id" : "Soul Eater",
-		"count" : 1
-	},
-	{
-		"_id" : "Pride and Prejudice - Jane Austen",
-		"count" : 1
-	},
-	{
-		"_id" : "Grey's Anatomy",
-		"count" : 1
-	},
-	{
-		"_id" : "Graceling - Kristin Cashore",
-		"count" : 1
-	},
-	{
-		"_id" : "Cinderella (1950)",
-		"count" : 1
-	},
-	{
-		"_id" : "Spring Awakening - Sheik/Sater",
-		"count" : 1
-	},
-	{
-		"_id" : "Adam (2009)",
-		"count" : 1
-	},
-	{
-		"_id" : "Code Geass",
-		"count" : 1
-	},
-	{
-		"_id" : "Carry On - Rainbow Rowell",
-		"count" : 1
-	},
-	{
-		"_id" : "Doctor Strange (Comics)",
-		"count" : 1
-	},
-	{
-		"_id" : "Two and a Half Men (TV)",
-		"count" : 1
-	},
-	{
-		"_id" : "Mission: Impossible - Ghost Protocol (2011)",
-		"count" : 1
-	},
-	{
-		"_id" : "Final Fantasy VIII",
-		"count" : 1
-	},
-	{
-		"_id" : "Rogue One: A Star Wars Story (2016)",
-		"count" : 1
-	},
-	{
-		"_id" : "The Almighty Johnsons",
-		"count" : 1
-	},
-	{
-		"_id" : "Boy Meets World",
-		"count" : 1
-	},
-	{
-		"_id" : "Artemis Fowl - Eoin Colfer",
-		"count" : 1
-	},
-	{
-		"_id" : "True Love (TV)",
+		"_id" : "WWE",
 		"count" : 1
 	},
 	{
@@ -2156,11 +7432,183 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Suicide Squad (2016)",
+		"_id" : "The Crucible - Miller",
 		"count" : 1
 	},
 	{
-		"_id" : "Digimon Adventure Zero Two | Digimon Adventure 02",
+		"_id" : "Tales of the Abyss",
+		"count" : 1
+	},
+	{
+		"_id" : "ユリ熊嵐 | Yuri Kuma Arashi",
+		"count" : 1
+	},
+	{
+		"_id" : "Naruto Shippuden",
+		"count" : 1
+	},
+	{
+		"_id" : "Charlie Countryman (2013)",
+		"count" : 1
+	},
+	{
+		"_id" : "lotr - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Kpop - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Studio C (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "Pocket Monsters SPECIAL | Pokemon Adventures",
+		"count" : 1
+	},
+	{
+		"_id" : "Star vs. The Forces Of Evil",
+		"count" : 1
+	},
+	{
+		"_id" : "Winx Club",
+		"count" : 1
+	},
+	{
+		"_id" : "Mentions of Primeval",
+		"count" : 1
+	},
+	{
+		"_id" : "Fringe",
+		"count" : 1
+	},
+	{
+		"_id" : "Marry Me-Train",
+		"count" : 1
+	},
+	{
+		"_id" : "Codename: Kids Next Door",
+		"count" : 1
+	},
+	{
+		"_id" : "Beauty and the Beast - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "The Who",
+		"count" : 1
+	},
+	{
+		"_id" : "Max Headroom - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Spring Awakening - Sheik/Sater",
+		"count" : 1
+	},
+	{
+		"_id" : "Tess of the d'Urbervilles - Thomas Hardy",
+		"count" : 1
+	},
+	{
+		"_id" : "Starfighter (Comic)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Patriot (2000)",
+		"count" : 1
+	},
+	{
+		"_id" : "Alexander Hamilton - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Next generation - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "The Vampire Diaries & Related Fandoms",
+		"count" : 1
+	},
+	{
+		"_id" : "Adam (2009)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Young Elites Series - Marie Lu",
+		"count" : 1
+	},
+	{
+		"_id" : "Shin Megami Tensei: Devil Survivor 2",
+		"count" : 1
+	},
+	{
+		"_id" : "Secret Circle - L. J. Smith",
+		"count" : 1
+	},
+	{
+		"_id" : "Mission: Impossible - Ghost Protocol (2011)",
+		"count" : 1
+	},
+	{
+		"_id" : "Rogue One: A Star Wars Story (2016)",
+		"count" : 1
+	},
+	{
+		"_id" : "青春×機関銃 | Aoharu x Kikanjuu | Aoharu x Machinegun",
+		"count" : 1
+	},
+	{
+		"_id" : "Batman: Arkham (Video Games)",
+		"count" : 1
+	},
+	{
+		"_id" : "Ghostbusters (1984)",
+		"count" : 1
+	},
+	{
+		"_id" : "Sekirei",
+		"count" : 1
+	},
+	{
+		"_id" : "The Shadow Campaigns - Django Wexler",
+		"count" : 1
+	},
+	{
+		"_id" : "Kareshi Kanojo no Jijou | Kare Kano",
+		"count" : 1
+	},
+	{
+		"_id" : "Adam Lambert (Musician)",
+		"count" : 1
+	},
+	{
+		"_id" : "Kick-Ass (2010)",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Dungeons and Dragons - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Goth (2008)",
+		"count" : 1
+	},
+	{
+		"_id" : "Inside Out (2015)",
+		"count" : 1
+	},
+	{
+		"_id" : "Die Hard (Movies)",
+		"count" : 1
+	},
+	{
+		"_id" : "Tom Riddle - Fandom",
 		"count" : 1
 	},
 	{
@@ -2168,19 +7616,19 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Canadian Actor RPF",
+		"_id" : "Tombstone (1993)",
 		"count" : 1
 	},
 	{
-		"_id" : "Star Wars Episode I: The Phantom Menace",
+		"_id" : "HP x DN Crossover",
 		"count" : 1
 	},
 	{
-		"_id" : "Devour (2005)",
+		"_id" : "Victorious",
 		"count" : 1
 	},
 	{
-		"_id" : "Hellsing",
+		"_id" : "New 52 - Fandom",
 		"count" : 1
 	},
 	{
@@ -2192,23 +7640,7 @@
 		"count" : 1
 	},
 	{
-		"_id" : "My Chemical Romance",
-		"count" : 1
-	},
-	{
-		"_id" : "Tombstone (1993)",
-		"count" : 1
-	},
-	{
 		"_id" : "Gangsta. (Anime & Manga)",
-		"count" : 1
-	},
-	{
-		"_id" : "Pretty Little Liars",
-		"count" : 1
-	},
-	{
-		"_id" : "Tonari no Kaibutsu-kun | My Little Monster",
 		"count" : 1
 	},
 	{
@@ -2220,23 +7652,39 @@
 		"count" : 1
 	},
 	{
-		"_id" : "House M.D.",
+		"_id" : "Taia Younis-Magic The Curse",
 		"count" : 1
 	},
 	{
-		"_id" : "Vampire Knight",
+		"_id" : "aladin - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Golden Girls",
+		"_id" : "Dog Soldiers (2002)",
 		"count" : 1
 	},
 	{
-		"_id" : "Fantastic Four",
+		"_id" : "Legend Series - Marie Lu",
 		"count" : 1
 	},
 	{
-		"_id" : "Levyaku - Fandom",
+		"_id" : "The Trials of Apollo - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "Final Fantasy IV",
+		"count" : 1
+	},
+	{
+		"_id" : "Die unendliche Geschichte | The Neverending Story - Michael Ende",
+		"count" : 1
+	},
+	{
+		"_id" : "Whitechapel (TV)",
+		"count" : 1
+	},
+	{
+		"_id" : "The Academy Is...",
 		"count" : 1
 	},
 	{
@@ -2244,31 +7692,27 @@
 		"count" : 1
 	},
 	{
+		"_id" : "El Periquillo Sarniento | The Mangy Parrot - José Joaquín Fernández de Lizardi",
+		"count" : 1
+	},
+	{
+		"_id" : "人魚シリーズ | Ningyo Shirizu | Mermaid Saga",
+		"count" : 1
+	},
+	{
 		"_id" : "Chicago Fire",
 		"count" : 1
 	},
 	{
-		"_id" : "Yakulev - Fandom",
+		"_id" : "The Queen of England - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Ten Inch Hero",
+		"_id" : "King Lear - Shakespeare",
 		"count" : 1
 	},
 	{
-		"_id" : "Star Wars Episode VI: Return of the Jedi",
-		"count" : 1
-	},
-	{
-		"_id" : "Malcolm in the Middle",
-		"count" : 1
-	},
-	{
-		"_id" : "ココロコネクト | Kokoro Connect",
-		"count" : 1
-	},
-	{
-		"_id" : "Compilation of Final Fantasy VII",
+		"_id" : "Mahou Sensei Negima!",
 		"count" : 1
 	},
 	{
@@ -2276,7 +7720,11 @@
 		"count" : 1
 	},
 	{
-		"_id" : "The Hobbit",
+		"_id" : "Beauty and the Beast (TV 1987)",
+		"count" : 1
+	},
+	{
+		"_id" : "Mario & Sonic (Video Games)",
 		"count" : 1
 	},
 	{
@@ -2284,27 +7732,15 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Black Sails",
+		"_id" : "Old World of Darkness",
 		"count" : 1
 	},
 	{
-		"_id" : "The Shadowhunter Chronicles - Cassandra Clare",
+		"_id" : "Wicked - All Media Types",
 		"count" : 1
 	},
 	{
-		"_id" : "gredence - Fandom",
-		"count" : 1
-	},
-	{
-		"_id" : "due South",
-		"count" : 1
-	},
-	{
-		"_id" : "Football RPF",
-		"count" : 1
-	},
-	{
-		"_id" : "Merlin - Fandom",
+		"_id" : "Gods Of Egypt (2016)",
 		"count" : 1
 	},
 	{
@@ -2312,35 +7748,23 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Disney RPF",
+		"_id" : "Sherlock BBC",
 		"count" : 1
 	},
 	{
-		"_id" : "Markiplier (Youtuber RPF)",
+		"_id" : "Harry Potter and Naruto Crossover",
 		"count" : 1
 	},
 	{
-		"_id" : "The Inheritance Cycle - Christopher Paolini",
+		"_id" : "Harry Potter fandom - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "No. 6 (Anime & Manga)",
+		"_id" : "Owari no Seraph",
 		"count" : 1
 	},
 	{
-		"_id" : "Temeraire - Naomi Novik",
-		"count" : 1
-	},
-	{
-		"_id" : "Watchmen (2009)",
-		"count" : 1
-	},
-	{
-		"_id" : "Dallas (TV 2012)",
-		"count" : 1
-	},
-	{
-		"_id" : "The Originals (TV)",
+		"_id" : "Mushishi",
 		"count" : 1
 	},
 	{
@@ -2348,11 +7772,11 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Captain America (Movies) RPF",
+		"_id" : "more to be added - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Infernal Devices Series - Cassandra Clare",
+		"_id" : "Green Lantern (Comics)",
 		"count" : 1
 	},
 	{
@@ -2360,15 +7784,15 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Dead Like Me",
-		"count" : 1
-	},
-	{
-		"_id" : "Marvel (Comics)",
-		"count" : 1
-	},
-	{
 		"_id" : "Penelope (2006)",
+		"count" : 1
+	},
+	{
+		"_id" : "E.T.: The Extra-Terrestrial (1982)",
+		"count" : 1
+	},
+	{
+		"_id" : "BlazBlue",
 		"count" : 1
 	},
 	{
@@ -2376,31 +7800,15 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Hitchhiker's Guide to the Galaxy",
+		"_id" : "Princess Bride - William Goldman",
 		"count" : 1
 	},
 	{
-		"_id" : "Durarara!!",
+		"_id" : "Kaze no Tani no Naushika | Nausicaä of the Valley of the Wind",
 		"count" : 1
 	},
 	{
-		"_id" : "Pocket Monsters SPECIAL | Pokemon Adventures",
-		"count" : 1
-	},
-	{
-		"_id" : "Perry Rhodan - Various Authors",
-		"count" : 1
-	},
-	{
-		"_id" : "My Bloody Valentine (2009)",
-		"count" : 1
-	},
-	{
-		"_id" : "PuppetMaster IV",
-		"count" : 1
-	},
-	{
-		"_id" : "Alien Series",
+		"_id" : "Foster the People",
 		"count" : 1
 	},
 	{
@@ -2408,15 +7816,47 @@
 		"count" : 1
 	},
 	{
+		"_id" : "Frühlings Erwachen | Spring Awakening - Frank Wedekind",
+		"count" : 1
+	},
+	{
+		"_id" : "Aladdin: The Animated Series",
+		"count" : 1
+	},
+	{
+		"_id" : "Danger Days: The True Lives of the Fabulous Killjoys (Album)",
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter (references only)",
+		"count" : 1
+	},
+	{
+		"_id" : "Haiyore! Nyaruko-san",
+		"count" : 1
+	},
+	{
 		"_id" : "Sweeney Todd (2007)",
 		"count" : 1
 	},
 	{
-		"_id" : "DRAMAtical Murder - All Media Types",
+		"_id" : "Minor Mentions of Alice in Wonderland",
 		"count" : 1
 	},
 	{
-		"_id" : "Zootopia (2016)",
+		"_id" : "Fire Emblem: If | Fire Emblem: Fates",
+		"count" : 1
+	},
+	{
+		"_id" : "Carbonation",
+		"count" : 1
+	},
+	{
+		"_id" : "D.N. Angel",
+		"count" : 1
+	},
+	{
+		"_id" : "dobby - Fandom",
 		"count" : 1
 	},
 	{
@@ -2424,27 +7864,23 @@
 		"count" : 1
 	},
 	{
-		"_id" : "青春×機関銃 | Aoharu x Kikanjuu | Aoharu x Machinegun",
-		"count" : 1
-	},
-	{
-		"_id" : "Jeeves & Wooster",
-		"count" : 1
-	},
-	{
 		"_id" : "John Wick (2014)",
 		"count" : 1
 	},
 	{
-		"_id" : "Ib (Video Game)",
+		"_id" : "Final Fantasy XII",
 		"count" : 1
 	},
 	{
-		"_id" : "Star Wars Episode V: Empire Strikes Back",
+		"_id" : "Saiyuki Gaiden",
 		"count" : 1
 	},
 	{
-		"_id" : "Father Brown (2013)",
+		"_id" : "Hansy - Fandom",
+		"count" : 1
+	},
+	{
+		"_id" : "French History RPF",
 		"count" : 1
 	},
 	{
@@ -2452,19 +7888,15 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Star Wars Legends: Knights of the Old Republic",
+		"_id" : "American McGee's Alice",
 		"count" : 1
 	},
 	{
-		"_id" : "Serenity (2005)",
+		"_id" : "Broken Sky Series - Chris Wooding",
 		"count" : 1
 	},
 	{
-		"_id" : "A Winter's Tale",
-		"count" : 1
-	},
-	{
-		"_id" : "The Covenant (2006)",
+		"_id" : "Haven - Fandom",
 		"count" : 1
 	},
 	{
@@ -2472,31 +7904,31 @@
 		"count" : 1
 	},
 	{
-		"_id" : "musketeers - Fandom",
+		"_id" : "Final Fantasy VII: Advent Children",
 		"count" : 1
 	},
 	{
-		"_id" : "Hogwarts Au - Fandom",
+		"_id" : "Supper Smash Bros: Mishonh From God",
 		"count" : 1
 	},
 	{
-		"_id" : "The Children of Hurin - J.R.R. Tolkien",
+		"_id" : "D&D - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Super Mario & Related Fandoms",
+		"_id" : "Halloween Movies - All Media Types",
 		"count" : 1
 	},
 	{
-		"_id" : "Disney Fairies",
+		"_id" : "Young Avengers (Comics)",
 		"count" : 1
 	},
 	{
-		"_id" : "Yu-Gi-Oh! GX",
+		"_id" : "The Count of Monte Cristo - All Media Types",
 		"count" : 1
 	},
 	{
-		"_id" : "Deadpool (2016)",
+		"_id" : "Left 4 Dead",
 		"count" : 1
 	},
 	{
@@ -2504,27 +7936,11 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Sherlock Holmes (Downey films)",
+		"_id" : "Eragon (2006)",
 		"count" : 1
 	},
 	{
-		"_id" : "Dancing with the Stars (US) RPF",
-		"count" : 1
-	},
-	{
-		"_id" : "Harry Potter (all media types)",
-		"count" : 1
-	},
-	{
-		"_id" : "Guardians of Childhood - William Joyce",
-		"count" : 1
-	},
-	{
-		"_id" : "And a smidge of BBC!Sherlock thrown in",
-		"count" : 1
-	},
-	{
-		"_id" : "The Queen's Thief - Megan Whalen Turner",
+		"_id" : "Sefer Chanoch | Book of Enoch",
 		"count" : 1
 	},
 	{
@@ -2532,27 +7948,11 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Outlander (TV)",
-		"count" : 1
-	},
-	{
-		"_id" : "North and South - Elizabeth Gaskell",
-		"count" : 1
-	},
-	{
-		"_id" : "Frühlings Erwachen | Spring Awakening - Frank Wedekind",
-		"count" : 1
-	},
-	{
-		"_id" : "Lost Girl",
-		"count" : 1
-	},
-	{
-		"_id" : "Harry Potter - All Media Types",
-		"count" : 1
-	},
-	{
 		"_id" : "The Jungle Book - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "W.I.T.C.H.",
 		"count" : 1
 	},
 	{
@@ -2560,35 +7960,47 @@
 		"count" : 1
 	},
 	{
-		"_id" : "Indiana Jones Series",
+		"_id" : "Severus Snape AU",
 		"count" : 1
 	},
 	{
-		"_id" : "Trigun",
+		"_id" : "Doctor Who - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "The Worst Witch - All Media Types",
+		"_id" : "Miss Fisher's Murder Mysteries",
 		"count" : 1
 	},
 	{
-		"_id" : "Arts & Sciences RPF",
+		"_id" : "History Boys (2006)",
 		"count" : 1
 	},
 	{
-		"_id" : "Now You See Me (Movies)",
+		"_id" : "Severus Snape - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Silent Hill (Video Game Series)",
+		"_id" : "D&D (game) - Fandom",
 		"count" : 1
 	},
 	{
-		"_id" : "Coronation Street",
+		"_id" : "Slayers (Anime & Manga)",
 		"count" : 1
 	},
 	{
-		"_id" : "Harry Potter (Marauders Era)",
+		"_id" : "Fire Emblem",
+		"count" : 1
+	},
+	{
+		"_id" : "The Nanny",
+		"count" : 1
+	},
+	{
+		"_id" : "Romeo And Juliet - All Media Types",
+		"count" : 1
+	},
+	{
+		"_id" : "Albus/Scorpius - Fandom",
 		"count" : 1
 	},
 	{
@@ -2596,43 +8008,27 @@
 		"count" : 1
 	},
 	{
-		"_id" : "crossover - Fandom",
+		"_id" : "Ripper Street",
 		"count" : 1
 	},
 	{
-		"_id" : "Westworld (TV)",
+		"_id" : "The Last Mimzy (2007)",
 		"count" : 1
 	},
 	{
-		"_id" : "Twilight",
+		"_id" : "The Risingverse - Telemachus",
 		"count" : 1
 	},
 	{
-		"_id" : "Tangled (2010)",
+		"_id" : "Top Gear (UK) RPF",
 		"count" : 1
 	},
 	{
-		"_id" : "Dungeons & Dragons (Roleplaying Game)",
+		"_id" : "The Crow - All Media Types",
 		"count" : 1
 	},
 	{
-		"_id" : "Meet the Robinsons (2007)",
-		"count" : 1
-	},
-	{
-		"_id" : "Jurassic Park (Movies)",
-		"count" : 1
-	},
-	{
-		"_id" : "Batman: Arkham (Video Games)",
-		"count" : 1
-	},
-	{
-		"_id" : "In the Flesh (TV)",
-		"count" : 1
-	},
-	{
-		"_id" : "High School Musical (Movies)",
+		"_id" : "Краденое солнце - Корней Чуковский",
 		"count" : 1
 	}
 ]

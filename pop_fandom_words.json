@@ -1,0 +1,147 @@
+[
+	{
+		"_id" : "Harry Potter - J. K. Rowling",
+		"count" : 29887,
+		"words" : 269606950
+	},
+	{
+		"_id" : "Fantastic Beasts and Where to Find Them (Movies)",
+		"count" : 2378,
+		"words" : 9828248
+	},
+	{
+		"_id" : "Harry Potter - Fandom",
+		"count" : 976,
+		"words" : 8168774
+	},
+	{
+		"_id" : "Harry Potter and the Cursed Child - Thorne & Rowling",
+		"count" : 425,
+		"words" : 3713056
+	},
+	{
+		"_id" : "Supernatural",
+		"count" : 265,
+		"words" : 2773632
+	},
+	{
+		"_id" : "Sherlock (TV)",
+		"count" : 234,
+		"words" : 2528772
+	},
+	{
+		"_id" : "The Avengers (Marvel Movies)",
+		"count" : 191,
+		"words" : 2270611
+	},
+	{
+		"_id" : "Buffy the Vampire Slayer",
+		"count" : 92,
+		"words" : 1811240
+	},
+	{
+		"_id" : "Naruto",
+		"count" : 106,
+		"words" : 1693401
+	},
+	{
+		"_id" : "Marvel Cinematic Universe",
+		"count" : 184,
+		"words" : 1687904
+	},
+	{
+		"_id" : "Twilight Series - Stephenie Meyer",
+		"count" : 80,
+		"words" : 1504593
+	},
+	{
+		"_id" : "Game of Thrones (TV)",
+		"count" : 65,
+		"words" : 1405223
+	},
+	{
+		"_id" : "A Song of Ice and Fire - George R. R. Martin",
+		"count" : 56,
+		"words" : 1377173
+	},
+	{
+		"_id" : "Merlin (TV)",
+		"count" : 95,
+		"words" : 1343822
+	},
+	{
+		"_id" : "Katekyou Hitman Reborn!",
+		"count" : 79,
+		"words" : 1207210
+	},
+	{
+		"_id" : "Thor (Movies)",
+		"count" : 59,
+		"words" : 1156479
+	},
+	{
+		"_id" : "The Avengers (Marvel) - All Media Types",
+		"count" : 107,
+		"words" : 1148314
+	},
+	{
+		"_id" : "Teen Wolf (TV)",
+		"count" : 81,
+		"words" : 942590
+	},
+	{
+		"_id" : "The Lord of the Rings - All Media Types",
+		"count" : 73,
+		"words" : 924802
+	},
+	{
+		"_id" : "Percy Jackson and the Olympians - Rick Riordan",
+		"count" : 124,
+		"words" : 850800
+	},
+	{
+		"_id" : "Star Wars - All Media Types",
+		"count" : 88,
+		"words" : 835152
+	},
+	{
+		"_id" : "Captain America (Movies)",
+		"count" : 58,
+		"words" : 796841
+	},
+	{
+		"_id" : "Doctor Who",
+		"count" : 99,
+		"words" : 767779
+	},
+	{
+		"_id" : "Once Upon a Time (TV)",
+		"count" : 62,
+		"words" : 675717
+	},
+	{
+		"_id" : "Undertale (Video Game)",
+		"count" : 52,
+		"words" : 549724
+	},
+	{
+		"_id" : "Hetalia: Axis Powers",
+		"count" : 52,
+		"words" : 537800
+	},
+	{
+		"_id" : "Percy Jackson and the Olympians & Related Fandoms - All Media Types",
+		"count" : 62,
+		"words" : 454179
+	},
+	{
+		"_id" : "Doctor Who (2005)",
+		"count" : 51,
+		"words" : 296851
+	},
+	{
+		"_id" : "The Heroes of Olympus - Rick Riordan",
+		"count" : 59,
+		"words" : 284486
+	}
+]

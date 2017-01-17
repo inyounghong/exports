@@ -126,14 +126,20 @@ getFandomCount
 fullPerMonth() {
     mongo --quiet archive --eval 'printjson(db.getCollection("Harry Potter")
 .aggregate([
+    
+     
     {
        $project: {
             characters: "$characters",
+            day: { $dateToString: { format: "%m-1-%Y", date: "$dateUpdated" } },
             yearMonth: { $dateToString: { format: "%Y-%m", date: "$dateUpdated" } },
        }
    },
     { "$group": {
-        "_id": "$yearMonth",
+        "_id": {
+                yearMonth: "$yearMonth",
+                day: "$day",
+        },
         "characters": { "$push": "$characters" },
         "total": { "$sum": 1 }
     }},
@@ -156,12 +162,16 @@ fullPerMonth() {
     }},
     
     { "$unwind": "$characters" },
+    
     { $match : { $or : [
         {"characters.name":"Harry Potter"}, 
         {"characters.name":"Hermione Granger"},
         {"characters.name":"Draco Malfoy"},
-        {"characters.name":"Daphne Greengrass"},
+        {"characters.name":"Newt Scamander"},
+        {"characters.name":"Albus Dumbledore"},
+        {"characters.name":"Ron Weasley"},
      ] } },
+
     { $sort: {"characters.name": 1} },
     
      { "$group": {
@@ -172,7 +182,7 @@ fullPerMonth() {
         }
     }},
     
-        { $sort: { _id: -1 } }
+        { $sort: { "_id.yearMonth": -1 } }
     ]).toArray())' > full_per_month.json
 }
 
@@ -205,6 +215,32 @@ getPerDay() {
        },
     ]).toArray())' > $3
 }
+
+getPerWeek() {
+	mongo --quiet archive --eval 'printjson(db.getCollection("'"$Fandom"'")
+    .aggregate([
+        { $match: { '"$1"' },
+        {
+           $project: {
+               week: {$week: "$dateUpdated" },
+               month: {$month: "$dateUpdated" },
+               year: {$year: "$dateUpdated" },
+           }
+       },
+       { $group : {
+             _id: {
+                week: "$week",
+               month: "$month",
+               year: "$year",
+            },
+            '"$2"': { $sum: 1 },
+            }
+        },
+        { $sort: { "_id.year": -1, "_id.week": -1 } },
+    ]).toArray())' > $3
+}
+
+getPerWeek 'characters: "Newt Scamander", dateUpdated: {$ne : null}}' '"Newt Scamander"' char_newt_per_week.json
 
 
 getPerMonth() {
@@ -244,11 +280,11 @@ getPerMonth "categories: " "\"M/M\"" cat_mm.json
 getPerMonth "categories: " "\"F/M\"" cat_fm.json
 
 getPerMonth "" "" works_per_month.json
-getPerMonth "characters: " "\"Hermione Granger\"" char_hermione_per_month.json
-getPerMonth "characters: " "\"Harry Potter\"" char_harry_per_month.json
-getPerMonth "characters: " "\"Draco Malfoy\"" char_draco_per_month.json
-getPerMonth "characters: " "\"Newt Scamander\"" char_newt_per_month.json
-getPerMonth "characters: " "\"Daphne Greengrass\"" char_daphne_per_month.json
+# getPerMonth "characters: " "\"Hermione Granger\"" char_hermione_per_month.json
+# getPerMonth "characters: " "\"Harry Potter\"" char_harry_per_month.json
+# getPerMonth "characters: " "\"Draco Malfoy\"" char_draco_per_month.json
+# getPerMonth "characters: " "\"Newt Scamander\"" char_newt_per_month.json
+# getPerMonth "characters: " "\"Daphne Greengrass\"" char_daphne_per_month.json
 
 getPerMonth "relationships: " "\"Draco Malfoy/Harry Potter\"" rel_draco_harry.json
 getPerMonth "relationships: " "\"Sirius Black/Remus Lupin\"" rel_sirius_remus.json

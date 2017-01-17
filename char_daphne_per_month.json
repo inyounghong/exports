@@ -1,70 +1,74 @@
 [
 	{
 		"_id" : "01-1-2017",
-		"Daphne Greengrass" : 35
+		"Daphne Greengrass" : 69
 	},
 	{
 		"_id" : "12-1-2016",
-		"Daphne Greengrass" : 23
+		"Daphne Greengrass" : 63
 	},
 	{
 		"_id" : "11-1-2016",
-		"Daphne Greengrass" : 5
+		"Daphne Greengrass" : 29
 	},
 	{
 		"_id" : "10-1-2016",
-		"Daphne Greengrass" : 5
+		"Daphne Greengrass" : 33
 	},
 	{
 		"_id" : "09-1-2016",
-		"Daphne Greengrass" : 3
+		"Daphne Greengrass" : 38
 	},
 	{
 		"_id" : "08-1-2016",
-		"Daphne Greengrass" : 3
+		"Daphne Greengrass" : 27
 	},
 	{
 		"_id" : "07-1-2016",
-		"Daphne Greengrass" : 5
+		"Daphne Greengrass" : 25
 	},
 	{
 		"_id" : "06-1-2016",
-		"Daphne Greengrass" : 4
+		"Daphne Greengrass" : 30
+	},
+	{
+		"_id" : "05-1-2016",
+		"Daphne Greengrass" : 27
 	},
 	{
 		"_id" : "04-1-2016",
-		"Daphne Greengrass" : 4
+		"Daphne Greengrass" : 14
+	},
+	{
+		"_id" : "03-1-2016",
+		"Daphne Greengrass" : 18
 	},
 	{
 		"_id" : "02-1-2016",
-		"Daphne Greengrass" : 2
-	},
-	{
-		"_id" : "01-1-2016",
-		"Daphne Greengrass" : 1
-	},
-	{
-		"_id" : "09-1-2015",
-		"Daphne Greengrass" : 2
+		"Daphne Greengrass" : 14
 	},
 	{
 		"_id" : "08-1-2015",
 		"Daphne Greengrass" : 1
 	},
 	{
-		"_id" : "02-1-2015",
-		"Daphne Greengrass" : 2
-	},
-	{
-		"_id" : "02-1-2014",
+		"_id" : "01-1-2015",
 		"Daphne Greengrass" : 1
 	},
 	{
-		"_id" : "01-1-2014",
+		"_id" : "08-1-2013",
 		"Daphne Greengrass" : 1
 	},
 	{
-		"_id" : "01-1-2013",
+		"_id" : "05-1-2013",
 		"Daphne Greengrass" : 1
+	},
+	{
+		"_id" : "10-1-2007",
+		"Daphne Greengrass" : 1
+	},
+	{
+		"_id" : null,
+		"Daphne Greengrass" : 9
 	}
 ]

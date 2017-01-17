@@ -1,143 +1,131 @@
 [
 	{
 		"_id" : "01-1-2017",
-		"Harry Potter" : 692
+		"Harry Potter" : 1243
 	},
 	{
 		"_id" : "12-1-2016",
-		"Harry Potter" : 769
+		"Harry Potter" : 1586
 	},
 	{
 		"_id" : "11-1-2016",
-		"Harry Potter" : 100
+		"Harry Potter" : 970
 	},
 	{
 		"_id" : "10-1-2016",
-		"Harry Potter" : 53
+		"Harry Potter" : 964
 	},
 	{
 		"_id" : "09-1-2016",
-		"Harry Potter" : 40
+		"Harry Potter" : 883
 	},
 	{
 		"_id" : "08-1-2016",
-		"Harry Potter" : 54
+		"Harry Potter" : 1016
 	},
 	{
 		"_id" : "07-1-2016",
-		"Harry Potter" : 34
+		"Harry Potter" : 857
 	},
 	{
 		"_id" : "06-1-2016",
-		"Harry Potter" : 27
+		"Harry Potter" : 820
 	},
 	{
 		"_id" : "05-1-2016",
-		"Harry Potter" : 23
+		"Harry Potter" : 739
 	},
 	{
 		"_id" : "04-1-2016",
-		"Harry Potter" : 20
+		"Harry Potter" : 622
 	},
 	{
 		"_id" : "03-1-2016",
-		"Harry Potter" : 19
+		"Harry Potter" : 650
 	},
 	{
 		"_id" : "02-1-2016",
-		"Harry Potter" : 18
+		"Harry Potter" : 515
 	},
 	{
 		"_id" : "01-1-2016",
-		"Harry Potter" : 23
+		"Harry Potter" : 111
 	},
 	{
 		"_id" : "12-1-2015",
-		"Harry Potter" : 10
-	},
-	{
-		"_id" : "11-1-2015",
-		"Harry Potter" : 7
-	},
-	{
-		"_id" : "10-1-2015",
-		"Harry Potter" : 5
-	},
-	{
-		"_id" : "09-1-2015",
-		"Harry Potter" : 9
-	},
-	{
-		"_id" : "08-1-2015",
-		"Harry Potter" : 10
-	},
-	{
-		"_id" : "07-1-2015",
-		"Harry Potter" : 8
-	},
-	{
-		"_id" : "06-1-2015",
-		"Harry Potter" : 6
-	},
-	{
-		"_id" : "05-1-2015",
-		"Harry Potter" : 8
-	},
-	{
-		"_id" : "04-1-2015",
 		"Harry Potter" : 1
 	},
 	{
+		"_id" : "11-1-2015",
+		"Harry Potter" : 3
+	},
+	{
+		"_id" : "09-1-2015",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "08-1-2015",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "07-1-2015",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "06-1-2015",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "05-1-2015",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "04-1-2015",
+		"Harry Potter" : 2
+	},
+	{
 		"_id" : "03-1-2015",
-		"Harry Potter" : 10
+		"Harry Potter" : 2
 	},
 	{
 		"_id" : "02-1-2015",
-		"Harry Potter" : 6
+		"Harry Potter" : 1
 	},
 	{
 		"_id" : "01-1-2015",
-		"Harry Potter" : 6
+		"Harry Potter" : 7
 	},
 	{
 		"_id" : "12-1-2014",
-		"Harry Potter" : 8
+		"Harry Potter" : 7
 	},
 	{
 		"_id" : "11-1-2014",
-		"Harry Potter" : 2
-	},
-	{
-		"_id" : "10-1-2014",
-		"Harry Potter" : 2
-	},
-	{
-		"_id" : "09-1-2014",
 		"Harry Potter" : 5
 	},
 	{
+		"_id" : "10-1-2014",
+		"Harry Potter" : 1
+	},
+	{
 		"_id" : "08-1-2014",
-		"Harry Potter" : 4
+		"Harry Potter" : 2
 	},
 	{
 		"_id" : "07-1-2014",
-		"Harry Potter" : 3
+		"Harry Potter" : 2
 	},
 	{
 		"_id" : "06-1-2014",
 		"Harry Potter" : 2
 	},
 	{
-		"_id" : "05-1-2014",
-		"Harry Potter" : 2
-	},
-	{
 		"_id" : "04-1-2014",
-		"Harry Potter" : 2
+		"Harry Potter" : 3
 	},
 	{
 		"_id" : "03-1-2014",
-		"Harry Potter" : 1
+		"Harry Potter" : 4
 	},
 	{
 		"_id" : "02-1-2014",
@@ -145,31 +133,31 @@
 	},
 	{
 		"_id" : "01-1-2014",
-		"Harry Potter" : 3
+		"Harry Potter" : 2
 	},
 	{
 		"_id" : "12-1-2013",
-		"Harry Potter" : 1
-	},
-	{
-		"_id" : "11-1-2013",
-		"Harry Potter" : 1
-	},
-	{
-		"_id" : "10-1-2013",
 		"Harry Potter" : 3
 	},
 	{
+		"_id" : "11-1-2013",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "10-1-2013",
+		"Harry Potter" : 5
+	},
+	{
 		"_id" : "09-1-2013",
-		"Harry Potter" : 1
+		"Harry Potter" : 2
 	},
 	{
 		"_id" : "08-1-2013",
 		"Harry Potter" : 2
 	},
 	{
-		"_id" : "07-1-2013",
-		"Harry Potter" : 3
+		"_id" : "06-1-2013",
+		"Harry Potter" : 4
 	},
 	{
 		"_id" : "05-1-2013",
@@ -177,26 +165,22 @@
 	},
 	{
 		"_id" : "04-1-2013",
-		"Harry Potter" : 1
-	},
-	{
-		"_id" : "03-1-2013",
-		"Harry Potter" : 3
-	},
-	{
-		"_id" : "02-1-2013",
-		"Harry Potter" : 3
+		"Harry Potter" : 2
 	},
 	{
 		"_id" : "01-1-2013",
-		"Harry Potter" : 4
+		"Harry Potter" : 3
 	},
 	{
 		"_id" : "12-1-2012",
-		"Harry Potter" : 1
+		"Harry Potter" : 2
 	},
 	{
 		"_id" : "11-1-2012",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "10-1-2012",
 		"Harry Potter" : 2
 	},
 	{
@@ -208,19 +192,355 @@
 		"Harry Potter" : 1
 	},
 	{
+		"_id" : "06-1-2012",
+		"Harry Potter" : 1
+	},
+	{
 		"_id" : "05-1-2012",
 		"Harry Potter" : 1
 	},
 	{
 		"_id" : "04-1-2012",
+		"Harry Potter" : 3
+	},
+	{
+		"_id" : "03-1-2012",
+		"Harry Potter" : 3
+	},
+	{
+		"_id" : "01-1-2012",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "12-1-2011",
 		"Harry Potter" : 1
+	},
+	{
+		"_id" : "08-1-2011",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "07-1-2011",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "06-1-2011",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "05-1-2011",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "03-1-2011",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "02-1-2011",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "11-1-2010",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "10-1-2010",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "07-1-2010",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "05-1-2010",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "03-1-2010",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "12-1-2009",
+		"Harry Potter" : 4
+	},
+	{
+		"_id" : "11-1-2009",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "10-1-2009",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "09-1-2009",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "07-1-2009",
+		"Harry Potter" : 3
+	},
+	{
+		"_id" : "03-1-2009",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "01-1-2009",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "12-1-2008",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "11-1-2008",
+		"Harry Potter" : 3
+	},
+	{
+		"_id" : "10-1-2008",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "08-1-2008",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "06-1-2008",
+		"Harry Potter" : 6
+	},
+	{
+		"_id" : "05-1-2008",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "04-1-2008",
+		"Harry Potter" : 5
+	},
+	{
+		"_id" : "03-1-2008",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "02-1-2008",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "12-1-2007",
+		"Harry Potter" : 8
+	},
+	{
+		"_id" : "11-1-2007",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "10-1-2007",
+		"Harry Potter" : 3
+	},
+	{
+		"_id" : "09-1-2007",
+		"Harry Potter" : 3
+	},
+	{
+		"_id" : "08-1-2007",
+		"Harry Potter" : 4
 	},
 	{
 		"_id" : "07-1-2007",
+		"Harry Potter" : 8
+	},
+	{
+		"_id" : "06-1-2007",
+		"Harry Potter" : 4
+	},
+	{
+		"_id" : "05-1-2007",
+		"Harry Potter" : 3
+	},
+	{
+		"_id" : "04-1-2007",
 		"Harry Potter" : 1
 	},
 	{
-		"_id" : "09-1-2004",
+		"_id" : "03-1-2007",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "02-1-2007",
+		"Harry Potter" : 4
+	},
+	{
+		"_id" : "01-1-2007",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "12-1-2006",
+		"Harry Potter" : 3
+	},
+	{
+		"_id" : "11-1-2006",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "10-1-2006",
 		"Harry Potter" : 1
+	},
+	{
+		"_id" : "09-1-2006",
+		"Harry Potter" : 3
+	},
+	{
+		"_id" : "08-1-2006",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "07-1-2006",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "06-1-2006",
+		"Harry Potter" : 4
+	},
+	{
+		"_id" : "05-1-2006",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "04-1-2006",
+		"Harry Potter" : 4
+	},
+	{
+		"_id" : "03-1-2006",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "02-1-2006",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "01-1-2006",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "11-1-2005",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "10-1-2005",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "09-1-2005",
+		"Harry Potter" : 4
+	},
+	{
+		"_id" : "08-1-2005",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "07-1-2005",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "06-1-2005",
+		"Harry Potter" : 19
+	},
+	{
+		"_id" : "05-1-2005",
+		"Harry Potter" : 3
+	},
+	{
+		"_id" : "04-1-2005",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "03-1-2005",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "02-1-2005",
+		"Harry Potter" : 3
+	},
+	{
+		"_id" : "01-1-2005",
+		"Harry Potter" : 3
+	},
+	{
+		"_id" : "12-1-2004",
+		"Harry Potter" : 8
+	},
+	{
+		"_id" : "11-1-2004",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "10-1-2004",
+		"Harry Potter" : 3
+	},
+	{
+		"_id" : "09-1-2004",
+		"Harry Potter" : 4
+	},
+	{
+		"_id" : "08-1-2004",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "07-1-2004",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "06-1-2004",
+		"Harry Potter" : 6
+	},
+	{
+		"_id" : "05-1-2004",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "04-1-2004",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "01-1-2004",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "12-1-2003",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "07-1-2003",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "04-1-2003",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "03-1-2003",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "01-1-2003",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "07-1-2002",
+		"Harry Potter" : 2
+	},
+	{
+		"_id" : "05-1-2002",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "04-1-2002",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : "12-1-2001",
+		"Harry Potter" : 1
+	},
+	{
+		"_id" : null,
+		"Harry Potter" : 163
 	}
 ]

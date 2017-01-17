@@ -1,87 +1,75 @@
 [
 	{
 		"_id" : "01-1-2017",
-		"Draco Malfoy" : 434
+		"Draco Malfoy" : 763
 	},
 	{
 		"_id" : "12-1-2016",
-		"Draco Malfoy" : 500
+		"Draco Malfoy" : 1055
 	},
 	{
 		"_id" : "11-1-2016",
-		"Draco Malfoy" : 64
+		"Draco Malfoy" : 613
 	},
 	{
 		"_id" : "10-1-2016",
-		"Draco Malfoy" : 40
+		"Draco Malfoy" : 678
 	},
 	{
 		"_id" : "09-1-2016",
-		"Draco Malfoy" : 23
+		"Draco Malfoy" : 600
 	},
 	{
 		"_id" : "08-1-2016",
-		"Draco Malfoy" : 26
+		"Draco Malfoy" : 668
 	},
 	{
 		"_id" : "07-1-2016",
-		"Draco Malfoy" : 17
+		"Draco Malfoy" : 528
 	},
 	{
 		"_id" : "06-1-2016",
-		"Draco Malfoy" : 14
+		"Draco Malfoy" : 540
 	},
 	{
 		"_id" : "05-1-2016",
-		"Draco Malfoy" : 11
+		"Draco Malfoy" : 430
 	},
 	{
 		"_id" : "04-1-2016",
-		"Draco Malfoy" : 13
+		"Draco Malfoy" : 378
 	},
 	{
 		"_id" : "03-1-2016",
-		"Draco Malfoy" : 13
+		"Draco Malfoy" : 382
 	},
 	{
 		"_id" : "02-1-2016",
-		"Draco Malfoy" : 13
+		"Draco Malfoy" : 312
 	},
 	{
 		"_id" : "01-1-2016",
-		"Draco Malfoy" : 12
+		"Draco Malfoy" : 56
 	},
 	{
 		"_id" : "12-1-2015",
-		"Draco Malfoy" : 7
+		"Draco Malfoy" : 1
 	},
 	{
 		"_id" : "11-1-2015",
-		"Draco Malfoy" : 5
-	},
-	{
-		"_id" : "10-1-2015",
-		"Draco Malfoy" : 4
+		"Draco Malfoy" : 1
 	},
 	{
 		"_id" : "09-1-2015",
-		"Draco Malfoy" : 6
+		"Draco Malfoy" : 1
 	},
 	{
 		"_id" : "08-1-2015",
-		"Draco Malfoy" : 9
-	},
-	{
-		"_id" : "07-1-2015",
-		"Draco Malfoy" : 2
+		"Draco Malfoy" : 1
 	},
 	{
 		"_id" : "06-1-2015",
-		"Draco Malfoy" : 5
-	},
-	{
-		"_id" : "05-1-2015",
-		"Draco Malfoy" : 4
+		"Draco Malfoy" : 1
 	},
 	{
 		"_id" : "04-1-2015",
@@ -89,27 +77,27 @@
 	},
 	{
 		"_id" : "03-1-2015",
-		"Draco Malfoy" : 5
-	},
-	{
-		"_id" : "02-1-2015",
-		"Draco Malfoy" : 4
-	},
-	{
-		"_id" : "01-1-2015",
-		"Draco Malfoy" : 1
-	},
-	{
-		"_id" : "12-1-2014",
 		"Draco Malfoy" : 2
 	},
 	{
-		"_id" : "10-1-2014",
-		"Draco Malfoy" : 1
+		"_id" : "02-1-2015",
+		"Draco Malfoy" : 3
+	},
+	{
+		"_id" : "01-1-2015",
+		"Draco Malfoy" : 6
+	},
+	{
+		"_id" : "12-1-2014",
+		"Draco Malfoy" : 3
+	},
+	{
+		"_id" : "11-1-2014",
+		"Draco Malfoy" : 4
 	},
 	{
 		"_id" : "09-1-2014",
-		"Draco Malfoy" : 3
+		"Draco Malfoy" : 1
 	},
 	{
 		"_id" : "08-1-2014",
@@ -125,11 +113,15 @@
 	},
 	{
 		"_id" : "04-1-2014",
-		"Draco Malfoy" : 2
+		"Draco Malfoy" : 4
 	},
 	{
-		"_id" : "02-1-2014",
-		"Draco Malfoy" : 1
+		"_id" : "03-1-2014",
+		"Draco Malfoy" : 3
+	},
+	{
+		"_id" : "01-1-2014",
+		"Draco Malfoy" : 3
 	},
 	{
 		"_id" : "12-1-2013",
@@ -137,7 +129,7 @@
 	},
 	{
 		"_id" : "11-1-2013",
-		"Draco Malfoy" : 1
+		"Draco Malfoy" : 2
 	},
 	{
 		"_id" : "10-1-2013",
@@ -145,14 +137,14 @@
 	},
 	{
 		"_id" : "09-1-2013",
-		"Draco Malfoy" : 1
+		"Draco Malfoy" : 2
 	},
 	{
 		"_id" : "08-1-2013",
-		"Draco Malfoy" : 1
+		"Draco Malfoy" : 3
 	},
 	{
-		"_id" : "07-1-2013",
+		"_id" : "06-1-2013",
 		"Draco Malfoy" : 1
 	},
 	{
@@ -164,35 +156,327 @@
 		"Draco Malfoy" : 1
 	},
 	{
-		"_id" : "03-1-2013",
-		"Draco Malfoy" : 2
-	},
-	{
-		"_id" : "02-1-2013",
-		"Draco Malfoy" : 2
-	},
-	{
 		"_id" : "01-1-2013",
-		"Draco Malfoy" : 1
+		"Draco Malfoy" : 3
 	},
 	{
 		"_id" : "12-1-2012",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "11-1-2012",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "10-1-2012",
 		"Draco Malfoy" : 2
 	},
 	{
 		"_id" : "08-1-2012",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "05-1-2012",
 		"Draco Malfoy" : 1
 	},
 	{
 		"_id" : "04-1-2012",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "03-1-2012",
 		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "01-1-2012",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "08-1-2011",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "06-1-2011",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "03-1-2011",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "02-1-2011",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "11-1-2010",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "10-1-2010",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "07-1-2010",
+		"Draco Malfoy" : 6
+	},
+	{
+		"_id" : "06-1-2010",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "05-1-2010",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "04-1-2010",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "03-1-2010",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "01-1-2010",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "12-1-2009",
+		"Draco Malfoy" : 3
+	},
+	{
+		"_id" : "11-1-2009",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "10-1-2009",
+		"Draco Malfoy" : 4
+	},
+	{
+		"_id" : "09-1-2009",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "07-1-2009",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "05-1-2009",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "01-1-2009",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "12-1-2008",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "11-1-2008",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "10-1-2008",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "09-1-2008",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "08-1-2008",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "07-1-2008",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "06-1-2008",
+		"Draco Malfoy" : 5
+	},
+	{
+		"_id" : "05-1-2008",
+		"Draco Malfoy" : 3
+	},
+	{
+		"_id" : "04-1-2008",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "03-1-2008",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "02-1-2008",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "12-1-2007",
+		"Draco Malfoy" : 6
+	},
+	{
+		"_id" : "11-1-2007",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "10-1-2007",
+		"Draco Malfoy" : 3
+	},
+	{
+		"_id" : "09-1-2007",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "08-1-2007",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "07-1-2007",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "06-1-2007",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "05-1-2007",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "04-1-2007",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "02-1-2007",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "01-1-2007",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "12-1-2006",
+		"Draco Malfoy" : 3
+	},
+	{
+		"_id" : "11-1-2006",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "09-1-2006",
+		"Draco Malfoy" : 4
 	},
 	{
 		"_id" : "08-1-2006",
+		"Draco Malfoy" : 3
+	},
+	{
+		"_id" : "07-1-2006",
 		"Draco Malfoy" : 1
 	},
 	{
-		"_id" : "09-1-2005",
+		"_id" : "06-1-2006",
+		"Draco Malfoy" : 3
+	},
+	{
+		"_id" : "05-1-2006",
 		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "04-1-2006",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "03-1-2006",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "12-1-2005",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "11-1-2005",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "10-1-2005",
+		"Draco Malfoy" : 5
+	},
+	{
+		"_id" : "09-1-2005",
+		"Draco Malfoy" : 4
+	},
+	{
+		"_id" : "07-1-2005",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "06-1-2005",
+		"Draco Malfoy" : 19
+	},
+	{
+		"_id" : "05-1-2005",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "04-1-2005",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "03-1-2005",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "02-1-2005",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "01-1-2005",
+		"Draco Malfoy" : 3
+	},
+	{
+		"_id" : "12-1-2004",
+		"Draco Malfoy" : 5
+	},
+	{
+		"_id" : "11-1-2004",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "10-1-2004",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "09-1-2004",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "08-1-2004",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "06-1-2004",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "05-1-2004",
+		"Draco Malfoy" : 2
+	},
+	{
+		"_id" : "12-1-2003",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "07-1-2003",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : "04-1-2002",
+		"Draco Malfoy" : 1
+	},
+	{
+		"_id" : null,
+		"Draco Malfoy" : 92
 	}
 ]

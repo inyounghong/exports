@@ -1,14 +1,30 @@
 [
 	{
 		"_id" : "01-1-2017",
-		"Newt Scamander" : 315
+		"Newt Scamander" : 451
 	},
 	{
 		"_id" : "12-1-2016",
-		"Newt Scamander" : 465
+		"Newt Scamander" : 796
 	},
 	{
 		"_id" : "11-1-2016",
-		"Newt Scamander" : 24
+		"Newt Scamander" : 217
+	},
+	{
+		"_id" : "09-1-2016",
+		"Newt Scamander" : 3
+	},
+	{
+		"_id" : "08-1-2016",
+		"Newt Scamander" : 2
+	},
+	{
+		"_id" : "06-1-2016",
+		"Newt Scamander" : 2
+	},
+	{
+		"_id" : null,
+		"Newt Scamander" : 1
 	}
 ]

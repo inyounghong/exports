@@ -1,0 +1,194 @@
+[
+	{
+		"_id" : "Harry Potter",
+		"count" : 13300
+	},
+	{
+		"_id" : "Draco Malfoy",
+		"count" : 8486
+	},
+	{
+		"_id" : "Hermione Granger",
+		"count" : 8302
+	},
+	{
+		"_id" : "Ron Weasley",
+		"count" : 5861
+	},
+	{
+		"_id" : "Sirius Black",
+		"count" : 5543
+	},
+	{
+		"_id" : "Remus Lupin",
+		"count" : 5320
+	},
+	{
+		"_id" : "Severus Snape",
+		"count" : 5012
+	},
+	{
+		"_id" : "Ginny Weasley",
+		"count" : 3581
+	},
+	{
+		"_id" : "James Potter",
+		"count" : 3099
+	},
+	{
+		"_id" : "Albus Dumbledore",
+		"count" : 2703
+	},
+	{
+		"_id" : "Lily Evans Potter",
+		"count" : 2219
+	},
+	{
+		"_id" : "Luna Lovegood",
+		"count" : 2132
+	},
+	{
+		"_id" : "Minerva McGonagall",
+		"count" : 2056
+	},
+	{
+		"_id" : "Neville Longbottom",
+		"count" : 2020
+	},
+	{
+		"_id" : "Lucius Malfoy",
+		"count" : 1955
+	},
+	{
+		"_id" : "Original Female Character(s)",
+		"count" : 1674
+	},
+	{
+		"_id" : "Peter Pettigrew",
+		"count" : 1628
+	},
+	{
+		"_id" : "George Weasley",
+		"count" : 1624
+	},
+	{
+		"_id" : "Pansy Parkinson",
+		"count" : 1551
+	},
+	{
+		"_id" : "Scorpius Malfoy",
+		"count" : 1475
+	},
+	{
+		"_id" : "Newt Scamander",
+		"count" : 1474
+	},
+	{
+		"_id" : "Narcissa Black Malfoy",
+		"count" : 1473
+	},
+	{
+		"_id" : "Blaise Zabini",
+		"count" : 1460
+	},
+	{
+		"_id" : "Albus Severus Potter",
+		"count" : 1372
+	},
+	{
+		"_id" : "Fred Weasley",
+		"count" : 1339
+	},
+	{
+		"_id" : "Original Male Character(s)",
+		"count" : 1228
+	},
+	{
+		"_id" : "Tom Riddle | Voldemort",
+		"count" : 1136
+	},
+	{
+		"_id" : "Credence Barebone",
+		"count" : 1113
+	},
+	{
+		"_id" : "Molly Weasley",
+		"count" : 1092
+	},
+	{
+		"_id" : "Original Percival Graves",
+		"count" : 997
+	},
+	{
+		"_id" : "Voldemort",
+		"count" : 916
+	},
+	{
+		"_id" : "Teddy Lupin",
+		"count" : 906
+	},
+	{
+		"_id" : "Tina Goldstein",
+		"count" : 901
+	},
+	{
+		"_id" : "Bellatrix Black Lestrange",
+		"count" : 847
+	},
+	{
+		"_id" : "Tom Riddle",
+		"count" : 816
+	},
+	{
+		"_id" : "James Sirius Potter",
+		"count" : 807
+	},
+	{
+		"_id" : "Rose Weasley",
+		"count" : 795
+	},
+	{
+		"_id" : "Charlie Weasley",
+		"count" : 731
+	},
+	{
+		"_id" : "Arthur Weasley",
+		"count" : 723
+	},
+	{
+		"_id" : "Nymphadora Tonks",
+		"count" : 693
+	},
+	{
+		"_id" : "Theodore Nott",
+		"count" : 668
+	},
+	{
+		"_id" : "Regulus Black",
+		"count" : 659
+	},
+	{
+		"_id" : "Queenie Goldstein",
+		"count" : 653
+	},
+	{
+		"_id" : "Dean Thomas",
+		"count" : 653
+	},
+	{
+		"_id" : "Seamus Finnigan",
+		"count" : 647
+	},
+	{
+		"_id" : "Bill Weasley",
+		"count" : 615
+	},
+	{
+		"_id" : "Lily Luna Potter",
+		"count" : 600
+	},
+	{
+		"_id" : "Percy Weasley",
+		"count" : 558
+	}
+]

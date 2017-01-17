@@ -1,0 +1,146 @@
+[
+	{
+		"_id" : {
+			"week" : 3,
+			"month" : 1,
+			"year" : 2017
+		},
+		"Newt Scamander" : 87
+	},
+	{
+		"_id" : {
+			"week" : 2,
+			"month" : 1,
+			"year" : 2017
+		},
+		"Newt Scamander" : 187
+	},
+	{
+		"_id" : {
+			"week" : 1,
+			"month" : 1,
+			"year" : 2017
+		},
+		"Newt Scamander" : 177
+	},
+	{
+		"_id" : {
+			"week" : 52,
+			"month" : 12,
+			"year" : 2016
+		},
+		"Newt Scamander" : 202
+	},
+	{
+		"_id" : {
+			"week" : 51,
+			"month" : 12,
+			"year" : 2016
+		},
+		"Newt Scamander" : 177
+	},
+	{
+		"_id" : {
+			"week" : 50,
+			"month" : 12,
+			"year" : 2016
+		},
+		"Newt Scamander" : 169
+	},
+	{
+		"_id" : {
+			"week" : 49,
+			"month" : 12,
+			"year" : 2016
+		},
+		"Newt Scamander" : 182
+	},
+	{
+		"_id" : {
+			"week" : 48,
+			"month" : 11,
+			"year" : 2016
+		},
+		"Newt Scamander" : 102
+	},
+	{
+		"_id" : {
+			"week" : 48,
+			"month" : 12,
+			"year" : 2016
+		},
+		"Newt Scamander" : 66
+	},
+	{
+		"_id" : {
+			"week" : 47,
+			"month" : 11,
+			"year" : 2016
+		},
+		"Newt Scamander" : 103
+	},
+	{
+		"_id" : {
+			"week" : 46,
+			"month" : 11,
+			"year" : 2016
+		},
+		"Newt Scamander" : 12
+	},
+	{
+		"_id" : {
+			"week" : 39,
+			"month" : 9,
+			"year" : 2016
+		},
+		"Newt Scamander" : 1
+	},
+	{
+		"_id" : {
+			"week" : 38,
+			"month" : 9,
+			"year" : 2016
+		},
+		"Newt Scamander" : 1
+	},
+	{
+		"_id" : {
+			"week" : 36,
+			"month" : 9,
+			"year" : 2016
+		},
+		"Newt Scamander" : 1
+	},
+	{
+		"_id" : {
+			"week" : 34,
+			"month" : 8,
+			"year" : 2016
+		},
+		"Newt Scamander" : 1
+	},
+	{
+		"_id" : {
+			"week" : 32,
+			"month" : 8,
+			"year" : 2016
+		},
+		"Newt Scamander" : 1
+	},
+	{
+		"_id" : {
+			"week" : 23,
+			"month" : 6,
+			"year" : 2016
+		},
+		"Newt Scamander" : 2
+	},
+	{
+		"_id" : {
+			"week" : 4,
+			"month" : 1,
+			"year" : 2016
+		},
+		"Newt Scamander" : 1
+	}
+]

@@ -1,0 +1,242 @@
+[
+	{
+		"_id" : "Harry Potter",
+		"count" : 13300,
+		"words" : 169827520
+	},
+	{
+		"_id" : "Hermione Granger",
+		"count" : 8302,
+		"words" : 124135254
+	},
+	{
+		"_id" : "Draco Malfoy",
+		"count" : 8486,
+		"words" : 105617860
+	},
+	{
+		"_id" : "Ron Weasley",
+		"count" : 5861,
+		"words" : 98318938
+	},
+	{
+		"_id" : "Severus Snape",
+		"count" : 5012,
+		"words" : 81316842
+	},
+	{
+		"_id" : "Sirius Black",
+		"count" : 5543,
+		"words" : 66399695
+	},
+	{
+		"_id" : "Remus Lupin",
+		"count" : 5320,
+		"words" : 65459649
+	},
+	{
+		"_id" : "Albus Dumbledore",
+		"count" : 2703,
+		"words" : 57332249
+	},
+	{
+		"_id" : "Ginny Weasley",
+		"count" : 3581,
+		"words" : 56510593
+	},
+	{
+		"_id" : "Minerva McGonagall",
+		"count" : 2056,
+		"words" : 42083657
+	},
+	{
+		"_id" : "Lucius Malfoy",
+		"count" : 1955,
+		"words" : 40561324
+	},
+	{
+		"_id" : "Neville Longbottom",
+		"count" : 2020,
+		"words" : 40500355
+	},
+	{
+		"_id" : "Luna Lovegood",
+		"count" : 2132,
+		"words" : 35488895
+	},
+	{
+		"_id" : "James Potter",
+		"count" : 3099,
+		"words" : 33053113
+	},
+	{
+		"_id" : "Original Female Character(s)",
+		"count" : 1674,
+		"words" : 31950500
+	},
+	{
+		"_id" : "Narcissa Black Malfoy",
+		"count" : 1473,
+		"words" : 31195131
+	},
+	{
+		"_id" : "George Weasley",
+		"count" : 1624,
+		"words" : 29172252
+	},
+	{
+		"_id" : "Original Male Character(s)",
+		"count" : 1228,
+		"words" : 27588720
+	},
+	{
+		"_id" : "Lily Evans Potter",
+		"count" : 2219,
+		"words" : 27460246
+	},
+	{
+		"_id" : "Blaise Zabini",
+		"count" : 1460,
+		"words" : 26713218
+	},
+	{
+		"_id" : "Fred Weasley",
+		"count" : 1339,
+		"words" : 23818429
+	},
+	{
+		"_id" : "Pansy Parkinson",
+		"count" : 1551,
+		"words" : 23359001
+	},
+	{
+		"_id" : "Tom Riddle | Voldemort",
+		"count" : 1136,
+		"words" : 20972982
+	},
+	{
+		"_id" : "Molly Weasley",
+		"count" : 1092,
+		"words" : 20133253
+	},
+	{
+		"_id" : "Voldemort",
+		"count" : 916,
+		"words" : 18720779
+	},
+	{
+		"_id" : "Peter Pettigrew",
+		"count" : 1628,
+		"words" : 18544374
+	},
+	{
+		"_id" : "Bellatrix Black Lestrange",
+		"count" : 847,
+		"words" : 17767777
+	},
+	{
+		"_id" : "Arthur Weasley",
+		"count" : 723,
+		"words" : 16462212
+	},
+	{
+		"_id" : "Scorpius Malfoy",
+		"count" : 1475,
+		"words" : 14580647
+	},
+	{
+		"_id" : "Nymphadora Tonks",
+		"count" : 693,
+		"words" : 14505648
+	},
+	{
+		"_id" : "Albus Severus Potter",
+		"count" : 1372,
+		"words" : 14178554
+	},
+	{
+		"_id" : "Theodore Nott",
+		"count" : 668,
+		"words" : 13731608
+	},
+	{
+		"_id" : "Tom Riddle",
+		"count" : 816,
+		"words" : 11977930
+	},
+	{
+		"_id" : "Bill Weasley",
+		"count" : 615,
+		"words" : 11895471
+	},
+	{
+		"_id" : "Dean Thomas",
+		"count" : 653,
+		"words" : 11193491
+	},
+	{
+		"_id" : "Charlie Weasley",
+		"count" : 731,
+		"words" : 11029486
+	},
+	{
+		"_id" : "Seamus Finnigan",
+		"count" : 647,
+		"words" : 11018018
+	},
+	{
+		"_id" : "Rose Weasley",
+		"count" : 795,
+		"words" : 10848522
+	},
+	{
+		"_id" : "Regulus Black",
+		"count" : 659,
+		"words" : 10638374
+	},
+	{
+		"_id" : "Teddy Lupin",
+		"count" : 906,
+		"words" : 10465270
+	},
+	{
+		"_id" : "James Sirius Potter",
+		"count" : 807,
+		"words" : 9013366
+	},
+	{
+		"_id" : "Percy Weasley",
+		"count" : 558,
+		"words" : 8851093
+	},
+	{
+		"_id" : "Newt Scamander",
+		"count" : 1474,
+		"words" : 6988231
+	},
+	{
+		"_id" : "Lily Luna Potter",
+		"count" : 600,
+		"words" : 6842946
+	},
+	{
+		"_id" : "Tina Goldstein",
+		"count" : 901,
+		"words" : 5629411
+	},
+	{
+		"_id" : "Original Percival Graves",
+		"count" : 997,
+		"words" : 5037729
+	},
+	{
+		"_id" : "Credence Barebone",
+		"count" : 1113,
+		"words" : 4991678
+	},
+	{
+		"_id" : "Queenie Goldstein",
+		"count" : 653,
+		"words" : 4248877
+	}
+]

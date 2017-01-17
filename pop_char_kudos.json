@@ -1,0 +1,242 @@
+[
+	{
+		"_id" : "Original Percival Graves",
+		"count" : 997,
+		"kudos" : 175.1554663991976
+	},
+	{
+		"_id" : "Tina Goldstein",
+		"count" : 901,
+		"kudos" : 173.09877913429523
+	},
+	{
+		"_id" : "Newt Scamander",
+		"count" : 1474,
+		"kudos" : 168.5257801899593
+	},
+	{
+		"_id" : "Tom Riddle",
+		"count" : 816,
+		"kudos" : 163.5674019607843
+	},
+	{
+		"_id" : "Queenie Goldstein",
+		"count" : 653,
+		"kudos" : 160.5957120980092
+	},
+	{
+		"_id" : "Credence Barebone",
+		"count" : 1113,
+		"kudos" : 144.9694519317161
+	},
+	{
+		"_id" : "Tom Riddle | Voldemort",
+		"count" : 1136,
+		"kudos" : 143.09419014084506
+	},
+	{
+		"_id" : "Voldemort",
+		"count" : 916,
+		"kudos" : 120.97270742358079
+	},
+	{
+		"_id" : "Lucius Malfoy",
+		"count" : 1955,
+		"kudos" : 116.44296675191816
+	},
+	{
+		"_id" : "Albus Dumbledore",
+		"count" : 2703,
+		"kudos" : 114.62486126526082
+	},
+	{
+		"_id" : "Blaise Zabini",
+		"count" : 1460,
+		"kudos" : 113.35890410958905
+	},
+	{
+		"_id" : "Narcissa Black Malfoy",
+		"count" : 1473,
+		"kudos" : 113.34012219959267
+	},
+	{
+		"_id" : "Theodore Nott",
+		"count" : 668,
+		"kudos" : 108.27095808383234
+	},
+	{
+		"_id" : "Harry Potter",
+		"count" : 13300,
+		"kudos" : 103.65834586466165
+	},
+	{
+		"_id" : "Pansy Parkinson",
+		"count" : 1551,
+		"kudos" : 102.16441005802707
+	},
+	{
+		"_id" : "Draco Malfoy",
+		"count" : 8486,
+		"kudos" : 101.36566108885222
+	},
+	{
+		"_id" : "Regulus Black",
+		"count" : 659,
+		"kudos" : 99.08801213960547
+	},
+	{
+		"_id" : "Ron Weasley",
+		"count" : 5861,
+		"kudos" : 97.59989762839106
+	},
+	{
+		"_id" : "Minerva McGonagall",
+		"count" : 2056,
+		"kudos" : 97.16099221789884
+	},
+	{
+		"_id" : "Fred Weasley",
+		"count" : 1339,
+		"kudos" : 92.19417475728156
+	},
+	{
+		"_id" : "Neville Longbottom",
+		"count" : 2020,
+		"kudos" : 89.4509900990099
+	},
+	{
+		"_id" : "Arthur Weasley",
+		"count" : 723,
+		"kudos" : 89.29183955739973
+	},
+	{
+		"_id" : "Severus Snape",
+		"count" : 5012,
+		"kudos" : 88.82781324820431
+	},
+	{
+		"_id" : "George Weasley",
+		"count" : 1624,
+		"kudos" : 87.86268472906404
+	},
+	{
+		"_id" : "Hermione Granger",
+		"count" : 8302,
+		"kudos" : 87.69790411948928
+	},
+	{
+		"_id" : "Bill Weasley",
+		"count" : 615,
+		"kudos" : 87.02926829268293
+	},
+	{
+		"_id" : "Seamus Finnigan",
+		"count" : 647,
+		"kudos" : 86.52859350850078
+	},
+	{
+		"_id" : "Luna Lovegood",
+		"count" : 2132,
+		"kudos" : 84.4437148217636
+	},
+	{
+		"_id" : "Original Male Character(s)",
+		"count" : 1228,
+		"kudos" : 81.49755700325733
+	},
+	{
+		"_id" : "Charlie Weasley",
+		"count" : 731,
+		"kudos" : 81.07523939808482
+	},
+	{
+		"_id" : "Dean Thomas",
+		"count" : 653,
+		"kudos" : 81.03522205206738
+	},
+	{
+		"_id" : "Nymphadora Tonks",
+		"count" : 693,
+		"kudos" : 80.97113997113998
+	},
+	{
+		"_id" : "Molly Weasley",
+		"count" : 1092,
+		"kudos" : 79.37545787545787
+	},
+	{
+		"_id" : "Bellatrix Black Lestrange",
+		"count" : 847,
+		"kudos" : 72.26682408500591
+	},
+	{
+		"_id" : "Percy Weasley",
+		"count" : 558,
+		"kudos" : 70.69175627240143
+	},
+	{
+		"_id" : "Teddy Lupin",
+		"count" : 906,
+		"kudos" : 70.34547461368653
+	},
+	{
+		"_id" : "Ginny Weasley",
+		"count" : 3581,
+		"kudos" : 69.70511030438425
+	},
+	{
+		"_id" : "Remus Lupin",
+		"count" : 5320,
+		"kudos" : 65.99248120300751
+	},
+	{
+		"_id" : "Sirius Black",
+		"count" : 5543,
+		"kudos" : 65.77539238679415
+	},
+	{
+		"_id" : "Scorpius Malfoy",
+		"count" : 1475,
+		"kudos" : 64.50915254237289
+	},
+	{
+		"_id" : "Albus Severus Potter",
+		"count" : 1372,
+		"kudos" : 64.4402332361516
+	},
+	{
+		"_id" : "Lily Evans Potter",
+		"count" : 2219,
+		"kudos" : 60.91482649842271
+	},
+	{
+		"_id" : "James Potter",
+		"count" : 3099,
+		"kudos" : 60.5972894482091
+	},
+	{
+		"_id" : "James Sirius Potter",
+		"count" : 807,
+		"kudos" : 58.84386617100372
+	},
+	{
+		"_id" : "Peter Pettigrew",
+		"count" : 1628,
+		"kudos" : 58.46007371007371
+	},
+	{
+		"_id" : "Lily Luna Potter",
+		"count" : 600,
+		"kudos" : 56.43833333333333
+	},
+	{
+		"_id" : "Original Female Character(s)",
+		"count" : 1674,
+		"kudos" : 54.578255675029865
+	},
+	{
+		"_id" : "Rose Weasley",
+		"count" : 795,
+		"kudos" : 49.49937106918239
+	}
+]

@@ -1,119 +1,119 @@
 [
 	{
 		"_id" : "01-1-2017",
-		"Hermione Granger" : 456
+		"Hermione Granger" : 868
 	},
 	{
 		"_id" : "12-1-2016",
-		"Hermione Granger" : 504
+		"Hermione Granger" : 1027
 	},
 	{
 		"_id" : "11-1-2016",
-		"Hermione Granger" : 75
+		"Hermione Granger" : 662
 	},
 	{
 		"_id" : "10-1-2016",
-		"Hermione Granger" : 43
+		"Hermione Granger" : 678
 	},
 	{
 		"_id" : "09-1-2016",
-		"Hermione Granger" : 37
+		"Hermione Granger" : 590
 	},
 	{
 		"_id" : "08-1-2016",
-		"Hermione Granger" : 34
+		"Hermione Granger" : 616
 	},
 	{
 		"_id" : "07-1-2016",
-		"Hermione Granger" : 25
+		"Hermione Granger" : 521
 	},
 	{
 		"_id" : "06-1-2016",
-		"Hermione Granger" : 20
+		"Hermione Granger" : 456
 	},
 	{
 		"_id" : "05-1-2016",
-		"Hermione Granger" : 13
+		"Hermione Granger" : 450
 	},
 	{
 		"_id" : "04-1-2016",
-		"Hermione Granger" : 18
+		"Hermione Granger" : 384
 	},
 	{
 		"_id" : "03-1-2016",
-		"Hermione Granger" : 12
+		"Hermione Granger" : 355
 	},
 	{
 		"_id" : "02-1-2016",
-		"Hermione Granger" : 18
+		"Hermione Granger" : 315
 	},
 	{
 		"_id" : "01-1-2016",
-		"Hermione Granger" : 14
+		"Hermione Granger" : 50
 	},
 	{
 		"_id" : "12-1-2015",
-		"Hermione Granger" : 9
+		"Hermione Granger" : 1
 	},
 	{
 		"_id" : "11-1-2015",
-		"Hermione Granger" : 6
+		"Hermione Granger" : 3
 	},
 	{
 		"_id" : "10-1-2015",
-		"Hermione Granger" : 4
-	},
-	{
-		"_id" : "09-1-2015",
-		"Hermione Granger" : 8
+		"Hermione Granger" : 1
 	},
 	{
 		"_id" : "08-1-2015",
-		"Hermione Granger" : 8
-	},
-	{
-		"_id" : "07-1-2015",
-		"Hermione Granger" : 5
+		"Hermione Granger" : 3
 	},
 	{
 		"_id" : "06-1-2015",
-		"Hermione Granger" : 7
+		"Hermione Granger" : 1
 	},
 	{
 		"_id" : "05-1-2015",
-		"Hermione Granger" : 7
+		"Hermione Granger" : 3
+	},
+	{
+		"_id" : "04-1-2015",
+		"Hermione Granger" : 1
 	},
 	{
 		"_id" : "03-1-2015",
-		"Hermione Granger" : 6
+		"Hermione Granger" : 3
 	},
 	{
 		"_id" : "02-1-2015",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "01-1-2015",
 		"Hermione Granger" : 3
 	},
 	{
 		"_id" : "12-1-2014",
-		"Hermione Granger" : 3
+		"Hermione Granger" : 2
 	},
 	{
 		"_id" : "11-1-2014",
-		"Hermione Granger" : 1
-	},
-	{
-		"_id" : "10-1-2014",
-		"Hermione Granger" : 1
+		"Hermione Granger" : 3
 	},
 	{
 		"_id" : "09-1-2014",
-		"Hermione Granger" : 2
+		"Hermione Granger" : 1
 	},
 	{
 		"_id" : "08-1-2014",
 		"Hermione Granger" : 1
 	},
 	{
+		"_id" : "06-1-2014",
+		"Hermione Granger" : 1
+	},
+	{
 		"_id" : "04-1-2014",
-		"Hermione Granger" : 2
+		"Hermione Granger" : 1
 	},
 	{
 		"_id" : "03-1-2014",
@@ -121,30 +121,46 @@
 	},
 	{
 		"_id" : "02-1-2014",
-		"Hermione Granger" : 3
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "01-1-2014",
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : "12-1-2013",
+		"Hermione Granger" : 1
 	},
 	{
 		"_id" : "11-1-2013",
+		"Hermione Granger" : 3
+	},
+	{
+		"_id" : "09-1-2013",
 		"Hermione Granger" : 1
 	},
 	{
-		"_id" : "10-1-2013",
+		"_id" : "08-1-2013",
 		"Hermione Granger" : 2
 	},
 	{
-		"_id" : "07-1-2013",
+		"_id" : "06-1-2013",
 		"Hermione Granger" : 2
 	},
 	{
-		"_id" : "03-1-2013",
-		"Hermione Granger" : 2
+		"_id" : "04-1-2013",
+		"Hermione Granger" : 3
 	},
 	{
-		"_id" : "02-1-2013",
-		"Hermione Granger" : 1
+		"_id" : "01-1-2013",
+		"Hermione Granger" : 2
 	},
 	{
 		"_id" : "12-1-2012",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "10-1-2012",
 		"Hermione Granger" : 1
 	},
 	{
@@ -153,6 +169,34 @@
 	},
 	{
 		"_id" : "04-1-2012",
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : "03-1-2012",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "01-1-2012",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "11-1-2011",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "07-1-2011",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "06-1-2011",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "04-1-2011",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "03-1-2011",
 		"Hermione Granger" : 1
 	},
 	{
@@ -160,11 +204,183 @@
 		"Hermione Granger" : 1
 	},
 	{
-		"_id" : "07-1-2007",
+		"_id" : "07-1-2010",
 		"Hermione Granger" : 1
 	},
 	{
-		"_id" : "02-1-2007",
+		"_id" : "05-1-2010",
 		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "03-1-2010",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "12-1-2009",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "11-1-2009",
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : "10-1-2009",
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : "05-1-2009",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "02-1-2009",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "01-1-2009",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "11-1-2008",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "07-1-2008",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "03-1-2008",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "02-1-2008",
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : "12-1-2007",
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : "11-1-2007",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "10-1-2007",
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : "09-1-2007",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "07-1-2007",
+		"Hermione Granger" : 4
+	},
+	{
+		"_id" : "05-1-2007",
+		"Hermione Granger" : 3
+	},
+	{
+		"_id" : "03-1-2007",
+		"Hermione Granger" : 3
+	},
+	{
+		"_id" : "02-1-2007",
+		"Hermione Granger" : 4
+	},
+	{
+		"_id" : "01-1-2007",
+		"Hermione Granger" : 4
+	},
+	{
+		"_id" : "12-1-2006",
+		"Hermione Granger" : 4
+	},
+	{
+		"_id" : "11-1-2006",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "09-1-2006",
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : "08-1-2006",
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : "07-1-2006",
+		"Hermione Granger" : 3
+	},
+	{
+		"_id" : "06-1-2006",
+		"Hermione Granger" : 4
+	},
+	{
+		"_id" : "04-1-2006",
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : "03-1-2006",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "02-1-2006",
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : "11-1-2005",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "09-1-2005",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "06-1-2005",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "04-1-2005",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "12-1-2004",
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : "09-1-2004",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "06-1-2004",
+		"Hermione Granger" : 3
+	},
+	{
+		"_id" : "05-1-2004",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "01-1-2004",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "08-1-2003",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "03-1-2003",
+		"Hermione Granger" : 1
+	},
+	{
+		"_id" : "07-1-2002",
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : "04-1-2002",
+		"Hermione Granger" : 2
+	},
+	{
+		"_id" : null,
+		"Hermione Granger" : 99
 	}
 ]

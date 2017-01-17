@@ -1,0 +1,147 @@
+[
+	{
+		"_id" : "A Song of Ice and Fire - George R. R. Martin",
+		"count" : 56,
+		"kudos" : 270.5357142857143
+	},
+	{
+		"_id" : "Game of Thrones (TV)",
+		"count" : 65,
+		"kudos" : 246.2923076923077
+	},
+	{
+		"_id" : "Katekyou Hitman Reborn!",
+		"count" : 79,
+		"kudos" : 212.50632911392404
+	},
+	{
+		"_id" : "The Avengers (Marvel Movies)",
+		"count" : 191,
+		"kudos" : 187.3979057591623
+	},
+	{
+		"_id" : "Captain America (Movies)",
+		"count" : 58,
+		"kudos" : 142.58620689655172
+	},
+	{
+		"_id" : "Fantastic Beasts and Where to Find Them (Movies)",
+		"count" : 2378,
+		"kudos" : 140.07022708158115
+	},
+	{
+		"_id" : "Marvel Cinematic Universe",
+		"count" : 184,
+		"kudos" : 129.17391304347825
+	},
+	{
+		"_id" : "Twilight Series - Stephenie Meyer",
+		"count" : 80,
+		"kudos" : 120.825
+	},
+	{
+		"_id" : "Teen Wolf (TV)",
+		"count" : 81,
+		"kudos" : 109.93827160493827
+	},
+	{
+		"_id" : "Naruto",
+		"count" : 106,
+		"kudos" : 105.38679245283019
+	},
+	{
+		"_id" : "The Avengers (Marvel) - All Media Types",
+		"count" : 107,
+		"kudos" : 99.49532710280374
+	},
+	{
+		"_id" : "Harry Potter and the Cursed Child - Thorne & Rowling",
+		"count" : 425,
+		"kudos" : 98.17882352941176
+	},
+	{
+		"_id" : "Thor (Movies)",
+		"count" : 59,
+		"kudos" : 90.91525423728814
+	},
+	{
+		"_id" : "Merlin (TV)",
+		"count" : 95,
+		"kudos" : 85.87368421052632
+	},
+	{
+		"_id" : "Undertale (Video Game)",
+		"count" : 52,
+		"kudos" : 74.48076923076923
+	},
+	{
+		"_id" : "The Lord of the Rings - All Media Types",
+		"count" : 73,
+		"kudos" : 67.86301369863014
+	},
+	{
+		"_id" : "Harry Potter - J. K. Rowling",
+		"count" : 29887,
+		"kudos" : 67.37464449426172
+	},
+	{
+		"_id" : "Supernatural",
+		"count" : 265,
+		"kudos" : 66.97358490566037
+	},
+	{
+		"_id" : "Sherlock (TV)",
+		"count" : 234,
+		"kudos" : 64.52564102564102
+	},
+	{
+		"_id" : "Hetalia: Axis Powers",
+		"count" : 52,
+		"kudos" : 57.03846153846154
+	},
+	{
+		"_id" : "Star Wars - All Media Types",
+		"count" : 88,
+		"kudos" : 45.26136363636363
+	},
+	{
+		"_id" : "Buffy the Vampire Slayer",
+		"count" : 92,
+		"kudos" : 43.880434782608695
+	},
+	{
+		"_id" : "Doctor Who (2005)",
+		"count" : 51,
+		"kudos" : 41.666666666666664
+	},
+	{
+		"_id" : "Harry Potter - Fandom",
+		"count" : 976,
+		"kudos" : 40.95696721311475
+	},
+	{
+		"_id" : "Doctor Who",
+		"count" : 99,
+		"kudos" : 39.23232323232323
+	},
+	{
+		"_id" : "Percy Jackson and the Olympians - Rick Riordan",
+		"count" : 124,
+		"kudos" : 35.274193548387096
+	},
+	{
+		"_id" : "Once Upon a Time (TV)",
+		"count" : 62,
+		"kudos" : 26.225806451612904
+	},
+	{
+		"_id" : "Percy Jackson and the Olympians & Related Fandoms - All Media Types",
+		"count" : 62,
+		"kudos" : 26.080645161290324
+	},
+	{
+		"_id" : "The Heroes of Olympus - Rick Riordan",
+		"count" : 59,
+		"kudos" : 25.35593220338983
+	}
+]

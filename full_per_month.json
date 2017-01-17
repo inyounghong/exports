@@ -23,29 +23,29 @@
 	},
 	{
 		"_id" : "2016-12",
-		"total" : 1236,
+		"total" : 2370,
 		"characters" : [
 			{
 				"name" : "Daphne Greengrass",
-				"count" : 9
+				"count" : 23
 			},
 			{
 				"name" : "Draco Malfoy",
-				"count" : 255
+				"count" : 500
 			},
 			{
 				"name" : "Harry Potter",
-				"count" : 410
+				"count" : 769
 			},
 			{
 				"name" : "Hermione Granger",
-				"count" : 283
+				"count" : 504
 			}
 		]
 	},
 	{
 		"_id" : "2016-11",
-		"total" : 186,
+		"total" : 187,
 		"characters" : [
 			{
 				"name" : "Daphne Greengrass",
@@ -89,7 +89,7 @@
 	},
 	{
 		"_id" : "2016-09",
-		"total" : 65,
+		"total" : 66,
 		"characters" : [
 			{
 				"name" : "Daphne Greengrass",
@@ -111,7 +111,7 @@
 	},
 	{
 		"_id" : "2016-08",
-		"total" : 78,
+		"total" : 79,
 		"characters" : [
 			{
 				"name" : "Daphne Greengrass",
@@ -155,7 +155,7 @@
 	},
 	{
 		"_id" : "2016-06",
-		"total" : 37,
+		"total" : 39,
 		"characters" : [
 			{
 				"name" : "Daphne Greengrass",
@@ -297,7 +297,7 @@
 	},
 	{
 		"_id" : "2015-11",
-		"total" : 10,
+		"total" : 11,
 		"characters" : [
 			{
 				"name" : "Draco Malfoy",
@@ -377,7 +377,7 @@
 	},
 	{
 		"_id" : "2015-07",
-		"total" : 11,
+		"total" : 13,
 		"characters" : [
 			{
 				"name" : "Draco Malfoy",
@@ -385,7 +385,7 @@
 			},
 			{
 				"name" : "Harry Potter",
-				"count" : 7
+				"count" : 8
 			},
 			{
 				"name" : "Hermione Granger",
@@ -431,7 +431,7 @@
 	},
 	{
 		"_id" : "2015-04",
-		"total" : 3,
+		"total" : 4,
 		"characters" : [
 			{
 				"name" : "Draco Malfoy",
@@ -485,7 +485,7 @@
 	},
 	{
 		"_id" : "2015-01",
-		"total" : 6,
+		"total" : 8,
 		"characters" : [
 			{
 				"name" : "Draco Malfoy",
@@ -493,7 +493,7 @@
 			},
 			{
 				"name" : "Harry Potter",
-				"count" : 5
+				"count" : 6
 			}
 		]
 	},
@@ -801,7 +801,7 @@
 	},
 	{
 		"_id" : "2013-04",
-		"total" : 2,
+		"total" : 3,
 		"characters" : [
 			{
 				"name" : "Draco Malfoy",
@@ -815,7 +815,7 @@
 	},
 	{
 		"_id" : "2013-03",
-		"total" : 4,
+		"total" : 5,
 		"characters" : [
 			{
 				"name" : "Draco Malfoy",
@@ -911,7 +911,7 @@
 	},
 	{
 		"_id" : "2012-08",
-		"total" : 1,
+		"total" : 2,
 		"characters" : [
 			{
 				"name" : "Draco Malfoy",

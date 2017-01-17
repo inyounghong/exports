@@ -1,23 +1,14 @@
 [
 	{
-		"_id" : {
-			"day" : "1-01-2017",
-			"yearMonth" : "2017-01"
-		},
+		"_id" : "01-1-2017",
 		"Credence Barebone/Original Percival Graves" : 133
 	},
 	{
-		"_id" : {
-			"day" : "1-12-2016",
-			"yearMonth" : "2016-12"
-		},
-		"Credence Barebone/Original Percival Graves" : 75
+		"_id" : "12-1-2016",
+		"Credence Barebone/Original Percival Graves" : 124
 	},
 	{
-		"_id" : {
-			"day" : "1-11-2016",
-			"yearMonth" : "2016-11"
-		},
+		"_id" : "11-1-2016",
 		"Credence Barebone/Original Percival Graves" : 3
 	}
 ]

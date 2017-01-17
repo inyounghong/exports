@@ -1,1 +1,1 @@
-2017-01-16T16:26:27.458-0800 E QUERY    [main] SyntaxError: missing : after property id @(shell eval):11:27
+2017-01-16T20:03:52.754-0800 E QUERY    [main] SyntaxError: invalid property id @(shell eval):22:14

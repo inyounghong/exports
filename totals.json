@@ -1,13 +1,13 @@
 [
 	{
 		"_id" : null,
-		"words_total" : 65085193,
-		"kudos_total" : 354199,
-		"comments_total" : 109474,
-		"hits_total" : 6757781,
-		"kudo_average" : 84.13277909738717,
-		"comments_average" : 26.003325415676958,
-		"hits_average" : 1605.1736342042755,
-		"words_average" : 15459.665795724466
+		"words_total" : 70502714,
+		"kudos_total" : 420507,
+		"comments_total" : 117647,
+		"hits_total" : 7573344,
+		"kudo_average" : 78.40891292187209,
+		"comments_average" : 21.93678911057244,
+		"hits_average" : 1412.146932686929,
+		"words_average" : 13146.13350736528
 	}
 ]

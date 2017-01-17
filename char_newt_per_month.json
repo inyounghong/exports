@@ -1,23 +1,14 @@
 [
 	{
-		"_id" : {
-			"day" : "1-01-2017",
-			"yearMonth" : "2017-01"
-		},
+		"_id" : "01-1-2017",
 		"Newt Scamander" : 315
 	},
 	{
-		"_id" : {
-			"day" : "1-12-2016",
-			"yearMonth" : "2016-12"
-		},
-		"Newt Scamander" : 248
+		"_id" : "12-1-2016",
+		"Newt Scamander" : 465
 	},
 	{
-		"_id" : {
-			"day" : "1-11-2016",
-			"yearMonth" : "2016-11"
-		},
+		"_id" : "11-1-2016",
 		"Newt Scamander" : 24
 	}
 ]

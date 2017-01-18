@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Sherlock Holmes/John Watson",
+		"year" : 2015,
+		"count" : 7514
+	},
+	{
+		"_id" : "Sherlock Holmes & John Watson",
+		"year" : 2015,
+		"count" : 2011
+	},
+	{
+		"_id" : "Sherlock Holmes/Molly Hooper",
+		"year" : 2015,
+		"count" : 1515
+	},
+	{
+		"_id" : "Mycroft Holmes/Greg Lestrade",
+		"year" : 2015,
+		"count" : 1129
+	},
+	{
+		"_id" : "Mary Morstan/John Watson",
+		"year" : 2015,
+		"count" : 779
+	},
+	{
+		"_id" : "Sebastian Moran/Jim Moriarty",
+		"year" : 2015,
+		"count" : 522
+	},
+	{
+		"_id" : "Sherlock Holmes & Molly Hooper",
+		"year" : 2015,
+		"count" : 351
+	},
+	{
+		"_id" : "Mycroft Holmes & Sherlock Holmes",
+		"year" : 2015,
+		"count" : 254
+	},
+	{
+		"_id" : "Sherlock Holmes/Jim Moriarty",
+		"year" : 2015,
+		"count" : 212
+	},
+	{
+		"_id" : "Molly Hooper/Greg Lestrade",
+		"year" : 2015,
+		"count" : 166
+	},
+	{
+		"_id" : "Johnlock",
+		"year" : 2015,
+		"count" : 156
+	},
+	{
+		"_id" : "Sherlock Holmes/Greg Lestrade",
+		"year" : 2015,
+		"count" : 154
+	},
+	{
+		"_id" : "Molly Hooper/Sherlock Holmes",
+		"year" : 2015,
+		"count" : 153
+	},
+	{
+		"_id" : "Irene Adler/Sherlock Holmes",
+		"year" : 2015,
+		"count" : 143
+	},
+	{
+		"_id" : "Mycroft Holmes/Molly Hooper",
+		"year" : 2015,
+		"count" : 130
+	},
+	{
+		"_id" : "Sebastian Moran/James Moriarty",
+		"year" : 2015,
+		"count" : 128
+	},
+	{
+		"_id" : "Sherlock Holmes/Victor Trevor",
+		"year" : 2015,
+		"count" : 125
+	},
+	{
+		"_id" : "Anthea/Mycroft Holmes",
+		"year" : 2015,
+		"count" : 123
+	},
+	{
+		"_id" : "Jim Moriarty/John Watson",
+		"year" : 2015,
+		"count" : 117
+	},
+	{
+		"_id" : "Mycroft Holmes/John Watson",
+		"year" : 2015,
+		"count" : 116
+	},
+	{
+		"_id" : "Mycroft Holmes/Sherlock Holmes",
+		"year" : 2015,
+		"count" : 112
+	},
+	{
+		"_id" : "Sherlock Holmes/Joan Watson",
+		"year" : 2015,
+		"count" : 112
+	},
+	{
+		"_id" : "Sherlock Holmes & Joan Watson",
+		"year" : 2015,
+		"count" : 96
+	},
+	{
+		"_id" : "Mycroft Holmes & Greg Lestrade",
+		"year" : 2015,
+		"count" : 95
+	},
+	{
+		"_id" : "Sherlock Holmes & Greg Lestrade",
+		"year" : 2015,
+		"count" : 90
+	},
+	{
+		"_id" : "Sherlock Holmes/Mary Morstan/John Watson",
+		"year" : 2015,
+		"count" : 88
+	},
+	{
+		"_id" : "Castiel/Dean Winchester",
+		"year" : 2015,
+		"count" : 82
+	},
+	{
+		"_id" : "James Bond/Q",
+		"year" : 2015,
+		"count" : 78
+	},
+	{
+		"_id" : "John Watson/Sherlock Holmes",
+		"year" : 2015,
+		"count" : 77
+	},
+	{
+		"_id" : "Greg Lestrade/John Watson",
+		"year" : 2015,
+		"count" : 76
+	},
+	{
+		"_id" : "Mycroft Holmes/Lestrade",
+		"year" : 2015,
+		"count" : 67
+	},
+	{
+		"_id" : "James Sholto/John Watson",
+		"year" : 2015,
+		"count" : 63
+	},
+	{
+		"_id" : "Sherlock Holmes/Original Female Character(s)",
+		"year" : 2015,
+		"count" : 62
+	},
+	{
+		"_id" : "Irene Adler/Molly Hooper",
+		"year" : 2015,
+		"count" : 61
+	},
+	{
+		"_id" : "Sherlock Holmes/Reader",
+		"year" : 2015,
+		"count" : 53
+	},
+	{
+		"_id" : "Sebastian Moran & Jim Moriarty",
+		"year" : 2015,
+		"count" : 52
+	},
+	{
+		"_id" : "Sebastian Moran/John Watson",
+		"year" : 2015,
+		"count" : 42
+	},
+	{
+		"_id" : "Irene Adler & Sherlock Holmes",
+		"year" : 2015,
+		"count" : 42
+	},
+	{
+		"_id" : "John Watson/Original Female Character(s)",
+		"year" : 2015,
+		"count" : 42
+	},
+	{
+		"_id" : "Mary Morstan & John Watson",
+		"year" : 2015,
+		"count" : 41
+	},
+	{
+		"_id" : "Molly Hooper/Jim Moriarty",
+		"year" : 2015,
+		"count" : 39
+	},
+	{
+		"_id" : "Greg Lestrade & John Watson",
+		"year" : 2015,
+		"count" : 39
+	},
+	{
+		"_id" : "Sherlock Holmes/Mary Morstan",
+		"year" : 2015,
+		"count" : 39
+	},
+	{
+		"_id" : "Sherlock Holmes/Greg Lestrade/John Watson",
+		"year" : 2015,
+		"count" : 38
+	},
+	{
+		"_id" : "Mormor - Relationship",
+		"year" : 2015,
+		"count" : 36
+	},
+	{
+		"_id" : "Jamie Moriarty | Irene Adler/Joan Watson",
+		"year" : 2015,
+		"count" : 35
+	},
+	{
+		"_id" : "Sherlock Holmes & Jim Moriarty",
+		"year" : 2015,
+		"count" : 35
+	},
+	{
+		"_id" : "Sherlock Holmes & Reader",
+		"year" : 2015,
+		"count" : 35
+	},
+	{
+		"_id" : "None",
+		"year" : 2015,
+		"count" : 34
+	},
+	{
+		"_id" : "Anthea & Mycroft Holmes",
+		"year" : 2015,
+		"count" : 32
+	},
+	{
+		"_id" : "Mycroft Holmes & John Watson",
+		"year" : 2015,
+		"count" : 32
+	},
+	{
+		"_id" : "John Watson/Original Male Character(s)",
+		"year" : 2015,
+		"count" : 30
+	},
+	{
+		"_id" : "Mystrade - Relationship",
+		"year" : 2015,
+		"count" : 30
+	},
+	{
+		"_id" : "Sherlock Holmes & Mary Morstan",
+		"year" : 2015,
+		"count" : 29
+	},
+	{
+		"_id" : "Molly Hooper/Khan Noonien Singh",
+		"year" : 2015,
+		"count" : 28
+	},
+	{
+		"_id" : "John Watson/Mary Morstan",
+		"year" : 2015,
+		"count" : 28
+	},
+	{
+		"_id" : "Sally Donovan/Molly Hooper",
+		"year" : 2015,
+		"count" : 28
+	},
+	{
+		"_id" : "Sherlock Holmes & Original Female Character",
+		"year" : 2015,
+		"count" : 27
+	},
+	{
+		"_id" : "Irene Adler/Kate (Sherlock)",
+		"year" : 2015,
+		"count" : 26
+	},
+	{
+		"_id" : "Mycroft Holmes/Jim Moriarty",
+		"year" : 2015,
+		"count" : 26
+	},
+	{
+		"_id" : "sherlolly",
+		"year" : 2015,
+		"count" : 26
+	},
+	{
+		"_id" : "Jim Moriarty/Sebastian Moran",
+		"year" : 2015,
+		"count" : 25
+	},
+	{
+		"_id" : "Mycroft Holmes/Reader",
+		"year" : 2015,
+		"count" : 25
+	},
+	{
+		"_id" : "Harry Watson & John Watson",
+		"year" : 2015,
+		"count" : 24
+	},
+	{
+		"_id" : "Sherlock/John - Relationship",
+		"year" : 2015,
+		"count" : 23
+	},
+	{
+		"_id" : "Molly Hooper/John Watson",
+		"year" : 2015,
+		"count" : 23
+	},
+	{
+		"_id" : "Sherlock Holmes & Mrs. Hudson",
+		"year" : 2015,
+		"count" : 22
+	},
+	{
+		"_id" : "Anderson/Sally Donovan",
+		"year" : 2015,
+		"count" : 22
+	},
+	{
+		"_id" : "Ambiguous or Implied Relationship(s)",
+		"year" : 2015,
+		"count" : 22
+	},
+	{
+		"_id" : "Sherlock Holmes/Original Male Character(s)",
+		"year" : 2015,
+		"count" : 21
+	},
+	{
+		"_id" : "Molly Hooper & Greg Lestrade",
+		"year" : 2015,
+		"count" : 21
+	},
+	{
+		"_id" : "Sherlock Holmes/James Moriarty",
+		"year" : 2015,
+		"count" : 21
+	},
+	{
+		"_id" : "Jim Moriarty/Original Female Character",
+		"year" : 2015,
+		"count" : 21
+	},
+	{
+		"_id" : "Molly Hooper/Tom",
+		"year" : 2015,
+		"count" : 21
+	},
+	{
+		"_id" : "James Moriarty/John Watson",
+		"year" : 2015,
+		"count" : 21
+	},
+	{
+		"_id" : "Richard Brook/Severin Moran",
+		"year" : 2015,
+		"count" : 20
+	},
+	{
+		"_id" : "Sherlock Holmes & Mycroft Holmes",
+		"year" : 2015,
+		"count" : 20
+	},
+	{
+		"_id" : "Sherlock Holmes/Janine",
+		"year" : 2015,
+		"count" : 20
+	},
+	{
+		"_id" : "Clara/Harry Watson",
+		"year" : 2015,
+		"count" : 20
+	},
+	{
+		"_id" : "Sherlock Holmes/Sebastian Moran",
+		"year" : 2015,
+		"count" : 19
+	},
+	{
+		"_id" : "Molly Hooper & John Watson",
+		"year" : 2015,
+		"count" : 19
+	},
+	{
+		"_id" : "Eleventh Doctor/River Song",
+		"year" : 2015,
+		"count" : 19
+	},
+	{
+		"_id" : "Sherlock Holmes & Greg Lestrade & John Watson",
+		"year" : 2015,
+		"count" : 19
+	},
+	{
+		"_id" : "Sarah Sawyer/John Watson",
+		"year" : 2015,
+		"count" : 19
+	},
+	{
+		"_id" : "Jim Moriarty & John Watson",
+		"year" : 2015,
+		"count" : 18
+	},
+	{
+		"_id" : "Sherlock/Reader",
+		"year" : 2015,
+		"count" : 18
+	},
+	{
+		"_id" : "Sherlock Holmes/You",
+		"year" : 2015,
+		"count" : 17
+	},
+	{
+		"_id" : "Bilbo Baggins/Thorin Oakenshield",
+		"year" : 2015,
+		"count" : 17
+	},
+	{
+		"_id" : "Captain Hook | Killian Jones/Emma Swan",
+		"year" : 2015,
+		"count" : 16
+	},
+	{
+		"_id" : "Greg Lestrade/Original Female Character",
+		"year" : 2015,
+		"count" : 16
+	},
+	{
+		"_id" : "Benedict Cumberbatch/Original Female Character",
+		"year" : 2015,
+		"count" : 16
+	},
+	{
+		"_id" : "Amy Pond/Rory Williams",
+		"year" : 2015,
+		"count" : 16
+	},
+	{
+		"_id" : "Molly Hooper & Sherlock Holmes",
+		"year" : 2015,
+		"count" : 15
+	},
+	{
+		"_id" : "Jack Harkness/Ianto Jones",
+		"year" : 2015,
+		"count" : 15
+	},
+	{
+		"_id" : "Mycroft Holmes/Molly Hooper/Greg Lestrade",
+		"year" : 2015,
+		"count" : 15
+	},
+	{
+		"_id" : "Lord Henry Blackwood/Lord Coward",
+		"year" : 2015,
+		"count" : 15
+	},
+	{
+		"_id" : "Mycroft Holmes & Molly Hooper",
+		"year" : 2015,
+		"count" : 15
+	},
+	{
+		"_id" : "Gabriel/Sam Winchester",
+		"year" : 2015,
+		"count" : 15
+	},
+	{
+		"_id" : "Irene Adler/Janine",
+		"year" : 2015,
+		"count" : 15
+	},
+	{
+		"_id" : "Richard Brook/Jim Moriarty",
+		"year" : 2015,
+		"count" : 15
+	}
+]

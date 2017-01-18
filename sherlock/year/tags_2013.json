@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Angst",
+		"year" : 2013,
+		"count" : 2343
+	},
+	{
+		"_id" : "Fluff",
+		"year" : 2013,
+		"count" : 2291
+	},
+	{
+		"_id" : "Post Reichenbach",
+		"year" : 2013,
+		"count" : 1289
+	},
+	{
+		"_id" : "Romance",
+		"year" : 2013,
+		"count" : 1125
+	},
+	{
+		"_id" : "Humor",
+		"year" : 2013,
+		"count" : 927
+	},
+	{
+		"_id" : "Hurt/Comfort",
+		"year" : 2013,
+		"count" : 901
+	},
+	{
+		"_id" : "Johnlock - Freeform",
+		"year" : 2013,
+		"count" : 814
+	},
+	{
+		"_id" : "Friendship",
+		"year" : 2013,
+		"count" : 787
+	},
+	{
+		"_id" : "Post-Reichenbach",
+		"year" : 2013,
+		"count" : 730
+	},
+	{
+		"_id" : "Established Relationship",
+		"year" : 2013,
+		"count" : 699
+	},
+	{
+		"_id" : "Alternate Universe",
+		"year" : 2013,
+		"count" : 637
+	},
+	{
+		"_id" : "First Kiss",
+		"year" : 2013,
+		"count" : 585
+	},
+	{
+		"_id" : "Anal Sex",
+		"year" : 2013,
+		"count" : 576
+	},
+	{
+		"_id" : "First Time",
+		"year" : 2013,
+		"count" : 557
+	},
+	{
+		"_id" : "Crossover",
+		"year" : 2013,
+		"count" : 545
+	},
+	{
+		"_id" : "Slash",
+		"year" : 2013,
+		"count" : 504
+	},
+	{
+		"_id" : "221B Ficlet",
+		"year" : 2013,
+		"count" : 483
+	},
+	{
+		"_id" : "Oral Sex",
+		"year" : 2013,
+		"count" : 444
+	},
+	{
+		"_id" : "AU",
+		"year" : 2013,
+		"count" : 441
+	},
+	{
+		"_id" : "Love",
+		"year" : 2013,
+		"count" : 388
+	},
+	{
+		"_id" : "Fluff and Angst",
+		"year" : 2013,
+		"count" : 366
+	},
+	{
+		"_id" : "Case Fic",
+		"year" : 2013,
+		"count" : 338
+	},
+	{
+		"_id" : "Pre-Slash",
+		"year" : 2013,
+		"count" : 337
+	},
+	{
+		"_id" : "Drabble",
+		"year" : 2013,
+		"count" : 332
+	},
+	{
+		"_id" : "Crack",
+		"year" : 2013,
+		"count" : 331
+	},
+	{
+		"_id" : "Smut",
+		"year" : 2013,
+		"count" : 324
+	},
+	{
+		"_id" : "Plot What Plot/Porn Without Plot",
+		"year" : 2013,
+		"count" : 298
+	},
+	{
+		"_id" : "Christmas",
+		"year" : 2013,
+		"count" : 297
+	},
+	{
+		"_id" : "Emotional Hurt/Comfort",
+		"year" : 2013,
+		"count" : 295
+	},
+	{
+		"_id" : "Masturbation",
+		"year" : 2013,
+		"count" : 271
+	},
+	{
+		"_id" : "Drama",
+		"year" : 2013,
+		"count" : 267
+	},
+	{
+		"_id" : "Friends to Lovers",
+		"year" : 2013,
+		"count" : 267
+	},
+	{
+		"_id" : "Parentlock",
+		"year" : 2013,
+		"count" : 257
+	},
+	{
+		"_id" : "BBC Sherlock - Freeform",
+		"year" : 2013,
+		"count" : 256
+	},
+	{
+		"_id" : "Teenlock",
+		"year" : 2013,
+		"count" : 253
+	},
+	{
+		"_id" : "Drug Use",
+		"year" : 2013,
+		"count" : 252
+	},
+	{
+		"_id" : "Blow Jobs",
+		"year" : 2013,
+		"count" : 246
+	},
+	{
+		"_id" : "Explicit Sexual Content",
+		"year" : 2013,
+		"count" : 246
+	},
+	{
+		"_id" : "Kissing",
+		"year" : 2013,
+		"count" : 240
+	},
+	{
+		"_id" : "Family",
+		"year" : 2013,
+		"count" : 234
+	},
+	{
+		"_id" : "Sexual Content",
+		"year" : 2013,
+		"count" : 231
+	},
+	{
+		"_id" : "PWP",
+		"year" : 2013,
+		"count" : 221
+	},
+	{
+		"_id" : "Prompt Fic",
+		"year" : 2013,
+		"count" : 215
+	},
+	{
+		"_id" : "Alpha/Beta/Omega Dynamics",
+		"year" : 2013,
+		"count" : 215
+	},
+	{
+		"_id" : "Grief/Mourning",
+		"year" : 2013,
+		"count" : 198
+	},
+	{
+		"_id" : "Frottage",
+		"year" : 2013,
+		"count" : 197
+	},
+	{
+		"_id" : "Violence",
+		"year" : 2013,
+		"count" : 196
+	},
+	{
+		"_id" : "Kidlock",
+		"year" : 2013,
+		"count" : 194
+	},
+	{
+		"_id" : "One Shot",
+		"year" : 2013,
+		"count" : 192
+	},
+	{
+		"_id" : "Character Death",
+		"year" : 2013,
+		"count" : 192
+	},
+	{
+		"_id" : "Developing Relationship",
+		"year" : 2013,
+		"count" : 186
+	},
+	{
+		"_id" : "Depression",
+		"year" : 2013,
+		"count" : 186
+	},
+	{
+		"_id" : "BAMF John",
+		"year" : 2013,
+		"count" : 183
+	},
+	{
+		"_id" : "Character Study",
+		"year" : 2013,
+		"count" : 179
+	},
+	{
+		"_id" : "Dubious Consent",
+		"year" : 2013,
+		"count" : 167
+	},
+	{
+		"_id" : "Mpreg",
+		"year" : 2013,
+		"count" : 167
+	},
+	{
+		"_id" : "Friendship/Love",
+		"year" : 2013,
+		"count" : 166
+	},
+	{
+		"_id" : "Hand Jobs",
+		"year" : 2013,
+		"count" : 166
+	},
+	{
+		"_id" : "Alternate Universe - Canon Divergence",
+		"year" : 2013,
+		"count" : 161
+	},
+	{
+		"_id" : "Suicide",
+		"year" : 2013,
+		"count" : 159
+	},
+	{
+		"_id" : "Kidnapping",
+		"year" : 2013,
+		"count" : 157
+	},
+	{
+		"_id" : "BDSM",
+		"year" : 2013,
+		"count" : 154
+	},
+	{
+		"_id" : "Podfic",
+		"year" : 2013,
+		"count" : 153
+	},
+	{
+		"_id" : "Unrequited Love",
+		"year" : 2013,
+		"count" : 152
+	},
+	{
+		"_id" : "Rimming",
+		"year" : 2013,
+		"count" : 152
+	},
+	{
+		"_id" : "Dirty Talk",
+		"year" : 2013,
+		"count" : 148
+	},
+	{
+		"_id" : "Suicidal Thoughts",
+		"year" : 2013,
+		"count" : 145
+	},
+	{
+		"_id" : "Bondage",
+		"year" : 2013,
+		"count" : 142
+	},
+	{
+		"_id" : "Murder",
+		"year" : 2013,
+		"count" : 142
+	},
+	{
+		"_id" : "Sex",
+		"year" : 2013,
+		"count" : 139
+	},
+	{
+		"_id" : "Mystery",
+		"year" : 2013,
+		"count" : 139
+	},
+	{
+		"_id" : "POV First Person",
+		"year" : 2013,
+		"count" : 139
+	},
+	{
+		"_id" : "POV John Watson",
+		"year" : 2013,
+		"count" : 138
+	},
+	{
+		"_id" : "Omega Verse",
+		"year" : 2013,
+		"count" : 138
+	},
+	{
+		"_id" : "Domestic",
+		"year" : 2013,
+		"count" : 137
+	},
+	{
+		"_id" : "Minor Character Death",
+		"year" : 2013,
+		"count" : 135
+	},
+	{
+		"_id" : "Dom/sub",
+		"year" : 2013,
+		"count" : 131
+	},
+	{
+		"_id" : "Spanking",
+		"year" : 2013,
+		"count" : 131
+	},
+	{
+		"_id" : "Kid Fic",
+		"year" : 2013,
+		"count" : 130
+	},
+	{
+		"_id" : "POV Sherlock Holmes",
+		"year" : 2013,
+		"count" : 125
+	},
+	{
+		"_id" : "Humour",
+		"year" : 2013,
+		"count" : 124
+	},
+	{
+		"_id" : "Ficlet",
+		"year" : 2013,
+		"count" : 121
+	},
+	{
+		"_id" : "Reunion",
+		"year" : 2013,
+		"count" : 119
+	},
+	{
+		"_id" : "Pining",
+		"year" : 2013,
+		"count" : 117
+	},
+	{
+		"_id" : "Unresolved Sexual Tension",
+		"year" : 2013,
+		"count" : 117
+	},
+	{
+		"_id" : "Rough Sex",
+		"year" : 2013,
+		"count" : 116
+	},
+	{
+		"_id" : "Feels",
+		"year" : 2013,
+		"count" : 116
+	},
+	{
+		"_id" : "Nightmares",
+		"year" : 2013,
+		"count" : 115
+	},
+	{
+		"_id" : "Sherlolly - Freeform",
+		"year" : 2013,
+		"count" : 113
+	},
+	{
+		"_id" : "Reichenbach Feels",
+		"year" : 2013,
+		"count" : 112
+	},
+	{
+		"_id" : "mystrade",
+		"year" : 2013,
+		"count" : 111
+	},
+	{
+		"_id" : "Magical Realism",
+		"year" : 2013,
+		"count" : 108
+	},
+	{
+		"_id" : "Fluff and Smut",
+		"year" : 2013,
+		"count" : 108
+	},
+	{
+		"_id" : "Blood",
+		"year" : 2013,
+		"count" : 108
+	},
+	{
+		"_id" : "Porn",
+		"year" : 2013,
+		"count" : 106
+	},
+	{
+		"_id" : "Poetry",
+		"year" : 2013,
+		"count" : 104
+	},
+	{
+		"_id" : "Torture",
+		"year" : 2013,
+		"count" : 102
+	},
+	{
+		"_id" : "References to Suicide",
+		"year" : 2013,
+		"count" : 100
+	},
+	{
+		"_id" : "Sherlock Being Sherlock",
+		"year" : 2013,
+		"count" : 98
+	},
+	{
+		"_id" : "Light Bondage",
+		"year" : 2013,
+		"count" : 97
+	}
+]

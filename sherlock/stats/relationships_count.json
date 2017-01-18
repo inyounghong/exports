@@ -1,0 +1,666 @@
+[
+	{
+		"_id" : "Sherlock Holmes/John Watson",
+		"count" : 45709,
+		"word_sum" : 311241791,
+		"kudo_average" : 148.1390317005404,
+		"comment_average" : 27.48207136450152,
+		"word_average" : 6809.201492047518
+	},
+	{
+		"_id" : "Sherlock Holmes & John Watson",
+		"count" : 12502,
+		"word_sum" : 79916382,
+		"kudo_average" : 103.5464725643897,
+		"comment_average" : 24.528795392737162,
+		"word_average" : 6392.287793952967
+	},
+	{
+		"_id" : "Mycroft Holmes/Greg Lestrade",
+		"count" : 5550,
+		"word_sum" : 57244989,
+		"kudo_average" : 113.89207207207207,
+		"comment_average" : 29.787027027027026,
+		"word_average" : 10314.412432432433
+	},
+	{
+		"_id" : "Sherlock Holmes/Molly Hooper",
+		"count" : 5486,
+		"word_sum" : 33489277,
+		"kudo_average" : 86.30842143638353,
+		"comment_average" : 14.290193219103172,
+		"word_average" : 6104.498177178272
+	},
+	{
+		"_id" : "Mary Morstan/John Watson",
+		"count" : 4051,
+		"word_sum" : 42260336,
+		"kudo_average" : 90.72821525549247,
+		"comment_average" : 27.97679585287583,
+		"word_average" : 10432.07504319921
+	},
+	{
+		"_id" : "Sebastian Moran/Jim Moriarty",
+		"count" : 3110,
+		"word_sum" : 19670517,
+		"kudo_average" : 44.35627009646302,
+		"comment_average" : 8.062379421221864,
+		"word_average" : 6324.925080385852
+	},
+	{
+		"_id" : "Sherlock Holmes/Jim Moriarty",
+		"count" : 1492,
+		"word_sum" : 10950594,
+		"kudo_average" : 58.10120643431635,
+		"comment_average" : 12.778150134048257,
+		"word_average" : 7339.5402144772115
+	},
+	{
+		"_id" : "Mycroft Holmes & Sherlock Holmes",
+		"count" : 1341,
+		"word_sum" : 9772797,
+		"kudo_average" : 77.61222967934377,
+		"comment_average" : 21.431021625652498,
+		"word_average" : 7287.69351230425
+	},
+	{
+		"_id" : "Sherlock Holmes & Molly Hooper",
+		"count" : 1249,
+		"word_sum" : 8537331,
+		"kudo_average" : 78.65092073658927,
+		"comment_average" : 15.262610088070456,
+		"word_average" : 6835.333066453162
+	},
+	{
+		"_id" : "Irene Adler/Sherlock Holmes",
+		"count" : 1030,
+		"word_sum" : 8083934,
+		"kudo_average" : 47.80582524271845,
+		"comment_average" : 11.775728155339806,
+		"word_average" : 7848.479611650486
+	},
+	{
+		"_id" : "Sherlock Holmes/Greg Lestrade",
+		"count" : 996,
+		"word_sum" : 5391456,
+		"kudo_average" : 83.8433734939759,
+		"comment_average" : 16.379518072289155,
+		"word_average" : 5413.108433734939
+	},
+	{
+		"_id" : "Johnlock",
+		"count" : 989,
+		"word_sum" : 6228596,
+		"kudo_average" : 52.01516683518706,
+		"comment_average" : 10.024266936299291,
+		"word_average" : 6297.8725985844285
+	},
+	{
+		"_id" : "Molly Hooper/Greg Lestrade",
+		"count" : 821,
+		"word_sum" : 10990067,
+		"kudo_average" : 83.68087697929354,
+		"comment_average" : 31.047503045066993,
+		"word_average" : 13386.19610231425
+	},
+	{
+		"_id" : "Mycroft Holmes/Sherlock Holmes",
+		"count" : 794,
+		"word_sum" : 5154445,
+		"kudo_average" : 101.22670025188917,
+		"comment_average" : 17.70528967254408,
+		"word_average" : 6491.744332493703
+	},
+	{
+		"_id" : "Molly Hooper/Sherlock Holmes",
+		"count" : 760,
+		"word_sum" : 4974653,
+		"kudo_average" : 94.67236842105264,
+		"comment_average" : 15.177631578947368,
+		"word_average" : 6545.596052631579
+	},
+	{
+		"_id" : "Sebastian Moran/James Moriarty",
+		"count" : 732,
+		"word_sum" : 5228423,
+		"kudo_average" : 37.275956284153004,
+		"comment_average" : 9.330601092896174,
+		"word_average" : 7142.654371584699
+	},
+	{
+		"_id" : "Sherlock Holmes/Victor Trevor",
+		"count" : 623,
+		"word_sum" : 8392161,
+		"kudo_average" : 100.36918138041733,
+		"comment_average" : 33.37239165329053,
+		"word_average" : 13470.563402889245
+	},
+	{
+		"_id" : "Jim Moriarty/John Watson",
+		"count" : 593,
+		"word_sum" : 6134292,
+		"kudo_average" : 159.61045531197303,
+		"comment_average" : 28.347386172006747,
+		"word_average" : 10344.505902192243
+	},
+	{
+		"_id" : "Mycroft Holmes/John Watson",
+		"count" : 580,
+		"word_sum" : 4869826,
+		"kudo_average" : 145.67586206896553,
+		"comment_average" : 30.193103448275863,
+		"word_average" : 8396.251724137932
+	},
+	{
+		"_id" : "Mycroft Holmes/Lestrade",
+		"count" : 558,
+		"word_sum" : 4913353,
+		"kudo_average" : 131.25089605734766,
+		"comment_average" : 32.19713261648746,
+		"word_average" : 8805.292114695341
+	},
+	{
+		"_id" : "Mycroft Holmes/Lestrade (Inspector)",
+		"count" : 517,
+		"word_sum" : 3269484,
+		"kudo_average" : 197.35396518375242,
+		"comment_average" : 22.98065764023211,
+		"word_average" : 6323.953578336557
+	},
+	{
+		"_id" : "Sherlock Holmes/Joan Watson",
+		"count" : 482,
+		"word_sum" : 1800496,
+		"kudo_average" : 107.0103734439834,
+		"comment_average" : 13.047717842323651,
+		"word_average" : 3735.46887966805
+	},
+	{
+		"_id" : "Greg Lestrade/John Watson",
+		"count" : 466,
+		"word_sum" : 4099564,
+		"kudo_average" : 112.79828326180258,
+		"comment_average" : 23.253218884120173,
+		"word_average" : 8797.347639484979
+	},
+	{
+		"_id" : "Sherlock Holmes & Greg Lestrade",
+		"count" : 458,
+		"word_sum" : 4577151,
+		"kudo_average" : 97.43013100436681,
+		"comment_average" : 26.74890829694323,
+		"word_average" : 9993.779475982532
+	},
+	{
+		"_id" : "Mycroft Holmes & Greg Lestrade",
+		"count" : 456,
+		"word_sum" : 4869282,
+		"kudo_average" : 106.07675438596492,
+		"comment_average" : 35.64912280701754,
+		"word_average" : 10678.25
+	},
+	{
+		"_id" : "James Bond/Q",
+		"count" : 441,
+		"word_sum" : 5790153,
+		"kudo_average" : 265.9795918367347,
+		"comment_average" : 50.62358276643991,
+		"word_average" : 13129.598639455782
+	},
+	{
+		"_id" : "Anthea/Mycroft Holmes",
+		"count" : 432,
+		"word_sum" : 5724862,
+		"kudo_average" : 103.54629629629629,
+		"comment_average" : 37.6712962962963,
+		"word_average" : 13251.99537037037
+	},
+	{
+		"_id" : "Sherlock Holmes/Mary Morstan/John Watson",
+		"count" : 419,
+		"word_sum" : 2969226,
+		"kudo_average" : 109.08591885441527,
+		"comment_average" : 26.859188544152744,
+		"word_average" : 7086.458233890215
+	},
+	{
+		"_id" : "Sherlock Holmes & Joan Watson",
+		"count" : 386,
+		"word_sum" : 1412328,
+		"kudo_average" : 63.27979274611399,
+		"comment_average" : 11.523316062176166,
+		"word_average" : 3658.880829015544
+	},
+	{
+		"_id" : "Mycroft Holmes/Molly Hooper",
+		"count" : 381,
+		"word_sum" : 2520063,
+		"kudo_average" : 83.12860892388451,
+		"comment_average" : 19.241469816272964,
+		"word_average" : 6614.3385826771655
+	},
+	{
+		"_id" : "Sherlock/John - Relationship",
+		"count" : 334,
+		"word_sum" : 1851213,
+		"kudo_average" : 146.05389221556885,
+		"comment_average" : 15.82934131736527,
+		"word_average" : 5542.553892215569
+	},
+	{
+		"_id" : "Molly Hooper/Jim Moriarty",
+		"count" : 326,
+		"word_sum" : 2651032,
+		"kudo_average" : 52.45092024539877,
+		"comment_average" : 9.94478527607362,
+		"word_average" : 8132
+	},
+	{
+		"_id" : "Irene Adler/Molly Hooper",
+		"count" : 325,
+		"word_sum" : 2102453,
+		"kudo_average" : 49.292307692307695,
+		"comment_average" : 12.258461538461539,
+		"word_average" : 6469.086153846154
+	},
+	{
+		"_id" : "Castiel/Dean Winchester",
+		"count" : 315,
+		"word_sum" : 2922756,
+		"kudo_average" : 47.888888888888886,
+		"comment_average" : 12.253968253968255,
+		"word_average" : 9278.590476190477
+	},
+	{
+		"_id" : "John Watson/Sherlock Holmes",
+		"count" : 309,
+		"word_sum" : 1493573,
+		"kudo_average" : 79.0873786407767,
+		"comment_average" : 11.805825242718447,
+		"word_average" : 4833.569579288026
+	},
+	{
+		"_id" : "Sebastian Moran & Jim Moriarty",
+		"count" : 285,
+		"word_sum" : 1452854,
+		"kudo_average" : 28.8,
+		"comment_average" : 5.894736842105263,
+		"word_average" : 5097.733333333334
+	},
+	{
+		"_id" : "Sherlock Holmes/Original Female Character(s)",
+		"count" : 258,
+		"word_sum" : 3378905,
+		"kudo_average" : 35.41860465116279,
+		"comment_average" : 7.25968992248062,
+		"word_average" : 13096.531007751939
+	},
+	{
+		"_id" : "John/Sherlock",
+		"count" : 227,
+		"word_sum" : 1280621,
+		"kudo_average" : 288.1321585903084,
+		"comment_average" : 26.65638766519824,
+		"word_average" : 5641.502202643172
+	},
+	{
+		"_id" : "Sherlock Holmes/Greg Lestrade/John Watson",
+		"count" : 218,
+		"word_sum" : 1608588,
+		"kudo_average" : 150.62385321100916,
+		"comment_average" : 28.821100917431192,
+		"word_average" : 7378.844036697248
+	},
+	{
+		"_id" : "Greg Lestrade & John Watson",
+		"count" : 217,
+		"word_sum" : 3081266,
+		"kudo_average" : 144.48387096774192,
+		"comment_average" : 39.08755760368663,
+		"word_average" : 14199.382488479263
+	},
+	{
+		"_id" : "Mystrade - Relationship",
+		"count" : 209,
+		"word_sum" : 1791569,
+		"kudo_average" : 98.5598086124402,
+		"comment_average" : 14.75598086124402,
+		"word_average" : 8572.1004784689
+	},
+	{
+		"_id" : "Sherlock Holmes & Jim Moriarty",
+		"count" : 208,
+		"word_sum" : 1529568,
+		"kudo_average" : 44.33173076923077,
+		"comment_average" : 14.028846153846153,
+		"word_average" : 7353.692307692308
+	},
+	{
+		"_id" : "Sebastian Moran/John Watson",
+		"count" : 207,
+		"word_sum" : 3160279,
+		"kudo_average" : 103.51690821256038,
+		"comment_average" : 23.734299516908212,
+		"word_average" : 15267.048309178745
+	},
+	{
+		"_id" : "Irene Adler & Sherlock Holmes",
+		"count" : 198,
+		"word_sum" : 2317558,
+		"kudo_average" : 50.09090909090909,
+		"comment_average" : 18.63131313131313,
+		"word_average" : 11704.838383838383
+	},
+	{
+		"_id" : "Mary Morstan & John Watson",
+		"count" : 197,
+		"word_sum" : 2693940,
+		"kudo_average" : 57.898477157360404,
+		"comment_average" : 17.101522842639593,
+		"word_average" : 13674.822335025381
+	},
+	{
+		"_id" : "Sarah Sawyer/John Watson",
+		"count" : 196,
+		"word_sum" : 2748251,
+		"kudo_average" : 163.5,
+		"comment_average" : 36.47959183673469,
+		"word_average" : 14021.688775510203
+	},
+	{
+		"_id" : "Anderson/Sally Donovan",
+		"count" : 189,
+		"word_sum" : 1716046,
+		"kudo_average" : 53.73015873015873,
+		"comment_average" : 18.317460317460316,
+		"word_average" : 9079.608465608466
+	},
+	{
+		"_id" : "Mycroft Holmes & John Watson",
+		"count" : 182,
+		"word_sum" : 2107645,
+		"kudo_average" : 128.63736263736263,
+		"comment_average" : 38.01648351648352,
+		"word_average" : 11580.467032967033
+	},
+	{
+		"_id" : "Friendship - Relationship",
+		"count" : 181,
+		"word_sum" : 865797,
+		"kudo_average" : 45.47513812154696,
+		"comment_average" : 8.386740331491712,
+		"word_average" : 4783.408839779006
+	},
+	{
+		"_id" : "Lord Henry Blackwood/Lord Coward",
+		"count" : 173,
+		"word_sum" : 317248,
+		"kudo_average" : 7.317919075144508,
+		"comment_average" : 2.2427745664739884,
+		"word_average" : 1833.8034682080925
+	},
+	{
+		"_id" : "sherlolly",
+		"count" : 171,
+		"word_sum" : 1751432,
+		"kudo_average" : 66.64327485380117,
+		"comment_average" : 15.836257309941521,
+		"word_average" : 10242.292397660818
+	},
+	{
+		"_id" : "Sherlock Holmes/Lestrade (Inspector)",
+		"count" : 168,
+		"word_sum" : 545866,
+		"kudo_average" : 89.7797619047619,
+		"comment_average" : 10.428571428571429,
+		"word_average" : 3249.2023809523807
+	},
+	{
+		"_id" : "Sherlock Holmes/Lestrade",
+		"count" : 168,
+		"word_sum" : 714882,
+		"kudo_average" : 78.5,
+		"comment_average" : 14.023809523809524,
+		"word_average" : 4255.25
+	},
+	{
+		"_id" : "John Watson/Mary Morstan",
+		"count" : 167,
+		"word_sum" : 1575088,
+		"kudo_average" : 168.33532934131736,
+		"comment_average" : 33.80239520958084,
+		"word_average" : 9431.664670658683
+	},
+	{
+		"_id" : "Richard Brook/Jim Moriarty",
+		"count" : 160,
+		"word_sum" : 622231,
+		"kudo_average" : 25.58125,
+		"comment_average" : 4.0875,
+		"word_average" : 3888.94375
+	},
+	{
+		"_id" : "Clara/Harry Watson",
+		"count" : 159,
+		"word_sum" : 2351106,
+		"kudo_average" : 146.9685534591195,
+		"comment_average" : 46.21383647798742,
+		"word_average" : 14786.830188679245
+	},
+	{
+		"_id" : "John Watson/Original Female Character(s)",
+		"count" : 155,
+		"word_sum" : 2065161,
+		"kudo_average" : 105.52258064516128,
+		"comment_average" : 30.27741935483871,
+		"word_average" : 13323.61935483871
+	},
+	{
+		"_id" : "Sherlock Holmes/Reader",
+		"count" : 154,
+		"word_sum" : 1236913,
+		"kudo_average" : 132.6103896103896,
+		"comment_average" : 13.85064935064935,
+		"word_average" : 8031.902597402597
+	},
+	{
+		"_id" : "Sherlock Holmes & Mary Morstan",
+		"count" : 149,
+		"word_sum" : 984811,
+		"kudo_average" : 64.46979865771812,
+		"comment_average" : 20.986577181208055,
+		"word_average" : 6609.4697986577185
+	},
+	{
+		"_id" : "Sherlock Holmes/Original Male Character(s)",
+		"count" : 148,
+		"word_sum" : 3664724,
+		"kudo_average" : 159.26351351351352,
+		"comment_average" : 114.10135135135135,
+		"word_average" : 24761.64864864865
+	},
+	{
+		"_id" : "Mormor - Relationship",
+		"count" : 147,
+		"word_sum" : 923760,
+		"kudo_average" : 28.8843537414966,
+		"comment_average" : 4.619047619047619,
+		"word_average" : 6284.081632653061
+	},
+	{
+		"_id" : "James Sholto/John Watson",
+		"count" : 143,
+		"word_sum" : 1723933,
+		"kudo_average" : 102.68531468531468,
+		"comment_average" : 38.93706293706294,
+		"word_average" : 12055.475524475525
+	},
+	{
+		"_id" : "John Watson/Original Male Character(s)",
+		"count" : 143,
+		"word_sum" : 2688498,
+		"kudo_average" : 192.74825174825176,
+		"comment_average" : 68.5944055944056,
+		"word_average" : 18800.685314685314
+	},
+	{
+		"_id" : "None",
+		"count" : 136,
+		"word_sum" : 250052,
+		"kudo_average" : 34.036764705882355,
+		"comment_average" : 4.5661764705882355,
+		"word_average" : 1838.6176470588234
+	},
+	{
+		"_id" : "Molly Hooper/John Watson",
+		"count" : 135,
+		"word_sum" : 1380634,
+		"kudo_average" : 93.77777777777777,
+		"comment_average" : 23.614814814814814,
+		"word_average" : 10226.918518518518
+	},
+	{
+		"_id" : "Anthea & Mycroft Holmes",
+		"count" : 128,
+		"word_sum" : 1186533,
+		"kudo_average" : 81.9609375,
+		"comment_average" : 16.5078125,
+		"word_average" : 9269.7890625
+	},
+	{
+		"_id" : "Holmes/Watson",
+		"count" : 127,
+		"word_sum" : 752617,
+		"kudo_average" : 86.2992125984252,
+		"comment_average" : 11.259842519685039,
+		"word_average" : 5926.118110236221
+	},
+	{
+		"_id" : "Lestrade (Inspector)/John Watson",
+		"count" : 125,
+		"word_sum" : 406356,
+		"kudo_average" : 115.976,
+		"comment_average" : 13.032,
+		"word_average" : 3250.848
+	},
+	{
+		"_id" : "Sherlock Holmes & Mycroft Holmes",
+		"count" : 124,
+		"word_sum" : 1119385,
+		"kudo_average" : 85.66129032258064,
+		"comment_average" : 25.161290322580644,
+		"word_average" : 9027.298387096775
+	},
+	{
+		"_id" : "Sherlock Holmes/James Moriarty",
+		"count" : 124,
+		"word_sum" : 954192,
+		"kudo_average" : 36.75,
+		"comment_average" : 8.903225806451612,
+		"word_average" : 7695.096774193548
+	},
+	{
+		"_id" : "Sherlock Holmes/Mary Morstan",
+		"count" : 123,
+		"word_sum" : 785264,
+		"kudo_average" : 104.7560975609756,
+		"comment_average" : 31.45528455284553,
+		"word_average" : 6384.260162601626
+	},
+	{
+		"_id" : "Sherlock Holmes & Mrs. Hudson",
+		"count" : 122,
+		"word_sum" : 896115,
+		"kudo_average" : 97.41803278688525,
+		"comment_average" : 33.877049180327866,
+		"word_average" : 7345.204918032787
+	},
+	{
+		"_id" : "Sherlock Holmes & Reader",
+		"count" : 122,
+		"word_sum" : 930222,
+		"kudo_average" : 98.65573770491804,
+		"comment_average" : 14.598360655737705,
+		"word_average" : 7624.770491803279
+	},
+	{
+		"_id" : "Mycroft Holmes/Sherlock Holmes/John Watson",
+		"count" : 119,
+		"word_sum" : 1112869,
+		"kudo_average" : 151.21848739495798,
+		"comment_average" : 27.69747899159664,
+		"word_average" : 9351.840336134454
+	},
+	{
+		"_id" : "Sherlock Holmes/Janine",
+		"count" : 119,
+		"word_sum" : 791725,
+		"kudo_average" : 67.60504201680672,
+		"comment_average" : 24.462184873949578,
+		"word_average" : 6653.151260504202
+	},
+	{
+		"_id" : "Mycroft Holmes/Jim Moriarty",
+		"count" : 117,
+		"word_sum" : 1209854,
+		"kudo_average" : 49.73504273504273,
+		"comment_average" : 13.153846153846153,
+		"word_average" : 10340.632478632479
+	},
+	{
+		"_id" : "Ambiguous or Implied Relationship(s)",
+		"count" : 115,
+		"word_sum" : 606816,
+		"kudo_average" : 36.82608695652174,
+		"comment_average" : 17.904347826086955,
+		"word_average" : 5276.660869565218
+	},
+	{
+		"_id" : "Molly Hooper/Khan Noonien Singh",
+		"count" : 110,
+		"word_sum" : 851426,
+		"kudo_average" : 82.24545454545455,
+		"comment_average" : 14.918181818181818,
+		"word_average" : 7740.236363636363
+	},
+	{
+		"_id" : "Harry Watson & John Watson",
+		"count" : 103,
+		"word_sum" : 1115411,
+		"kudo_average" : 98.22330097087378,
+		"comment_average" : 32.16504854368932,
+		"word_average" : 10829.233009708738
+	},
+	{
+		"_id" : "Richard Brook/Severin Moran",
+		"count" : 103,
+		"word_sum" : 594224,
+		"kudo_average" : 25.864077669902912,
+		"comment_average" : 6.631067961165049,
+		"word_average" : 5769.165048543689
+	},
+	{
+		"_id" : "Jamie Moriarty | Irene Adler/Joan Watson",
+		"count" : 102,
+		"word_sum" : 428711,
+		"kudo_average" : 149.37254901960785,
+		"comment_average" : 13.401960784313726,
+		"word_average" : 4203.049019607844
+	},
+	{
+		"_id" : "Amy Pond/Rory Williams",
+		"count" : 102,
+		"word_sum" : 882483,
+		"kudo_average" : 38.92156862745098,
+		"comment_average" : 7.578431372549019,
+		"word_average" : 8651.79411764706
+	},
+	{
+		"_id" : "Sherlock Holmes & Original Female Character",
+		"count" : 101,
+		"word_sum" : 1570162,
+		"kudo_average" : 26.643564356435643,
+		"comment_average" : 6.801980198019802,
+		"word_average" : 15546.158415841584
+	}
+]

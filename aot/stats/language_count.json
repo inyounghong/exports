@@ -1,0 +1,58 @@
+[
+	{
+		"_id" : "English",
+		"count" : 30259,
+		"word_sum" : 237002904,
+		"kudo_average" : 108.42592286592419,
+		"comment_average" : 19.78994679268978,
+		"word_average" : 7832.476420238607
+	},
+	{
+		"_id" : "Español",
+		"count" : 358,
+		"word_sum" : 2377266,
+		"kudo_average" : 6.790502793296089,
+		"comment_average" : 1.7262569832402235,
+		"word_average" : 6640.407821229051
+	},
+	{
+		"_id" : "Русский",
+		"count" : 302,
+		"word_sum" : 1164317,
+		"kudo_average" : 8.794701986754967,
+		"comment_average" : 0.2251655629139073,
+		"word_average" : 3855.3543046357618
+	},
+	{
+		"_id" : "Bahasa Indonesia",
+		"count" : 252,
+		"word_sum" : 754652,
+		"kudo_average" : 6.968253968253968,
+		"comment_average" : 1.7738095238095237,
+		"word_average" : 2994.6507936507937
+	},
+	{
+		"_id" : "中文",
+		"count" : 234,
+		"word_sum" : 197961,
+		"kudo_average" : 7.8760683760683765,
+		"comment_average" : 1.794871794871795,
+		"word_average" : 845.9871794871794
+	},
+	{
+		"_id" : "Français",
+		"count" : 183,
+		"word_sum" : 1701701,
+		"kudo_average" : 4.5136612021857925,
+		"comment_average" : 3.2076502732240435,
+		"word_average" : 9298.91256830601
+	},
+	{
+		"_id" : "Italiano",
+		"count" : 155,
+		"word_sum" : 749506,
+		"kudo_average" : 4.670967741935484,
+		"comment_average" : 1.0129032258064516,
+		"word_average" : 4835.522580645162
+	}
+]

@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Sherlock (TV)",
+		"year" : 2013,
+		"count" : 18324
+	},
+	{
+		"_id" : "Sherlock Holmes & Related Fandoms",
+		"year" : 2013,
+		"count" : 5543
+	},
+	{
+		"_id" : "Sherlock Holmes - Arthur Conan Doyle",
+		"year" : 2013,
+		"count" : 655
+	},
+	{
+		"_id" : "Elementary (TV)",
+		"year" : 2013,
+		"count" : 557
+	},
+	{
+		"_id" : "Sherlock - Fandom",
+		"year" : 2013,
+		"count" : 379
+	},
+	{
+		"_id" : "Doctor Who",
+		"year" : 2013,
+		"count" : 342
+	},
+	{
+		"_id" : "Supernatural",
+		"year" : 2013,
+		"count" : 270
+	},
+	{
+		"_id" : "Harry Potter - J. K. Rowling",
+		"year" : 2013,
+		"count" : 212
+	},
+	{
+		"_id" : "Sherlock Holmes (Downey films)",
+		"year" : 2013,
+		"count" : 206
+	},
+	{
+		"_id" : "Skyfall (2012) - Fandom",
+		"year" : 2013,
+		"count" : 173
+	},
+	{
+		"_id" : "Doctor Who (2005)",
+		"year" : 2013,
+		"count" : 161
+	},
+	{
+		"_id" : "James Bond (Craig movies)",
+		"year" : 2013,
+		"count" : 123
+	},
+	{
+		"_id" : "BBC Sherlock",
+		"year" : 2013,
+		"count" : 120
+	},
+	{
+		"_id" : "Cabin Pressure",
+		"year" : 2013,
+		"count" : 108
+	},
+	{
+		"_id" : "Sherlock Holmes (1984 TV)",
+		"year" : 2013,
+		"count" : 93
+	},
+	{
+		"_id" : "The Avengers (2012)",
+		"year" : 2013,
+		"count" : 92
+	},
+	{
+		"_id" : "Star Trek: Alternate Original Series (Movies)",
+		"year" : 2013,
+		"count" : 90
+	},
+	{
+		"_id" : "Merlin (TV)",
+		"year" : 2013,
+		"count" : 70
+	},
+	{
+		"_id" : "Torchwood",
+		"year" : 2013,
+		"count" : 65
+	},
+	{
+		"_id" : "James Bond (Movies)",
+		"year" : 2013,
+		"count" : 64
+	},
+	{
+		"_id" : "Sherlock BBC",
+		"year" : 2013,
+		"count" : 56
+	},
+	{
+		"_id" : "johnlock - Fandom",
+		"year" : 2013,
+		"count" : 54
+	},
+	{
+		"_id" : "Sherlock Holmes - fandom",
+		"year" : 2013,
+		"count" : 52
+	},
+	{
+		"_id" : "Star Trek",
+		"year" : 2013,
+		"count" : 50
+	},
+	{
+		"_id" : "Doctor Who & Related Fandoms",
+		"year" : 2013,
+		"count" : 46
+	},
+	{
+		"_id" : "The Hobbit - All Media Types",
+		"year" : 2013,
+		"count" : 44
+	},
+	{
+		"_id" : "The Hobbit (2012)",
+		"year" : 2013,
+		"count" : 39
+	},
+	{
+		"_id" : "Sherlock Holmes: A Game of Shadows (2010)",
+		"year" : 2013,
+		"count" : 36
+	},
+	{
+		"_id" : "The Avengers (Marvel Movies)",
+		"year" : 2013,
+		"count" : 35
+	},
+	{
+		"_id" : "The Hobbit - J. R. R. Tolkien",
+		"year" : 2013,
+		"count" : 35
+	},
+	{
+		"_id" : "Hannibal (TV)",
+		"year" : 2013,
+		"count" : 32
+	},
+	{
+		"_id" : "James Bond - All Media Types",
+		"year" : 2013,
+		"count" : 29
+	},
+	{
+		"_id" : "Thor (Movies)",
+		"year" : 2013,
+		"count" : 28
+	},
+	{
+		"_id" : "Benedict Cumberbatch - Fandom",
+		"year" : 2013,
+		"count" : 28
+	},
+	{
+		"_id" : "Labyrinth (1986)",
+		"year" : 2013,
+		"count" : 26
+	},
+	{
+		"_id" : "Buffy the Vampire Slayer",
+		"year" : 2013,
+		"count" : 25
+	},
+	{
+		"_id" : "Sherlock Holmes in the 22nd Century",
+		"year" : 2013,
+		"count" : 24
+	},
+	{
+		"_id" : "Superwholock - Fandom",
+		"year" : 2013,
+		"count" : 24
+	},
+	{
+		"_id" : "The Hobbit (Jackson Movies)",
+		"year" : 2013,
+		"count" : 22
+	},
+	{
+		"_id" : "Teen Wolf (TV)",
+		"year" : 2013,
+		"count" : 21
+	},
+	{
+		"_id" : "Sherlock (TV) RPF",
+		"year" : 2013,
+		"count" : 18
+	},
+	{
+		"_id" : "Iron Man (Movies)",
+		"year" : 2013,
+		"count" : 18
+	},
+	{
+		"_id" : "Pacific Rim (2013)",
+		"year" : 2013,
+		"count" : 17
+	},
+	{
+		"_id" : "His Dark Materials - Philip Pullman",
+		"year" : 2013,
+		"count" : 16
+	},
+	{
+		"_id" : "Sherlock (BBC)",
+		"year" : 2013,
+		"count" : 16
+	},
+	{
+		"_id" : "Marvel Cinematic Universe",
+		"year" : 2013,
+		"count" : 15
+	},
+	{
+		"_id" : "British Actor RPF",
+		"year" : 2013,
+		"count" : 15
+	},
+	{
+		"_id" : "Harry Potter - Fandom",
+		"year" : 2013,
+		"count" : 15
+	},
+	{
+		"_id" : "A Study in Emerald - Neil Gaiman",
+		"year" : 2013,
+		"count" : 14
+	},
+	{
+		"_id" : "Hunger Games Trilogy - Suzanne Collins",
+		"year" : 2013,
+		"count" : 14
+	},
+	{
+		"_id" : "Hitchhiker's Guide to the Galaxy - Douglas Adams",
+		"year" : 2013,
+		"count" : 13
+	},
+	{
+		"_id" : "House M.D.",
+		"year" : 2013,
+		"count" : 13
+	},
+	{
+		"_id" : "wholock - Fandom",
+		"year" : 2013,
+		"count" : 13
+	},
+	{
+		"_id" : "Good Omens - Neil Gaiman & Terry Pratchett",
+		"year" : 2013,
+		"count" : 13
+	},
+	{
+		"_id" : "Elementary",
+		"year" : 2013,
+		"count" : 13
+	},
+	{
+		"_id" : "Homestuck",
+		"year" : 2013,
+		"count" : 12
+	},
+	{
+		"_id" : "Welcome to Night Vale",
+		"year" : 2013,
+		"count" : 12
+	},
+	{
+		"_id" : "Inception (2010)",
+		"year" : 2013,
+		"count" : 12
+	},
+	{
+		"_id" : "Angel: the Series",
+		"year" : 2013,
+		"count" : 12
+	},
+	{
+		"_id" : "Sherlock TV",
+		"year" : 2013,
+		"count" : 12
+	},
+	{
+		"_id" : "Hitchhiker's Guide to the Galaxy (2005)",
+		"year" : 2013,
+		"count" : 11
+	},
+	{
+		"_id" : "X-Men: First Class (2011) - Fandom",
+		"year" : 2013,
+		"count" : 10
+	},
+	{
+		"_id" : "The Great Mouse Detective (1986)",
+		"year" : 2013,
+		"count" : 10
+	},
+	{
+		"_id" : "Criminal Minds",
+		"year" : 2013,
+		"count" : 10
+	},
+	{
+		"_id" : "Superlock - Fandom",
+		"year" : 2013,
+		"count" : 10
+	},
+	{
+		"_id" : "Slender Man Mythos",
+		"year" : 2013,
+		"count" : 9
+	},
+	{
+		"_id" : "Hawaii Five-0 (2010)",
+		"year" : 2013,
+		"count" : 9
+	},
+	{
+		"_id" : "Hetalia: Axis Powers",
+		"year" : 2013,
+		"count" : 9
+	},
+	{
+		"_id" : "Original Work",
+		"year" : 2013,
+		"count" : 9
+	},
+	{
+		"_id" : "St Trinian's (2007 2009)",
+		"year" : 2013,
+		"count" : 9
+	},
+	{
+		"_id" : "bbc - Fandom",
+		"year" : 2013,
+		"count" : 9
+	},
+	{
+		"_id" : "Game of Thrones (TV)",
+		"year" : 2013,
+		"count" : 9
+	},
+	{
+		"_id" : "Firefly",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "Hitchhiker's Guide to the Galaxy",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "Marvel",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "The Avengers (Marvel) - All Media Types",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "Tinker Tailor Soldier Spy (2011)",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "Rise of the Guardians (2012)",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "Stargate Atlantis",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "NCIS",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "crossover - Fandom",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "Glee",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Strike Back",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Star Wars - All Media Types",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "White Collar",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Wild Target (2010)",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Star Trek Into Darkness - Fandom",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Greek and Roman Mythology",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Adventures of Sherlock Holmes and Dr. Watson (TV Russia)",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Mary Russell - Laurie R. King",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Black Books",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Basil of Baker Street - All Media Types",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Being Human (UK)",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "The Lord of the Rings - All Media Types",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Spooks | MI-5",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "A Song of Ice and Fire - George R. R. Martin",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "The Big Bang Theory (TV)",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Avengers",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "MorMor - Fandom",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Stargate SG-1",
+		"year" : 2013,
+		"count" : 6
+	}
+]

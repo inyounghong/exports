@@ -1,0 +1,58 @@
+[
+	{
+		"_id" : "M/M",
+		"count" : 58281,
+		"word_sum" : 379172398,
+		"kudo_average" : 134.58163037696676,
+		"comment_average" : 24.34470925344452,
+		"word_average" : 6505.935004546936
+	},
+	{
+		"_id" : "Gen",
+		"count" : 24285,
+		"word_sum" : 98214118,
+		"kudo_average" : 57.0024294832201,
+		"comment_average" : 10.644183652460367,
+		"word_average" : 4044.2296891085034
+	},
+	{
+		"_id" : "F/M",
+		"count" : 15655,
+		"word_sum" : 130557429,
+		"kudo_average" : 81.62823379112105,
+		"comment_average" : 18.23909294155222,
+		"word_average" : 8339.663302459277
+	},
+	{
+		"_id" : "No category",
+		"count" : 5524,
+		"word_sum" : 18097337,
+		"kudo_average" : 38.20112237509051,
+		"comment_average" : 7.312454742939899,
+		"word_average" : 3276.1290731354093
+	},
+	{
+		"_id" : "Multi",
+		"count" : 2890,
+		"word_sum" : 33821910,
+		"kudo_average" : 92.95467128027681,
+		"comment_average" : 27.111764705882354,
+		"word_average" : 11703.083044982699
+	},
+	{
+		"_id" : "F/F",
+		"count" : 2420,
+		"word_sum" : 20742602,
+		"kudo_average" : 71.37231404958678,
+		"comment_average" : 17.922727272727272,
+		"word_average" : 8571.323140495868
+	},
+	{
+		"_id" : "Other",
+		"count" : 1888,
+		"word_sum" : 13450512,
+		"kudo_average" : 68.45815677966101,
+		"comment_average" : 16.500529661016948,
+		"word_average" : 7124.21186440678
+	}
+]

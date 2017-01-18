@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Sherlock Holmes",
+		"year" : 2015,
+		"count" : 12493
+	},
+	{
+		"_id" : "John Watson",
+		"year" : 2015,
+		"count" : 10546
+	},
+	{
+		"_id" : "Mycroft Holmes",
+		"year" : 2015,
+		"count" : 4490
+	},
+	{
+		"_id" : "Greg Lestrade",
+		"year" : 2015,
+		"count" : 3787
+	},
+	{
+		"_id" : "Molly Hooper",
+		"year" : 2015,
+		"count" : 3039
+	},
+	{
+		"_id" : "Jim Moriarty",
+		"year" : 2015,
+		"count" : 1610
+	},
+	{
+		"_id" : "Mrs. Hudson",
+		"year" : 2015,
+		"count" : 1415
+	},
+	{
+		"_id" : "Mary Morstan",
+		"year" : 2015,
+		"count" : 1407
+	},
+	{
+		"_id" : "Sebastian Moran",
+		"year" : 2015,
+		"count" : 972
+	},
+	{
+		"_id" : "Sally Donovan",
+		"year" : 2015,
+		"count" : 866
+	},
+	{
+		"_id" : "Irene Adler",
+		"year" : 2015,
+		"count" : 654
+	},
+	{
+		"_id" : "Anthea (Sherlock)",
+		"year" : 2015,
+		"count" : 574
+	},
+	{
+		"_id" : "Original Female Character(s)",
+		"year" : 2015,
+		"count" : 414
+	},
+	{
+		"_id" : "Mike Stamford",
+		"year" : 2015,
+		"count" : 393
+	},
+	{
+		"_id" : "Philip Anderson",
+		"year" : 2015,
+		"count" : 391
+	},
+	{
+		"_id" : "James Moriarty",
+		"year" : 2015,
+		"count" : 363
+	},
+	{
+		"_id" : "Harry Watson",
+		"year" : 2015,
+		"count" : 362
+	},
+	{
+		"_id" : "Original Male Character(s)",
+		"year" : 2015,
+		"count" : 336
+	},
+	{
+		"_id" : "Mummy (Sherlock)",
+		"year" : 2015,
+		"count" : 318
+	},
+	{
+		"_id" : "Victor Trevor",
+		"year" : 2015,
+		"count" : 236
+	},
+	{
+		"_id" : "Original Characters",
+		"year" : 2015,
+		"count" : 228
+	},
+	{
+		"_id" : "Mrs Hudson",
+		"year" : 2015,
+		"count" : 226
+	},
+	{
+		"_id" : "Joan Watson",
+		"year" : 2015,
+		"count" : 215
+	},
+	{
+		"_id" : "Sherlock Holmes' Father",
+		"year" : 2015,
+		"count" : 185
+	},
+	{
+		"_id" : "Lestrade (Sherlock Holmes)",
+		"year" : 2015,
+		"count" : 169
+	},
+	{
+		"_id" : "Joan Watson (Elementary)",
+		"year" : 2015,
+		"count" : 158
+	},
+	{
+		"_id" : "Dean Winchester",
+		"year" : 2015,
+		"count" : 156
+	},
+	{
+		"_id" : "Janine (Sherlock)",
+		"year" : 2015,
+		"count" : 131
+	},
+	{
+		"_id" : "Sarah Sawyer",
+		"year" : 2015,
+		"count" : 124
+	},
+	{
+		"_id" : "Reader",
+		"year" : 2015,
+		"count" : 124
+	},
+	{
+		"_id" : "Sam Winchester",
+		"year" : 2015,
+		"count" : 122
+	},
+	{
+		"_id" : "Charles Augustus Magnussen",
+		"year" : 2015,
+		"count" : 120
+	},
+	{
+		"_id" : "Anderson",
+		"year" : 2015,
+		"count" : 113
+	},
+	{
+		"_id" : "Sherlock Holmes' Mother",
+		"year" : 2015,
+		"count" : 108
+	},
+	{
+		"_id" : "James Bond",
+		"year" : 2015,
+		"count" : 94
+	},
+	{
+		"_id" : "Castiel",
+		"year" : 2015,
+		"count" : 87
+	},
+	{
+		"_id" : "James Sholto (Sherlock)",
+		"year" : 2015,
+		"count" : 83
+	},
+	{
+		"_id" : "Q (Bond - Craig movies)",
+		"year" : 2015,
+		"count" : 81
+	},
+	{
+		"_id" : "Mary Watson",
+		"year" : 2015,
+		"count" : 81
+	},
+	{
+		"_id" : "Sherlock",
+		"year" : 2015,
+		"count" : 80
+	},
+	{
+		"_id" : "Jamie Moriarty | Irene Adler",
+		"year" : 2015,
+		"count" : 69
+	},
+	{
+		"_id" : "Dimmock (Inspector)",
+		"year" : 2015,
+		"count" : 69
+	},
+	{
+		"_id" : "Hamish Watson-Holmes",
+		"year" : 2015,
+		"count" : 68
+	},
+	{
+		"_id" : "Tony Stark",
+		"year" : 2015,
+		"count" : 68
+	},
+	{
+		"_id" : "Bill Wiggins",
+		"year" : 2015,
+		"count" : 66
+	},
+	{
+		"_id" : "Marcus Bell",
+		"year" : 2015,
+		"count" : 64
+	},
+	{
+		"_id" : "Sebastian Wilkes",
+		"year" : 2015,
+		"count" : 64
+	},
+	{
+		"_id" : "Moriarty",
+		"year" : 2015,
+		"count" : 63
+	},
+	{
+		"_id" : "Toby the Cat (Sherlock)",
+		"year" : 2015,
+		"count" : 62
+	},
+	{
+		"_id" : "Sherrinford Holmes",
+		"year" : 2015,
+		"count" : 62
+	},
+	{
+		"_id" : "Mycroft Holmes's Umbrella",
+		"year" : 2015,
+		"count" : 61
+	},
+	{
+		"_id" : "Richard Brook",
+		"year" : 2015,
+		"count" : 60
+	},
+	{
+		"_id" : "OC - Character",
+		"year" : 2015,
+		"count" : 58
+	},
+	{
+		"_id" : "Anthea",
+		"year" : 2015,
+		"count" : 58
+	},
+	{
+		"_id" : "Redbeard (Sherlock)",
+		"year" : 2015,
+		"count" : 56
+	},
+	{
+		"_id" : "John Watson's Mother",
+		"year" : 2015,
+		"count" : 55
+	},
+	{
+		"_id" : "Anderson (Sherlock)",
+		"year" : 2015,
+		"count" : 55
+	},
+	{
+		"_id" : "Eleventh Doctor",
+		"year" : 2015,
+		"count" : 54
+	},
+	{
+		"_id" : "Harry Potter",
+		"year" : 2015,
+		"count" : 54
+	},
+	{
+		"_id" : "John Watson's Parents",
+		"year" : 2015,
+		"count" : 52
+	},
+	{
+		"_id" : "Original Morstan-Watson Child(ren)",
+		"year" : 2015,
+		"count" : 52
+	},
+	{
+		"_id" : "James T. Kirk",
+		"year" : 2015,
+		"count" : 49
+	},
+	{
+		"_id" : "Baby Watson - Character",
+		"year" : 2015,
+		"count" : 49
+	},
+	{
+		"_id" : "Angelo (Sherlock)",
+		"year" : 2015,
+		"count" : 48
+	},
+	{
+		"_id" : "Irene Adler (Sherlock Holmes)",
+		"year" : 2015,
+		"count" : 47
+	},
+	{
+		"_id" : "Clara (Sherlock)",
+		"year" : 2015,
+		"count" : 47
+	},
+	{
+		"_id" : "Tom (Sherlock)",
+		"year" : 2015,
+		"count" : 47
+	},
+	{
+		"_id" : "Steve Rogers",
+		"year" : 2015,
+		"count" : 47
+	},
+	{
+		"_id" : "Bill Murray (Sherlock)",
+		"year" : 2015,
+		"count" : 46
+	},
+	{
+		"_id" : "Benedict Cumberbatch",
+		"year" : 2015,
+		"count" : 45
+	},
+	{
+		"_id" : "The Doctor (Doctor Who)",
+		"year" : 2015,
+		"count" : 45
+	},
+	{
+		"_id" : "John Watson's Father",
+		"year" : 2015,
+		"count" : 44
+	},
+	{
+		"_id" : "Khan Noonien Singh | John Harrison",
+		"year" : 2015,
+		"count" : 43
+	},
+	{
+		"_id" : "Jack Harkness",
+		"year" : 2015,
+		"count" : 42
+	},
+	{
+		"_id" : "Tenth Doctor",
+		"year" : 2015,
+		"count" : 42
+	},
+	{
+		"_id" : "Castiel (Supernatural)",
+		"year" : 2015,
+		"count" : 42
+	},
+	{
+		"_id" : "John",
+		"year" : 2015,
+		"count" : 41
+	},
+	{
+		"_id" : "Original Character",
+		"year" : 2015,
+		"count" : 41
+	},
+	{
+		"_id" : "Natasha Romanov",
+		"year" : 2015,
+		"count" : 40
+	},
+	{
+		"_id" : "Original Holmes Character(s)",
+		"year" : 2015,
+		"count" : 40
+	},
+	{
+		"_id" : "Clint Barton",
+		"year" : 2015,
+		"count" : 40
+	},
+	{
+		"_id" : "Hermione Granger",
+		"year" : 2015,
+		"count" : 40
+	},
+	{
+		"_id" : "Loki (Marvel)",
+		"year" : 2015,
+		"count" : 39
+	},
+	{
+		"_id" : "Kate (Sherlock)",
+		"year" : 2015,
+		"count" : 38
+	},
+	{
+		"_id" : "Leonard McCoy",
+		"year" : 2015,
+		"count" : 38
+	},
+	{
+		"_id" : "Spock",
+		"year" : 2015,
+		"count" : 38
+	},
+	{
+		"_id" : "Mrs. Holmes",
+		"year" : 2015,
+		"count" : 37
+	},
+	{
+		"_id" : "Gabriel (Supernatural)",
+		"year" : 2015,
+		"count" : 36
+	},
+	{
+		"_id" : "OFC",
+		"year" : 2015,
+		"count" : 36
+	},
+	{
+		"_id" : "Bilbo Baggins",
+		"year" : 2015,
+		"count" : 34
+	},
+	{
+		"_id" : "Rose Tyler",
+		"year" : 2015,
+		"count" : 33
+	},
+	{
+		"_id" : "Sherlock Holmes' Family",
+		"year" : 2015,
+		"count" : 33
+	},
+	{
+		"_id" : "Severin Moran",
+		"year" : 2015,
+		"count" : 31
+	},
+	{
+		"_id" : "Amy Pond",
+		"year" : 2015,
+		"count" : 31
+	},
+	{
+		"_id" : "Henry Knight",
+		"year" : 2015,
+		"count" : 30
+	},
+	{
+		"_id" : "Mummy Holmes",
+		"year" : 2015,
+		"count" : 30
+	},
+	{
+		"_id" : "Kitty Winter",
+		"year" : 2015,
+		"count" : 29
+	},
+	{
+		"_id" : "Q (James Bond)",
+		"year" : 2015,
+		"count" : 29
+	},
+	{
+		"_id" : "Mycroft Holmes (mentioned)",
+		"year" : 2015,
+		"count" : 29
+	},
+	{
+		"_id" : "Bruce Banner",
+		"year" : 2015,
+		"count" : 29
+	}
+]

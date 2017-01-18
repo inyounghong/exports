@@ -1,0 +1,42 @@
+[
+	{
+		"_id" : 0,
+		"count" : 29600,
+		"word_sum" : 62200137,
+		"kudo_average" : 57.887972972972975,
+		"comment_average" : 7.312162162162162,
+		"word_average" : 2101.35597972973
+	},
+	{
+		"_id" : 1,
+		"count" : 28660,
+		"word_sum" : 143384902,
+		"kudo_average" : 87.31880669923238,
+		"comment_average" : 13.3142358688067,
+		"word_average" : 5002.962386601535
+	},
+	{
+		"_id" : 3,
+		"count" : 15576,
+		"word_sum" : 179695419,
+		"kudo_average" : 229.96616589625063,
+		"comment_average" : 47.08789162814587,
+		"word_average" : 11536.685862865948
+	},
+	{
+		"_id" : 2,
+		"count" : 13874,
+		"word_sum" : 129327009,
+		"kudo_average" : 123.23403488539715,
+		"comment_average" : 28.57070779876027,
+		"word_average" : 9321.537336024217
+	},
+	{
+		"_id" : 4,
+		"count" : 8981,
+		"word_sum" : 35593535,
+		"kudo_average" : 47.833314775637454,
+		"comment_average" : 8.68377686226478,
+		"word_average" : 3963.2039861930743
+	}
+]

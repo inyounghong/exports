@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Sherlock (TV)",
+		"year" : 2016,
+		"count" : 12968
+	},
+	{
+		"_id" : "Sherlock Holmes & Related Fandoms",
+		"year" : 2016,
+		"count" : 3067
+	},
+	{
+		"_id" : "Sherlock Holmes - Arthur Conan Doyle",
+		"year" : 2016,
+		"count" : 686
+	},
+	{
+		"_id" : "Sherlock - Fandom",
+		"year" : 2016,
+		"count" : 274
+	},
+	{
+		"_id" : "Elementary (TV)",
+		"year" : 2016,
+		"count" : 268
+	},
+	{
+		"_id" : "Harry Potter - J. K. Rowling",
+		"year" : 2016,
+		"count" : 263
+	},
+	{
+		"_id" : "Doctor Who",
+		"year" : 2016,
+		"count" : 226
+	},
+	{
+		"_id" : "Supernatural",
+		"year" : 2016,
+		"count" : 218
+	},
+	{
+		"_id" : "Doctor Who (2005)",
+		"year" : 2016,
+		"count" : 142
+	},
+	{
+		"_id" : "Sherlock Holmes (Downey films)",
+		"year" : 2016,
+		"count" : 138
+	},
+	{
+		"_id" : "Star Trek: Alternate Original Series (Movies)",
+		"year" : 2016,
+		"count" : 110
+	},
+	{
+		"_id" : "James Bond (Craig movies)",
+		"year" : 2016,
+		"count" : 109
+	},
+	{
+		"_id" : "Marvel Cinematic Universe",
+		"year" : 2016,
+		"count" : 99
+	},
+	{
+		"_id" : "The Avengers (Marvel Movies)",
+		"year" : 2016,
+		"count" : 92
+	},
+	{
+		"_id" : "BBC Sherlock",
+		"year" : 2016,
+		"count" : 90
+	},
+	{
+		"_id" : "Merlin (TV)",
+		"year" : 2016,
+		"count" : 65
+	},
+	{
+		"_id" : "Sherlock (TV) RPF",
+		"year" : 2016,
+		"count" : 61
+	},
+	{
+		"_id" : "Doctor Who & Related Fandoms",
+		"year" : 2016,
+		"count" : 59
+	},
+	{
+		"_id" : "Captain America (Movies)",
+		"year" : 2016,
+		"count" : 44
+	},
+	{
+		"_id" : "Sherlock BBC",
+		"year" : 2016,
+		"count" : 44
+	},
+	{
+		"_id" : "Torchwood",
+		"year" : 2016,
+		"count" : 43
+	},
+	{
+		"_id" : "The Hobbit - All Media Types",
+		"year" : 2016,
+		"count" : 38
+	},
+	{
+		"_id" : "johnlock - Fandom",
+		"year" : 2016,
+		"count" : 38
+	},
+	{
+		"_id" : "Sherlock Holmes (1984 TV)",
+		"year" : 2016,
+		"count" : 37
+	},
+	{
+		"_id" : "The Avengers (Marvel) - All Media Types",
+		"year" : 2016,
+		"count" : 37
+	},
+	{
+		"_id" : "Star Trek",
+		"year" : 2016,
+		"count" : 36
+	},
+	{
+		"_id" : "Hannibal (TV)",
+		"year" : 2016,
+		"count" : 35
+	},
+	{
+		"_id" : "Skyfall (2012) - Fandom",
+		"year" : 2016,
+		"count" : 35
+	},
+	{
+		"_id" : "Teen Wolf (TV)",
+		"year" : 2016,
+		"count" : 33
+	},
+	{
+		"_id" : "Buffy the Vampire Slayer",
+		"year" : 2016,
+		"count" : 32
+	},
+	{
+		"_id" : "Doctor Strange (2016)",
+		"year" : 2016,
+		"count" : 30
+	},
+	{
+		"_id" : "The Hobbit (Jackson Movies)",
+		"year" : 2016,
+		"count" : 29
+	},
+	{
+		"_id" : "Criminal Minds",
+		"year" : 2016,
+		"count" : 29
+	},
+	{
+		"_id" : "Thor (Movies)",
+		"year" : 2016,
+		"count" : 28
+	},
+	{
+		"_id" : "Sherlock Holmes - fandom",
+		"year" : 2016,
+		"count" : 28
+	},
+	{
+		"_id" : "James Bond (Movies)",
+		"year" : 2016,
+		"count" : 27
+	},
+	{
+		"_id" : "Star Wars - All Media Types",
+		"year" : 2016,
+		"count" : 26
+	},
+	{
+		"_id" : "NCIS",
+		"year" : 2016,
+		"count" : 23
+	},
+	{
+		"_id" : "Marvel",
+		"year" : 2016,
+		"count" : 23
+	},
+	{
+		"_id" : "Kingsman: The Secret Service (2015)",
+		"year" : 2016,
+		"count" : 22
+	},
+	{
+		"_id" : "The Lord of the Rings - All Media Types",
+		"year" : 2016,
+		"count" : 22
+	},
+	{
+		"_id" : "Once Upon a Time (TV)",
+		"year" : 2016,
+		"count" : 22
+	},
+	{
+		"_id" : "Agents of S.H.I.E.L.D. (TV)",
+		"year" : 2016,
+		"count" : 21
+	},
+	{
+		"_id" : "British Actor RPF",
+		"year" : 2016,
+		"count" : 20
+	},
+	{
+		"_id" : "Cabin Pressure",
+		"year" : 2016,
+		"count" : 20
+	},
+	{
+		"_id" : "London Spy",
+		"year" : 2016,
+		"count" : 18
+	},
+	{
+		"_id" : "The Flash (TV 2014)",
+		"year" : 2016,
+		"count" : 17
+	},
+	{
+		"_id" : "James Bond - All Media Types",
+		"year" : 2016,
+		"count" : 17
+	},
+	{
+		"_id" : "Iron Man (Movies)",
+		"year" : 2016,
+		"count" : 16
+	},
+	{
+		"_id" : "X-Men (Movieverse)",
+		"year" : 2016,
+		"count" : 15
+	},
+	{
+		"_id" : "Real Person Fiction",
+		"year" : 2016,
+		"count" : 15
+	},
+	{
+		"_id" : "Glee",
+		"year" : 2016,
+		"count" : 15
+	},
+	{
+		"_id" : "The Great Mouse Detective (1986)",
+		"year" : 2016,
+		"count" : 15
+	},
+	{
+		"_id" : "Original Work",
+		"year" : 2016,
+		"count" : 15
+	},
+	{
+		"_id" : "Hunger Games Series - All Media Types",
+		"year" : 2016,
+		"count" : 14
+	},
+	{
+		"_id" : "Star Trek: The Original Series",
+		"year" : 2016,
+		"count" : 14
+	},
+	{
+		"_id" : "Harry Potter - Fandom",
+		"year" : 2016,
+		"count" : 14
+	},
+	{
+		"_id" : "The Lord of the Rings (Movies)",
+		"year" : 2016,
+		"count" : 14
+	},
+	{
+		"_id" : "Sherlock Holmes (BBC Radio)",
+		"year" : 2016,
+		"count" : 14
+	},
+	{
+		"_id" : "Firefly",
+		"year" : 2016,
+		"count" : 13
+	},
+	{
+		"_id" : "Stargate Atlantis",
+		"year" : 2016,
+		"count" : 13
+	},
+	{
+		"_id" : "Pirates of the Caribbean (Movies)",
+		"year" : 2016,
+		"count" : 12
+	},
+	{
+		"_id" : "Шерлок Холмс | Sherlock Holmes (TV 2013)",
+		"year" : 2016,
+		"count" : 12
+	},
+	{
+		"_id" : "Inception (2010)",
+		"year" : 2016,
+		"count" : 12
+	},
+	{
+		"_id" : "SPECTRE (2015)",
+		"year" : 2016,
+		"count" : 12
+	},
+	{
+		"_id" : "Daredevil (TV)",
+		"year" : 2016,
+		"count" : 12
+	},
+	{
+		"_id" : "Sherlock (BBC)",
+		"year" : 2016,
+		"count" : 12
+	},
+	{
+		"_id" : "Leverage",
+		"year" : 2016,
+		"count" : 12
+	},
+	{
+		"_id" : "The Walking Dead (TV)",
+		"year" : 2016,
+		"count" : 12
+	},
+	{
+		"_id" : "Benedict Cumberbatch - Fandom",
+		"year" : 2016,
+		"count" : 12
+	},
+	{
+		"_id" : "White Collar",
+		"year" : 2016,
+		"count" : 11
+	},
+	{
+		"_id" : "Game of Thrones (TV)",
+		"year" : 2016,
+		"count" : 11
+	},
+	{
+		"_id" : "Actor RPF",
+		"year" : 2016,
+		"count" : 11
+	},
+	{
+		"_id" : "Superwholock - Fandom",
+		"year" : 2016,
+		"count" : 11
+	},
+	{
+		"_id" : "Shingeki no Kyojin | Attack on Titan",
+		"year" : 2016,
+		"count" : 11
+	},
+	{
+		"_id" : "Gravity Falls",
+		"year" : 2016,
+		"count" : 10
+	},
+	{
+		"_id" : "Basil of Baker Street - All Media Types",
+		"year" : 2016,
+		"count" : 10
+	},
+	{
+		"_id" : "Batman - All Media Types",
+		"year" : 2016,
+		"count" : 10
+	},
+	{
+		"_id" : "Hetalia: Axis Powers",
+		"year" : 2016,
+		"count" : 10
+	},
+	{
+		"_id" : "Elementary",
+		"year" : 2016,
+		"count" : 10
+	},
+	{
+		"_id" : "X-Men (Movies)",
+		"year" : 2016,
+		"count" : 9
+	},
+	{
+		"_id" : "Kingsman (Movies)",
+		"year" : 2016,
+		"count" : 9
+	},
+	{
+		"_id" : "Greek and Roman Mythology",
+		"year" : 2016,
+		"count" : 9
+	},
+	{
+		"_id" : "Castle",
+		"year" : 2016,
+		"count" : 9
+	},
+	{
+		"_id" : "Death Note",
+		"year" : 2016,
+		"count" : 9
+	},
+	{
+		"_id" : "Bones (TV)",
+		"year" : 2016,
+		"count" : 9
+	},
+	{
+		"_id" : "Mystrade - Fandom",
+		"year" : 2016,
+		"count" : 9
+	},
+	{
+		"_id" : "Bleach",
+		"year" : 2016,
+		"count" : 9
+	},
+	{
+		"_id" : "Percy Jackson and the Olympians - Rick Riordan",
+		"year" : 2016,
+		"count" : 9
+	},
+	{
+		"_id" : "Sherlock Holmes (2009) RPF",
+		"year" : 2016,
+		"count" : 9
+	},
+	{
+		"_id" : "Shadowhunters (TV)",
+		"year" : 2016,
+		"count" : 8
+	},
+	{
+		"_id" : "Angel: the Series",
+		"year" : 2016,
+		"count" : 8
+	},
+	{
+		"_id" : "Spooks | MI-5",
+		"year" : 2016,
+		"count" : 8
+	},
+	{
+		"_id" : "Stargate SG-1",
+		"year" : 2016,
+		"count" : 8
+	},
+	{
+		"_id" : "One Piece",
+		"year" : 2016,
+		"count" : 8
+	},
+	{
+		"_id" : "House M.D.",
+		"year" : 2016,
+		"count" : 8
+	},
+	{
+		"_id" : "My Chemical Romance",
+		"year" : 2016,
+		"count" : 8
+	},
+	{
+		"_id" : "Naruto",
+		"year" : 2016,
+		"count" : 8
+	},
+	{
+		"_id" : "Star Wars Episode VII: The Force Awakens (2015)",
+		"year" : 2016,
+		"count" : 8
+	},
+	{
+		"_id" : "Adventures of Sherlock Holmes and Dr. Watson (TV Russia)",
+		"year" : 2016,
+		"count" : 8
+	}
+]

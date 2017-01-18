@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Fluff",
+		"year" : 2016,
+		"count" : 2088
+	},
+	{
+		"_id" : "Angst",
+		"year" : 2016,
+		"count" : 1539
+	},
+	{
+		"_id" : "Johnlock - Freeform",
+		"year" : 2016,
+		"count" : 887
+	},
+	{
+		"_id" : "Hurt/Comfort",
+		"year" : 2016,
+		"count" : 719
+	},
+	{
+		"_id" : "Romance",
+		"year" : 2016,
+		"count" : 712
+	},
+	{
+		"_id" : "First Kiss",
+		"year" : 2016,
+		"count" : 669
+	},
+	{
+		"_id" : "Established Relationship",
+		"year" : 2016,
+		"count" : 545
+	},
+	{
+		"_id" : "Anal Sex",
+		"year" : 2016,
+		"count" : 533
+	},
+	{
+		"_id" : "Humor",
+		"year" : 2016,
+		"count" : 532
+	},
+	{
+		"_id" : "First Time",
+		"year" : 2016,
+		"count" : 509
+	},
+	{
+		"_id" : "Alternate Universe",
+		"year" : 2016,
+		"count" : 482
+	},
+	{
+		"_id" : "Sherlolly - Freeform",
+		"year" : 2016,
+		"count" : 468
+	},
+	{
+		"_id" : "Smut",
+		"year" : 2016,
+		"count" : 395
+	},
+	{
+		"_id" : "Friendship",
+		"year" : 2016,
+		"count" : 376
+	},
+	{
+		"_id" : "Post-Reichenbach",
+		"year" : 2016,
+		"count" : 374
+	},
+	{
+		"_id" : "Friends to Lovers",
+		"year" : 2016,
+		"count" : 373
+	},
+	{
+		"_id" : "Fluff and Angst",
+		"year" : 2016,
+		"count" : 330
+	},
+	{
+		"_id" : "Emotional Hurt/Comfort",
+		"year" : 2016,
+		"count" : 322
+	},
+	{
+		"_id" : "Case Fic",
+		"year" : 2016,
+		"count" : 298
+	},
+	{
+		"_id" : "AU",
+		"year" : 2016,
+		"count" : 296
+	},
+	{
+		"_id" : "POV Sherlock Holmes",
+		"year" : 2016,
+		"count" : 293
+	},
+	{
+		"_id" : "Sherlock Being Sherlock",
+		"year" : 2016,
+		"count" : 292
+	},
+	{
+		"_id" : "Oral Sex",
+		"year" : 2016,
+		"count" : 291
+	},
+	{
+		"_id" : "Drug Use",
+		"year" : 2016,
+		"count" : 290
+	},
+	{
+		"_id" : "Crossover",
+		"year" : 2016,
+		"count" : 290
+	},
+	{
+		"_id" : "Angst with a Happy Ending",
+		"year" : 2016,
+		"count" : 283
+	},
+	{
+		"_id" : "Kissing",
+		"year" : 2016,
+		"count" : 281
+	},
+	{
+		"_id" : "Johnlock Fluff",
+		"year" : 2016,
+		"count" : 270
+	},
+	{
+		"_id" : "Love",
+		"year" : 2016,
+		"count" : 264
+	},
+	{
+		"_id" : "Blow Jobs",
+		"year" : 2016,
+		"count" : 250
+	},
+	{
+		"_id" : "Happy Ending",
+		"year" : 2016,
+		"count" : 247
+	},
+	{
+		"_id" : "Established Sherlock Holmes/John Watson",
+		"year" : 2016,
+		"count" : 242
+	},
+	{
+		"_id" : "Fluff and Smut",
+		"year" : 2016,
+		"count" : 241
+	},
+	{
+		"_id" : "Christmas",
+		"year" : 2016,
+		"count" : 234
+	},
+	{
+		"_id" : "Drabble",
+		"year" : 2016,
+		"count" : 234
+	},
+	{
+		"_id" : "Pining",
+		"year" : 2016,
+		"count" : 227
+	},
+	{
+		"_id" : "Teenlock",
+		"year" : 2016,
+		"count" : 226
+	},
+	{
+		"_id" : "Explicit Sexual Content",
+		"year" : 2016,
+		"count" : 220
+	},
+	{
+		"_id" : "Masturbation",
+		"year" : 2016,
+		"count" : 217
+	},
+	{
+		"_id" : "Plot What Plot/Porn Without Plot",
+		"year" : 2016,
+		"count" : 213
+	},
+	{
+		"_id" : "Crack",
+		"year" : 2016,
+		"count" : 212
+	},
+	{
+		"_id" : "Domestic Fluff",
+		"year" : 2016,
+		"count" : 210
+	},
+	{
+		"_id" : "Love Confessions",
+		"year" : 2016,
+		"count" : 206
+	},
+	{
+		"_id" : "mystrade",
+		"year" : 2016,
+		"count" : 205
+	},
+	{
+		"_id" : "POV John Watson",
+		"year" : 2016,
+		"count" : 203
+	},
+	{
+		"_id" : "Slow Burn",
+		"year" : 2016,
+		"count" : 202
+	},
+	{
+		"_id" : "Pining Sherlock",
+		"year" : 2016,
+		"count" : 195
+	},
+	{
+		"_id" : "Johnlock Roulette",
+		"year" : 2016,
+		"count" : 193
+	},
+	{
+		"_id" : "Implied/Referenced Drug Use",
+		"year" : 2016,
+		"count" : 193
+	},
+	{
+		"_id" : "One Shot",
+		"year" : 2016,
+		"count" : 182
+	},
+	{
+		"_id" : "Alternate Universe - Canon Divergence",
+		"year" : 2016,
+		"count" : 181
+	},
+	{
+		"_id" : "Rimming",
+		"year" : 2016,
+		"count" : 178
+	},
+	{
+		"_id" : "BAMF John",
+		"year" : 2016,
+		"count" : 177
+	},
+	{
+		"_id" : "Other Additional Tags to Be Added",
+		"year" : 2016,
+		"count" : 176
+	},
+	{
+		"_id" : "Alpha/Beta/Omega Dynamics",
+		"year" : 2016,
+		"count" : 175
+	},
+	{
+		"_id" : "Parentlock",
+		"year" : 2016,
+		"count" : 174
+	},
+	{
+		"_id" : "Anal Fingering",
+		"year" : 2016,
+		"count" : 174
+	},
+	{
+		"_id" : "Violence",
+		"year" : 2016,
+		"count" : 170
+	},
+	{
+		"_id" : "Virgin Sherlock",
+		"year" : 2016,
+		"count" : 166
+	},
+	{
+		"_id" : "Hand Jobs",
+		"year" : 2016,
+		"count" : 160
+	},
+	{
+		"_id" : "Ficlet",
+		"year" : 2016,
+		"count" : 159
+	},
+	{
+		"_id" : "Sexual Content",
+		"year" : 2016,
+		"count" : 156
+	},
+	{
+		"_id" : "Prompt Fic",
+		"year" : 2016,
+		"count" : 156
+	},
+	{
+		"_id" : "Drama",
+		"year" : 2016,
+		"count" : 151
+	},
+	{
+		"_id" : "PWP",
+		"year" : 2016,
+		"count" : 146
+	},
+	{
+		"_id" : "Light Angst",
+		"year" : 2016,
+		"count" : 146
+	},
+	{
+		"_id" : "Depression",
+		"year" : 2016,
+		"count" : 144
+	},
+	{
+		"_id" : "Murder",
+		"year" : 2016,
+		"count" : 143
+	},
+	{
+		"_id" : "Kidnapping",
+		"year" : 2016,
+		"count" : 142
+	},
+	{
+		"_id" : "Sherlock Is A Bit Not Good",
+		"year" : 2016,
+		"count" : 139
+	},
+	{
+		"_id" : "Big Brother Mycroft",
+		"year" : 2016,
+		"count" : 138
+	},
+	{
+		"_id" : "Protective Mycroft",
+		"year" : 2016,
+		"count" : 137
+	},
+	{
+		"_id" : "Alternate Universe - Different First Meeting",
+		"year" : 2016,
+		"count" : 136
+	},
+	{
+		"_id" : "Frottage",
+		"year" : 2016,
+		"count" : 135
+	},
+	{
+		"_id" : "the lisp",
+		"year" : 2016,
+		"count" : 130
+	},
+	{
+		"_id" : "Suicidal Thoughts",
+		"year" : 2016,
+		"count" : 128
+	},
+	{
+		"_id" : "Christmas Fluff",
+		"year" : 2016,
+		"count" : 128
+	},
+	{
+		"_id" : "Holmes Brothers",
+		"year" : 2016,
+		"count" : 127
+	},
+	{
+		"_id" : "Sex",
+		"year" : 2016,
+		"count" : 127
+	},
+	{
+		"_id" : "Canon Compliant",
+		"year" : 2016,
+		"count" : 126
+	},
+	{
+		"_id" : "Sherlock-centric",
+		"year" : 2016,
+		"count" : 125
+	},
+	{
+		"_id" : "Eventual Johnlock",
+		"year" : 2016,
+		"count" : 125
+	},
+	{
+		"_id" : "Slash",
+		"year" : 2016,
+		"count" : 124
+	},
+	{
+		"_id" : "Pre-Slash",
+		"year" : 2016,
+		"count" : 124
+	},
+	{
+		"_id" : "Alternate Universe - College/University",
+		"year" : 2016,
+		"count" : 124
+	},
+	{
+		"_id" : "221B Ficlet",
+		"year" : 2016,
+		"count" : 124
+	},
+	{
+		"_id" : "Bottom Sherlock Holmes",
+		"year" : 2016,
+		"count" : 123
+	},
+	{
+		"_id" : "Mycroft Being a Good Brother",
+		"year" : 2016,
+		"count" : 123
+	},
+	{
+		"_id" : "Sherlock Holmes Has Feelings",
+		"year" : 2016,
+		"count" : 123
+	},
+	{
+		"_id" : "Falling In Love",
+		"year" : 2016,
+		"count" : 122
+	},
+	{
+		"_id" : "Family",
+		"year" : 2016,
+		"count" : 121
+	},
+	{
+		"_id" : "Torture",
+		"year" : 2016,
+		"count" : 121
+	},
+	{
+		"_id" : "Sherlock Holmes and Feelings",
+		"year" : 2016,
+		"count" : 120
+	},
+	{
+		"_id" : "Character Death",
+		"year" : 2016,
+		"count" : 120
+	},
+	{
+		"_id" : "Declarations Of Love",
+		"year" : 2016,
+		"count" : 120
+	},
+	{
+		"_id" : "Unrequited Love",
+		"year" : 2016,
+		"count" : 120
+	},
+	{
+		"_id" : "Podfic",
+		"year" : 2016,
+		"count" : 118
+	},
+	{
+		"_id" : "Grief/Mourning",
+		"year" : 2016,
+		"count" : 117
+	},
+	{
+		"_id" : "BDSM",
+		"year" : 2016,
+		"count" : 117
+	},
+	{
+		"_id" : "Dirty Talk",
+		"year" : 2016,
+		"count" : 116
+	}
+]

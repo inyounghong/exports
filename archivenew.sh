@@ -1,6 +1,6 @@
 #!/bin/bash
-Fandom="Attack on Titan"
-Folder="aot"
+Fandom="Sherlock"
+Folder="sherlock"
 
 
 
@@ -37,6 +37,8 @@ overview() {
 	addLine "Multichaptered" '{$or : [{chapters : {$gt : 1}}, {chapters: 1, iswip: 1}] }' $1
 	addLine "Completed" '{iswip : 0}' $1
 	addLine "WIP" '{iswip : 1}' $1
+	addLine "Completed2" '{$or : [{chapters : {$gt : 1}, iswip: 1}, {chapters: 1, iswip: 1}]}' $1
+	addLine "WIP2" '{$or : [{chapters : {$gt : 1}, iswip: 0}, {chapters: 1, iswip: 0}]}' $1
 	echo "}" >> $1 # end json
 }
 
@@ -47,7 +49,21 @@ addLine()
 }
 
 
-
+bucket() {
+    mongo --quiet archive --eval 'printjson(db.getCollection("'"$Fandom"'")
+        .aggregate ( [ 
+            {
+            $bucket: {
+                groupBy: '"$1"',
+                boundaries: '"$2"',
+                default: "Other",
+                output: {
+                    '"$3"': { $sum: 1 },
+                }
+            }
+        }
+    ]).toArray())' > $4
+}
 
 
 
@@ -110,20 +126,27 @@ getStats() {
     ]).toArray())' > $3
 }
 
+# buckets
+
+bucket '"$kudos"' '[ 0, 500, 1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000, 5500, 6000, 6500]' '"kudos"' $Folder/overview/kudos.json
+bucket '"$words"' '[ 0, 10000, 20000, 30000, 40000, 50000, 60000, 70000, 80000, 90000, 100000, 110000]' '"words"' $Folder/overview/words.json
+
+
 
 getStats "categories" '"count":-1' $Folder/stats/category_count.json
 getStats "rating" '"count":-1' $Folder/stats/rating_count.json
 getStats "characters" '"count":-1' $Folder/stats/characters_count.json
 getStats "relationships" '"count":-1' $Folder/stats/relationships_count.json
+getStats "language" '"count":-1' $Folder/stats/language_count.json
 
 # overview
 
-# overview $Folder/overview/overview.json
-# totals $Folder/overview/totals.json
+overview $Folder/overview/overview.json
+totals $Folder/overview/totals.json
 
 #year
 
-# getMostPopularPerYear 'tags'
-# getMostPopularPerYear 'characters'
-# getMostPopularPerYear 'relationships'
-# getMostPopularPerYear 'fandoms'
+getMostPopularPerYear 'tags'
+getMostPopularPerYear 'characters'
+getMostPopularPerYear 'relationships'
+getMostPopularPerYear 'fandoms'

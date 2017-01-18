@@ -1,0 +1,802 @@
+[
+	{
+		"_id" : "Sherlock Holmes",
+		"count" : 74841,
+		"word_sum" : 463572421,
+		"kudo_average" : 108.67364145321415,
+		"comment_average" : 20.55963976964498,
+		"word_average" : 6194.097099183603
+	},
+	{
+		"_id" : "John Watson",
+		"count" : 64733,
+		"word_sum" : 425008423,
+		"kudo_average" : 115.78741909072652,
+		"comment_average" : 22.29929093352695,
+		"word_average" : 6565.560425130922
+	},
+	{
+		"_id" : "Mycroft Holmes",
+		"count" : 25648,
+		"word_sum" : 283526129,
+		"kudo_average" : 126.73615876481597,
+		"comment_average" : 33.12250467872739,
+		"word_average" : 11054.512203680599
+	},
+	{
+		"_id" : "Greg Lestrade",
+		"count" : 20570,
+		"word_sum" : 232694009,
+		"kudo_average" : 126.41750121536218,
+		"comment_average" : 33.80194457948468,
+		"word_average" : 11312.299902771027
+	},
+	{
+		"_id" : "Molly Hooper",
+		"count" : 13746,
+		"word_sum" : 146579654,
+		"kudo_average" : 104.0539793394442,
+		"comment_average" : 30.750545613269313,
+		"word_average" : 10663.440564527862
+	},
+	{
+		"_id" : "Jim Moriarty",
+		"count" : 9630,
+		"word_sum" : 93286462,
+		"kudo_average" : 80.57653167185877,
+		"comment_average" : 21.37601246105919,
+		"word_average" : 9687.067705088266
+	},
+	{
+		"_id" : "Mrs. Hudson",
+		"count" : 7436,
+		"word_sum" : 100581600,
+		"kudo_average" : 139.37426035502958,
+		"comment_average" : 41.74435180204411,
+		"word_average" : 13526.304464766003
+	},
+	{
+		"_id" : "Mary Morstan",
+		"count" : 6622,
+		"word_sum" : 76128839,
+		"kudo_average" : 97.68468740561764,
+		"comment_average" : 32.82799758381154,
+		"word_average" : 11496.351404409545
+	},
+	{
+		"_id" : "Sebastian Moran",
+		"count" : 5725,
+		"word_sum" : 63742348,
+		"kudo_average" : 69.66794759825328,
+		"comment_average" : 20.612401746724892,
+		"word_average" : 11134.034585152838
+	},
+	{
+		"_id" : "Sally Donovan",
+		"count" : 5046,
+		"word_sum" : 71230167,
+		"kudo_average" : 156.97958779231075,
+		"comment_average" : 43.51307966706302,
+		"word_average" : 14116.16468489893
+	},
+	{
+		"_id" : "Irene Adler",
+		"count" : 3817,
+		"word_sum" : 49719643,
+		"kudo_average" : 100.76447471836521,
+		"comment_average" : 31.641079381713386,
+		"word_average" : 13025.843070474195
+	},
+	{
+		"_id" : "Anthea (Sherlock)",
+		"count" : 2775,
+		"word_sum" : 39390321,
+		"kudo_average" : 132.3055855855856,
+		"comment_average" : 40.112432432432435,
+		"word_average" : 14194.71027027027
+	},
+	{
+		"_id" : "Harry Watson",
+		"count" : 2237,
+		"word_sum" : 37094762,
+		"kudo_average" : 185.15333035315155,
+		"comment_average" : 57.30219043361645,
+		"word_average" : 16582.37013857845
+	},
+	{
+		"_id" : "James Moriarty",
+		"count" : 2114,
+		"word_sum" : 24935801,
+		"kudo_average" : 66.21097445600756,
+		"comment_average" : 19.969252601702934,
+		"word_average" : 11795.553926206245
+	},
+	{
+		"_id" : "Mike Stamford",
+		"count" : 1866,
+		"word_sum" : 29826207,
+		"kudo_average" : 190.5369774919614,
+		"comment_average" : 56.97642015005359,
+		"word_average" : 15984.033762057878
+	},
+	{
+		"_id" : "Lestrade (Inspector)",
+		"count" : 1742,
+		"word_sum" : 10924388,
+		"kudo_average" : 192.703214695752,
+		"comment_average" : 22.851320321469576,
+		"word_average" : 6271.175660160735
+	},
+	{
+		"_id" : "Mummy (Sherlock)",
+		"count" : 1689,
+		"word_sum" : 24733759,
+		"kudo_average" : 176.00059206631144,
+		"comment_average" : 51.9846062759029,
+		"word_average" : 14644.02545885139
+	},
+	{
+		"_id" : "Original Female Character(s)",
+		"count" : 1639,
+		"word_sum" : 27551189,
+		"kudo_average" : 82.21232458816351,
+		"comment_average" : 32.73642464917633,
+		"word_average" : 16809.75533862111
+	},
+	{
+		"_id" : "Anderson (Sherlock)",
+		"count" : 1543,
+		"word_sum" : 21133542,
+		"kudo_average" : 163.4601425793908,
+		"comment_average" : 43.71160077770577,
+		"word_average" : 13696.397926117952
+	},
+	{
+		"_id" : "Philip Anderson",
+		"count" : 1369,
+		"word_sum" : 19437972,
+		"kudo_average" : 118.40686632578524,
+		"comment_average" : 43.176040905770634,
+		"word_average" : 14198.664718772827
+	},
+	{
+		"_id" : "Original Characters",
+		"count" : 1301,
+		"word_sum" : 28243301,
+		"kudo_average" : 160.43197540353574,
+		"comment_average" : 56.05611068408916,
+		"word_average" : 21708.916986933127
+	},
+	{
+		"_id" : "Original Male Character(s)",
+		"count" : 1261,
+		"word_sum" : 24629681,
+		"kudo_average" : 116.06582077716098,
+		"comment_average" : 50.65027755749405,
+		"word_average" : 19531.86439333862
+	},
+	{
+		"_id" : "Mrs Hudson",
+		"count" : 1117,
+		"word_sum" : 15535071,
+		"kudo_average" : 126.83527305282006,
+		"comment_average" : 36.71620411817368,
+		"word_average" : 13907.852282900627
+	},
+	{
+		"_id" : "Victor Trevor",
+		"count" : 1113,
+		"word_sum" : 18012421,
+		"kudo_average" : 145.87151841868823,
+		"comment_average" : 48.511230907457325,
+		"word_average" : 16183.666666666666
+	},
+	{
+		"_id" : "Sarah Sawyer",
+		"count" : 910,
+		"word_sum" : 15329646,
+		"kudo_average" : 198.76923076923077,
+		"comment_average" : 59.47692307692308,
+		"word_average" : 16845.764835164835
+	},
+	{
+		"_id" : "Joan Watson (Elementary)",
+		"count" : 907,
+		"word_sum" : 2349351,
+		"kudo_average" : 90.52921719955899,
+		"comment_average" : 10.510474090407937,
+		"word_average" : 2590.243660418964
+	},
+	{
+		"_id" : "Lestrade (Sherlock Holmes)",
+		"count" : 865,
+		"word_sum" : 7951550,
+		"kudo_average" : 87.0335260115607,
+		"comment_average" : 18.089017341040464,
+		"word_average" : 9192.543352601157
+	},
+	{
+		"_id" : "Joan Watson",
+		"count" : 844,
+		"word_sum" : 3287392,
+		"kudo_average" : 71.57109004739337,
+		"comment_average" : 13.152843601895734,
+		"word_average" : 3895.0142180094786
+	},
+	{
+		"_id" : "Mrs. Hudson (Sherlock Holmes)",
+		"count" : 778,
+		"word_sum" : 7562178,
+		"kudo_average" : 67.33804627249357,
+		"comment_average" : 26.809768637532134,
+		"word_average" : 9720.023136246786
+	},
+	{
+		"_id" : "Sherlock Holmes' Father",
+		"count" : 751,
+		"word_sum" : 12633863,
+		"kudo_average" : 117.80159786950732,
+		"comment_average" : 45.475366178428764,
+		"word_average" : 16822.72037283622
+	},
+	{
+		"_id" : "Dean Winchester",
+		"count" : 750,
+		"word_sum" : 7635204,
+		"kudo_average" : 56.538666666666664,
+		"comment_average" : 13.049333333333333,
+		"word_average" : 10180.272
+	},
+	{
+		"_id" : "Hamish Watson-Holmes",
+		"count" : 658,
+		"word_sum" : 3856427,
+		"kudo_average" : 96.23252279635258,
+		"comment_average" : 15.504559270516717,
+		"word_average" : 5860.831306990882
+	},
+	{
+		"_id" : "Sam Winchester",
+		"count" : 641,
+		"word_sum" : 6902004,
+		"kudo_average" : 61.201248049922,
+		"comment_average" : 14.661466458658346,
+		"word_average" : 10767.556942277692
+	},
+	{
+		"_id" : "James Bond",
+		"count" : 581,
+		"word_sum" : 7871012,
+		"kudo_average" : 221.56798623063682,
+		"comment_average" : 48.95180722891566,
+		"word_average" : 13547.352839931153
+	},
+	{
+		"_id" : "Sherlock",
+		"count" : 539,
+		"word_sum" : 2501337,
+		"kudo_average" : 60.178107606679035,
+		"comment_average" : 14.519480519480519,
+		"word_average" : 4640.69944341373
+	},
+	{
+		"_id" : "Janine (Sherlock)",
+		"count" : 528,
+		"word_sum" : 8160959,
+		"kudo_average" : 101.33333333333333,
+		"comment_average" : 44.27462121212121,
+		"word_average" : 15456.361742424242
+	},
+	{
+		"_id" : "Sherlock Holmes' Mother",
+		"count" : 454,
+		"word_sum" : 8259830,
+		"kudo_average" : 105.66299559471365,
+		"comment_average" : 38.95594713656388,
+		"word_average" : 18193.458149779737
+	},
+	{
+		"_id" : "Reader",
+		"count" : 450,
+		"word_sum" : 2901044,
+		"kudo_average" : 95.02222222222223,
+		"comment_average" : 8.733333333333333,
+		"word_average" : 6446.764444444444
+	},
+	{
+		"_id" : "Richard Brook",
+		"count" : 449,
+		"word_sum" : 3150119,
+		"kudo_average" : 47.4543429844098,
+		"comment_average" : 15.287305122494432,
+		"word_average" : 7015.855233853007
+	},
+	{
+		"_id" : "Anderson",
+		"count" : 442,
+		"word_sum" : 6377028,
+		"kudo_average" : 98.87782805429865,
+		"comment_average" : 29.052036199095024,
+		"word_average" : 14427.66515837104
+	},
+	{
+		"_id" : "Original Female Character",
+		"count" : 429,
+		"word_sum" : 3699629,
+		"kudo_average" : 75.66666666666667,
+		"comment_average" : 14.016317016317016,
+		"word_average" : 8623.843822843823
+	},
+	{
+		"_id" : "Castiel",
+		"count" : 422,
+		"word_sum" : 5054955,
+		"kudo_average" : 65.07582938388626,
+		"comment_average" : 14.402843601895734,
+		"word_average" : 11978.5663507109
+	},
+	{
+		"_id" : "Charles Augustus Magnussen",
+		"count" : 415,
+		"word_sum" : 9525549,
+		"kudo_average" : 106.69638554216867,
+		"comment_average" : 59.956626506024094,
+		"word_average" : 22953.13012048193
+	},
+	{
+		"_id" : "The Doctor (Doctor Who)",
+		"count" : 406,
+		"word_sum" : 3173189,
+		"kudo_average" : 38.13054187192118,
+		"comment_average" : 8.339901477832512,
+		"word_average" : 7815.73645320197
+	},
+	{
+		"_id" : "Eleventh Doctor",
+		"count" : 399,
+		"word_sum" : 3449316,
+		"kudo_average" : 45.285714285714285,
+		"comment_average" : 10.343358395989975,
+		"word_average" : 8644.902255639097
+	},
+	{
+		"_id" : "Dimmock (Inspector)",
+		"count" : 395,
+		"word_sum" : 7251091,
+		"kudo_average" : 207.86075949367088,
+		"comment_average" : 84.02025316455696,
+		"word_average" : 18357.19240506329
+	},
+	{
+		"_id" : "Q (Bond - Craig movies)",
+		"count" : 394,
+		"word_sum" : 4424734,
+		"kudo_average" : 185.55329949238578,
+		"comment_average" : 36.88324873096447,
+		"word_average" : 11230.289340101523
+	},
+	{
+		"_id" : "Harry Potter",
+		"count" : 350,
+		"word_sum" : 5735516,
+		"kudo_average" : 222.96,
+		"comment_average" : 38.48571428571429,
+		"word_average" : 16387.18857142857
+	},
+	{
+		"_id" : "Tony Stark",
+		"count" : 342,
+		"word_sum" : 4688057,
+		"kudo_average" : 151.23684210526315,
+		"comment_average" : 35.88304093567251,
+		"word_average" : 13707.769005847953
+	},
+	{
+		"_id" : "Martin Crieff",
+		"count" : 339,
+		"word_sum" : 2789845,
+		"kudo_average" : 71.58702064896755,
+		"comment_average" : 26.339233038348084,
+		"word_average" : 8229.631268436578
+	},
+	{
+		"_id" : "Marcus Bell",
+		"count" : 337,
+		"word_sum" : 1720579,
+		"kudo_average" : 90.6053412462908,
+		"comment_average" : 17.551928783382788,
+		"word_average" : 5105.575667655787
+	},
+	{
+		"_id" : "Original Character",
+		"count" : 333,
+		"word_sum" : 2881196,
+		"kudo_average" : 75.74174174174175,
+		"comment_average" : 18.64264264264264,
+		"word_average" : 8652.24024024024
+	},
+	{
+		"_id" : "Moriarty",
+		"count" : 316,
+		"word_sum" : 2449458,
+		"kudo_average" : 56.91772151898734,
+		"comment_average" : 15.30379746835443,
+		"word_average" : 7751.449367088608
+	},
+	{
+		"_id" : "Jack Harkness",
+		"count" : 301,
+		"word_sum" : 3220345,
+		"kudo_average" : 64.53488372093024,
+		"comment_average" : 17.33887043189369,
+		"word_average" : 10698.820598006645
+	},
+	{
+		"_id" : "OC - Character",
+		"count" : 296,
+		"word_sum" : 2913626,
+		"kudo_average" : 71.1891891891892,
+		"comment_average" : 16.591216216216218,
+		"word_average" : 9843.331081081082
+	},
+	{
+		"_id" : "Sebastian Wilkes",
+		"count" : 294,
+		"word_sum" : 5803778,
+		"kudo_average" : 224.28571428571428,
+		"comment_average" : 57.43877551020408,
+		"word_average" : 19740.74149659864
+	},
+	{
+		"_id" : "Clara (Sherlock)",
+		"count" : 288,
+		"word_sum" : 5447727,
+		"kudo_average" : 171.30208333333334,
+		"comment_average" : 58.107638888888886,
+		"word_average" : 18915.71875
+	},
+	{
+		"_id" : "Lestrade",
+		"count" : 287,
+		"word_sum" : 2029103,
+		"kudo_average" : 86.58885017421603,
+		"comment_average" : 20.365853658536587,
+		"word_average" : 7070.045296167247
+	},
+	{
+		"_id" : "Benedict Cumberbatch",
+		"count" : 287,
+		"word_sum" : 4472402,
+		"kudo_average" : 75.94076655052265,
+		"comment_average" : 35.67247386759582,
+		"word_average" : 15583.282229965156
+	},
+	{
+		"_id" : "Tenth Doctor",
+		"count" : 280,
+		"word_sum" : 2649729,
+		"kudo_average" : 44.93928571428572,
+		"comment_average" : 14.217857142857143,
+		"word_average" : 9463.317857142858
+	},
+	{
+		"_id" : "Mary Watson",
+		"count" : 276,
+		"word_sum" : 3211579,
+		"kudo_average" : 64.52898550724638,
+		"comment_average" : 18.05072463768116,
+		"word_average" : 11636.15579710145
+	},
+	{
+		"_id" : "Anthea",
+		"count" : 272,
+		"word_sum" : 5125677,
+		"kudo_average" : 148.66176470588235,
+		"comment_average" : 53.75367647058823,
+		"word_average" : 18844.40073529412
+	},
+	{
+		"_id" : "OFC",
+		"count" : 269,
+		"word_sum" : 2937178,
+		"kudo_average" : 81.78810408921933,
+		"comment_average" : 24.13754646840149,
+		"word_average" : 10918.877323420074
+	},
+	{
+		"_id" : "Sherrinford Holmes",
+		"count" : 264,
+		"word_sum" : 4164569,
+		"kudo_average" : 95.74242424242425,
+		"comment_average" : 39.09848484848485,
+		"word_average" : 15774.882575757576
+	},
+	{
+		"_id" : "Steve Rogers",
+		"count" : 264,
+		"word_sum" : 4235636,
+		"kudo_average" : 173.63636363636363,
+		"comment_average" : 43.01893939393939,
+		"word_average" : 16044.075757575758
+	},
+	{
+		"_id" : "Gladstone",
+		"count" : 260,
+		"word_sum" : 2021462,
+		"kudo_average" : 76.49615384615385,
+		"comment_average" : 22.534615384615385,
+		"word_average" : 7774.8538461538465
+	},
+	{
+		"_id" : "Mycroft Holmes's Umbrella",
+		"count" : 259,
+		"word_sum" : 2259106,
+		"kudo_average" : 78.88803088803088,
+		"comment_average" : 17.335907335907336,
+		"word_average" : 8722.416988416988
+	},
+	{
+		"_id" : "Amy Pond",
+		"count" : 257,
+		"word_sum" : 1354890,
+		"kudo_average" : 30.69260700389105,
+		"comment_average" : 5.696498054474708,
+		"word_average" : 5271.945525291829
+	},
+	{
+		"_id" : "Original Male Character",
+		"count" : 248,
+		"word_sum" : 2364670,
+		"kudo_average" : 125.31451612903226,
+		"comment_average" : 22.39516129032258,
+		"word_average" : 9534.959677419354
+	},
+	{
+		"_id" : "John Watson's Mother",
+		"count" : 247,
+		"word_sum" : 3542240,
+		"kudo_average" : 150.5425101214575,
+		"comment_average" : 36.850202429149796,
+		"word_average" : 14341.052631578947
+	},
+	{
+		"_id" : "John",
+		"count" : 243,
+		"word_sum" : 1152210,
+		"kudo_average" : 72.08230452674897,
+		"comment_average" : 15.576131687242798,
+		"word_average" : 4741.604938271605
+	},
+	{
+		"_id" : "Angelo (Sherlock)",
+		"count" : 240,
+		"word_sum" : 3371103,
+		"kudo_average" : 102.225,
+		"comment_average" : 37.17916666666667,
+		"word_average" : 14046.2625
+	},
+	{
+		"_id" : "Jamie Moriarty | Irene Adler",
+		"count" : 226,
+		"word_sum" : 1303108,
+		"kudo_average" : 122.69911504424779,
+		"comment_average" : 17.36283185840708,
+		"word_average" : 5765.9646017699115
+	},
+	{
+		"_id" : "Loki (Marvel)",
+		"count" : 222,
+		"word_sum" : 2939966,
+		"kudo_average" : 110.18018018018019,
+		"comment_average" : 28.036036036036037,
+		"word_average" : 13243.09009009009
+	},
+	{
+		"_id" : "Natasha Romanov",
+		"count" : 216,
+		"word_sum" : 3471537,
+		"kudo_average" : 157.35185185185185,
+		"comment_average" : 37.425925925925924,
+		"word_average" : 16071.930555555555
+	},
+	{
+		"_id" : "OMC",
+		"count" : 215,
+		"word_sum" : 2595983,
+		"kudo_average" : 126.17209302325581,
+		"comment_average" : 28.432558139534883,
+		"word_average" : 12074.33953488372
+	},
+	{
+		"_id" : "Gregory Lestrade",
+		"count" : 211,
+		"word_sum" : 2941501,
+		"kudo_average" : 137.218009478673,
+		"comment_average" : 34.33649289099526,
+		"word_average" : 13940.763033175355
+	},
+	{
+		"_id" : "Clint Barton",
+		"count" : 211,
+		"word_sum" : 3539352,
+		"kudo_average" : 189.48815165876778,
+		"comment_average" : 44.29857819905213,
+		"word_average" : 16774.18009478673
+	},
+	{
+		"_id" : "Baby Watson - Character",
+		"count" : 208,
+		"word_sum" : 1820916,
+		"kudo_average" : 103.54807692307692,
+		"comment_average" : 27.716346153846153,
+		"word_average" : 8754.403846153846
+	},
+	{
+		"_id" : "Mycroft - Character",
+		"count" : 205,
+		"word_sum" : 1331899,
+		"kudo_average" : 67.91707317073171,
+		"comment_average" : 18.190243902439025,
+		"word_average" : 6497.068292682927
+	},
+	{
+		"_id" : "Rose Tyler",
+		"count" : 205,
+		"word_sum" : 2126196,
+		"kudo_average" : 41.94146341463415,
+		"comment_average" : 10.648780487804878,
+		"word_average" : 10371.687804878049
+	},
+	{
+		"_id" : "James Sholto (Sherlock)",
+		"count" : 203,
+		"word_sum" : 3959971,
+		"kudo_average" : 113.84729064039409,
+		"comment_average" : 79.17733990147784,
+		"word_average" : 19507.24630541872
+	},
+	{
+		"_id" : "Lord Henry Blackwood",
+		"count" : 195,
+		"word_sum" : 433811,
+		"kudo_average" : 10.476923076923077,
+		"comment_average" : 2.4,
+		"word_average" : 2224.6717948717946
+	},
+	{
+		"_id" : "Hermione Granger",
+		"count" : 190,
+		"word_sum" : 3211945,
+		"kudo_average" : 109.60526315789474,
+		"comment_average" : 38.078947368421055,
+		"word_average" : 16904.973684210527
+	},
+	{
+		"_id" : "James T. Kirk",
+		"count" : 189,
+		"word_sum" : 1648605,
+		"kudo_average" : 77.81481481481481,
+		"comment_average" : 24.735449735449734,
+		"word_average" : 8722.777777777777
+	},
+	{
+		"_id" : "John Watson's Parents",
+		"count" : 189,
+		"word_sum" : 2996230,
+		"kudo_average" : 189.16402116402116,
+		"comment_average" : 55.10582010582011,
+		"word_average" : 15853.068783068784
+	},
+	{
+		"_id" : "Irene Adler (Sherlock Holmes)",
+		"count" : 187,
+		"word_sum" : 1572730,
+		"kudo_average" : 56.6096256684492,
+		"comment_average" : 16.155080213903744,
+		"word_average" : 8410.320855614973
+	},
+	{
+		"_id" : "Lord Coward",
+		"count" : 186,
+		"word_sum" : 370606,
+		"kudo_average" : 7.559139784946237,
+		"comment_average" : 2.274193548387097,
+		"word_average" : 1992.505376344086
+	},
+	{
+		"_id" : "Q (James Bond)",
+		"count" : 186,
+		"word_sum" : 2788623,
+		"kudo_average" : 293.28494623655916,
+		"comment_average" : 55.83870967741935,
+		"word_average" : 14992.59677419355
+	},
+	{
+		"_id" : "Tobias Gregson",
+		"count" : 186,
+		"word_sum" : 2500713,
+		"kudo_average" : 103.29569892473118,
+		"comment_average" : 27.967741935483872,
+		"word_average" : 13444.693548387097
+	},
+	{
+		"_id" : "Rory Williams",
+		"count" : 186,
+		"word_sum" : 2041118,
+		"kudo_average" : 42.983870967741936,
+		"comment_average" : 8.903225806451612,
+		"word_average" : 10973.752688172042
+	},
+	{
+		"_id" : "Bill Murray (Sherlock)",
+		"count" : 185,
+		"word_sum" : 3431997,
+		"kudo_average" : 218.31351351351353,
+		"comment_average" : 67.44864864864864,
+		"word_average" : 18551.335135135134
+	},
+	{
+		"_id" : "Ella Thompson",
+		"count" : 184,
+		"word_sum" : 1900510,
+		"kudo_average" : 86.2554347826087,
+		"comment_average" : 23.565217391304348,
+		"word_average" : 10328.858695652174
+	},
+	{
+		"_id" : "Bilbo Baggins",
+		"count" : 181,
+		"word_sum" : 1746143,
+		"kudo_average" : 156.1657458563536,
+		"comment_average" : 37.331491712707184,
+		"word_average" : 9647.198895027625
+	},
+	{
+		"_id" : "Severin Moran",
+		"count" : 181,
+		"word_sum" : 1129066,
+		"kudo_average" : 30.248618784530386,
+		"comment_average" : 6.259668508287293,
+		"word_average" : 6237.933701657458
+	},
+	{
+		"_id" : "Kate (Sherlock)",
+		"count" : 175,
+		"word_sum" : 3051515,
+		"kudo_average" : 96.02857142857142,
+		"comment_average" : 45.22857142857143,
+		"word_average" : 17437.22857142857
+	},
+	{
+		"_id" : "Tom (Sherlock)",
+		"count" : 172,
+		"word_sum" : 2109221,
+		"kudo_average" : 87.43023255813954,
+		"comment_average" : 19.337209302325583,
+		"word_average" : 12262.912790697674
+	},
+	{
+		"_id" : "Redbeard (Sherlock)",
+		"count" : 172,
+		"word_sum" : 1533113,
+		"kudo_average" : 63.43023255813954,
+		"comment_average" : 22.808139534883722,
+		"word_average" : 8913.447674418605
+	},
+	{
+		"_id" : "Henry Knight",
+		"count" : 169,
+		"word_sum" : 3486793,
+		"kudo_average" : 117.54437869822485,
+		"comment_average" : 39.8698224852071,
+		"word_average" : 20631.91124260355
+	},
+	{
+		"_id" : "Mummy Holmes",
+		"count" : 168,
+		"word_sum" : 3074670,
+		"kudo_average" : 159.98809523809524,
+		"comment_average" : 40.95238095238095,
+		"word_average" : 18301.60714285714
+	}
+]

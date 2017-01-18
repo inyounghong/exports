@@ -2,22 +2,22 @@
 	{
 		"_id" : "Harry Potter/Tom Riddle | Harry Potter/Voldemort",
 		"count" : 151,
-		"kudos" : 401.1324503311258
+		"kudos" : 401.28476821192055
 	},
 	{
 		"_id" : "Harry Potter/Original Male Character(s)",
 		"count" : 119,
-		"kudos" : 317.1764705882353
+		"kudos" : 317.43697478991595
 	},
 	{
 		"_id" : "Harry Potter/Tom Riddle",
 		"count" : 966,
-		"kudos" : 311.611801242236
+		"kudos" : 311.84265010351965
 	},
 	{
 		"_id" : "Harry Potter/Voldemort",
 		"count" : 579,
-		"kudos" : 311.3419689119171
+		"kudos" : 311.5889464594128
 	},
 	{
 		"_id" : "Original Percival Graves/Newt Scamander",
@@ -27,32 +27,32 @@
 	{
 		"_id" : "Harry Potter/Tom Riddle | Voldemort",
 		"count" : 121,
-		"kudos" : 293.5123966942149
+		"kudos" : 294.06611570247935
 	},
 	{
 		"_id" : "Lucius Malfoy/Harry Potter",
 		"count" : 174,
-		"kudos" : 275.7471264367816
+		"kudos" : 275.7816091954023
 	},
 	{
 		"_id" : "Harry Potter/Blaise Zabini",
 		"count" : 101,
-		"kudos" : 231.76237623762376
+		"kudos" : 231.88118811881188
 	},
 	{
 		"_id" : "Harry Potter/Charlie Weasley",
 		"count" : 110,
-		"kudos" : 215.16363636363636
+		"kudos" : 215.27272727272728
 	},
 	{
 		"_id" : "Sirius Black/Harry Potter",
 		"count" : 150,
-		"kudos" : 208.31333333333333
+		"kudos" : 208.46
 	},
 	{
 		"_id" : "Cedric Diggory/Harry Potter",
 		"count" : 120,
-		"kudos" : 191.175
+		"kudos" : 191.275
 	},
 	{
 		"_id" : "Credence Barebone/Newt Scamander",
@@ -62,17 +62,17 @@
 	{
 		"_id" : "Harry Potter & Severus Snape",
 		"count" : 185,
-		"kudos" : 185.91351351351352
+		"kudos" : 186.14054054054054
 	},
 	{
 		"_id" : "Draco Malfoy/Harry Potter",
 		"count" : 8131,
-		"kudos" : 165.05448284343868
+		"kudos" : 165.1320870741606
 	},
 	{
 		"_id" : "Lucius Malfoy/Severus Snape",
 		"count" : 194,
-		"kudos" : 157.6237113402062
+		"kudos" : 157.6443298969072
 	},
 	{
 		"_id" : "Tina Goldstein & Newt Scamander",
@@ -102,32 +102,32 @@
 	{
 		"_id" : "Hermione Granger/Viktor Krum",
 		"count" : 183,
-		"kudos" : 135.8087431693989
+		"kudos" : 135.92349726775956
 	},
 	{
 		"_id" : "Ginny Weasley/Blaise Zabini",
 		"count" : 115,
-		"kudos" : 135.22608695652173
+		"kudos" : 135.24347826086955
 	},
 	{
 		"_id" : "Minor or Background Relationship(s)",
 		"count" : 162,
-		"kudos" : 133.5493827160494
+		"kudos" : 133.64814814814815
 	},
 	{
 		"_id" : "Fred Weasley/George Weasley",
 		"count" : 166,
-		"kudos" : 132.34939759036143
+		"kudos" : 132.3975903614458
 	},
 	{
 		"_id" : "Hermione Granger & Harry Potter & Ron Weasley",
 		"count" : 111,
-		"kudos" : 131.6216216216216
+		"kudos" : 131.7117117117117
 	},
 	{
 		"_id" : "Lucius Malfoy/Narcissa Black Malfoy",
 		"count" : 713,
-		"kudos" : 131.07433380084152
+		"kudos" : 131.23141654978963
 	},
 	{
 		"_id" : "Tina Goldstein/Newt Scamander",
@@ -137,116 +137,116 @@
 	{
 		"_id" : "Pansy Parkinson/Blaise Zabini",
 		"count" : 105,
-		"kudos" : 124.88571428571429
+		"kudos" : 125.05714285714286
 	},
 	{
 		"_id" : "Hermione Granger & Harry Potter",
 		"count" : 108,
-		"kudos" : 121.61111111111111
+		"kudos" : 122.08333333333333
 	},
 	{
 		"_id" : "Draco Malfoy & Harry Potter",
 		"count" : 268,
-		"kudos" : 120.05970149253731
+		"kudos" : 120.18656716417911
 	},
 	{
 		"_id" : "Luna Lovegood/Draco Malfoy",
 		"count" : 122,
-		"kudos" : 117.80327868852459
+		"kudos" : 117.87704918032787
 	},
 	{
 		"_id" : "Harry Potter/Severus Snape",
 		"count" : 2493,
-		"kudos" : 116.52747693541917
+		"kudos" : 116.59286000802247
 	},
 	{
 		"_id" : "Fleur Delacour/Hermione Granger",
 		"count" : 110,
-		"kudos" : 111.34545454545454
+		"kudos" : 111.45454545454545
 	},
 	{
 		"_id" : "Draco Malfoy/Blaise Zabini",
 		"count" : 121,
-		"kudos" : 109.8099173553719
+		"kudos" : 109.84297520661157
 	},
 	{
 		"_id" : "Sirius Black & Remus Lupin",
 		"count" : 138,
-		"kudos" : 105.17391304347827
+		"kudos" : 105.20289855072464
 	},
 	{
 		"_id" : "Scorpius Malfoy/Albus Severus Potter",
 		"count" : 891,
-		"kudos" : 103.4668911335578
+		"kudos" : 103.56565656565657
 	},
 	{
 		"_id" : "Neville Longbottom/Ginny Weasley",
 		"count" : 136,
-		"kudos" : 102.5220588235294
+		"kudos" : 102.65441176470588
 	},
 	{
 		"_id" : "Hermione Granger/Ron Weasley",
 		"count" : 2817,
-		"kudos" : 100.3187788427405
+		"kudos" : 100.38161164359248
 	},
 	{
 		"_id" : "Hermione Granger/Tom Riddle",
 		"count" : 220,
-		"kudos" : 99.25454545454545
+		"kudos" : 99.38636363636364
 	},
 	{
 		"_id" : "Castiel/Dean Winchester",
 		"count" : 104,
-		"kudos" : 98.57692307692308
+		"kudos" : 98.58653846153847
 	},
 	{
 		"_id" : "Sherlock Holmes/John Watson",
 		"count" : 207,
-		"kudos" : 98.06280193236715
+		"kudos" : 98.10144927536231
 	},
 	{
 		"_id" : "Hermione Granger/Remus Lupin",
 		"count" : 145,
-		"kudos" : 94.50344827586207
+		"kudos" : 94.51724137931035
 	},
 	{
 		"_id" : "Sirius Black/Severus Snape",
 		"count" : 241,
-		"kudos" : 90.96680497925311
+		"kudos" : 91.03319502074689
 	},
 	{
 		"_id" : "Luna Lovegood/Harry Potter",
 		"count" : 230,
-		"kudos" : 88.91304347826087
+		"kudos" : 88.9608695652174
 	},
 	{
 		"_id" : "Draco Malfoy/Severus Snape",
 		"count" : 135,
-		"kudos" : 88.25925925925925
+		"kudos" : 88.3037037037037
 	},
 	{
 		"_id" : "Hermione Granger/Lucius Malfoy",
 		"count" : 148,
-		"kudos" : 86.1891891891892
+		"kudos" : 86.20945945945945
 	},
 	{
 		"_id" : "Hermione Granger/Severus Snape",
 		"count" : 1003,
-		"kudos" : 85.43270189431705
+		"kudos" : 85.53140578265204
 	},
 	{
 		"_id" : "Hermione Granger/Fred Weasley",
 		"count" : 219,
-		"kudos" : 83.69406392694064
+		"kudos" : 83.8310502283105
 	},
 	{
 		"_id" : "Seamus Finnigan/Dean Thomas",
 		"count" : 532,
-		"kudos" : 82.8890977443609
+		"kudos" : 82.93045112781955
 	},
 	{
 		"_id" : "Hannah Abbott/Neville Longbottom",
 		"count" : 193,
-		"kudos" : 82.53367875647669
+		"kudos" : 82.56476683937824
 	}
 ]

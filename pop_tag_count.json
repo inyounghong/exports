@@ -1,202 +1,202 @@
 [
 	{
-		"_id" : "Fluff",
-		"count" : 2874
+		"_id" : "Romance",
+		"count" : 5034
 	},
 	{
-		"_id" : "Romance",
-		"count" : 2859
+		"_id" : "Fluff",
+		"count" : 5023
 	},
 	{
 		"_id" : "Angst",
-		"count" : 2599
+		"count" : 4621
 	},
 	{
 		"_id" : "Humor",
-		"count" : 1619
+		"count" : 2751
 	},
 	{
 		"_id" : "Alternate Universe",
-		"count" : 1294
+		"count" : 2336
 	},
 	{
 		"_id" : "Alternate Universe - Canon Divergence",
-		"count" : 1271
-	},
-	{
-		"_id" : "Hurt/Comfort",
-		"count" : 1096
-	},
-	{
-		"_id" : "Drabble",
-		"count" : 1004
-	},
-	{
-		"_id" : "Friendship",
-		"count" : 998
+		"count" : 2108
 	},
 	{
 		"_id" : "Marauders' Era",
-		"count" : 939
+		"count" : 1758
 	},
 	{
-		"_id" : "Slash",
-		"count" : 903
+		"_id" : "Friendship",
+		"count" : 1740
+	},
+	{
+		"_id" : "Hurt/Comfort",
+		"count" : 1718
+	},
+	{
+		"_id" : "Drabble",
+		"count" : 1579
 	},
 	{
 		"_id" : "Drama",
-		"count" : 851
+		"count" : 1486
+	},
+	{
+		"_id" : "Slash",
+		"count" : 1413
 	},
 	{
 		"_id" : "Established Relationship",
-		"count" : 819
-	},
-	{
-		"_id" : "Crossover",
-		"count" : 819
+		"count" : 1388
 	},
 	{
 		"_id" : "Anal Sex",
-		"count" : 757
+		"count" : 1354
 	},
 	{
-		"_id" : "Hogwarts",
-		"count" : 726
+		"_id" : "Crossover",
+		"count" : 1281
 	},
 	{
 		"_id" : "Post Hogwarts",
-		"count" : 706
+		"count" : 1211
+	},
+	{
+		"_id" : "Hogwarts",
+		"count" : 1193
 	},
 	{
 		"_id" : "HP: EWE",
-		"count" : 702
+		"count" : 1185
 	},
 	{
 		"_id" : "One Shot",
-		"count" : 651
-	},
-	{
-		"_id" : "AU",
-		"count" : 591
-	},
-	{
-		"_id" : "Oral Sex",
-		"count" : 589
-	},
-	{
-		"_id" : "Family",
-		"count" : 587
+		"count" : 1123
 	},
 	{
 		"_id" : "Smut",
-		"count" : 568
+		"count" : 1029
 	},
 	{
-		"_id" : "Christmas",
-		"count" : 532
+		"_id" : "Family",
+		"count" : 1016
+	},
+	{
+		"_id" : "AU",
+		"count" : 970
+	},
+	{
+		"_id" : "Oral Sex",
+		"count" : 966
 	},
 	{
 		"_id" : "Fluff and Angst",
-		"count" : 529
-	},
-	{
-		"_id" : "Explicit Sexual Content",
-		"count" : 505
-	},
-	{
-		"_id" : "Mpreg",
-		"count" : 472
+		"count" : 897
 	},
 	{
 		"_id" : "Post-War",
-		"count" : 468
+		"count" : 833
+	},
+	{
+		"_id" : "Christmas",
+		"count" : 831
+	},
+	{
+		"_id" : "Explicit Sexual Content",
+		"count" : 796
 	},
 	{
 		"_id" : "Time Travel",
-		"count" : 457
-	},
-	{
-		"_id" : "Marauders",
-		"count" : 446
-	},
-	{
-		"_id" : "Emotional Hurt/Comfort",
-		"count" : 416
+		"count" : 790
 	},
 	{
 		"_id" : "Blow Jobs",
-		"count" : 409
+		"count" : 786
 	},
 	{
-		"_id" : "Violence",
-		"count" : 404
+		"_id" : "Mpreg",
+		"count" : 779
 	},
 	{
 		"_id" : "Harry Potter Next Generation",
-		"count" : 402
+		"count" : 746
+	},
+	{
+		"_id" : "Community: HPFT",
+		"count" : 727
+	},
+	{
+		"_id" : "Marauders",
+		"count" : 713
 	},
 	{
 		"_id" : "First Time",
-		"count" : 399
-	},
-	{
-		"_id" : "Alternate Universe - Modern Setting",
-		"count" : 396
-	},
-	{
-		"_id" : "Canon Compliant",
-		"count" : 377
-	},
-	{
-		"_id" : "Love",
-		"count" : 375
+		"count" : 701
 	},
 	{
 		"_id" : "First Kiss",
-		"count" : 361
-	},
-	{
-		"_id" : "Alternate Universe - Hogwarts",
-		"count" : 337
-	},
-	{
-		"_id" : "Crack",
-		"count" : 333
+		"count" : 691
 	},
 	{
 		"_id" : "Hogwarts Eighth Year",
-		"count" : 331
+		"count" : 690
+	},
+	{
+		"_id" : "Alternate Universe - Modern Setting",
+		"count" : 670
+	},
+	{
+		"_id" : "Emotional Hurt/Comfort",
+		"count" : 663
+	},
+	{
+		"_id" : "Canon Compliant",
+		"count" : 646
+	},
+	{
+		"_id" : "Violence",
+		"count" : 640
+	},
+	{
+		"_id" : "Love",
+		"count" : 629
 	},
 	{
 		"_id" : "Anal Fingering",
-		"count" : 329
+		"count" : 615
 	},
 	{
 		"_id" : "Magic",
-		"count" : 327
-	},
-	{
-		"_id" : "Masturbation",
-		"count" : 320
+		"count" : 577
 	},
 	{
 		"_id" : "Friends to Lovers",
-		"count" : 308
+		"count" : 576
 	},
 	{
-		"_id" : "Character Death",
-		"count" : 307
-	},
-	{
-		"_id" : "Kissing",
-		"count" : 305
+		"_id" : "Slow Burn",
+		"count" : 570
 	},
 	{
 		"_id" : "Sexual Content",
-		"count" : 304
+		"count" : 565
 	},
 	{
-		"_id" : "Pre-Slash",
-		"count" : 300
+		"_id" : "Drarry",
+		"count" : 564
+	},
+	{
+		"_id" : "wolfstar",
+		"count" : 555
+	},
+	{
+		"_id" : "Crack",
+		"count" : 554
+	},
+	{
+		"_id" : "Alternate Universe - Hogwarts",
+		"count" : 546
 	}
 ]

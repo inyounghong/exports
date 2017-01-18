@@ -1,223 +1,223 @@
 [
 	{
 		"_id" : "Harry Potter",
-		"count" : 23995,
-		"words" : 318574230
+		"count" : 23996,
+		"words" : 318808941
 	},
 	{
 		"_id" : "Hermione Granger",
 		"count" : 14514,
-		"words" : 227235824
+		"words" : 227360678
 	},
 	{
 		"_id" : "Draco Malfoy",
 		"count" : 14643,
-		"words" : 196899123
+		"words" : 196932190
 	},
 	{
 		"_id" : "Ron Weasley",
-		"count" : 10086,
-		"words" : 176398242
+		"count" : 10087,
+		"words" : 176634563
 	},
 	{
 		"_id" : "Severus Snape",
 		"count" : 9340,
-		"words" : 150325341
+		"words" : 150368358
 	},
 	{
 		"_id" : "Remus Lupin",
 		"count" : 9291,
-		"words" : 120810095
+		"words" : 120830720
 	},
 	{
 		"_id" : "Sirius Black",
 		"count" : 9635,
-		"words" : 118796731
+		"words" : 118897870
 	},
 	{
 		"_id" : "Albus Dumbledore",
-		"count" : 4752,
-		"words" : 106019689
+		"count" : 4753,
+		"words" : 106169381
 	},
 	{
 		"_id" : "Ginny Weasley",
 		"count" : 6013,
-		"words" : 100427742
+		"words" : 100458802
 	},
 	{
 		"_id" : "Lucius Malfoy",
 		"count" : 3448,
-		"words" : 75003883
+		"words" : 75079405
 	},
 	{
 		"_id" : "Neville Longbottom",
 		"count" : 3526,
-		"words" : 73874735
+		"words" : 73885014
 	},
 	{
 		"_id" : "Minerva McGonagall",
-		"count" : 3446,
-		"words" : 73625105
+		"count" : 3447,
+		"words" : 73794358
 	},
 	{
 		"_id" : "Luna Lovegood",
 		"count" : 3606,
-		"words" : 64750219
+		"words" : 64767164
 	},
 	{
 		"_id" : "Original Female Character(s)",
 		"count" : 2726,
-		"words" : 59470241
+		"words" : 59487662
 	},
 	{
 		"_id" : "James Potter",
 		"count" : 5543,
-		"words" : 58144095
+		"words" : 58155065
 	},
 	{
 		"_id" : "Narcissa Black Malfoy",
 		"count" : 2554,
-		"words" : 56681074
+		"words" : 56765598
 	},
 	{
 		"_id" : "George Weasley",
 		"count" : 2870,
-		"words" : 54455266
+		"words" : 54478711
 	},
 	{
 		"_id" : "Original Male Character(s)",
 		"count" : 2027,
-		"words" : 53176097
+		"words" : 53193515
 	},
 	{
 		"_id" : "Blaise Zabini",
 		"count" : 2413,
-		"words" : 49767793
+		"words" : 49788959
 	},
 	{
 		"_id" : "Lily Evans Potter",
 		"count" : 3961,
-		"words" : 48268654
+		"words" : 48279624
 	},
 	{
 		"_id" : "Fred Weasley",
 		"count" : 2406,
-		"words" : 44848301
+		"words" : 44869639
 	},
 	{
 		"_id" : "Pansy Parkinson",
 		"count" : 2491,
-		"words" : 41959465
+		"words" : 41969336
 	},
 	{
 		"_id" : "Molly Weasley",
 		"count" : 1828,
-		"words" : 35964174
+		"words" : 35979976
 	},
 	{
 		"_id" : "Voldemort",
 		"count" : 1731,
-		"words" : 35222425
+		"words" : 35228978
 	},
 	{
 		"_id" : "Tom Riddle | Voldemort",
 		"count" : 1813,
-		"words" : 34493738
+		"words" : 34506030
 	},
 	{
 		"_id" : "Peter Pettigrew",
 		"count" : 2847,
-		"words" : 33355283
+		"words" : 33368138
 	},
 	{
 		"_id" : "Bellatrix Black Lestrange",
 		"count" : 1528,
-		"words" : 30003715
+		"words" : 30008360
 	},
 	{
 		"_id" : "Arthur Weasley",
 		"count" : 1219,
-		"words" : 29657701
+		"words" : 29672168
 	},
 	{
 		"_id" : "Nymphadora Tonks",
 		"count" : 1289,
-		"words" : 28654139
+		"words" : 28659109
 	},
 	{
 		"_id" : "Theodore Nott",
 		"count" : 1150,
-		"words" : 26780881
+		"words" : 26789494
 	},
 	{
 		"_id" : "Kingsley Shacklebolt",
 		"count" : 753,
-		"words" : 23100486
+		"words" : 23108016
 	},
 	{
 		"_id" : "Scorpius Malfoy",
 		"count" : 2214,
-		"words" : 22419279
+		"words" : 22419302
 	},
 	{
 		"_id" : "Tom Riddle",
 		"count" : 1435,
-		"words" : 22133368
+		"words" : 22138071
 	},
 	{
 		"_id" : "Daphne Greengrass",
 		"count" : 741,
-		"words" : 22073281
+		"words" : 22081901
 	},
 	{
 		"_id" : "Albus Severus Potter",
 		"count" : 2019,
-		"words" : 21085739
+		"words" : 21087083
 	},
 	{
 		"_id" : "Rubeus Hagrid",
-		"count" : 881,
-		"words" : 19997716
+		"count" : 882,
+		"words" : 20132268
 	},
 	{
 		"_id" : "Bill Weasley",
 		"count" : 1103,
-		"words" : 19718780
+		"words" : 19718800
 	},
 	{
 		"_id" : "Seamus Finnigan",
 		"count" : 1153,
-		"words" : 19050810
+		"words" : 19060666
 	},
 	{
 		"_id" : "Dean Thomas",
 		"count" : 1131,
-		"words" : 18466331
+		"words" : 18476189
 	},
 	{
 		"_id" : "Teddy Lupin",
 		"count" : 1586,
-		"words" : 18458050
+		"words" : 18458051
 	},
 	{
 		"_id" : "Charlie Weasley",
 		"count" : 1205,
-		"words" : 18226372
+		"words" : 18226391
 	},
 	{
 		"_id" : "Regulus Black",
 		"count" : 1129,
-		"words" : 17915661
+		"words" : 17929134
 	},
 	{
 		"_id" : "Fleur Delacour",
 		"count" : 810,
-		"words" : 17674120
+		"words" : 17679663
 	},
 	{
 		"_id" : "Andromeda Black Tonks",
 		"count" : 795,
-		"words" : 15995632
+		"words" : 16001156
 	},
 	{
 		"_id" : "Rose Weasley",
@@ -227,17 +227,17 @@
 	{
 		"_id" : "James Sirius Potter",
 		"count" : 1347,
-		"words" : 15012197
+		"words" : 15013541
 	},
 	{
 		"_id" : "Percy Weasley",
 		"count" : 991,
-		"words" : 14665579
+		"words" : 14675438
 	},
 	{
 		"_id" : "Poppy Pomfrey",
 		"count" : 569,
-		"words" : 14611566
+		"words" : 14619241
 	},
 	{
 		"_id" : "Astoria Greengrass",
@@ -246,7 +246,7 @@
 	},
 	{
 		"_id" : "Gregory Goyle",
-		"count" : 554,
-		"words" : 13516372
+		"count" : 553,
+		"words" : 13473621
 	}
 ]

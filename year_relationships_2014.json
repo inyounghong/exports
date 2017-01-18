@@ -75,12 +75,12 @@
 		"count" : 58
 	},
 	{
-		"_id" : "Remus Lupin/Severus Snape",
+		"_id" : "Harry Potter/Draco Malfoy",
 		"year" : 2014,
 		"count" : 52
 	},
 	{
-		"_id" : "Harry Potter/Draco Malfoy",
+		"_id" : "Remus Lupin/Severus Snape",
 		"year" : 2014,
 		"count" : 52
 	},
@@ -135,17 +135,17 @@
 		"count" : 35
 	},
 	{
-		"_id" : "Neville Longbottom/Luna Lovegood",
-		"year" : 2014,
-		"count" : 33
-	},
-	{
 		"_id" : "Draco Malfoy/Ginny Weasley",
 		"year" : 2014,
 		"count" : 33
 	},
 	{
 		"_id" : "Sirius Black/James Potter",
+		"year" : 2014,
+		"count" : 33
+	},
+	{
+		"_id" : "Neville Longbottom/Luna Lovegood",
 		"year" : 2014,
 		"count" : 33
 	},
@@ -170,17 +170,17 @@
 		"count" : 30
 	},
 	{
-		"_id" : "Castiel/Dean Winchester",
-		"year" : 2014,
-		"count" : 27
-	},
-	{
 		"_id" : "Hannah Abbott/Neville Longbottom",
 		"year" : 2014,
 		"count" : 27
 	},
 	{
 		"_id" : "Seamus Finnigan/Dean Thomas",
+		"year" : 2014,
+		"count" : 27
+	},
+	{
+		"_id" : "Castiel/Dean Winchester",
 		"year" : 2014,
 		"count" : 27
 	},
@@ -210,19 +210,14 @@
 		"count" : 24
 	},
 	{
-		"_id" : "Hermione Granger/Fred Weasley",
-		"year" : 2014,
-		"count" : 24
-	},
-	{
 		"_id" : "Sirius Black & Remus Lupin",
 		"year" : 2014,
 		"count" : 24
 	},
 	{
-		"_id" : "Arthur Weasley/Molly Weasley",
+		"_id" : "Hermione Granger/Fred Weasley",
 		"year" : 2014,
-		"count" : 23
+		"count" : 24
 	},
 	{
 		"_id" : "Sirius Black/Severus Snape",
@@ -230,17 +225,12 @@
 		"count" : 23
 	},
 	{
-		"_id" : "Sirius Black & Remus Lupin & Peter Pettigrew & James Potter",
+		"_id" : "Arthur Weasley/Molly Weasley",
 		"year" : 2014,
-		"count" : 21
+		"count" : 23
 	},
 	{
 		"_id" : "Crowley/Harry Potter",
-		"year" : 2014,
-		"count" : 21
-	},
-	{
-		"_id" : "Harry Potter & Severus Snape",
 		"year" : 2014,
 		"count" : 21
 	},
@@ -250,19 +240,19 @@
 		"count" : 21
 	},
 	{
-		"_id" : "Hermione Granger/Viktor Krum",
+		"_id" : "Sirius Black & Remus Lupin & Peter Pettigrew & James Potter",
 		"year" : 2014,
 		"count" : 21
 	},
 	{
-		"_id" : "Hermione Granger & Harry Potter & Ron Weasley",
+		"_id" : "Harry Potter & Severus Snape",
 		"year" : 2014,
-		"count" : 19
+		"count" : 21
 	},
 	{
-		"_id" : "Sirius Black/Marlene McKinnon",
+		"_id" : "Hermione Granger/Viktor Krum",
 		"year" : 2014,
-		"count" : 19
+		"count" : 21
 	},
 	{
 		"_id" : "Scorpius Malfoy/Lily Luna Potter",
@@ -275,7 +265,17 @@
 		"count" : 19
 	},
 	{
+		"_id" : "Hermione Granger & Harry Potter & Ron Weasley",
+		"year" : 2014,
+		"count" : 19
+	},
+	{
 		"_id" : "Percy Weasley/Oliver Wood",
+		"year" : 2014,
+		"count" : 19
+	},
+	{
+		"_id" : "Sirius Black/Marlene McKinnon",
 		"year" : 2014,
 		"count" : 19
 	},
@@ -305,22 +305,22 @@
 		"count" : 17
 	},
 	{
-		"_id" : "Draco Malfoy & Harry Potter",
-		"year" : 2014,
-		"count" : 17
-	},
-	{
 		"_id" : "Draco Malfoy/Original Female Character(s)",
 		"year" : 2014,
 		"count" : 17
 	},
 	{
-		"_id" : "Hermione Granger/Harry Potter/Ron Weasley",
+		"_id" : "Draco Malfoy & Harry Potter",
+		"year" : 2014,
+		"count" : 17
+	},
+	{
+		"_id" : "Draco Malfoy/Albus Severus Potter",
 		"year" : 2014,
 		"count" : 16
 	},
 	{
-		"_id" : "Draco Malfoy/Albus Severus Potter",
+		"_id" : "wolfstar - Relationship",
 		"year" : 2014,
 		"count" : 16
 	},
@@ -345,12 +345,12 @@
 		"count" : 16
 	},
 	{
-		"_id" : "wolfstar - Relationship",
+		"_id" : "Hermione Granger/Harry Potter/Ron Weasley",
 		"year" : 2014,
 		"count" : 16
 	},
 	{
-		"_id" : "Hermione Granger/Minerva McGonagall",
+		"_id" : "Angelina Johnson/George Weasley",
 		"year" : 2014,
 		"count" : 15
 	},
@@ -360,17 +360,12 @@
 		"count" : 15
 	},
 	{
-		"_id" : "Angelina Johnson/George Weasley",
+		"_id" : "Hermione Granger/Minerva McGonagall",
 		"year" : 2014,
 		"count" : 15
 	},
 	{
-		"_id" : "Hermione Granger/Ginny Weasley",
-		"year" : 2014,
-		"count" : 14
-	},
-	{
-		"_id" : "Alice Longbottom/Frank Longbottom",
+		"_id" : "Ginny Weasley/Blaise Zabini",
 		"year" : 2014,
 		"count" : 14
 	},
@@ -380,12 +375,7 @@
 		"count" : 14
 	},
 	{
-		"_id" : "Luna Lovegood/Ginny Weasley",
-		"year" : 2014,
-		"count" : 14
-	},
-	{
-		"_id" : "Ginny Weasley/Blaise Zabini",
+		"_id" : "Alice Longbottom/Frank Longbottom",
 		"year" : 2014,
 		"count" : 14
 	},
@@ -395,17 +385,27 @@
 		"count" : 14
 	},
 	{
+		"_id" : "Luna Lovegood/Ginny Weasley",
+		"year" : 2014,
+		"count" : 14
+	},
+	{
+		"_id" : "Hermione Granger/Ginny Weasley",
+		"year" : 2014,
+		"count" : 14
+	},
+	{
+		"_id" : "Sirius Black/Hermione Granger",
+		"year" : 2014,
+		"count" : 13
+	},
+	{
 		"_id" : "Harry Styles/Louis Tomlinson",
 		"year" : 2014,
 		"count" : 13
 	},
 	{
-		"_id" : "Minor or Background Relationship(s)",
-		"year" : 2014,
-		"count" : 13
-	},
-	{
-		"_id" : "Sirius Black/Hermione Granger",
+		"_id" : "Original Female Character/Original Male Character",
 		"year" : 2014,
 		"count" : 13
 	},
@@ -420,14 +420,19 @@
 		"count" : 13
 	},
 	{
-		"_id" : "Original Female Character/Original Male Character",
+		"_id" : "Luna Lovegood/Draco Malfoy",
 		"year" : 2014,
 		"count" : 13
 	},
 	{
-		"_id" : "Luna Lovegood/Draco Malfoy",
+		"_id" : "Minor or Background Relationship(s)",
 		"year" : 2014,
 		"count" : 13
+	},
+	{
+		"_id" : "James Potter/Severus Snape",
+		"year" : 2014,
+		"count" : 12
 	},
 	{
 		"_id" : "Draco Malfoy/Severus Snape",
@@ -436,11 +441,6 @@
 	},
 	{
 		"_id" : "Harry Potter/Fred Weasley/George Weasley",
-		"year" : 2014,
-		"count" : 12
-	},
-	{
-		"_id" : "James Potter/Severus Snape",
 		"year" : 2014,
 		"count" : 12
 	},
@@ -475,7 +475,7 @@
 		"count" : 12
 	},
 	{
-		"_id" : "Derek Hale/Stiles Stilinski",
+		"_id" : "Ambiguous or Implied Relationship(s)",
 		"year" : 2014,
 		"count" : 11
 	},
@@ -490,12 +490,12 @@
 		"count" : 11
 	},
 	{
-		"_id" : "Ambiguous or Implied Relationship(s)",
+		"_id" : "Hermione Granger/Tom Riddle | Voldemort",
 		"year" : 2014,
 		"count" : 11
 	},
 	{
-		"_id" : "Cho Chang/Cedric Diggory",
+		"_id" : "Derek Hale/Stiles Stilinski",
 		"year" : 2014,
 		"count" : 11
 	}

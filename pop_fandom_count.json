@@ -1,7 +1,7 @@
 [
 	{
 		"_id" : "Harry Potter - J. K. Rowling",
-		"count" : 54711
+		"count" : 54712
 	},
 	{
 		"_id" : "Fantastic Beasts and Where to Find Them (Movies)",
@@ -84,11 +84,11 @@
 		"count" : 117
 	},
 	{
-		"_id" : "Doctor Who (2005)",
+		"_id" : "Once Upon a Time (TV)",
 		"count" : 113
 	},
 	{
-		"_id" : "Once Upon a Time (TV)",
+		"_id" : "Doctor Who (2005)",
 		"count" : 113
 	},
 	{
@@ -96,11 +96,11 @@
 		"count" : 108
 	},
 	{
-		"_id" : "The Hobbit - All Media Types",
+		"_id" : "Game of Thrones (TV)",
 		"count" : 101
 	},
 	{
-		"_id" : "Game of Thrones (TV)",
+		"_id" : "The Hobbit - All Media Types",
 		"count" : 101
 	},
 	{
@@ -108,11 +108,11 @@
 		"count" : 94
 	},
 	{
-		"_id" : "Glee",
+		"_id" : "A Song of Ice and Fire - George R. R. Martin",
 		"count" : 93
 	},
 	{
-		"_id" : "A Song of Ice and Fire - George R. R. Martin",
+		"_id" : "Glee",
 		"count" : 93
 	},
 	{
@@ -164,15 +164,15 @@
 		"count" : 66
 	},
 	{
+		"_id" : "Bleach",
+		"count" : 66
+	},
+	{
 		"_id" : "Torchwood",
 		"count" : 66
 	},
 	{
 		"_id" : "Frozen (2013)",
-		"count" : 66
-	},
-	{
-		"_id" : "Bleach",
 		"count" : 66
 	},
 	{

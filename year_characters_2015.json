@@ -2,12 +2,12 @@
 	{
 		"_id" : "Harry Potter",
 		"year" : 2015,
-		"count" : 7362
+		"count" : 7368
 	},
 	{
 		"_id" : "Draco Malfoy",
 		"year" : 2015,
-		"count" : 4326
+		"count" : 4327
 	},
 	{
 		"_id" : "Hermione Granger",
@@ -27,12 +27,12 @@
 	{
 		"_id" : "Sirius Black",
 		"year" : 2015,
-		"count" : 2850
+		"count" : 2852
 	},
 	{
 		"_id" : "Remus Lupin",
 		"year" : 2015,
-		"count" : 2743
+		"count" : 2744
 	},
 	{
 		"_id" : "James Potter",
@@ -42,7 +42,7 @@
 	{
 		"_id" : "Ginny Weasley",
 		"year" : 2015,
-		"count" : 1668
+		"count" : 1669
 	},
 	{
 		"_id" : "Albus Dumbledore",
@@ -82,7 +82,7 @@
 	{
 		"_id" : "George Weasley",
 		"year" : 2015,
-		"count" : 827
+		"count" : 828
 	},
 	{
 		"_id" : "Original Female Character(s)",
@@ -127,7 +127,7 @@
 	{
 		"_id" : "Molly Weasley",
 		"year" : 2015,
-		"count" : 490
+		"count" : 491
 	},
 	{
 		"_id" : "Albus Severus Potter",
@@ -137,7 +137,7 @@
 	{
 		"_id" : "Teddy Lupin",
 		"year" : 2015,
-		"count" : 458
+		"count" : 459
 	},
 	{
 		"_id" : "Bellatrix Black Lestrange",
@@ -197,7 +197,7 @@
 	{
 		"_id" : "Charlie Weasley",
 		"year" : 2015,
-		"count" : 294
+		"count" : 298
 	},
 	{
 		"_id" : "Theodore Nott",
@@ -300,12 +300,12 @@
 		"count" : 141
 	},
 	{
-		"_id" : "Oliver Wood",
+		"_id" : "Vernon Dursley",
 		"year" : 2015,
 		"count" : 140
 	},
 	{
-		"_id" : "Vernon Dursley",
+		"_id" : "Oliver Wood",
 		"year" : 2015,
 		"count" : 140
 	},
@@ -360,17 +360,17 @@
 		"count" : 109
 	},
 	{
-		"_id" : "Steve Rogers",
-		"year" : 2015,
-		"count" : 107
-	},
-	{
 		"_id" : "Horace Slughorn",
 		"year" : 2015,
 		"count" : 107
 	},
 	{
 		"_id" : "Hannah Abbott",
+		"year" : 2015,
+		"count" : 107
+	},
+	{
+		"_id" : "Steve Rogers",
 		"year" : 2015,
 		"count" : 107
 	},
@@ -385,12 +385,12 @@
 		"count" : 100
 	},
 	{
-		"_id" : "Gellert Grindelwald",
+		"_id" : "Walburga Black",
 		"year" : 2015,
 		"count" : 98
 	},
 	{
-		"_id" : "Walburga Black",
+		"_id" : "Gellert Grindelwald",
 		"year" : 2015,
 		"count" : 98
 	},
@@ -460,12 +460,12 @@
 		"count" : 84
 	},
 	{
-		"_id" : "The Weasleys",
+		"_id" : "Marcus Flint",
 		"year" : 2015,
 		"count" : 79
 	},
 	{
-		"_id" : "Marcus Flint",
+		"_id" : "The Weasleys",
 		"year" : 2015,
 		"count" : 79
 	},
@@ -475,12 +475,12 @@
 		"count" : 78
 	},
 	{
-		"_id" : "Natasha Romanov",
+		"_id" : "Colin Creevey",
 		"year" : 2015,
 		"count" : 77
 	},
 	{
-		"_id" : "Colin Creevey",
+		"_id" : "Natasha Romanov",
 		"year" : 2015,
 		"count" : 77
 	},

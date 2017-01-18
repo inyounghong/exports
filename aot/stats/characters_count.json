@@ -1,0 +1,538 @@
+[
+	{
+		"_id" : "Levi (Shingeki no Kyojin)",
+		"count" : 17417,
+		"word_sum" : 166004902,
+		"kudo_average" : 128.277659757708,
+		"comment_average" : 26.011483033817534,
+		"word_average" : 9531.19951771258
+	},
+	{
+		"_id" : "Eren Yeager",
+		"count" : 17178,
+		"word_sum" : 170785972,
+		"kudo_average" : 128.05704971475143,
+		"comment_average" : 26.550064035394108,
+		"word_average" : 9942.133659331703
+	},
+	{
+		"_id" : "Jean Kirstein",
+		"count" : 11374,
+		"word_sum" : 130082079,
+		"kudo_average" : 113.14533145771057,
+		"comment_average" : 27.15482679796026,
+		"word_average" : 11436.792597151398
+	},
+	{
+		"_id" : "Armin Arlert",
+		"count" : 10821,
+		"word_sum" : 140646400,
+		"kudo_average" : 122.43369374364661,
+		"comment_average" : 31.71342759449219,
+		"word_average" : 12997.54181683763
+	},
+	{
+		"_id" : "Erwin Smith",
+		"count" : 10111,
+		"word_sum" : 131701250,
+		"kudo_average" : 133.90198793393333,
+		"comment_average" : 33.45435664128177,
+		"word_average" : 13025.541489466917
+	},
+	{
+		"_id" : "Mikasa Ackerman",
+		"count" : 9931,
+		"word_sum" : 134660637,
+		"kudo_average" : 124.09676769711005,
+		"comment_average" : 33.24267445373074,
+		"word_average" : 13559.625113281643
+	},
+	{
+		"_id" : "Marco Bott",
+		"count" : 7083,
+		"word_sum" : 88624044,
+		"kudo_average" : 111.68897359875758,
+		"comment_average" : 28.807849781166173,
+		"word_average" : 12512.218551461245
+	},
+	{
+		"_id" : "Hange Zoë",
+		"count" : 7055,
+		"word_sum" : 104932516,
+		"kudo_average" : 139.69156626506023,
+		"comment_average" : 38.42863217576187,
+		"word_average" : 14873.496243798725
+	},
+	{
+		"_id" : "Connie Springer",
+		"count" : 4492,
+		"word_sum" : 77162899,
+		"kudo_average" : 133.43009795191452,
+		"comment_average" : 37.57880676758682,
+		"word_average" : 17177.84928762244
+	},
+	{
+		"_id" : "Sasha Blouse",
+		"count" : 4474,
+		"word_sum" : 74522671,
+		"kudo_average" : 125.72083147071972,
+		"comment_average" : 35.884219937416184,
+		"word_average" : 16656.833035315154
+	},
+	{
+		"_id" : "Reiner Braun",
+		"count" : 4208,
+		"word_sum" : 70637192,
+		"kudo_average" : 130.28065589353614,
+		"comment_average" : 37.846007604562736,
+		"word_average" : 16786.40494296578
+	},
+	{
+		"_id" : "Annie Leonhart",
+		"count" : 4186,
+		"word_sum" : 68190369,
+		"kudo_average" : 119.6710463449594,
+		"comment_average" : 35.73076923076923,
+		"word_average" : 16290.10248447205
+	},
+	{
+		"_id" : "Krista Lenz | Historia Reiss",
+		"count" : 3729,
+		"word_sum" : 62603902,
+		"kudo_average" : 121.51434700992223,
+		"comment_average" : 37.82488602842585,
+		"word_average" : 16788.388844194153
+	},
+	{
+		"_id" : "Bertolt Hoover",
+		"count" : 3621,
+		"word_sum" : 60762294,
+		"kudo_average" : 125.09803921568627,
+		"comment_average" : 36.777133388566696,
+		"word_average" : 16780.52858326429
+	},
+	{
+		"_id" : "Ymir (Shingeki no Kyojin)",
+		"count" : 3206,
+		"word_sum" : 54246344,
+		"kudo_average" : 124.83343730505302,
+		"comment_average" : 37.332501559575796,
+		"word_average" : 16920.25701809108
+	},
+	{
+		"_id" : "Petra Ral",
+		"count" : 3164,
+		"word_sum" : 53669051,
+		"kudo_average" : 140.4677623261694,
+		"comment_average" : 45.011378002528446,
+		"word_average" : 16962.405499367887
+	},
+	{
+		"_id" : "Mike Zacharias",
+		"count" : 2234,
+		"word_sum" : 45586714,
+		"kudo_average" : 168.0376007162041,
+		"comment_average" : 56.2591763652641,
+		"word_average" : 20405.87018800358
+	},
+	{
+		"_id" : "Levi",
+		"count" : 1401,
+		"word_sum" : 13404572,
+		"kudo_average" : 89.20128479657387,
+		"comment_average" : 17.474660956459672,
+		"word_average" : 9567.860099928623
+	},
+	{
+		"_id" : "Grisha Yeager",
+		"count" : 1113,
+		"word_sum" : 25445492,
+		"kudo_average" : 199.45822102425876,
+		"comment_average" : 74.84366576819407,
+		"word_average" : 22862.077268643305
+	},
+	{
+		"_id" : "Oluo Bozado",
+		"count" : 986,
+		"word_sum" : 21523329,
+		"kudo_average" : 162.54868154158214,
+		"comment_average" : 56.45943204868154,
+		"word_average" : 21828.934077079106
+	},
+	{
+		"_id" : "Hanji Zoe",
+		"count" : 962,
+		"word_sum" : 14527339,
+		"kudo_average" : 166.02910602910603,
+		"comment_average" : 44.46049896049896,
+		"word_average" : 15101.18399168399
+	},
+	{
+		"_id" : "Eren Jaeger",
+		"count" : 961,
+		"word_sum" : 9443708,
+		"kudo_average" : 152.83558792924038,
+		"comment_average" : 28.09261186264308,
+		"word_average" : 9826.959417273672
+	},
+	{
+		"_id" : "Isabel Magnolia",
+		"count" : 954,
+		"word_sum" : 21199464,
+		"kudo_average" : 199.4014675052411,
+		"comment_average" : 73.82914046121593,
+		"word_average" : 22221.66037735849
+	},
+	{
+		"_id" : "Carla Yeager",
+		"count" : 923,
+		"word_sum" : 17589218,
+		"kudo_average" : 170.0595882990249,
+		"comment_average" : 60.84290357529794,
+		"word_average" : 19056.574214517877
+	},
+	{
+		"_id" : "Levi ackerman",
+		"count" : 808,
+		"word_sum" : 8532604,
+		"kudo_average" : 71.07178217821782,
+		"comment_average" : 18.849009900990097,
+		"word_average" : 10560.153465346535
+	},
+	{
+		"_id" : "Reader",
+		"count" : 727,
+		"word_sum" : 4320453,
+		"kudo_average" : 66.48555708390647,
+		"comment_average" : 8.861072902338377,
+		"word_average" : 5942.851444291609
+	},
+	{
+		"_id" : "Gunther Schultz",
+		"count" : 699,
+		"word_sum" : 16878829,
+		"kudo_average" : 174.54935622317598,
+		"comment_average" : 61.915593705293276,
+		"word_average" : 24147.108726752504
+	},
+	{
+		"_id" : "Eld Jinn",
+		"count" : 658,
+		"word_sum" : 16584548,
+		"kudo_average" : 171.95744680851064,
+		"comment_average" : 63.41641337386018,
+		"word_average" : 25204.480243161095
+	},
+	{
+		"_id" : "Ymir",
+		"count" : 618,
+		"word_sum" : 9649269,
+		"kudo_average" : 122.1504854368932,
+		"comment_average" : 38.41747572815534,
+		"word_average" : 15613.703883495145
+	},
+	{
+		"_id" : "Moblit Berner",
+		"count" : 616,
+		"word_sum" : 13941370,
+		"kudo_average" : 168.2224025974026,
+		"comment_average" : 57.15909090909091,
+		"word_average" : 22632.094155844155
+	},
+	{
+		"_id" : "Nanaba (Shingeki no Kyojin)",
+		"count" : 609,
+		"word_sum" : 14502041,
+		"kudo_average" : 183.39901477832512,
+		"comment_average" : 73.5960591133005,
+		"word_average" : 23812.875205254517
+	},
+	{
+		"_id" : "Kenny Ackerman",
+		"count" : 587,
+		"word_sum" : 13375416,
+		"kudo_average" : 165.17887563884156,
+		"comment_average" : 63.38671209540034,
+		"word_average" : 22786.057921635434
+	},
+	{
+		"_id" : "Farlan Church",
+		"count" : 564,
+		"word_sum" : 14352465,
+		"kudo_average" : 201.06560283687944,
+		"comment_average" : 79.75,
+		"word_average" : 25447.632978723403
+	},
+	{
+		"_id" : "Dot Pixis",
+		"count" : 499,
+		"word_sum" : 14175296,
+		"kudo_average" : 184.32264529058116,
+		"comment_average" : 73.27655310621242,
+		"word_average" : 28407.406813627254
+	},
+	{
+		"_id" : "Nile Dok",
+		"count" : 482,
+		"word_sum" : 11534647,
+		"kudo_average" : 215.81950207468878,
+		"comment_average" : 79.41908713692946,
+		"word_average" : 23930.802904564316
+	},
+	{
+		"_id" : "Special Operations Squad | Squad Levi",
+		"count" : 461,
+		"word_sum" : 7174970,
+		"kudo_average" : 144.58134490238612,
+		"comment_average" : 48.5704989154013,
+		"word_average" : 15563.926247288504
+	},
+	{
+		"_id" : "Mina Carolina",
+		"count" : 457,
+		"word_sum" : 9375120,
+		"kudo_average" : 121.95842450765865,
+		"comment_average" : 43.328227571115974,
+		"word_average" : 20514.485776805253
+	},
+	{
+		"_id" : "104th Training Corps",
+		"count" : 456,
+		"word_sum" : 6918407,
+		"kudo_average" : 155.17105263157896,
+		"comment_average" : 46.77412280701754,
+		"word_average" : 15171.945175438597
+	},
+	{
+		"_id" : "Marco Bodt",
+		"count" : 365,
+		"word_sum" : 3896392,
+		"kudo_average" : 74.67123287671232,
+		"comment_average" : 23.213698630136985,
+		"word_average" : 10675.046575342465
+	},
+	{
+		"_id" : "Furlan Church",
+		"count" : 328,
+		"word_sum" : 5517765,
+		"kudo_average" : 171.71646341463415,
+		"comment_average" : 60.1859756097561,
+		"word_average" : 16822.454268292684
+	},
+	{
+		"_id" : "Other Character Tags to Be Added",
+		"count" : 327,
+		"word_sum" : 4416375,
+		"kudo_average" : 102.50152905198777,
+		"comment_average" : 35.63608562691132,
+		"word_average" : 13505.733944954129
+	},
+	{
+		"_id" : "Keith Shadis",
+		"count" : 322,
+		"word_sum" : 7746276,
+		"kudo_average" : 129.58695652173913,
+		"comment_average" : 40.27329192546584,
+		"word_average" : 24056.757763975154
+	},
+	{
+		"_id" : "Original Female Character(s)",
+		"count" : 290,
+		"word_sum" : 5765917,
+		"kudo_average" : 49.03448275862069,
+		"comment_average" : 16.96551724137931,
+		"word_average" : 19882.472413793104
+	},
+	{
+		"_id" : "Hitch Dreyse",
+		"count" : 275,
+		"word_sum" : 6901526,
+		"kudo_average" : 126.24363636363637,
+		"comment_average" : 60.843636363636364,
+		"word_average" : 25096.458181818183
+	},
+	{
+		"_id" : "Kuchel Ackerman",
+		"count" : 270,
+		"word_sum" : 4952464,
+		"kudo_average" : 173.9925925925926,
+		"comment_average" : 73.94074074074074,
+		"word_average" : 18342.45925925926
+	},
+	{
+		"_id" : "Thomas Wagner",
+		"count" : 260,
+		"word_sum" : 7303815,
+		"kudo_average" : 195.99615384615385,
+		"comment_average" : 81.12692307692308,
+		"word_average" : 28091.596153846152
+	},
+	{
+		"_id" : "Rico Brzenska",
+		"count" : 244,
+		"word_sum" : 7762209,
+		"kudo_average" : 212.5860655737705,
+		"comment_average" : 95.50409836065573,
+		"word_average" : 31812.331967213115
+	},
+	{
+		"_id" : "Jean Kirstein's Mother",
+		"count" : 232,
+		"word_sum" : 3834812,
+		"kudo_average" : 59.69396551724138,
+		"comment_average" : 18.771551724137932,
+		"word_average" : 16529.362068965518
+	},
+	{
+		"_id" : "hanji",
+		"count" : 213,
+		"word_sum" : 2631591,
+		"kudo_average" : 103.53990610328638,
+		"comment_average" : 25.863849765258216,
+		"word_average" : 12354.887323943662
+	},
+	{
+		"_id" : "Original Male Character(s)",
+		"count" : 206,
+		"word_sum" : 5365520,
+		"kudo_average" : 64.26699029126213,
+		"comment_average" : 23.339805825242717,
+		"word_average" : 26046.21359223301
+	},
+	{
+		"_id" : "Hannes (Shingeki no Kyojin)",
+		"count" : 201,
+		"word_sum" : 5379460,
+		"kudo_average" : 189.1492537313433,
+		"comment_average" : 73.23383084577114,
+		"word_average" : 26763.48258706468
+	},
+	{
+		"_id" : "Armin Arlert's Grandfather",
+		"count" : 194,
+		"word_sum" : 3184460,
+		"kudo_average" : 86.70103092783505,
+		"comment_average" : 27.84536082474227,
+		"word_average" : 16414.74226804124
+	},
+	{
+		"_id" : "Jean Kirschtein",
+		"count" : 190,
+		"word_sum" : 2166668,
+		"kudo_average" : 91.38421052631578,
+		"comment_average" : 26.936842105263157,
+		"word_average" : 11403.515789473684
+	},
+	{
+		"_id" : "Sasha Braus",
+		"count" : 176,
+		"word_sum" : 2890174,
+		"kudo_average" : 124.74431818181819,
+		"comment_average" : 49.03977272727273,
+		"word_average" : 16421.44318181818
+	},
+	{
+		"_id" : "Original Character",
+		"count" : 169,
+		"word_sum" : 3975819,
+		"kudo_average" : 59.544378698224854,
+		"comment_average" : 26.266272189349113,
+		"word_average" : 23525.556213017753
+	},
+	{
+		"_id" : "Jean Kirschstein",
+		"count" : 152,
+		"word_sum" : 1164568,
+		"kudo_average" : 273.60526315789474,
+		"comment_average" : 34.06578947368421,
+		"word_average" : 7661.631578947368
+	},
+	{
+		"_id" : "Erwin",
+		"count" : 147,
+		"word_sum" : 1508671,
+		"kudo_average" : 72.78231292517007,
+		"comment_average" : 17.931972789115648,
+		"word_average" : 10263.068027210884
+	},
+	{
+		"_id" : "Original Characters",
+		"count" : 142,
+		"word_sum" : 4010339,
+		"kudo_average" : 157.48591549295776,
+		"comment_average" : 59.725352112676056,
+		"word_average" : 28241.823943661973
+	},
+	{
+		"_id" : "Eren",
+		"count" : 129,
+		"word_sum" : 1052313,
+		"kudo_average" : 56.49612403100775,
+		"comment_average" : 12.96124031007752,
+		"word_average" : 8157.46511627907
+	},
+	{
+		"_id" : "Annie Leonhardt",
+		"count" : 126,
+		"word_sum" : 1356245,
+		"kudo_average" : 73.93650793650794,
+		"comment_average" : 21.063492063492063,
+		"word_average" : 10763.849206349207
+	},
+	{
+		"_id" : "Survey Corps (Shingeki no Kyojin)",
+		"count" : 123,
+		"word_sum" : 1976070,
+		"kudo_average" : 89.91056910569105,
+		"comment_average" : 25.528455284552845,
+		"word_average" : 16065.609756097561
+	},
+	{
+		"_id" : "Eren Jeager",
+		"count" : 119,
+		"word_sum" : 1182030,
+		"kudo_average" : 79.73949579831933,
+		"comment_average" : 31.949579831932773,
+		"word_average" : 9933.025210084033
+	},
+	{
+		"_id" : "Darius Zackly",
+		"count" : 119,
+		"word_sum" : 3339021,
+		"kudo_average" : 138.94117647058823,
+		"comment_average" : 47.411764705882355,
+		"word_average" : 28059
+	},
+	{
+		"_id" : "Armin",
+		"count" : 113,
+		"word_sum" : 1171485,
+		"kudo_average" : 70.8141592920354,
+		"comment_average" : 21.831858407079647,
+		"word_average" : 10367.12389380531
+	},
+	{
+		"_id" : "Marco Bott's Mother",
+		"count" : 112,
+		"word_sum" : 1671518,
+		"kudo_average" : 37.089285714285715,
+		"comment_average" : 12.026785714285714,
+		"word_average" : 14924.267857142857
+	},
+	{
+		"_id" : "Bertholdt Fubar",
+		"count" : 111,
+		"word_sum" : 1708641,
+		"kudo_average" : 123.41441441441441,
+		"comment_average" : 37.648648648648646,
+		"word_average" : 15393.162162162162
+	},
+	{
+		"_id" : "Bertholdt Hoover",
+		"count" : 102,
+		"word_sum" : 1426191,
+		"kudo_average" : 104.67647058823529,
+		"comment_average" : 38.333333333333336,
+		"word_average" : 13982.264705882353
+	}
+]

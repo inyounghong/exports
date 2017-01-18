@@ -1,0 +1,87 @@
+[
+	{
+		"_id" : "Harry Potter - J. K. Rowling",
+		"year" : 2013,
+		"count" : 193
+	},
+	{
+		"_id" : "Glee",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "The Amazing Spider-Man (Movies - Webb)",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Thor (Movies)",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Marvel Cinematic Universe",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Pocket Monsters | Pokemon (Main Video Game Series)",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Wreck-It Ralph (2012)",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter - Fandom",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Scott Pilgrim vs. the World (2010)",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Iron Man (Movies)",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Chronicles of Narnia - C. S. Lewis",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "The Avengers (Marvel Movies)",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Pocket Monsters: Gold & Silver & Crystal | Pokemon Gold Silver Crystal Versions",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Twilight Series - Stephenie Meyer",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "General Hospital",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Doctor Who",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Percy Jackson and the Olympians - Rick Riordan",
+		"year" : 2013,
+		"count" : 1
+	}
+]

@@ -2,47 +2,47 @@
 	{
 		"_id" : "Harry Potter",
 		"year" : 2016,
-		"count" : 11687
+		"count" : 11675
 	},
 	{
 		"_id" : "Draco Malfoy",
 		"year" : 2016,
-		"count" : 7368
+		"count" : 7362
 	},
 	{
 		"_id" : "Hermione Granger",
 		"year" : 2016,
-		"count" : 7352
+		"count" : 7348
 	},
 	{
 		"_id" : "Ron Weasley",
 		"year" : 2016,
-		"count" : 5178
+		"count" : 5176
 	},
 	{
 		"_id" : "Severus Snape",
 		"year" : 2016,
-		"count" : 4409
+		"count" : 4407
 	},
 	{
 		"_id" : "Sirius Black",
 		"year" : 2016,
-		"count" : 4381
+		"count" : 4375
 	},
 	{
 		"_id" : "Remus Lupin",
 		"year" : 2016,
-		"count" : 4171
+		"count" : 4167
 	},
 	{
 		"_id" : "Ginny Weasley",
 		"year" : 2016,
-		"count" : 3178
+		"count" : 3174
 	},
 	{
 		"_id" : "James Potter",
 		"year" : 2016,
-		"count" : 2698
+		"count" : 2696
 	},
 	{
 		"_id" : "Albus Dumbledore",
@@ -52,62 +52,62 @@
 	{
 		"_id" : "Luna Lovegood",
 		"year" : 2016,
-		"count" : 1936
+		"count" : 1934
 	},
 	{
 		"_id" : "Lily Evans Potter",
 		"year" : 2016,
-		"count" : 1913
+		"count" : 1911
 	},
 	{
 		"_id" : "Minerva McGonagall",
 		"year" : 2016,
-		"count" : 1876
+		"count" : 1875
 	},
 	{
 		"_id" : "Neville Longbottom",
 		"year" : 2016,
-		"count" : 1855
+		"count" : 1853
 	},
 	{
 		"_id" : "Lucius Malfoy",
 		"year" : 2016,
-		"count" : 1798
+		"count" : 1797
 	},
 	{
 		"_id" : "George Weasley",
 		"year" : 2016,
-		"count" : 1513
+		"count" : 1510
 	},
 	{
 		"_id" : "Original Female Character(s)",
 		"year" : 2016,
-		"count" : 1501
+		"count" : 1498
 	},
 	{
 		"_id" : "Peter Pettigrew",
 		"year" : 2016,
-		"count" : 1439
+		"count" : 1437
 	},
 	{
 		"_id" : "Pansy Parkinson",
 		"year" : 2016,
-		"count" : 1339
+		"count" : 1338
 	},
 	{
 		"_id" : "Narcissa Black Malfoy",
 		"year" : 2016,
-		"count" : 1337
+		"count" : 1334
 	},
 	{
 		"_id" : "Blaise Zabini",
 		"year" : 2016,
-		"count" : 1335
+		"count" : 1333
 	},
 	{
 		"_id" : "Fred Weasley",
 		"year" : 2016,
-		"count" : 1253
+		"count" : 1250
 	},
 	{
 		"_id" : "Scorpius Malfoy",
@@ -117,12 +117,12 @@
 	{
 		"_id" : "Albus Severus Potter",
 		"year" : 2016,
-		"count" : 1156
+		"count" : 1155
 	},
 	{
 		"_id" : "Original Male Character(s)",
 		"year" : 2016,
-		"count" : 1105
+		"count" : 1102
 	},
 	{
 		"_id" : "Newt Scamander",
@@ -137,7 +137,7 @@
 	{
 		"_id" : "Molly Weasley",
 		"year" : 2016,
-		"count" : 1002
+		"count" : 999
 	},
 	{
 		"_id" : "Voldemort",
@@ -147,7 +147,7 @@
 	{
 		"_id" : "Teddy Lupin",
 		"year" : 2016,
-		"count" : 830
+		"count" : 829
 	},
 	{
 		"_id" : "Credence Barebone",
@@ -167,7 +167,7 @@
 	{
 		"_id" : "James Sirius Potter",
 		"year" : 2016,
-		"count" : 701
+		"count" : 700
 	},
 	{
 		"_id" : "Rose Weasley",
@@ -177,12 +177,12 @@
 	{
 		"_id" : "Arthur Weasley",
 		"year" : 2016,
-		"count" : 678
+		"count" : 677
 	},
 	{
 		"_id" : "Charlie Weasley",
 		"year" : 2016,
-		"count" : 660
+		"count" : 656
 	},
 	{
 		"_id" : "Nymphadora Tonks",
@@ -192,7 +192,7 @@
 	{
 		"_id" : "Theodore Nott",
 		"year" : 2016,
-		"count" : 610
+		"count" : 609
 	},
 	{
 		"_id" : "Tina Goldstein",
@@ -202,17 +202,17 @@
 	{
 		"_id" : "Seamus Finnigan",
 		"year" : 2016,
-		"count" : 584
+		"count" : 583
 	},
 	{
 		"_id" : "Regulus Black",
 		"year" : 2016,
-		"count" : 582
+		"count" : 581
 	},
 	{
 		"_id" : "Dean Thomas",
 		"year" : 2016,
-		"count" : 581
+		"count" : 580
 	},
 	{
 		"_id" : "Bill Weasley",
@@ -232,7 +232,7 @@
 	{
 		"_id" : "Percy Weasley",
 		"year" : 2016,
-		"count" : 490
+		"count" : 489
 	},
 	{
 		"_id" : "Fleur Delacour",
@@ -242,7 +242,7 @@
 	{
 		"_id" : "Rubeus Hagrid",
 		"year" : 2016,
-		"count" : 447
+		"count" : 448
 	},
 	{
 		"_id" : "Queenie Goldstein",
@@ -252,7 +252,7 @@
 	{
 		"_id" : "Daphne Greengrass",
 		"year" : 2016,
-		"count" : 402
+		"count" : 400
 	},
 	{
 		"_id" : "Andromeda Black Tonks",
@@ -262,17 +262,17 @@
 	{
 		"_id" : "Kingsley Shacklebolt",
 		"year" : 2016,
-		"count" : 391
+		"count" : 390
 	},
 	{
 		"_id" : "Lavender Brown",
 		"year" : 2016,
-		"count" : 377
+		"count" : 376
 	},
 	{
 		"_id" : "Astoria Greengrass",
 		"year" : 2016,
-		"count" : 372
+		"count" : 371
 	},
 	{
 		"_id" : "Original Characters",
@@ -287,17 +287,17 @@
 	{
 		"_id" : "Petunia Evans Dursley",
 		"year" : 2016,
-		"count" : 324
+		"count" : 323
 	},
 	{
 		"_id" : "Poppy Pomfrey",
 		"year" : 2016,
-		"count" : 311
+		"count" : 310
 	},
 	{
 		"_id" : "Gregory Goyle",
 		"year" : 2016,
-		"count" : 306
+		"count" : 304
 	},
 	{
 		"_id" : "Lily Evans",
@@ -312,7 +312,7 @@
 	{
 		"_id" : "Marlene McKinnon",
 		"year" : 2016,
-		"count" : 299
+		"count" : 298
 	},
 	{
 		"_id" : "Cedric Diggory",
@@ -327,17 +327,17 @@
 	{
 		"_id" : "Dudley Dursley",
 		"year" : 2016,
-		"count" : 281
+		"count" : 280
 	},
 	{
 		"_id" : "Parvati Patil",
 		"year" : 2016,
-		"count" : 277
+		"count" : 276
 	},
 	{
 		"_id" : "Filius Flitwick",
 		"year" : 2016,
-		"count" : 257
+		"count" : 256
 	},
 	{
 		"_id" : "Hugo Weasley",
@@ -350,19 +350,9 @@
 		"count" : 250
 	},
 	{
-		"_id" : "Vernon Dursley",
-		"year" : 2016,
-		"count" : 240
-	},
-	{
 		"_id" : "Hannah Abbott",
 		"year" : 2016,
 		"count" : 240
-	},
-	{
-		"_id" : "Alice Longbottom",
-		"year" : 2016,
-		"count" : 239
 	},
 	{
 		"_id" : "Cho Chang",
@@ -370,9 +360,19 @@
 		"count" : 239
 	},
 	{
+		"_id" : "Vernon Dursley",
+		"year" : 2016,
+		"count" : 239
+	},
+	{
+		"_id" : "Alice Longbottom",
+		"year" : 2016,
+		"count" : 238
+	},
+	{
 		"_id" : "Vincent Crabbe",
 		"year" : 2016,
-		"count" : 229
+		"count" : 227
 	},
 	{
 		"_id" : "Horace Slughorn",
@@ -390,12 +390,12 @@
 		"count" : 211
 	},
 	{
-		"_id" : "Padma Patil",
+		"_id" : "Viktor Krum",
 		"year" : 2016,
-		"count" : 208
+		"count" : 207
 	},
 	{
-		"_id" : "Viktor Krum",
+		"_id" : "Padma Patil",
 		"year" : 2016,
 		"count" : 207
 	},
@@ -407,7 +407,7 @@
 	{
 		"_id" : "Susan Bones",
 		"year" : 2016,
-		"count" : 206
+		"count" : 205
 	},
 	{
 		"_id" : "Angelina Johnson",
@@ -417,7 +417,7 @@
 	{
 		"_id" : "Frank Longbottom",
 		"year" : 2016,
-		"count" : 199
+		"count" : 198
 	},
 	{
 		"_id" : "Fenrir Greyback",
@@ -432,7 +432,7 @@
 	{
 		"_id" : "Sherlock Holmes",
 		"year" : 2016,
-		"count" : 187
+		"count" : 186
 	},
 	{
 		"_id" : "Dolores Umbridge",
@@ -442,7 +442,7 @@
 	{
 		"_id" : "Pomona Sprout",
 		"year" : 2016,
-		"count" : 184
+		"count" : 183
 	},
 	{
 		"_id" : "OC - Character",
@@ -452,7 +452,7 @@
 	{
 		"_id" : "Tony Stark",
 		"year" : 2016,
-		"count" : 175
+		"count" : 173
 	},
 	{
 		"_id" : "Reader",
@@ -460,19 +460,19 @@
 		"count" : 171
 	},
 	{
-		"_id" : "Steve Rogers",
-		"year" : 2016,
-		"count" : 169
-	},
-	{
 		"_id" : "Kreacher (Harry Potter)",
 		"year" : 2016,
 		"count" : 168
 	},
 	{
+		"_id" : "Steve Rogers",
+		"year" : 2016,
+		"count" : 167
+	},
+	{
 		"_id" : "Millicent Bulstrode",
 		"year" : 2016,
-		"count" : 162
+		"count" : 161
 	},
 	{
 		"_id" : "The Weasleys",
@@ -492,11 +492,11 @@
 	{
 		"_id" : "John Watson",
 		"year" : 2016,
-		"count" : 149
+		"count" : 148
 	},
 	{
 		"_id" : "Dean Winchester",
 		"year" : 2016,
-		"count" : 148
+		"count" : 147
 	}
 ]

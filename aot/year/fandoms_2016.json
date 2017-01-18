@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Shingeki no Kyojin | Attack on Titan",
+		"year" : 2016,
+		"count" : 7949
+	},
+	{
+		"_id" : "Attack on Titan",
+		"year" : 2016,
+		"count" : 127
+	},
+	{
+		"_id" : "Shingeki no Kyojin",
+		"year" : 2016,
+		"count" : 61
+	},
+	{
+		"_id" : "Kuroshitsuji | Black Butler",
+		"year" : 2016,
+		"count" : 28
+	},
+	{
+		"_id" : "snk - Fandom",
+		"year" : 2016,
+		"count" : 27
+	},
+	{
+		"_id" : "aot",
+		"year" : 2016,
+		"count" : 27
+	},
+	{
+		"_id" : "Haikyuu!!",
+		"year" : 2016,
+		"count" : 26
+	},
+	{
+		"_id" : "Tokyo Ghoul",
+		"year" : 2016,
+		"count" : 26
+	},
+	{
+		"_id" : "Harry Potter - J. K. Rowling",
+		"year" : 2016,
+		"count" : 24
+	},
+	{
+		"_id" : "Free!",
+		"year" : 2016,
+		"count" : 21
+	},
+	{
+		"_id" : "Ereri - Fandom",
+		"year" : 2016,
+		"count" : 20
+	},
+	{
+		"_id" : "Hetalia: Axis Powers",
+		"year" : 2016,
+		"count" : 18
+	},
+	{
+		"_id" : "進撃の巨人 | Shingeki no Kyojin | Attack on Titan (Movies)",
+		"year" : 2016,
+		"count" : 18
+	},
+	{
+		"_id" : "Fairy Tail",
+		"year" : 2016,
+		"count" : 18
+	},
+	{
+		"_id" : "Naruto",
+		"year" : 2016,
+		"count" : 16
+	},
+	{
+		"_id" : "進撃！巨人中学校 | Shingeki! Kyojin Chuugakkou | Attack on Titan: Junior High",
+		"year" : 2016,
+		"count" : 15
+	},
+	{
+		"_id" : "Supernatural",
+		"year" : 2016,
+		"count" : 13
+	},
+	{
+		"_id" : "Kuroko no Basuke | Kuroko's Basketball",
+		"year" : 2016,
+		"count" : 12
+	},
+	{
+		"_id" : "Doctor Who",
+		"year" : 2016,
+		"count" : 11
+	},
+	{
+		"_id" : "Sherlock (TV)",
+		"year" : 2016,
+		"count" : 11
+	},
+	{
+		"_id" : "Homestuck",
+		"year" : 2016,
+		"count" : 10
+	},
+	{
+		"_id" : "Star Wars - All Media Types",
+		"year" : 2016,
+		"count" : 9
+	},
+	{
+		"_id" : "Death Note",
+		"year" : 2016,
+		"count" : 9
+	},
+	{
+		"_id" : "anime - Fandom",
+		"year" : 2016,
+		"count" : 9
+	},
+	{
+		"_id" : "Avatar: The Last Airbender",
+		"year" : 2016,
+		"count" : 8
+	},
+	{
+		"_id" : "Bleach",
+		"year" : 2016,
+		"count" : 8
+	},
+	{
+		"_id" : "Yuri!!! on Ice (Anime)",
+		"year" : 2016,
+		"count" : 8
+	},
+	{
+		"_id" : "Pocket Monsters | Pokemon - All Media Types",
+		"year" : 2016,
+		"count" : 7
+	},
+	{
+		"_id" : "eruri - Fandom",
+		"year" : 2016,
+		"count" : 7
+	},
+	{
+		"_id" : "Star Wars Episode VII: The Force Awakens (2015)",
+		"year" : 2016,
+		"count" : 7
+	},
+	{
+		"_id" : "終わりのセラフ | Owari no Seraph | Seraph of the End",
+		"year" : 2016,
+		"count" : 7
+	},
+	{
+		"_id" : "Shingeki",
+		"year" : 2016,
+		"count" : 7
+	},
+	{
+		"_id" : "Game of Thrones (TV)",
+		"year" : 2016,
+		"count" : 7
+	},
+	{
+		"_id" : "Undertale (Video Game)",
+		"year" : 2016,
+		"count" : 7
+	},
+	{
+		"_id" : "The Avengers (Marvel Movies)",
+		"year" : 2016,
+		"count" : 6
+	},
+	{
+		"_id" : "Riren - Fandom",
+		"year" : 2016,
+		"count" : 6
+	},
+	{
+		"_id" : "Neon Genesis Evangelion",
+		"year" : 2016,
+		"count" : 6
+	},
+	{
+		"_id" : "ワンパンマン | One-Punch Man",
+		"year" : 2016,
+		"count" : 6
+	},
+	{
+		"_id" : "One Piece",
+		"year" : 2016,
+		"count" : 6
+	},
+	{
+		"_id" : "Sword Art Online",
+		"year" : 2016,
+		"count" : 6
+	},
+	{
+		"_id" : "Teen Wolf (TV)",
+		"year" : 2016,
+		"count" : 6
+	},
+	{
+		"_id" : "The Avengers (Marvel) - All Media Types",
+		"year" : 2016,
+		"count" : 5
+	},
+	{
+		"_id" : "Fullmetal Alchemist - All Media Types",
+		"year" : 2016,
+		"count" : 5
+	},
+	{
+		"_id" : "Percy Jackson and the Olympians & Related Fandoms - All Media Types",
+		"year" : 2016,
+		"count" : 5
+	},
+	{
+		"_id" : "LeviHan - Fandom",
+		"year" : 2016,
+		"count" : 5
+	},
+	{
+		"_id" : "One Direction (Band)",
+		"year" : 2016,
+		"count" : 5
+	},
+	{
+		"_id" : "Levi x Eren - Fandom",
+		"year" : 2016,
+		"count" : 5
+	},
+	{
+		"_id" : "Marvel Cinematic Universe",
+		"year" : 2016,
+		"count" : 5
+	},
+	{
+		"_id" : "Spider-Man - All Media Types",
+		"year" : 2016,
+		"count" : 5
+	},
+	{
+		"_id" : "The Legend of Zelda: Twilight Princess",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Levi Ackerman - Fandom",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Merlin (TV)",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Marvel",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "逆転裁判 | Gyakuten Saiban | Ace Attorney",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Steven Universe (Cartoon)",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Shingeki no Kyojin/Attack on Titan",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Dragon Ball",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Changeling: The Lost",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Pacific Rim (2013)",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Avatar: Legend of Korra",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "ジョジョの奇妙な冒険 | JoJo no Kimyou na Bouken | JoJo's Bizarre Adventure",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Hellsing",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Fullmetal Alchemist: Brotherhood & Manga",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Gravity Falls",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Percy Jackson and the Olympians - Rick Riordan",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Once Upon a Time (TV)",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Ouran High School Host Club - All Media Types",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "团兵 - Fandom",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Five Nights at Freddy's",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Hunger Games Trilogy - Suzanne Collins",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Uta no Prince-sama",
+		"year" : 2016,
+		"count" : 4
+	},
+	{
+		"_id" : "Young Justice (Cartoon)",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "境界の彼方 | Kyoukai no Kanata | Beyond the Boundary",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Sonic the Hedgehog (Video Games)",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Frozen (2013)",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Original Work",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Manga - Fandom",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "My Little Pony: Friendship is Magic",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "shingeki no kyojin (attack on titan)",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Pocket Monsters | Pokemon (Anime)",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Attackontitan - Fandom",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Mystic Messenger (Video Game)",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "進撃の巨人 反撃の狼煙 | Shingeki no Kyojin: Hangeki no Noroshi | Attack on Titan: Counterattack's Beacon (TV)",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Rise of the Guardians (2012)",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Kill la Kill",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Gakuen Mokushiroku | Highschool of the Dead",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "RWBY",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "ダイヤのA | Daiya no A | Ace of Diamond",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Shrek",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "The Hunger Games (Movies)",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "团兵 艾利",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Ao no Exorcist | Blue Exorcist",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Panic! at the Disco",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Hunger Games Series - All Media Types",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Twenty One Pilots",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Super Dangan Ronpa 2",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Panty & Stocking with Garterbelt",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Soul Eater",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Kuinaki Sentaku | No Regrets",
+		"year" : 2016,
+		"count" : 3
+	},
+	{
+		"_id" : "Black Butler",
+		"year" : 2016,
+		"count" : 3
+	}
+]

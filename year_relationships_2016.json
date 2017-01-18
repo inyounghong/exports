@@ -2,22 +2,22 @@
 	{
 		"_id" : "Draco Malfoy/Harry Potter",
 		"year" : 2016,
-		"count" : 3907
+		"count" : 3906
 	},
 	{
 		"_id" : "Sirius Black/Remus Lupin",
 		"year" : 2016,
-		"count" : 1877
+		"count" : 1876
 	},
 	{
 		"_id" : "Hermione Granger/Ron Weasley",
 		"year" : 2016,
-		"count" : 1431
+		"count" : 1430
 	},
 	{
 		"_id" : "James Potter/Lily Evans Potter",
 		"year" : 2016,
-		"count" : 1252
+		"count" : 1251
 	},
 	{
 		"_id" : "Harry Potter/Ginny Weasley",
@@ -27,7 +27,7 @@
 	{
 		"_id" : "Hermione Granger/Draco Malfoy",
 		"year" : 2016,
-		"count" : 1088
+		"count" : 1087
 	},
 	{
 		"_id" : "Harry Potter/Severus Snape",
@@ -52,7 +52,7 @@
 	{
 		"_id" : "Lucius Malfoy/Narcissa Black Malfoy",
 		"year" : 2016,
-		"count" : 367
+		"count" : 366
 	},
 	{
 		"_id" : "Harry Potter/Voldemort",
@@ -65,12 +65,12 @@
 		"count" : 263
 	},
 	{
-		"_id" : "Scorpius Malfoy/Rose Weasley",
+		"_id" : "Hermione Granger/Harry Potter",
 		"year" : 2016,
 		"count" : 261
 	},
 	{
-		"_id" : "Hermione Granger/Harry Potter",
+		"_id" : "Scorpius Malfoy/Rose Weasley",
 		"year" : 2016,
 		"count" : 261
 	},
@@ -202,7 +202,7 @@
 	{
 		"_id" : "Hermione Granger/Fred Weasley",
 		"year" : 2016,
-		"count" : 110
+		"count" : 109
 	},
 	{
 		"_id" : "Hannah Abbott/Neville Longbottom",
@@ -237,10 +237,10 @@
 	{
 		"_id" : "Draco Malfoy/Ginny Weasley",
 		"year" : 2016,
-		"count" : 96
+		"count" : 95
 	},
 	{
-		"_id" : "Bellatrix Black Lestrange/Rodolphus Lestrange",
+		"_id" : "Lucius Malfoy/Severus Snape",
 		"year" : 2016,
 		"count" : 92
 	},
@@ -250,7 +250,7 @@
 		"count" : 92
 	},
 	{
-		"_id" : "Lucius Malfoy/Severus Snape",
+		"_id" : "Bellatrix Black Lestrange/Rodolphus Lestrange",
 		"year" : 2016,
 		"count" : 92
 	},
@@ -275,12 +275,12 @@
 		"count" : 84
 	},
 	{
-		"_id" : "Fred Weasley/George Weasley",
+		"_id" : "Minor or Background Relationship(s)",
 		"year" : 2016,
 		"count" : 83
 	},
 	{
-		"_id" : "Minor or Background Relationship(s)",
+		"_id" : "Fred Weasley/George Weasley",
 		"year" : 2016,
 		"count" : 83
 	},
@@ -305,6 +305,11 @@
 		"count" : 80
 	},
 	{
+		"_id" : "Hermione Granger/Lucius Malfoy",
+		"year" : 2016,
+		"count" : 79
+	},
+	{
 		"_id" : "Sirius Black/Original Female Character(s)",
 		"year" : 2016,
 		"count" : 79
@@ -315,17 +320,12 @@
 		"count" : 79
 	},
 	{
-		"_id" : "Hermione Granger/Lucius Malfoy",
-		"year" : 2016,
-		"count" : 79
-	},
-	{
-		"_id" : "Teddy Lupin/James Sirius Potter",
+		"_id" : "Bellatrix Black Lestrange/Voldemort",
 		"year" : 2016,
 		"count" : 78
 	},
 	{
-		"_id" : "Bellatrix Black Lestrange/Voldemort",
+		"_id" : "Teddy Lupin/James Sirius Potter",
 		"year" : 2016,
 		"count" : 78
 	},
@@ -375,12 +375,12 @@
 		"count" : 69
 	},
 	{
-		"_id" : "Harry Potter/Original Male Character(s)",
+		"_id" : "Cedric Diggory/Harry Potter",
 		"year" : 2016,
 		"count" : 68
 	},
 	{
-		"_id" : "Cedric Diggory/Harry Potter",
+		"_id" : "Harry Potter/Original Male Character(s)",
 		"year" : 2016,
 		"count" : 68
 	},
@@ -405,11 +405,6 @@
 		"count" : 62
 	},
 	{
-		"_id" : "Neville Longbottom/Draco Malfoy",
-		"year" : 2016,
-		"count" : 61
-	},
-	{
 		"_id" : "Credence Barebone & Original Percival Graves",
 		"year" : 2016,
 		"count" : 61
@@ -420,7 +415,7 @@
 		"count" : 60
 	},
 	{
-		"_id" : "Harry Potter/Charlie Weasley",
+		"_id" : "Neville Longbottom/Draco Malfoy",
 		"year" : 2016,
 		"count" : 60
 	},
@@ -435,12 +430,12 @@
 		"count" : 59
 	},
 	{
-		"_id" : "Sirius Black/Harry Potter",
+		"_id" : "Regulus Black/James Potter",
 		"year" : 2016,
-		"count" : 59
+		"count" : 58
 	},
 	{
-		"_id" : "Regulus Black/James Potter",
+		"_id" : "Sirius Black/Harry Potter",
 		"year" : 2016,
 		"count" : 58
 	},
@@ -455,7 +450,12 @@
 		"count" : 57
 	},
 	{
-		"_id" : "Percy Weasley/Oliver Wood",
+		"_id" : "Harry Potter/Charlie Weasley",
+		"year" : 2016,
+		"count" : 57
+	},
+	{
+		"_id" : "Neville Longbottom/Blaise Zabini",
 		"year" : 2016,
 		"count" : 56
 	},
@@ -465,7 +465,7 @@
 		"count" : 56
 	},
 	{
-		"_id" : "Neville Longbottom/Blaise Zabini",
+		"_id" : "Percy Weasley/Oliver Wood",
 		"year" : 2016,
 		"count" : 56
 	},
@@ -473,6 +473,11 @@
 		"_id" : "Hermione Granger/Luna Lovegood",
 		"year" : 2016,
 		"count" : 54
+	},
+	{
+		"_id" : "Hermione Granger & Harry Potter & Ron Weasley",
+		"year" : 2016,
+		"count" : 53
 	},
 	{
 		"_id" : "Harry Potter/Blaise Zabini",
@@ -490,12 +495,7 @@
 		"count" : 53
 	},
 	{
-		"_id" : "Hermione Granger & Harry Potter & Ron Weasley",
-		"year" : 2016,
-		"count" : 53
-	},
-	{
-		"_id" : "Draco Malfoy/Blaise Zabini",
+		"_id" : "Petunia Evans Dursley/Vernon Dursley",
 		"year" : 2016,
 		"count" : 50
 	}

@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Eren Yeager",
+		"year" : 2014,
+		"count" : 5399
+	},
+	{
+		"_id" : "Levi (Shingeki no Kyojin)",
+		"year" : 2014,
+		"count" : 5272
+	},
+	{
+		"_id" : "Jean Kirstein",
+		"year" : 2014,
+		"count" : 4004
+	},
+	{
+		"_id" : "Armin Arlert",
+		"year" : 2014,
+		"count" : 3473
+	},
+	{
+		"_id" : "Mikasa Ackerman",
+		"year" : 2014,
+		"count" : 3115
+	},
+	{
+		"_id" : "Erwin Smith",
+		"year" : 2014,
+		"count" : 2948
+	},
+	{
+		"_id" : "Marco Bott",
+		"year" : 2014,
+		"count" : 2555
+	},
+	{
+		"_id" : "Hange Zoë",
+		"year" : 2014,
+		"count" : 1893
+	},
+	{
+		"_id" : "Connie Springer",
+		"year" : 2014,
+		"count" : 1500
+	},
+	{
+		"_id" : "Sasha Blouse",
+		"year" : 2014,
+		"count" : 1473
+	},
+	{
+		"_id" : "Reiner Braun",
+		"year" : 2014,
+		"count" : 1472
+	},
+	{
+		"_id" : "Annie Leonhart",
+		"year" : 2014,
+		"count" : 1370
+	},
+	{
+		"_id" : "Krista Lenz | Historia Reiss",
+		"year" : 2014,
+		"count" : 1273
+	},
+	{
+		"_id" : "Bertolt Hoover",
+		"year" : 2014,
+		"count" : 1265
+	},
+	{
+		"_id" : "Ymir (Shingeki no Kyojin)",
+		"year" : 2014,
+		"count" : 1061
+	},
+	{
+		"_id" : "Petra Ral",
+		"year" : 2014,
+		"count" : 938
+	},
+	{
+		"_id" : "Mike Zacharias",
+		"year" : 2014,
+		"count" : 589
+	},
+	{
+		"_id" : "Hanji Zoe",
+		"year" : 2014,
+		"count" : 304
+	},
+	{
+		"_id" : "Oluo Bozado",
+		"year" : 2014,
+		"count" : 288
+	},
+	{
+		"_id" : "Levi",
+		"year" : 2014,
+		"count" : 275
+	},
+	{
+		"_id" : "Reader",
+		"year" : 2014,
+		"count" : 256
+	},
+	{
+		"_id" : "Eren Jaeger",
+		"year" : 2014,
+		"count" : 247
+	},
+	{
+		"_id" : "Ymir",
+		"year" : 2014,
+		"count" : 239
+	},
+	{
+		"_id" : "Grisha Yeager",
+		"year" : 2014,
+		"count" : 239
+	},
+	{
+		"_id" : "Gunther Schultz",
+		"year" : 2014,
+		"count" : 185
+	},
+	{
+		"_id" : "Moblit Berner",
+		"year" : 2014,
+		"count" : 178
+	},
+	{
+		"_id" : "Eld Jinn",
+		"year" : 2014,
+		"count" : 170
+	},
+	{
+		"_id" : "Nanaba (Shingeki no Kyojin)",
+		"year" : 2014,
+		"count" : 159
+	},
+	{
+		"_id" : "Marco Bodt",
+		"year" : 2014,
+		"count" : 159
+	},
+	{
+		"_id" : "Mina Carolina",
+		"year" : 2014,
+		"count" : 152
+	},
+	{
+		"_id" : "Carla Yeager",
+		"year" : 2014,
+		"count" : 146
+	},
+	{
+		"_id" : "Nile Dok",
+		"year" : 2014,
+		"count" : 136
+	},
+	{
+		"_id" : "104th Training Corps",
+		"year" : 2014,
+		"count" : 127
+	},
+	{
+		"_id" : "Dot Pixis",
+		"year" : 2014,
+		"count" : 126
+	},
+	{
+		"_id" : "Isabel Magnolia",
+		"year" : 2014,
+		"count" : 115
+	},
+	{
+		"_id" : "Special Operations Squad | Squad Levi",
+		"year" : 2014,
+		"count" : 105
+	},
+	{
+		"_id" : "Keith Shadis",
+		"year" : 2014,
+		"count" : 101
+	},
+	{
+		"_id" : "Other Character Tags to Be Added",
+		"year" : 2014,
+		"count" : 101
+	},
+	{
+		"_id" : "Levi ackerman",
+		"year" : 2014,
+		"count" : 95
+	},
+	{
+		"_id" : "Farlan Church",
+		"year" : 2014,
+		"count" : 95
+	},
+	{
+		"_id" : "Jean Kirschtein",
+		"year" : 2014,
+		"count" : 82
+	},
+	{
+		"_id" : "Thomas Wagner",
+		"year" : 2014,
+		"count" : 81
+	},
+	{
+		"_id" : "Sasha Braus",
+		"year" : 2014,
+		"count" : 74
+	},
+	{
+		"_id" : "hanji",
+		"year" : 2014,
+		"count" : 68
+	},
+	{
+		"_id" : "Kenny Ackerman",
+		"year" : 2014,
+		"count" : 56
+	},
+	{
+		"_id" : "Jean Kirstein's Mother",
+		"year" : 2014,
+		"count" : 55
+	},
+	{
+		"_id" : "Rico Brzenska",
+		"year" : 2014,
+		"count" : 51
+	},
+	{
+		"_id" : "Original Characters",
+		"year" : 2014,
+		"count" : 51
+	},
+	{
+		"_id" : "Armin Arlert's Grandfather",
+		"year" : 2014,
+		"count" : 50
+	},
+	{
+		"_id" : "Bertholdt Fubar",
+		"year" : 2014,
+		"count" : 50
+	},
+	{
+		"_id" : "Hannes (Shingeki no Kyojin)",
+		"year" : 2014,
+		"count" : 44
+	},
+	{
+		"_id" : "Original Female Character(s)",
+		"year" : 2014,
+		"count" : 43
+	},
+	{
+		"_id" : "Annie Leonhardt",
+		"year" : 2014,
+		"count" : 43
+	},
+	{
+		"_id" : "Kalura Yeager",
+		"year" : 2014,
+		"count" : 42
+	},
+	{
+		"_id" : "Hitch (Shingeki no Kyojin)",
+		"year" : 2014,
+		"count" : 40
+	},
+	{
+		"_id" : "Original Male Character(s)",
+		"year" : 2014,
+		"count" : 36
+	},
+	{
+		"_id" : "OC - Character",
+		"year" : 2014,
+		"count" : 36
+	},
+	{
+		"_id" : "Eren",
+		"year" : 2014,
+		"count" : 35
+	},
+	{
+		"_id" : "Survey Corps (Shingeki no Kyojin)",
+		"year" : 2014,
+		"count" : 35
+	},
+	{
+		"_id" : "Hitch Dreyse",
+		"year" : 2014,
+		"count" : 34
+	},
+	{
+		"_id" : "Eren Yaeger",
+		"year" : 2014,
+		"count" : 30
+	},
+	{
+		"_id" : "Bertholdt Hoover",
+		"year" : 2014,
+		"count" : 28
+	},
+	{
+		"_id" : "Auruo Bossard",
+		"year" : 2014,
+		"count" : 27
+	},
+	{
+		"_id" : "Original Character",
+		"year" : 2014,
+		"count" : 27
+	},
+	{
+		"_id" : "Jean Kirschstein",
+		"year" : 2014,
+		"count" : 26
+	},
+	{
+		"_id" : "Armin",
+		"year" : 2014,
+		"count" : 25
+	},
+	{
+		"_id" : "Krista Lenz",
+		"year" : 2014,
+		"count" : 25
+	},
+	{
+		"_id" : "Historia Reiss",
+		"year" : 2014,
+		"count" : 25
+	},
+	{
+		"_id" : "Berthold",
+		"year" : 2014,
+		"count" : 24
+	},
+	{
+		"_id" : "Eren Jeager",
+		"year" : 2014,
+		"count" : 24
+	},
+	{
+		"_id" : "Erwin",
+		"year" : 2014,
+		"count" : 22
+	},
+	{
+		"_id" : "Marco Bott's Mother",
+		"year" : 2014,
+		"count" : 22
+	},
+	{
+		"_id" : "Darius Zackly",
+		"year" : 2014,
+		"count" : 20
+	},
+	{
+		"_id" : "Furlan Church",
+		"year" : 2014,
+		"count" : 19
+	},
+	{
+		"_id" : "Hannah (Shingeki no Kyojin)",
+		"year" : 2014,
+		"count" : 19
+	},
+	{
+		"_id" : "Carla Jaeger",
+		"year" : 2014,
+		"count" : 19
+	},
+	{
+		"_id" : "Ilse Langnar",
+		"year" : 2014,
+		"count" : 18
+	},
+	{
+		"_id" : "Franz (Shingeki no Kyojin)",
+		"year" : 2014,
+		"count" : 18
+	},
+	{
+		"_id" : "Jean",
+		"year" : 2014,
+		"count" : 17
+	},
+	{
+		"_id" : "Christa",
+		"year" : 2014,
+		"count" : 17
+	},
+	{
+		"_id" : "basically everyone",
+		"year" : 2014,
+		"count" : 16
+	},
+	{
+		"_id" : "Erd Gin",
+		"year" : 2014,
+		"count" : 16
+	},
+	{
+		"_id" : "Background & Cameo Characters",
+		"year" : 2014,
+		"count" : 16
+	},
+	{
+		"_id" : "Christa Renz",
+		"year" : 2014,
+		"count" : 15
+	},
+	{
+		"_id" : "Franz Kefka",
+		"year" : 2014,
+		"count" : 15
+	},
+	{
+		"_id" : "Marlowe Freudenberg",
+		"year" : 2014,
+		"count" : 14
+	},
+	{
+		"_id" : "Marco",
+		"year" : 2014,
+		"count" : 14
+	},
+	{
+		"_id" : "mentions of others",
+		"year" : 2014,
+		"count" : 14
+	},
+	{
+		"_id" : "Zoe Hanji",
+		"year" : 2014,
+		"count" : 14
+	},
+	{
+		"_id" : "mikasa",
+		"year" : 2014,
+		"count" : 13
+	},
+	{
+		"_id" : "Daz (Shingeki no Kyojin)",
+		"year" : 2014,
+		"count" : 13
+	},
+	{
+		"_id" : "Rivaille",
+		"year" : 2014,
+		"count" : 13
+	},
+	{
+		"_id" : "Nile Dawk",
+		"year" : 2014,
+		"count" : 12
+	},
+	{
+		"_id" : "Shingeki no Kyojin Ensemble",
+		"year" : 2014,
+		"count" : 12
+	},
+	{
+		"_id" : "Jean Kirchstein",
+		"year" : 2014,
+		"count" : 12
+	},
+	{
+		"_id" : "Armin Arlert's Parents",
+		"year" : 2014,
+		"count" : 12
+	},
+	{
+		"_id" : "Mike Zacharius",
+		"year" : 2014,
+		"count" : 11
+	},
+	{
+		"_id" : "Christa lenz - Character",
+		"year" : 2014,
+		"count" : 11
+	},
+	{
+		"_id" : "others - Character",
+		"year" : 2014,
+		"count" : 11
+	},
+	{
+		"_id" : "Grisha Jaeger",
+		"year" : 2014,
+		"count" : 11
+	}
+]

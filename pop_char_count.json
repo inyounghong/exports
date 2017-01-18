@@ -1,7 +1,7 @@
 [
 	{
 		"_id" : "Harry Potter",
-		"count" : 23995
+		"count" : 23996
 	},
 	{
 		"_id" : "Draco Malfoy",
@@ -13,7 +13,7 @@
 	},
 	{
 		"_id" : "Ron Weasley",
-		"count" : 10086
+		"count" : 10087
 	},
 	{
 		"_id" : "Sirius Black",
@@ -37,7 +37,7 @@
 	},
 	{
 		"_id" : "Albus Dumbledore",
-		"count" : 4752
+		"count" : 4753
 	},
 	{
 		"_id" : "Lily Evans Potter",
@@ -57,7 +57,7 @@
 	},
 	{
 		"_id" : "Minerva McGonagall",
-		"count" : 3446
+		"count" : 3447
 	},
 	{
 		"_id" : "George Weasley",
@@ -189,7 +189,7 @@
 	},
 	{
 		"_id" : "Rubeus Hagrid",
-		"count" : 881
+		"count" : 882
 	},
 	{
 		"_id" : "Fleur Delacour",

@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Romance",
+		"year" : 2013,
+		"count" : 25
+	},
+	{
+		"_id" : "Angst",
+		"year" : 2013,
+		"count" : 14
+	},
+	{
+		"_id" : "Drabble",
+		"year" : 2013,
+		"count" : 13
+	},
+	{
+		"_id" : "Drama",
+		"year" : 2013,
+		"count" : 10
+	},
+	{
+		"_id" : "Humor",
+		"year" : 2013,
+		"count" : 10
+	},
+	{
+		"_id" : "Fluff",
+		"year" : 2013,
+		"count" : 9
+	},
+	{
+		"_id" : "Post-War",
+		"year" : 2013,
+		"count" : 9
+	},
+	{
+		"_id" : "Alternate Universe",
+		"year" : 2013,
+		"count" : 9
+	},
+	{
+		"_id" : "Canon Compliant",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Plot What Plot/Porn Without Plot",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Post Hogwarts",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Challenge Response",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Next Gen",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Established Relationship",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "DH compliant",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Unrequited Love",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "Post-Canon",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "Hurt/Comfort",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "One Shot",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Harry Potter Next Generation",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Light Angst",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Auror Harry Potter",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Time Travel",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Marauders' Era",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Family",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Marauders",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Romantic Fluff",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Hogwarts Eighth Year",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "POV First Person",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Harry Potter kink-fest",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Harry Potter squick-fest",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Alternate Universe - Canon Divergence",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Fluff and Angst",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Crossover",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Crack",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Friendship",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Hogwarts",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Past Relationship(s)",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Character Death",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Implied/Referenced Homophobia",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Action/Adventure",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Christmas",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Pre-Slash",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Poetry",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Songfic",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "War",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Potioneer Draco Malfoy",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "HP: EWE",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Magic",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Flogging",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Not Epilogue Compliant",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Teenagers",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Teen Romance",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Order of the Phoenix (Harry Potter)",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "First Time",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Book 6: Harry Potter and the Half-Blood Prince",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Mildly Dubious Consent",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Quidditch",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Alcohol",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Memories",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Implied/Referenced Cheating",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Book 5: Harry Potter and the Order of the Phoenix",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Family Dynamics",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Drama & Romance",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Short One Shot",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Marriage Proposal",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Smut",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Abandoned Work - Unfinished and Discontinued",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Secret Identity",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Hogwarts Era",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Post Hogwarts AU",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Recovery",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Alternate Universe - Book/Movie Fusion",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Aurors",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Dark Harry",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Alternate Universe - Movie Fusion",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Crime Fighting",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "pining!Draco",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Arson",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Infidelity",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Random Pairing Generator",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Wrong Boy-Who-Lived",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Alternate Universe - Canon",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Implied/Referenced Child Abuse",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Saving the World",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Bellatrix-alpha",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Single Parents",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "First Dates",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Sane Voldemort",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Dubious Consent",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Coffee Shops",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Fluff and Humor",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Humour",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Hestia is Not",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Ministry of Magic",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Father-Son Relationship",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Next-Gen",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Underage Sex",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Teenage Drama",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Community: dracotops_harry",
+		"year" : 2013,
+		"count" : 1
+	}
+]

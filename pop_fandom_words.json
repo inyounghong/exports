@@ -1,13 +1,13 @@
 [
 	{
 		"_id" : "Harry Potter - J. K. Rowling",
-		"count" : 54713,
-		"words" : 496992522
+		"count" : 54712,
+		"words" : 497191275
 	},
 	{
 		"_id" : "Harry Potter - Fandom",
 		"count" : 1660,
-		"words" : 15331402
+		"words" : 15331517
 	},
 	{
 		"_id" : "Fantastic Beasts and Where to Find Them (Movies)",
@@ -17,17 +17,17 @@
 	{
 		"_id" : "Supernatural",
 		"count" : 567,
-		"words" : 6493763
+		"words" : 6495992
 	},
 	{
 		"_id" : "Sherlock (TV)",
 		"count" : 564,
-		"words" : 5692124
+		"words" : 5694353
 	},
 	{
 		"_id" : "The Avengers (Marvel Movies)",
 		"count" : 401,
-		"words" : 5613145
+		"words" : 5625626
 	},
 	{
 		"_id" : "Harry Potter and the Cursed Child - Thorne & Rowling",
@@ -37,22 +37,22 @@
 	{
 		"_id" : "Naruto",
 		"count" : 197,
-		"words" : 3675854
+		"words" : 3687477
 	},
 	{
 		"_id" : "Marvel Cinematic Universe",
 		"count" : 321,
-		"words" : 3248374
+		"words" : 3252445
 	},
 	{
 		"_id" : "Buffy the Vampire Slayer",
 		"count" : 188,
-		"words" : 3070230
+		"words" : 3074301
 	},
 	{
 		"_id" : "Merlin (TV)",
 		"count" : 196,
-		"words" : 2782884
+		"words" : 2785760
 	},
 	{
 		"_id" : "Criminal Minds",
@@ -107,12 +107,12 @@
 	{
 		"_id" : "Captain America (Movies)",
 		"count" : 123,
-		"words" : 1753299
+		"words" : 1758251
 	},
 	{
 		"_id" : "A Song of Ice and Fire - George R. R. Martin",
 		"count" : 93,
-		"words" : 1745853
+		"words" : 1747447
 	},
 	{
 		"_id" : "Marvel",
@@ -137,7 +137,7 @@
 	{
 		"_id" : "One Direction (Band)",
 		"count" : 94,
-		"words" : 1387767
+		"words" : 1387803
 	},
 	{
 		"_id" : "One Piece",
@@ -150,14 +150,14 @@
 		"words" : 1310670
 	},
 	{
+		"_id" : "The Walking Dead (TV)",
+		"count" : 52,
+		"words" : 1231083
+	},
+	{
 		"_id" : "Glee",
 		"count" : 93,
 		"words" : 1228449
-	},
-	{
-		"_id" : "The Walking Dead (TV)",
-		"count" : 52,
-		"words" : 1226203
 	},
 	{
 		"_id" : "The Lord of the Rings (Movies)",
@@ -167,7 +167,7 @@
 	{
 		"_id" : "Torchwood",
 		"count" : 66,
-		"words" : 1165142
+		"words" : 1166974
 	},
 	{
 		"_id" : "Bleach",

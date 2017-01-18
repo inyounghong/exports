@@ -225,12 +225,12 @@
 		"count" : 98
 	},
 	{
-		"_id" : "Kingsley Shacklebolt",
+		"_id" : "Astoria Greengrass",
 		"year" : 2014,
 		"count" : 92
 	},
 	{
-		"_id" : "Astoria Greengrass",
+		"_id" : "Kingsley Shacklebolt",
 		"year" : 2014,
 		"count" : 92
 	},
@@ -420,7 +420,7 @@
 		"count" : 35
 	},
 	{
-		"_id" : "Frank Longbottom",
+		"_id" : "Vincent Crabbe",
 		"year" : 2014,
 		"count" : 34
 	},
@@ -430,14 +430,9 @@
 		"count" : 34
 	},
 	{
-		"_id" : "Vincent Crabbe",
+		"_id" : "Frank Longbottom",
 		"year" : 2014,
 		"count" : 34
-	},
-	{
-		"_id" : "Walburga Black",
-		"year" : 2014,
-		"count" : 33
 	},
 	{
 		"_id" : "Marcus Flint",
@@ -445,12 +440,17 @@
 		"count" : 33
 	},
 	{
-		"_id" : "Narcissa Malfoy",
+		"_id" : "Walburga Black",
 		"year" : 2014,
 		"count" : 33
 	},
 	{
 		"_id" : "Steve Rogers",
+		"year" : 2014,
+		"count" : 33
+	},
+	{
+		"_id" : "Narcissa Malfoy",
 		"year" : 2014,
 		"count" : 33
 	},
@@ -465,17 +465,17 @@
 		"count" : 31
 	},
 	{
-		"_id" : "Bartemius Crouch Jr.",
-		"year" : 2014,
-		"count" : 31
-	},
-	{
 		"_id" : "Millicent Bulstrode",
 		"year" : 2014,
 		"count" : 31
 	},
 	{
 		"_id" : "Abraxas Malfoy",
+		"year" : 2014,
+		"count" : 31
+	},
+	{
+		"_id" : "Bartemius Crouch Jr.",
 		"year" : 2014,
 		"count" : 31
 	},
@@ -495,7 +495,7 @@
 		"count" : 28
 	},
 	{
-		"_id" : "Rabastan Lestrange",
+		"_id" : "Dolores Umbridge",
 		"year" : 2014,
 		"count" : 28
 	}

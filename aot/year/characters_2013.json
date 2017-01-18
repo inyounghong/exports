@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Levi (Shingeki no Kyojin)",
+		"year" : 2013,
+		"count" : 1680
+	},
+	{
+		"_id" : "Eren Yeager",
+		"year" : 2013,
+		"count" : 1521
+	},
+	{
+		"_id" : "Armin Arlert",
+		"year" : 2013,
+		"count" : 893
+	},
+	{
+		"_id" : "Jean Kirstein",
+		"year" : 2013,
+		"count" : 842
+	},
+	{
+		"_id" : "Mikasa Ackerman",
+		"year" : 2013,
+		"count" : 774
+	},
+	{
+		"_id" : "Erwin Smith",
+		"year" : 2013,
+		"count" : 723
+	},
+	{
+		"_id" : "Marco Bott",
+		"year" : 2013,
+		"count" : 498
+	},
+	{
+		"_id" : "Hange Zoë",
+		"year" : 2013,
+		"count" : 417
+	},
+	{
+		"_id" : "Reiner Braun",
+		"year" : 2013,
+		"count" : 371
+	},
+	{
+		"_id" : "Annie Leonhart",
+		"year" : 2013,
+		"count" : 341
+	},
+	{
+		"_id" : "Bertolt Hoover",
+		"year" : 2013,
+		"count" : 310
+	},
+	{
+		"_id" : "Connie Springer",
+		"year" : 2013,
+		"count" : 257
+	},
+	{
+		"_id" : "Eren Jaeger",
+		"year" : 2013,
+		"count" : 244
+	},
+	{
+		"_id" : "Krista Lenz | Historia Reiss",
+		"year" : 2013,
+		"count" : 240
+	},
+	{
+		"_id" : "Ymir (Shingeki no Kyojin)",
+		"year" : 2013,
+		"count" : 237
+	},
+	{
+		"_id" : "Sasha Blouse",
+		"year" : 2013,
+		"count" : 234
+	},
+	{
+		"_id" : "Petra Ral",
+		"year" : 2013,
+		"count" : 198
+	},
+	{
+		"_id" : "Hanji Zoe",
+		"year" : 2013,
+		"count" : 164
+	},
+	{
+		"_id" : "Levi",
+		"year" : 2013,
+		"count" : 109
+	},
+	{
+		"_id" : "Jean Kirschstein",
+		"year" : 2013,
+		"count" : 100
+	},
+	{
+		"_id" : "Mike Zacharias",
+		"year" : 2013,
+		"count" : 92
+	},
+	{
+		"_id" : "Irvin Smith",
+		"year" : 2013,
+		"count" : 53
+	},
+	{
+		"_id" : "Auruo Bossard",
+		"year" : 2013,
+		"count" : 49
+	},
+	{
+		"_id" : "Ymir",
+		"year" : 2013,
+		"count" : 46
+	},
+	{
+		"_id" : "Petra Rall",
+		"year" : 2013,
+		"count" : 41
+	},
+	{
+		"_id" : "Marco Bodt",
+		"year" : 2013,
+		"count" : 40
+	},
+	{
+		"_id" : "Erd Gin",
+		"year" : 2013,
+		"count" : 39
+	},
+	{
+		"_id" : "Gunther Schultz",
+		"year" : 2013,
+		"count" : 36
+	},
+	{
+		"_id" : "Oluo Bozado",
+		"year" : 2013,
+		"count" : 34
+	},
+	{
+		"_id" : "Historia Reiss | Krista Lenz",
+		"year" : 2013,
+		"count" : 33
+	},
+	{
+		"_id" : "Bertholdt Fubar",
+		"year" : 2013,
+		"count" : 31
+	},
+	{
+		"_id" : "104th Training Corps",
+		"year" : 2013,
+		"count" : 31
+	},
+	{
+		"_id" : "Dot Pixis",
+		"year" : 2013,
+		"count" : 28
+	},
+	{
+		"_id" : "Sasha Blause",
+		"year" : 2013,
+		"count" : 27
+	},
+	{
+		"_id" : "Grisha Yeager",
+		"year" : 2013,
+		"count" : 26
+	},
+	{
+		"_id" : "Mina Carolina",
+		"year" : 2013,
+		"count" : 25
+	},
+	{
+		"_id" : "Jean Kirschtein",
+		"year" : 2013,
+		"count" : 24
+	},
+	{
+		"_id" : "hanji",
+		"year" : 2013,
+		"count" : 24
+	},
+	{
+		"_id" : "Nanaba (Shingeki no Kyojin)",
+		"year" : 2013,
+		"count" : 21
+	},
+	{
+		"_id" : "Special Operations Squad | Squad Levi",
+		"year" : 2013,
+		"count" : 20
+	},
+	{
+		"_id" : "Rivaille",
+		"year" : 2013,
+		"count" : 19
+	},
+	{
+		"_id" : "Survey Corps (Shingeki no Kyojin)",
+		"year" : 2013,
+		"count" : 17
+	},
+	{
+		"_id" : "Eld Jinn",
+		"year" : 2013,
+		"count" : 16
+	},
+	{
+		"_id" : "Sasha Braus",
+		"year" : 2013,
+		"count" : 16
+	},
+	{
+		"_id" : "Carla Yeager",
+		"year" : 2013,
+		"count" : 15
+	},
+	{
+		"_id" : "Annie Leonhardt",
+		"year" : 2013,
+		"count" : 14
+	},
+	{
+		"_id" : "Other Character Tags to Be Added",
+		"year" : 2013,
+		"count" : 14
+	},
+	{
+		"_id" : "Keith Shadis",
+		"year" : 2013,
+		"count" : 13
+	},
+	{
+		"_id" : "Bertholdt Hoover",
+		"year" : 2013,
+		"count" : 12
+	},
+	{
+		"_id" : "Moblit (Shingeki no Kyojin)",
+		"year" : 2013,
+		"count" : 11
+	},
+	{
+		"_id" : "Hannes (Shingeki no Kyojin)",
+		"year" : 2013,
+		"count" : 11
+	},
+	{
+		"_id" : "Thomas Wagner",
+		"year" : 2013,
+		"count" : 10
+	},
+	{
+		"_id" : "Christa Renz",
+		"year" : 2013,
+		"count" : 10
+	},
+	{
+		"_id" : "Nile Dawk",
+		"year" : 2013,
+		"count" : 10
+	},
+	{
+		"_id" : "Gunter",
+		"year" : 2013,
+		"count" : 9
+	},
+	{
+		"_id" : "Jean",
+		"year" : 2013,
+		"count" : 9
+	},
+	{
+		"_id" : "Rico Brzenska",
+		"year" : 2013,
+		"count" : 9
+	},
+	{
+		"_id" : "Nile Dok",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "Eren Yaeger",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "Erwin",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "Mike Zakarius",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "mikasa",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "Hannah (Shingeki no Kyojin)",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Reader",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Eren Jeager",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Franz (Shingeki no Kyojin)",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Gunter Shulz",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Eren",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Original Female Character(s)",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Original Characters",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Gunter Schulz",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Mike",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Hitch (Shingeki no Kyojin)",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Armin",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "Marco",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "Rivaille | Levi",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "Erd",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "Kalura Yeager",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "Armin Arlelt",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "Oluo Bozad",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "Levi Rivaille",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "Dai-104-ki Kunren Heidan | 104th Trainees Corps",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "Minor Characters",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Original Male Character(s)",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Zoe Hanji",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Carla Jaeger",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "第104期訓練兵団 | 104th Training Corps",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Armin Arlert's Grandfather",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Krista Lenz",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Farlan (Shingeki no Kyojin)",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Titan!Eren - Character",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Karkat Vantas",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Military Police Brigade (Shingeki no Kyojin)",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Heidy",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Isabel (Shingeki no Kyojin)",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Dallis Zacklay",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Moblit Berner",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Zoe Hange",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Historia Reiss",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Gunther",
+		"year" : 2013,
+		"count" : 3
+	}
+]

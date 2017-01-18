@@ -2,62 +2,62 @@
 	{
 		"_id" : "Draco Malfoy/Harry Potter",
 		"count" : 8131,
-		"words" : 82903307
+		"words" : 82969699
 	},
 	{
 		"_id" : "Hermione Granger/Ron Weasley",
 		"count" : 2817,
-		"words" : 50568312
+		"words" : 50581550
 	},
 	{
 		"_id" : "Sirius Black/Remus Lupin",
 		"count" : 4712,
-		"words" : 42468965
+		"words" : 42468966
 	},
 	{
 		"_id" : "Harry Potter/Ginny Weasley",
 		"count" : 2272,
-		"words" : 37198225
+		"words" : 37211494
 	},
 	{
 		"_id" : "James Potter/Lily Evans Potter",
 		"count" : 2497,
-		"words" : 27967957
+		"words" : 27975630
 	},
 	{
 		"_id" : "Hermione Granger/Draco Malfoy",
 		"count" : 2111,
-		"words" : 24411643
+		"words" : 24419928
 	},
 	{
 		"_id" : "Harry Potter/Severus Snape",
 		"count" : 2493,
-		"words" : 24158938
+		"words" : 24162818
 	},
 	{
 		"_id" : "Harry Potter/Tom Riddle",
 		"count" : 966,
-		"words" : 16035119
+		"words" : 16039831
 	},
 	{
 		"_id" : "Lucius Malfoy/Narcissa Black Malfoy",
 		"count" : 713,
-		"words" : 14514791
+		"words" : 14519647
 	},
 	{
 		"_id" : "Hermione Granger/Severus Snape",
 		"count" : 1003,
-		"words" : 13989589
+		"words" : 13990535
 	},
 	{
 		"_id" : "Harry Potter/Voldemort",
 		"count" : 579,
-		"words" : 10985985
+		"words" : 10990630
 	},
 	{
 		"_id" : "Hermione Granger/Harry Potter",
 		"count" : 594,
-		"words" : 9756554
+		"words" : 9758470
 	},
 	{
 		"_id" : "Remus Lupin/Nymphadora Tonks",
@@ -72,7 +72,7 @@
 	{
 		"_id" : "Remus Lupin/Severus Snape",
 		"count" : 508,
-		"words" : 7093310
+		"words" : 7156489
 	},
 	{
 		"_id" : "Neville Longbottom/Luna Lovegood",
@@ -102,7 +102,7 @@
 	{
 		"_id" : "Seamus Finnigan/Dean Thomas",
 		"count" : 532,
-		"words" : 5312161
+		"words" : 5317144
 	},
 	{
 		"_id" : "Lily Evans Potter/Severus Snape",
@@ -112,7 +112,7 @@
 	{
 		"_id" : "Draco Malfoy/Ginny Weasley",
 		"count" : 237,
-		"words" : 4309338
+		"words" : 4316867
 	},
 	{
 		"_id" : "Draco Malfoy/Original Female Character(s)",
@@ -122,17 +122,17 @@
 	{
 		"_id" : "Harry Potter/Original Male Character(s)",
 		"count" : 119,
-		"words" : 4105457
+		"words" : 4106292
 	},
 	{
 		"_id" : "Luna Lovegood/Harry Potter",
 		"count" : 230,
-		"words" : 3930978
+		"words" : 3932736
 	},
 	{
 		"_id" : "James/Lily",
 		"count" : 387,
-		"words" : 3830889
+		"words" : 3833726
 	},
 	{
 		"_id" : "Severus Snape/Original Female Character(s)",
@@ -152,7 +152,7 @@
 	{
 		"_id" : "Hermione Granger/Tom Riddle",
 		"count" : 220,
-		"words" : 3555767
+		"words" : 3555758
 	},
 	{
 		"_id" : "Draco Malfoy & Harry Potter",
@@ -162,7 +162,7 @@
 	{
 		"_id" : "Hermione Granger/Viktor Krum",
 		"count" : 183,
-		"words" : 3387171
+		"words" : 3388929
 	},
 	{
 		"_id" : "Alice Longbottom/Frank Longbottom",
@@ -212,7 +212,7 @@
 	{
 		"_id" : "Sirius Black/Severus Snape",
 		"count" : 241,
-		"words" : 2841015
+		"words" : 2842847
 	},
 	{
 		"_id" : "Draco Malfoy/Pansy Parkinson",
@@ -222,7 +222,7 @@
 	{
 		"_id" : "Pansy Parkinson/Ron Weasley",
 		"count" : 143,
-		"words" : 2809999
+		"words" : 2814982
 	},
 	{
 		"_id" : "Neville Longbottom/Ginny Weasley",
@@ -237,7 +237,7 @@
 	{
 		"_id" : "Hermione Granger/Fred Weasley",
 		"count" : 219,
-		"words" : 2649406
+		"words" : 2652708
 	},
 	{
 		"_id" : "Harry Potter/Ron Weasley",

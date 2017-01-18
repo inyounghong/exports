@@ -2,7 +2,7 @@
 	{
 		"_id" : "Harry Potter - J. K. Rowling",
 		"year" : 2015,
-		"count" : 16438
+		"count" : 16444
 	},
 	{
 		"_id" : "Harry Potter - Fandom",
@@ -90,12 +90,12 @@
 		"count" : 44
 	},
 	{
-		"_id" : "Captain America (Movies)",
+		"_id" : "One Direction (Band)",
 		"year" : 2015,
 		"count" : 43
 	},
 	{
-		"_id" : "One Direction (Band)",
+		"_id" : "Captain America (Movies)",
 		"year" : 2015,
 		"count" : 43
 	},
@@ -115,12 +115,12 @@
 		"count" : 31
 	},
 	{
-		"_id" : "Once Upon a Time (TV)",
+		"_id" : "Glee",
 		"year" : 2015,
 		"count" : 30
 	},
 	{
-		"_id" : "Glee",
+		"_id" : "Once Upon a Time (TV)",
 		"year" : 2015,
 		"count" : 30
 	},
@@ -130,12 +130,12 @@
 		"count" : 29
 	},
 	{
-		"_id" : "Alternity - A Harry Potter Alternate Universe",
+		"_id" : "Frozen (2013)",
 		"year" : 2015,
 		"count" : 27
 	},
 	{
-		"_id" : "Frozen (2013)",
+		"_id" : "Alternity - A Harry Potter Alternate Universe",
 		"year" : 2015,
 		"count" : 27
 	},
@@ -160,14 +160,19 @@
 		"count" : 26
 	},
 	{
+		"_id" : "Homestuck",
+		"year" : 2015,
+		"count" : 25
+	},
+	{
 		"_id" : "Torchwood",
 		"year" : 2015,
 		"count" : 25
 	},
 	{
-		"_id" : "Homestuck",
+		"_id" : "Agents of S.H.I.E.L.D. (TV)",
 		"year" : 2015,
-		"count" : 25
+		"count" : 24
 	},
 	{
 		"_id" : "Criminal Minds",
@@ -180,17 +185,12 @@
 		"count" : 24
 	},
 	{
-		"_id" : "Agents of S.H.I.E.L.D. (TV)",
-		"year" : 2015,
-		"count" : 24
-	},
-	{
-		"_id" : "VH - A Harry Potter Roleplay Site",
+		"_id" : "marauders - Fandom",
 		"year" : 2015,
 		"count" : 23
 	},
 	{
-		"_id" : "marauders - Fandom",
+		"_id" : "VH - A Harry Potter Roleplay Site",
 		"year" : 2015,
 		"count" : 23
 	},
@@ -205,19 +205,14 @@
 		"count" : 22
 	},
 	{
-		"_id" : "Bleach",
-		"year" : 2015,
-		"count" : 21
-	},
-	{
 		"_id" : "Iron Man (Movies)",
 		"year" : 2015,
 		"count" : 21
 	},
 	{
-		"_id" : "Rise of the Guardians (2012)",
+		"_id" : "Bleach",
 		"year" : 2015,
-		"count" : 20
+		"count" : 21
 	},
 	{
 		"_id" : "One Piece",
@@ -230,12 +225,17 @@
 		"count" : 20
 	},
 	{
+		"_id" : "Rise of the Guardians (2012)",
+		"year" : 2015,
+		"count" : 20
+	},
+	{
 		"_id" : "Game of Thrones (TV)",
 		"year" : 2015,
 		"count" : 20
 	},
 	{
-		"_id" : "Star Wars - All Media Types",
+		"_id" : "The Heroes of Olympus - Rick Riordan",
 		"year" : 2015,
 		"count" : 19
 	},
@@ -245,7 +245,12 @@
 		"count" : 19
 	},
 	{
-		"_id" : "The Heroes of Olympus - Rick Riordan",
+		"_id" : "How to Train Your Dragon (Movies)",
+		"year" : 2015,
+		"count" : 19
+	},
+	{
+		"_id" : "Star Wars - All Media Types",
 		"year" : 2015,
 		"count" : 19
 	},
@@ -253,16 +258,6 @@
 		"_id" : "The Hobbit (Jackson Movies)",
 		"year" : 2015,
 		"count" : 19
-	},
-	{
-		"_id" : "How to Train Your Dragon (Movies)",
-		"year" : 2015,
-		"count" : 19
-	},
-	{
-		"_id" : "The Lord of the Rings (Movies)",
-		"year" : 2015,
-		"count" : 18
 	},
 	{
 		"_id" : "Chronicles of Narnia - C. S. Lewis",
@@ -275,12 +270,17 @@
 		"count" : 18
 	},
 	{
-		"_id" : "Mortal Instruments Series - Cassandra Clare",
+		"_id" : "The Lord of the Rings (Movies)",
+		"year" : 2015,
+		"count" : 18
+	},
+	{
+		"_id" : "My Little Pony: Friendship is Magic",
 		"year" : 2015,
 		"count" : 17
 	},
 	{
-		"_id" : "My Little Pony: Friendship is Magic",
+		"_id" : "Mortal Instruments Series - Cassandra Clare",
 		"year" : 2015,
 		"count" : 17
 	},
@@ -300,17 +300,7 @@
 		"count" : 16
 	},
 	{
-		"_id" : "The Vampire Diaries (TV)",
-		"year" : 2015,
-		"count" : 15
-	},
-	{
 		"_id" : "The Walking Dead (TV)",
-		"year" : 2015,
-		"count" : 15
-	},
-	{
-		"_id" : "Wolfstar - Fandom",
 		"year" : 2015,
 		"count" : 15
 	},
@@ -320,7 +310,17 @@
 		"count" : 15
 	},
 	{
-		"_id" : "Hunger Games Series - All Media Types",
+		"_id" : "The Vampire Diaries (TV)",
+		"year" : 2015,
+		"count" : 15
+	},
+	{
+		"_id" : "Wolfstar - Fandom",
+		"year" : 2015,
+		"count" : 15
+	},
+	{
+		"_id" : "Carmilla (Web Series)",
 		"year" : 2015,
 		"count" : 14
 	},
@@ -335,12 +335,7 @@
 		"count" : 14
 	},
 	{
-		"_id" : "Captain America - All Media Types",
-		"year" : 2015,
-		"count" : 14
-	},
-	{
-		"_id" : "Carmilla (Web Series)",
+		"_id" : "Marvel",
 		"year" : 2015,
 		"count" : 14
 	},
@@ -350,14 +345,14 @@
 		"count" : 14
 	},
 	{
-		"_id" : "Marvel",
+		"_id" : "Captain America - All Media Types",
 		"year" : 2015,
 		"count" : 14
 	},
 	{
-		"_id" : "Thor - All Media Types",
+		"_id" : "Hunger Games Series - All Media Types",
 		"year" : 2015,
-		"count" : 13
+		"count" : 14
 	},
 	{
 		"_id" : "Kuroko no Basuke | Kuroko's Basketball",
@@ -370,7 +365,12 @@
 		"count" : 13
 	},
 	{
-		"_id" : "Stargate Atlantis",
+		"_id" : "Thor - All Media Types",
+		"year" : 2015,
+		"count" : 13
+	},
+	{
+		"_id" : "Pirates of the Caribbean (Movies)",
 		"year" : 2015,
 		"count" : 12
 	},
@@ -380,7 +380,7 @@
 		"count" : 12
 	},
 	{
-		"_id" : "Pirates of the Caribbean (Movies)",
+		"_id" : "Discworld - Terry Pratchett",
 		"year" : 2015,
 		"count" : 12
 	},
@@ -395,52 +395,12 @@
 		"count" : 12
 	},
 	{
-		"_id" : "Discworld - Terry Pratchett",
+		"_id" : "Stargate Atlantis",
 		"year" : 2015,
 		"count" : 12
 	},
 	{
-		"_id" : "RWBY",
-		"year" : 2015,
-		"count" : 11
-	},
-	{
-		"_id" : "Star Trek: Alternate Original Series (Movies)",
-		"year" : 2015,
-		"count" : 11
-	},
-	{
-		"_id" : "Marauders Era - Fandom",
-		"year" : 2015,
-		"count" : 11
-	},
-	{
-		"_id" : "Spider-Man - All Media Types",
-		"year" : 2015,
-		"count" : 11
-	},
-	{
 		"_id" : "Charmed",
-		"year" : 2015,
-		"count" : 11
-	},
-	{
-		"_id" : "The Flash (TV 2014)",
-		"year" : 2015,
-		"count" : 11
-	},
-	{
-		"_id" : "Final Fantasy VII",
-		"year" : 2015,
-		"count" : 11
-	},
-	{
-		"_id" : "Yu-Gi-Oh!",
-		"year" : 2015,
-		"count" : 11
-	},
-	{
-		"_id" : "Stargate SG-1",
 		"year" : 2015,
 		"count" : 11
 	},
@@ -450,7 +410,47 @@
 		"count" : 11
 	},
 	{
+		"_id" : "The Flash (TV 2014)",
+		"year" : 2015,
+		"count" : 11
+	},
+	{
+		"_id" : "Spider-Man - All Media Types",
+		"year" : 2015,
+		"count" : 11
+	},
+	{
+		"_id" : "Marauders Era - Fandom",
+		"year" : 2015,
+		"count" : 11
+	},
+	{
+		"_id" : "Star Trek: Alternate Original Series (Movies)",
+		"year" : 2015,
+		"count" : 11
+	},
+	{
+		"_id" : "RWBY",
+		"year" : 2015,
+		"count" : 11
+	},
+	{
 		"_id" : "Gotham (TV)",
+		"year" : 2015,
+		"count" : 11
+	},
+	{
+		"_id" : "Stargate SG-1",
+		"year" : 2015,
+		"count" : 11
+	},
+	{
+		"_id" : "Yu-Gi-Oh!",
+		"year" : 2015,
+		"count" : 11
+	},
+	{
+		"_id" : "Final Fantasy VII",
 		"year" : 2015,
 		"count" : 11
 	},
@@ -460,22 +460,7 @@
 		"count" : 11
 	},
 	{
-		"_id" : "Ouran High School Host Club - All Media Types",
-		"year" : 2015,
-		"count" : 10
-	},
-	{
-		"_id" : "The Silmarillion and other histories of Middle-Earth - J. R. R. Tolkien",
-		"year" : 2015,
-		"count" : 10
-	},
-	{
-		"_id" : "Danny Phantom",
-		"year" : 2015,
-		"count" : 10
-	},
-	{
-		"_id" : "Harry Potter - J.K. Rowling",
+		"_id" : "Batman - All Media Types",
 		"year" : 2015,
 		"count" : 10
 	},
@@ -485,7 +470,22 @@
 		"count" : 10
 	},
 	{
-		"_id" : "Batman - All Media Types",
+		"_id" : "Ouran High School Host Club - All Media Types",
+		"year" : 2015,
+		"count" : 10
+	},
+	{
+		"_id" : "Danny Phantom",
+		"year" : 2015,
+		"count" : 10
+	},
+	{
+		"_id" : "The Silmarillion and other histories of Middle-Earth - J. R. R. Tolkien",
+		"year" : 2015,
+		"count" : 10
+	},
+	{
+		"_id" : "Harry Potter - J.K. Rowling",
 		"year" : 2015,
 		"count" : 10
 	},
@@ -495,7 +495,7 @@
 		"count" : 10
 	},
 	{
-		"_id" : "Firefly",
+		"_id" : "The Marauders - Fandom",
 		"year" : 2015,
 		"count" : 9
 	}

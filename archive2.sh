@@ -388,9 +388,7 @@ overview()
     mongo --quiet archive --eval 'db.getCollection("'"$Fandom"'").count('"$2"')'  >> overview.json
 }
 
-> overview.json
-
-echo "{" >> overview.json
+echo "{" > overview.json
 echo "\"fandom\": \"Harry Potter\"" >> overview.json
 
 overview "total" ''

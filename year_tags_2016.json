@@ -2,501 +2,501 @@
 	{
 		"_id" : "Fluff",
 		"year" : 2016,
-		"count" : 1001
-	},
-	{
-		"_id" : "Angst",
-		"year" : 2016,
-		"count" : 764
+		"count" : 2710
 	},
 	{
 		"_id" : "Romance",
 		"year" : 2016,
-		"count" : 713
+		"count" : 2188
 	},
 	{
-		"_id" : "Hurt/Comfort",
+		"_id" : "Angst",
 		"year" : 2016,
-		"count" : 420
-	},
-	{
-		"_id" : "Alternate Universe - Canon Divergence",
-		"year" : 2016,
-		"count" : 411
+		"count" : 2165
 	},
 	{
 		"_id" : "Humor",
 		"year" : 2016,
-		"count" : 378
+		"count" : 1211
 	},
 	{
 		"_id" : "Alternate Universe",
 		"year" : 2016,
-		"count" : 366
+		"count" : 1149
+	},
+	{
+		"_id" : "Alternate Universe - Canon Divergence",
+		"year" : 2016,
+		"count" : 1085
+	},
+	{
+		"_id" : "Hurt/Comfort",
+		"year" : 2016,
+		"count" : 934
 	},
 	{
 		"_id" : "Friendship",
 		"year" : 2016,
-		"count" : 309
+		"count" : 862
 	},
 	{
 		"_id" : "Marauders' Era",
 		"year" : 2016,
-		"count" : 272
-	},
-	{
-		"_id" : "Christmas",
-		"year" : 2016,
-		"count" : 249
+		"count" : 791
 	},
 	{
 		"_id" : "Anal Sex",
 		"year" : 2016,
-		"count" : 232
-	},
-	{
-		"_id" : "Established Relationship",
-		"year" : 2016,
-		"count" : 231
-	},
-	{
-		"_id" : "Drabble",
-		"year" : 2016,
-		"count" : 229
+		"count" : 733
 	},
 	{
 		"_id" : "Drama",
 		"year" : 2016,
-		"count" : 228
+		"count" : 669
+	},
+	{
+		"_id" : "Established Relationship",
+		"year" : 2016,
+		"count" : 653
+	},
+	{
+		"_id" : "Community: HPFT",
+		"year" : 2016,
+		"count" : 632
+	},
+	{
+		"_id" : "Drabble",
+		"year" : 2016,
+		"count" : 628
 	},
 	{
 		"_id" : "Hogwarts",
 		"year" : 2016,
-		"count" : 210
-	},
-	{
-		"_id" : "Fluff and Angst",
-		"year" : 2016,
-		"count" : 203
-	},
-	{
-		"_id" : "Crossover",
-		"year" : 2016,
-		"count" : 189
-	},
-	{
-		"_id" : "One Shot",
-		"year" : 2016,
-		"count" : 184
-	},
-	{
-		"_id" : "Alternate Universe - Modern Setting",
-		"year" : 2016,
-		"count" : 179
-	},
-	{
-		"_id" : "AU",
-		"year" : 2016,
-		"count" : 174
-	},
-	{
-		"_id" : "Emotional Hurt/Comfort",
-		"year" : 2016,
-		"count" : 170
-	},
-	{
-		"_id" : "Smut",
-		"year" : 2016,
-		"count" : 170
+		"count" : 584
 	},
 	{
 		"_id" : "Slash",
 		"year" : 2016,
-		"count" : 168
-	},
-	{
-		"_id" : "Oral Sex",
-		"year" : 2016,
-		"count" : 167
-	},
-	{
-		"_id" : "Christmas Fluff",
-		"year" : 2016,
-		"count" : 166
-	},
-	{
-		"_id" : "HP: EWE",
-		"year" : 2016,
-		"count" : 161
-	},
-	{
-		"_id" : "Post-War",
-		"year" : 2016,
-		"count" : 154
-	},
-	{
-		"_id" : "Family",
-		"year" : 2016,
-		"count" : 147
+		"count" : 566
 	},
 	{
 		"_id" : "Post Hogwarts",
 		"year" : 2016,
-		"count" : 143
+		"count" : 557
 	},
 	{
-		"_id" : "Time Travel",
+		"_id" : "Crossover",
 		"year" : 2016,
-		"count" : 143
+		"count" : 552
 	},
 	{
-		"_id" : "Mpreg",
+		"_id" : "One Shot",
 		"year" : 2016,
-		"count" : 139
+		"count" : 530
 	},
 	{
-		"_id" : "Slow Burn",
+		"_id" : "HP: EWE",
 		"year" : 2016,
-		"count" : 139
+		"count" : 518
 	},
 	{
-		"_id" : "Violence",
+		"_id" : "Smut",
 		"year" : 2016,
-		"count" : 137
+		"count" : 517
 	},
 	{
-		"_id" : "Explicit Sexual Content",
+		"_id" : "Fluff and Angst",
 		"year" : 2016,
-		"count" : 129
+		"count" : 510
 	},
 	{
-		"_id" : "First Kiss",
+		"_id" : "Oral Sex",
 		"year" : 2016,
-		"count" : 126
+		"count" : 470
+	},
+	{
+		"_id" : "Family",
+		"year" : 2016,
+		"count" : 470
+	},
+	{
+		"_id" : "AU",
+		"year" : 2016,
+		"count" : 467
+	},
+	{
+		"_id" : "Post-War",
+		"year" : 2016,
+		"count" : 436
 	},
 	{
 		"_id" : "Hogwarts Eighth Year",
 		"year" : 2016,
-		"count" : 120
+		"count" : 419
 	},
 	{
-		"_id" : "Magic",
+		"_id" : "Time Travel",
 		"year" : 2016,
-		"count" : 117
-	},
-	{
-		"_id" : "Anal Fingering",
-		"year" : 2016,
-		"count" : 117
-	},
-	{
-		"_id" : "Canon Compliant",
-		"year" : 2016,
-		"count" : 116
-	},
-	{
-		"_id" : "Marauders",
-		"year" : 2016,
-		"count" : 114
-	},
-	{
-		"_id" : "Friends to Lovers",
-		"year" : 2016,
-		"count" : 113
-	},
-	{
-		"_id" : "Harry Potter Next Generation",
-		"year" : 2016,
-		"count" : 111
-	},
-	{
-		"_id" : "Love",
-		"year" : 2016,
-		"count" : 109
-	},
-	{
-		"_id" : "Dumbledore Bashing",
-		"year" : 2016,
-		"count" : 107
-	},
-	{
-		"_id" : "Drarry",
-		"year" : 2016,
-		"count" : 106
-	},
-	{
-		"_id" : "Child Abuse",
-		"year" : 2016,
-		"count" : 103
-	},
-	{
-		"_id" : "Other Additional Tags to Be Added",
-		"year" : 2016,
-		"count" : 101
-	},
-	{
-		"_id" : "Angst with a Happy Ending",
-		"year" : 2016,
-		"count" : 100
-	},
-	{
-		"_id" : "Slow Build",
-		"year" : 2016,
-		"count" : 98
-	},
-	{
-		"_id" : "First Time",
-		"year" : 2016,
-		"count" : 96
+		"count" : 411
 	},
 	{
 		"_id" : "Blow Jobs",
 		"year" : 2016,
-		"count" : 95
+		"count" : 401
+	},
+	{
+		"_id" : "Mpreg",
+		"year" : 2016,
+		"count" : 397
+	},
+	{
+		"_id" : "Harry Potter Next Generation",
+		"year" : 2016,
+		"count" : 384
+	},
+	{
+		"_id" : "First Kiss",
+		"year" : 2016,
+		"count" : 384
+	},
+	{
+		"_id" : "Emotional Hurt/Comfort",
+		"year" : 2016,
+		"count" : 380
+	},
+	{
+		"_id" : "Alternate Universe - Modern Setting",
+		"year" : 2016,
+		"count" : 377
+	},
+	{
+		"_id" : "Explicit Sexual Content",
+		"year" : 2016,
+		"count" : 366
+	},
+	{
+		"_id" : "Slow Burn",
+		"year" : 2016,
+		"count" : 360
+	},
+	{
+		"_id" : "Anal Fingering",
+		"year" : 2016,
+		"count" : 356
+	},
+	{
+		"_id" : "Christmas",
+		"year" : 2016,
+		"count" : 354
+	},
+	{
+		"_id" : "Drarry",
+		"year" : 2016,
+		"count" : 346
+	},
+	{
+		"_id" : "Violence",
+		"year" : 2016,
+		"count" : 337
+	},
+	{
+		"_id" : "Friends to Lovers",
+		"year" : 2016,
+		"count" : 337
+	},
+	{
+		"_id" : "Canon Compliant",
+		"year" : 2016,
+		"count" : 333
+	},
+	{
+		"_id" : "Love",
+		"year" : 2016,
+		"count" : 324
+	},
+	{
+		"_id" : "Magic",
+		"year" : 2016,
+		"count" : 321
+	},
+	{
+		"_id" : "Marauders",
+		"year" : 2016,
+		"count" : 320
+	},
+	{
+		"_id" : "First Time",
+		"year" : 2016,
+		"count" : 316
+	},
+	{
+		"_id" : "Dumbledore Bashing",
+		"year" : 2016,
+		"count" : 300
 	},
 	{
 		"_id" : "Manipulative Dumbledore",
 		"year" : 2016,
-		"count" : 94
+		"count" : 296
 	},
 	{
-		"_id" : "Kissing",
+		"_id" : "Angst with a Happy Ending",
 		"year" : 2016,
-		"count" : 94
-	},
-	{
-		"_id" : "Post-Traumatic Stress Disorder - PTSD",
-		"year" : 2016,
-		"count" : 92
-	},
-	{
-		"_id" : "Age Difference",
-		"year" : 2016,
-		"count" : 90
+		"count" : 290
 	},
 	{
 		"_id" : "wolfstar",
 		"year" : 2016,
-		"count" : 89
+		"count" : 287
+	},
+	{
+		"_id" : "Other Additional Tags to Be Added",
+		"year" : 2016,
+		"count" : 280
 	},
 	{
 		"_id" : "Pining",
 		"year" : 2016,
-		"count" : 89
+		"count" : 277
 	},
 	{
-		"_id" : "Past Child Abuse",
+		"_id" : "Kissing",
 		"year" : 2016,
-		"count" : 88
-	},
-	{
-		"_id" : "Plot What Plot/Porn Without Plot",
-		"year" : 2016,
-		"count" : 88
-	},
-	{
-		"_id" : "Masturbation",
-		"year" : 2016,
-		"count" : 87
-	},
-	{
-		"_id" : "Original Character(s)",
-		"year" : 2016,
-		"count" : 86
-	},
-	{
-		"_id" : "Character Study",
-		"year" : 2016,
-		"count" : 86
-	},
-	{
-		"_id" : "Crack",
-		"year" : 2016,
-		"count" : 86
-	},
-	{
-		"_id" : "Implied/Referenced Child Abuse",
-		"year" : 2016,
-		"count" : 85
-	},
-	{
-		"_id" : "Light Angst",
-		"year" : 2016,
-		"count" : 83
-	},
-	{
-		"_id" : "Pre-Slash",
-		"year" : 2016,
-		"count" : 82
-	},
-	{
-		"_id" : "Domestic Fluff",
-		"year" : 2016,
-		"count" : 82
-	},
-	{
-		"_id" : "Sex",
-		"year" : 2016,
-		"count" : 82
-	},
-	{
-		"_id" : "Explicit Language",
-		"year" : 2016,
-		"count" : 81
-	},
-	{
-		"_id" : "Abuse",
-		"year" : 2016,
-		"count" : 81
-	},
-	{
-		"_id" : "Quidditch",
-		"year" : 2016,
-		"count" : 79
-	},
-	{
-		"_id" : "Fluff and Smut",
-		"year" : 2016,
-		"count" : 79
-	},
-	{
-		"_id" : "Emotional Manipulation",
-		"year" : 2016,
-		"count" : 79
-	},
-	{
-		"_id" : "Action/Adventure",
-		"year" : 2016,
-		"count" : 78
-	},
-	{
-		"_id" : "Alternate Universe - Non-Magical",
-		"year" : 2016,
-		"count" : 77
+		"count" : 276
 	},
 	{
 		"_id" : "Rimming",
 		"year" : 2016,
-		"count" : 76
+		"count" : 270
 	},
 	{
-		"_id" : "Depression",
+		"_id" : "Child Abuse",
 		"year" : 2016,
-		"count" : 76
-	},
-	{
-		"_id" : "Alternate Universe - Harry Potter Setting",
-		"year" : 2016,
-		"count" : 76
-	},
-	{
-		"_id" : "Post-Canon",
-		"year" : 2016,
-		"count" : 76
-	},
-	{
-		"_id" : "Torture",
-		"year" : 2016,
-		"count" : 74
-	},
-	{
-		"_id" : "Alternate Universe - Hogwarts",
-		"year" : 2016,
-		"count" : 74
-	},
-	{
-		"_id" : "Halloween",
-		"year" : 2016,
-		"count" : 73
-	},
-	{
-		"_id" : "Slytherin Harry",
-		"year" : 2016,
-		"count" : 71
-	},
-	{
-		"_id" : "Falling In Love",
-		"year" : 2016,
-		"count" : 70
-	},
-	{
-		"_id" : "Character Death",
-		"year" : 2016,
-		"count" : 70
-	},
-	{
-		"_id" : "Dubious Consent",
-		"year" : 2016,
-		"count" : 70
-	},
-	{
-		"_id" : "Minor Character Death",
-		"year" : 2016,
-		"count" : 70
-	},
-	{
-		"_id" : "Happy Ending",
-		"year" : 2016,
-		"count" : 68
-	},
-	{
-		"_id" : "Mystery",
-		"year" : 2016,
-		"count" : 67
-	},
-	{
-		"_id" : "Harry Potter - Freeform",
-		"year" : 2016,
-		"count" : 64
-	},
-	{
-		"_id" : "Hand Jobs",
-		"year" : 2016,
-		"count" : 64
+		"count" : 269
 	},
 	{
 		"_id" : "Sexual Content",
 		"year" : 2016,
-		"count" : 64
+		"count" : 265
 	},
 	{
-		"_id" : "Not Epilogue Compliant",
+		"_id" : "Quidditch",
 		"year" : 2016,
-		"count" : 62
+		"count" : 264
 	},
 	{
-		"_id" : "Soulmates",
+		"_id" : "Masturbation",
 		"year" : 2016,
-		"count" : 61
+		"count" : 261
 	},
 	{
-		"_id" : "Cute",
+		"_id" : "Alternate Universe - Harry Potter Setting",
 		"year" : 2016,
-		"count" : 61
+		"count" : 260
 	},
 	{
-		"_id" : "dramione - Freeform",
+		"_id" : "Crack",
 		"year" : 2016,
-		"count" : 60
+		"count" : 258
 	},
 	{
-		"_id" : "Adventure",
+		"_id" : "Alternate Universe - Hogwarts",
 		"year" : 2016,
-		"count" : 59
+		"count" : 249
 	},
 	{
-		"_id" : "Alpha/Beta/Omega Dynamics",
+		"_id" : "Plot What Plot/Porn Without Plot",
 		"year" : 2016,
-		"count" : 59
+		"count" : 247
 	},
 	{
-		"_id" : "Death",
+		"_id" : "Alternate Universe - Non-Magical",
 		"year" : 2016,
-		"count" : 58
+		"count" : 244
+	},
+	{
+		"_id" : "Slow Build",
+		"year" : 2016,
+		"count" : 239
+	},
+	{
+		"_id" : "Christmas Fluff",
+		"year" : 2016,
+		"count" : 235
+	},
+	{
+		"_id" : "Post-Traumatic Stress Disorder - PTSD",
+		"year" : 2016,
+		"count" : 234
+	},
+	{
+		"_id" : "Light Angst",
+		"year" : 2016,
+		"count" : 234
+	},
+	{
+		"_id" : "Depression",
+		"year" : 2016,
+		"count" : 232
+	},
+	{
+		"_id" : "Explicit Language",
+		"year" : 2016,
+		"count" : 226
+	},
+	{
+		"_id" : "Pre-Slash",
+		"year" : 2016,
+		"count" : 224
+	},
+	{
+		"_id" : "Age Difference",
+		"year" : 2016,
+		"count" : 218
+	},
+	{
+		"_id" : "Happy Ending",
+		"year" : 2016,
+		"count" : 217
+	},
+	{
+		"_id" : "Dirty Talk",
+		"year" : 2016,
+		"count" : 216
+	},
+	{
+		"_id" : "Minor Character Death",
+		"year" : 2016,
+		"count" : 216
+	},
+	{
+		"_id" : "Fluff and Smut",
+		"year" : 2016,
+		"count" : 213
+	},
+	{
+		"_id" : "Dubious Consent",
+		"year" : 2016,
+		"count" : 204
+	},
+	{
+		"_id" : "Post-Battle of Hogwarts",
+		"year" : 2016,
+		"count" : 204
+	},
+	{
+		"_id" : "Original Character(s)",
+		"year" : 2016,
+		"count" : 202
+	},
+	{
+		"_id" : "Post-Canon",
+		"year" : 2016,
+		"count" : 199
+	},
+	{
+		"_id" : "Hand Jobs",
+		"year" : 2016,
+		"count" : 198
+	},
+	{
+		"_id" : "Mystery",
+		"year" : 2016,
+		"count" : 198
+	},
+	{
+		"_id" : "Torture",
+		"year" : 2016,
+		"count" : 196
+	},
+	{
+		"_id" : "Character Death",
+		"year" : 2016,
+		"count" : 194
+	},
+	{
+		"_id" : "Action/Adventure",
+		"year" : 2016,
+		"count" : 193
+	},
+	{
+		"_id" : "Falling In Love",
+		"year" : 2016,
+		"count" : 190
+	},
+	{
+		"_id" : "Dark",
+		"year" : 2016,
+		"count" : 184
+	},
+	{
+		"_id" : "Slytherin Harry",
+		"year" : 2016,
+		"count" : 181
 	},
 	{
 		"_id" : "Canonical Character Death",
 		"year" : 2016,
-		"count" : 58
+		"count" : 179
+	},
+	{
+		"_id" : "Implied/Referenced Child Abuse",
+		"year" : 2016,
+		"count" : 178
+	},
+	{
+		"_id" : "Not Epilogue Compliant",
+		"year" : 2016,
+		"count" : 175
+	},
+	{
+		"_id" : "Adventure",
+		"year" : 2016,
+		"count" : 174
+	},
+	{
+		"_id" : "Death",
+		"year" : 2016,
+		"count" : 173
+	},
+	{
+		"_id" : "Sex",
+		"year" : 2016,
+		"count" : 172
+	},
+	{
+		"_id" : "Harry Potter - Freeform",
+		"year" : 2016,
+		"count" : 171
+	},
+	{
+		"_id" : "Spanking",
+		"year" : 2016,
+		"count" : 166
+	},
+	{
+		"_id" : "Past Child Abuse",
+		"year" : 2016,
+		"count" : 165
+	},
+	{
+		"_id" : "Character Study",
+		"year" : 2016,
+		"count" : 164
+	},
+	{
+		"_id" : "Implied Sexual Content",
+		"year" : 2016,
+		"count" : 164
+	},
+	{
+		"_id" : "Female Harry Potter",
+		"year" : 2016,
+		"count" : 162
+	},
+	{
+		"_id" : "Rough Sex",
+		"year" : 2016,
+		"count" : 160
 	}
 ]

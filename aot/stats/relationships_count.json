@@ -1,0 +1,482 @@
+[
+	{
+		"_id" : "Levi/Eren Yeager",
+		"count" : 10275,
+		"word_sum" : 107709531,
+		"kudo_average" : 168.08447688564476,
+		"comment_average" : 36.2443795620438,
+		"word_average" : 10482.679416058394
+	},
+	{
+		"_id" : "Marco Bott/Jean Kirstein",
+		"count" : 4952,
+		"word_sum" : 53951725,
+		"kudo_average" : 91.09794022617125,
+		"comment_average" : 20.657310177705977,
+		"word_average" : 10894.936389337641
+	},
+	{
+		"_id" : "Levi/Erwin Smith",
+		"count" : 3708,
+		"word_sum" : 31713916,
+		"kudo_average" : 118.68257820927724,
+		"comment_average" : 20.0933117583603,
+		"word_average" : 8552.836030204962
+	},
+	{
+		"_id" : "Krista Lenz | Historia Reiss/Ymir",
+		"count" : 1954,
+		"word_sum" : 30228325,
+		"kudo_average" : 97.11566018423746,
+		"comment_average" : 28.466734902763562,
+		"word_average" : 15469.971852610031
+	},
+	{
+		"_id" : "Armin Arlert/Eren Yeager",
+		"count" : 1625,
+		"word_sum" : 15086266,
+		"kudo_average" : 78.8363076923077,
+		"comment_average" : 15.569846153846154,
+		"word_average" : 9283.856
+	},
+	{
+		"_id" : "Jean Kirstein/Eren Yeager",
+		"count" : 1417,
+		"word_sum" : 11515590,
+		"kudo_average" : 124.84827099505999,
+		"comment_average" : 21.1030345800988,
+		"word_average" : 8126.739590684545
+	},
+	{
+		"_id" : "Reiner Braun/Bertolt Hoover",
+		"count" : 1366,
+		"word_sum" : 20291758,
+		"kudo_average" : 117.03294289897511,
+		"comment_average" : 29.50073206442167,
+		"word_average" : 14854.874084919473
+	},
+	{
+		"_id" : "Sasha Blouse/Connie Springer",
+		"count" : 1281,
+		"word_sum" : 23879969,
+		"kudo_average" : 102.64558938329431,
+		"comment_average" : 34.4176424668228,
+		"word_average" : 18641.661982825917
+	},
+	{
+		"_id" : "Marco Bott & Jean Kirstein",
+		"count" : 1234,
+		"word_sum" : 12447676,
+		"kudo_average" : 93.72609400324149,
+		"comment_average" : 17.049432739059966,
+		"word_average" : 10087.257698541329
+	},
+	{
+		"_id" : "Armin Arlert/Jean Kirstein",
+		"count" : 1021,
+		"word_sum" : 11801166,
+		"kudo_average" : 90.31635651322233,
+		"comment_average" : 22.5847208619001,
+		"word_average" : 11558.438785504408
+	},
+	{
+		"_id" : "Mikasa Ackerman/Annie Leonhart",
+		"count" : 974,
+		"word_sum" : 13838042,
+		"kudo_average" : 124.90554414784394,
+		"comment_average" : 30.161190965092402,
+		"word_average" : 14207.435318275155
+	},
+	{
+		"_id" : "Hange Zoë/Levi",
+		"count" : 867,
+		"word_sum" : 6145794,
+		"kudo_average" : 54.6401384083045,
+		"comment_average" : 10.050749711649365,
+		"word_average" : 7088.574394463668
+	},
+	{
+		"_id" : "Levi & Eren Yeager",
+		"count" : 806,
+		"word_sum" : 8488892,
+		"kudo_average" : 133.4441687344913,
+		"comment_average" : 34.031017369727046,
+		"word_average" : 10532.124069478908
+	},
+	{
+		"_id" : "Mikasa Ackerman/Eren Yeager",
+		"count" : 709,
+		"word_sum" : 9086377,
+		"kudo_average" : 54.58815232722144,
+		"comment_average" : 13.038081805359662,
+		"word_average" : 12815.764456981664
+	},
+	{
+		"_id" : "Levi/Petra Ral",
+		"count" : 617,
+		"word_sum" : 4622666,
+		"kudo_average" : 39.149108589951375,
+		"comment_average" : 9.14100486223663,
+		"word_average" : 7492.165316045381
+	},
+	{
+		"_id" : "Armin Arlert/Annie Leonhart",
+		"count" : 495,
+		"word_sum" : 7539774,
+		"kudo_average" : 61.5959595959596,
+		"comment_average" : 17.30909090909091,
+		"word_average" : 15231.866666666667
+	},
+	{
+		"_id" : "Armin Arlert/Erwin Smith",
+		"count" : 488,
+		"word_sum" : 9410105,
+		"kudo_average" : 183.44262295081967,
+		"comment_average" : 66.26229508196721,
+		"word_average" : 19283.002049180326
+	},
+	{
+		"_id" : "Levi (Shingeki no Kyojin)/Reader",
+		"count" : 449,
+		"word_sum" : 3756331,
+		"kudo_average" : 73.1804008908686,
+		"comment_average" : 16.075723830734965,
+		"word_average" : 8365.993318485524
+	},
+	{
+		"_id" : "Mikasa Ackerman/Levi",
+		"count" : 436,
+		"word_sum" : 3344430,
+		"kudo_average" : 52.231651376146786,
+		"comment_average" : 9.28211009174312,
+		"word_average" : 7670.711009174312
+	},
+	{
+		"_id" : "Krista Lenz | Historia Reiss & Ymir",
+		"count" : 433,
+		"word_sum" : 5770879,
+		"kudo_average" : 83.8406466512702,
+		"comment_average" : 19.02540415704388,
+		"word_average" : 13327.665127020786
+	},
+	{
+		"_id" : "Mikasa Ackerman/Jean Kirstein",
+		"count" : 397,
+		"word_sum" : 6401143,
+		"kudo_average" : 63.3073047858942,
+		"comment_average" : 21.277078085642316,
+		"word_average" : 16123.785894206549
+	},
+	{
+		"_id" : "Jean Kirstein & Eren Yeager",
+		"count" : 384,
+		"word_sum" : 3197052,
+		"kudo_average" : 114.3125,
+		"comment_average" : 21.395833333333332,
+		"word_average" : 8325.65625
+	},
+	{
+		"_id" : "Hange Zoë & Levi",
+		"count" : 362,
+		"word_sum" : 2383782,
+		"kudo_average" : 56.312154696132595,
+		"comment_average" : 10.585635359116022,
+		"word_average" : 6585.03314917127
+	},
+	{
+		"_id" : "Levi & Erwin Smith",
+		"count" : 354,
+		"word_sum" : 5116847,
+		"kudo_average" : 104.85310734463278,
+		"comment_average" : 27.098870056497177,
+		"word_average" : 14454.370056497175
+	},
+	{
+		"_id" : "Levi/Reader",
+		"count" : 341,
+		"word_sum" : 3369587,
+		"kudo_average" : 70.47214076246334,
+		"comment_average" : 16.93841642228739,
+		"word_average" : 9881.486803519061
+	},
+	{
+		"_id" : "Armin Arlert & Eren Yeager",
+		"count" : 310,
+		"word_sum" : 2575333,
+		"kudo_average" : 55.47096774193548,
+		"comment_average" : 12.829032258064515,
+		"word_average" : 8307.525806451613
+	},
+	{
+		"_id" : "Erwin Smith/Mike Zacharias",
+		"count" : 310,
+		"word_sum" : 3571300,
+		"kudo_average" : 106.89354838709677,
+		"comment_average" : 30.09032258064516,
+		"word_average" : 11520.322580645161
+	},
+	{
+		"_id" : "Erwin Smith/Eren Yeager",
+		"count" : 302,
+		"word_sum" : 3311543,
+		"kudo_average" : 183.341059602649,
+		"comment_average" : 36.49337748344371,
+		"word_average" : 10965.374172185431
+	},
+	{
+		"_id" : "Ereri - Relationship",
+		"count" : 250,
+		"word_sum" : 3030569,
+		"kudo_average" : 82.172,
+		"comment_average" : 21.024,
+		"word_average" : 12122.276
+	},
+	{
+		"_id" : "Oluo Bozado/Petra Ral",
+		"count" : 246,
+		"word_sum" : 4874097,
+		"kudo_average" : 134.04471544715446,
+		"comment_average" : 47.48780487804878,
+		"word_average" : 19813.40243902439
+	},
+	{
+		"_id" : "Armin Arlert & Jean Kirstein",
+		"count" : 245,
+		"word_sum" : 2742634,
+		"kudo_average" : 72.47755102040816,
+		"comment_average" : 15.057142857142857,
+		"word_average" : 11194.424489795918
+	},
+	{
+		"_id" : "Hange Zoë/Erwin Smith",
+		"count" : 237,
+		"word_sum" : 3085509,
+		"kudo_average" : 81.51054852320675,
+		"comment_average" : 23.759493670886076,
+		"word_average" : 13019.025316455696
+	},
+	{
+		"_id" : "Nanaba/Mike Zacharias",
+		"count" : 211,
+		"word_sum" : 3358691,
+		"kudo_average" : 126.92890995260663,
+		"comment_average" : 37.976303317535546,
+		"word_average" : 15917.966824644549
+	},
+	{
+		"_id" : "Mikasa Ackerman & Armin Arlert & Eren Yeager",
+		"count" : 199,
+		"word_sum" : 3120579,
+		"kudo_average" : 69.84422110552764,
+		"comment_average" : 16.92964824120603,
+		"word_average" : 15681.301507537688
+	},
+	{
+		"_id" : "Levi/Erwin Smith/Eren Yeager",
+		"count" : 198,
+		"word_sum" : 2929409,
+		"kudo_average" : 224.34848484848484,
+		"comment_average" : 44.611111111111114,
+		"word_average" : 14794.994949494949
+	},
+	{
+		"_id" : "Minor or Background Relationship(s)",
+		"count" : 193,
+		"word_sum" : 4262036,
+		"kudo_average" : 204.61658031088083,
+		"comment_average" : 68.83937823834196,
+		"word_average" : 22083.088082901555
+	},
+	{
+		"_id" : "Annie Leonhart/Eren Yeager",
+		"count" : 189,
+		"word_sum" : 2394081,
+		"kudo_average" : 39.32804232804233,
+		"comment_average" : 8.544973544973544,
+		"word_average" : 12667.095238095239
+	},
+	{
+		"_id" : "Levi & Reader",
+		"count" : 185,
+		"word_sum" : 1772337,
+		"kudo_average" : 71.26486486486486,
+		"comment_average" : 19.44864864864865,
+		"word_average" : 9580.2
+	},
+	{
+		"_id" : "Jean Kirstein/Marco Bott",
+		"count" : 170,
+		"word_sum" : 2463495,
+		"kudo_average" : 285.6470588235294,
+		"comment_average" : 58.36470588235294,
+		"word_average" : 14491.14705882353
+	},
+	{
+		"_id" : "Marco Bott/Eren Yeager",
+		"count" : 165,
+		"word_sum" : 1531254,
+		"kudo_average" : 109.2969696969697,
+		"comment_average" : 44.733333333333334,
+		"word_average" : 9280.327272727272
+	},
+	{
+		"_id" : "Levi & Petra Ral",
+		"count" : 162,
+		"word_sum" : 890324,
+		"kudo_average" : 25.432098765432098,
+		"comment_average" : 5.074074074074074,
+		"word_average" : 5495.827160493827
+	},
+	{
+		"_id" : "Mikasa Ackerman/Sasha Blouse",
+		"count" : 157,
+		"word_sum" : 1228240,
+		"kudo_average" : 77.92356687898089,
+		"comment_average" : 22.929936305732483,
+		"word_average" : 7823.1847133757965
+	},
+	{
+		"_id" : "Mikasa Ackerman & Eren Yeager",
+		"count" : 155,
+		"word_sum" : 2264604,
+		"kudo_average" : 57.31612903225806,
+		"comment_average" : 18.767741935483873,
+		"word_average" : 14610.348387096774
+	},
+	{
+		"_id" : "Moblit Berner/Hange Zoë",
+		"count" : 155,
+		"word_sum" : 2825356,
+		"kudo_average" : 114.98709677419355,
+		"comment_average" : 36.57419354838709,
+		"word_average" : 18228.10322580645
+	},
+	{
+		"_id" : "jeanmarco - Relationship",
+		"count" : 146,
+		"word_sum" : 974031,
+		"kudo_average" : 52.24657534246575,
+		"comment_average" : 10.273972602739725,
+		"word_average" : 6671.445205479452
+	},
+	{
+		"_id" : "Armin Arlert/Levi",
+		"count" : 146,
+		"word_sum" : 1596577,
+		"kudo_average" : 116.88356164383562,
+		"comment_average" : 24.15068493150685,
+		"word_average" : 10935.45890410959
+	},
+	{
+		"_id" : "Sasha Blouse & Connie Springer",
+		"count" : 142,
+		"word_sum" : 2122311,
+		"kudo_average" : 83.7605633802817,
+		"comment_average" : 20.788732394366196,
+		"word_average" : 14945.852112676057
+	},
+	{
+		"_id" : "Bertolt Hoover/Annie Leonhart",
+		"count" : 141,
+		"word_sum" : 2694698,
+		"kudo_average" : 71.58156028368795,
+		"comment_average" : 24.52482269503546,
+		"word_average" : 19111.333333333332
+	},
+	{
+		"_id" : "Eren Yeager/Reader",
+		"count" : 141,
+		"word_sum" : 1463190,
+		"kudo_average" : 89.34751773049645,
+		"comment_average" : 22.54609929078014,
+		"word_average" : 10377.234042553191
+	},
+	{
+		"_id" : "Erwin Smith/Reader",
+		"count" : 136,
+		"word_sum" : 1418834,
+		"kudo_average" : 89.30147058823529,
+		"comment_average" : 16.36764705882353,
+		"word_average" : 10432.60294117647
+	},
+	{
+		"_id" : "Jean Kirstein/Reader",
+		"count" : 130,
+		"word_sum" : 1467152,
+		"kudo_average" : 89.6923076923077,
+		"comment_average" : 13.2,
+		"word_average" : 11285.784615384615
+	},
+	{
+		"_id" : "Marco Bott/Jean Kirstein/Eren Yeager",
+		"count" : 129,
+		"word_sum" : 1570792,
+		"kudo_average" : 131.67441860465115,
+		"comment_average" : 55.87596899224806,
+		"word_average" : 12176.682170542636
+	},
+	{
+		"_id" : "Hange Zoë/Petra Ral",
+		"count" : 125,
+		"word_sum" : 1811607,
+		"kudo_average" : 113.504,
+		"comment_average" : 29.016,
+		"word_average" : 14492.856
+	},
+	{
+		"_id" : "eruri",
+		"count" : 121,
+		"word_sum" : 2241359,
+		"kudo_average" : 116.06611570247934,
+		"comment_average" : 33.77685950413223,
+		"word_average" : 18523.628099173555
+	},
+	{
+		"_id" : "Other Relationship Tags to Be Added",
+		"count" : 116,
+		"word_sum" : 1397541,
+		"kudo_average" : 76.07758620689656,
+		"comment_average" : 20.732758620689655,
+		"word_average" : 12047.76724137931
+	},
+	{
+		"_id" : "Mikasa Ackerman/Armin Arlert",
+		"count" : 116,
+		"word_sum" : 1276429,
+		"kudo_average" : 91.8103448275862,
+		"comment_average" : 26.025862068965516,
+		"word_average" : 11003.698275862069
+	},
+	{
+		"_id" : "Reiner Braun & Bertolt Hoover",
+		"count" : 110,
+		"word_sum" : 1360221,
+		"kudo_average" : 61.763636363636365,
+		"comment_average" : 13.2,
+		"word_average" : 12365.645454545454
+	},
+	{
+		"_id" : "riren",
+		"count" : 108,
+		"word_sum" : 984352,
+		"kudo_average" : 85.24074074074075,
+		"comment_average" : 22.52777777777778,
+		"word_average" : 9114.37037037037
+	},
+	{
+		"_id" : "Mikasa Ackerman & Levi",
+		"count" : 108,
+		"word_sum" : 1414870,
+		"kudo_average" : 51.916666666666664,
+		"comment_average" : 11.416666666666666,
+		"word_average" : 13100.648148148148
+	},
+	{
+		"_id" : "Mikasa Ackerman & Jean Kirstein",
+		"count" : 103,
+		"word_sum" : 2290622,
+		"kudo_average" : 80.80582524271844,
+		"comment_average" : 34.79611650485437,
+		"word_average" : 22239.04854368932
+	}
+]

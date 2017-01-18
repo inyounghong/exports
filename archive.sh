@@ -35,6 +35,7 @@ getMostPopularPerYear() {
     mostPopularPerYear $1 '2016' year_$1_2016.json
     mostPopularPerYear $1 '2015' year_$1_2015.json
     mostPopularPerYear $1 '2014' year_$1_2014.json
+    mostPopularPerYear $1 '2013' year_$1_2013.json
 }
 
 getMostPopularPerYear 'tags'

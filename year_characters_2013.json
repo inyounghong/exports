@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Harry Potter",
+		"year" : 2013,
+		"count" : 76
+	},
+	{
+		"_id" : "Draco Malfoy",
+		"year" : 2013,
+		"count" : 50
+	},
+	{
+		"_id" : "Severus Snape",
+		"year" : 2013,
+		"count" : 30
+	},
+	{
+		"_id" : "Hermione Granger",
+		"year" : 2013,
+		"count" : 29
+	},
+	{
+		"_id" : "Ron Weasley",
+		"year" : 2013,
+		"count" : 24
+	},
+	{
+		"_id" : "Sirius Black",
+		"year" : 2013,
+		"count" : 23
+	},
+	{
+		"_id" : "Ginny Weasley",
+		"year" : 2013,
+		"count" : 21
+	},
+	{
+		"_id" : "Remus Lupin",
+		"year" : 2013,
+		"count" : 18
+	},
+	{
+		"_id" : "Scorpius Malfoy",
+		"year" : 2013,
+		"count" : 15
+	},
+	{
+		"_id" : "James Potter",
+		"year" : 2013,
+		"count" : 14
+	},
+	{
+		"_id" : "Neville Longbottom",
+		"year" : 2013,
+		"count" : 13
+	},
+	{
+		"_id" : "Albus Severus Potter",
+		"year" : 2013,
+		"count" : 13
+	},
+	{
+		"_id" : "Minerva McGonagall",
+		"year" : 2013,
+		"count" : 12
+	},
+	{
+		"_id" : "Lily Evans Potter",
+		"year" : 2013,
+		"count" : 12
+	},
+	{
+		"_id" : "Albus Dumbledore",
+		"year" : 2013,
+		"count" : 12
+	},
+	{
+		"_id" : "Original Male Character(s)",
+		"year" : 2013,
+		"count" : 10
+	},
+	{
+		"_id" : "Lucius Malfoy",
+		"year" : 2013,
+		"count" : 9
+	},
+	{
+		"_id" : "Luna Lovegood",
+		"year" : 2013,
+		"count" : 9
+	},
+	{
+		"_id" : "James Sirius Potter",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "Pansy Parkinson",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "Original Female Character(s)",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "Narcissa Black Malfoy",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Teddy Lupin",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Astoria Greengrass",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "George Weasley",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Molly Weasley",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Daphne Greengrass",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Bill Weasley",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Rose Weasley",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Charlie Weasley",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Lavender Brown",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "Lily Luna Potter",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "Peter Pettigrew",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "Dean Thomas",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Minor Characters",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Parvati Patil",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Seamus Finnigan",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Voldemort",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Fred Weasley",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Andromeda Black Tonks",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Tom Riddle",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Nymphadora Tonks",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Regulus Black",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Kingsley Shacklebolt",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Blaise Zabini",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Viktor Krum",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Arthur Weasley",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Victoire Weasley",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Percy Weasley",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Theodore Nott",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Cho Chang",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Colin Creevey",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Petunia Evans Dursley",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Padma Patil",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Lily Potter",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Bellatrix Black Lestrange",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Susan Bones",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Filius Flitwick",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Hannah Abbott",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Zacharias Smith",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Original House-Elf Character(s)",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Tom Riddle | Voldemort",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Avery Sr. (Harry Potter)",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Alice Cullen",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Fred Weasley II",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Damian Spinelli",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Death (Harry Potter)",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Peter Parker",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Edmund Pevensie",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Merope Gaunt",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Alastor “Mad-Eye” Moody",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Fix-It Felix Jr.",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Tracy Davis",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Esme Cullen",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Perenelle Flamel",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Gwen Stacy",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Candy Cane - Character",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Su Li",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Dudley Dursley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "mentioned Neville Longbottom",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Kreacher (Harry Potter)",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Original Character",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Entire Population of Hogwarts",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Percy Jackson",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Abraxas Malfoy",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Crookshanks (Harry Potter)",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Vernon Dursley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Bathilda Bagshot",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Nicolas Flamel",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Grover Underwood",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Tamora Calhoun",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Gilderoy Lockhart",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter's Glasses",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Angelina Johnson",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "The Tenth Doctor",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Fenrir Greyback",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Fleur Delacour",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Bartemius Crouch Jr.",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Fenrir (Marvel)",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Phil Coulson",
+		"year" : 2013,
+		"count" : 1
+	}
+]

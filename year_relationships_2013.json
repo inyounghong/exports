@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Draco Malfoy/Harry Potter",
+		"year" : 2013,
+		"count" : 24
+	},
+	{
+		"_id" : "Hermione Granger/Ron Weasley",
+		"year" : 2013,
+		"count" : 11
+	},
+	{
+		"_id" : "Harry Potter/Ginny Weasley",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "Harry Potter/Severus Snape",
+		"year" : 2013,
+		"count" : 8
+	},
+	{
+		"_id" : "James Potter/Lily Evans Potter",
+		"year" : 2013,
+		"count" : 7
+	},
+	{
+		"_id" : "Sirius Black/Remus Lupin",
+		"year" : 2013,
+		"count" : 6
+	},
+	{
+		"_id" : "Astoria Greengrass/Draco Malfoy",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "Harry Potter/Draco Malfoy",
+		"year" : 2013,
+		"count" : 5
+	},
+	{
+		"_id" : "Hermione Granger/Harry Potter",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Teddy Lupin/Victoire Weasley",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Minor or Background Relationship(s)",
+		"year" : 2013,
+		"count" : 4
+	},
+	{
+		"_id" : "Draco Malfoy & Harry Potter",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Remus Lupin/Nymphadora Tonks",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Scorpius Malfoy/Albus Severus Potter",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Remus Lupin/Severus Snape",
+		"year" : 2013,
+		"count" : 3
+	},
+	{
+		"_id" : "Neville Longbottom/Pansy Parkinson",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Angelina Johnson/George Weasley",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Harry Potter & Severus Snape",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Luna Lovegood/Ginny Weasley",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Snape/Lupin",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Sirius Black/James Potter",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Tom Riddle/Original Female Character(s)",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Sirius Black/Severus Snape",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Fleur Delacour/Bill Weasley",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Lucius Malfoy/Narcissa Black Malfoy",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Scorpius Malfoy/Rose Weasley",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Lily Evans Potter/Severus Snape",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Daphne Greengrass/Theodore Nott",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Lucius Malfoy/Harry Potter",
+		"year" : 2013,
+		"count" : 2
+	},
+	{
+		"_id" : "Draco Malfoy & Severus Snape",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Hannah Abbott/Neville Longbottom",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Ginny Weasley/Blaise Zabini",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter/Percy Weasley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Neville Longbottom & Luna Lovegood",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Edmund Pevensie/Tom Riddle",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Filius Flitwick/Minerva McGonagall",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Vincent Crabbe/Gregory Goyle/Draco Malfoy",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Astoria Greengrass & Daphne Greengrass",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Teddy Lupin & Harry Potter",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter's Glasses/Neville Longbottom's Remembrall",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Eventual Jasper Hale/Ron Weasley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Hermione Granger/Severus Snape/Ron Weasley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Remus Lupin/Sirius Black",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Scorpius Malfoy & Albus Severus Potter",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Luna Lovegood/Charlie Weasley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Bellatrix Black Lestrange/Lucius Malfoy",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "canon couples.",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter & Sanguini",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Hermione/Ron",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Bill Weasley/OFC (implied)",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Hermione Granger/Cormac McLaggen",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Hermione Granger/Harry Potter/Ron Weasley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Tamora Calhoun/Fix-It Felix Jr.",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Harry/Scorpius",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Albus Dumbledore & Minerva McGonagall",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Vincent Crabbe/Voldemort/Gregory Goyle",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "other - Relationship",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Sirius Black/Harry Potter",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "mentions of Harry/women",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Cho Chang/Viktor Krum",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter/Ron Weasley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Nicolas Flamel/Perenelle Flamel",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Scorpius Malfoy & Albus Severus Potter & Rose Weasley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Draco Malfoy/Ginny Weasley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Albus Dumbledore/Gellert Grindelwald",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Lavender Brown/Seamus Finnigan",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Lavender Brown & Parvati Patil",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Scorpius Malfoy/James Sirius Potter",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Albus Severus Potter & Rose Weasley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Hermione Granger/Viktor Krum",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter & Ron Weasley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "James Potter/Lily Potter",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Scorpius Malfoy & Rose Weasley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Mandy Brocklehurst/Zacharias Smith",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "unrequited Peter Pettigrew/Lily Evans",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Susan Bones/Charlie Weasley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Sirius Black/Bellatrix Black Lestrange",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Harry Potter/Oliver Wood",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Scorpius Malfoy/Lily Luna Potter",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Neville Longbottom/Original Character(s)",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "One-Sided - Relationship",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Astoria Greengrass & Draco Malfoy",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Snily - Relationship",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Viktor Krum/Blaise Zabini",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Daphne Greengrass/Ginny Weasley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Hermione Granger/Lucius Malfoy",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Petunia Evans Dursley/Vernon Dursley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Draco Malfoy & Molly Weasley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Drarry - Relationship",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Albus Dumbledore/Minerva McGonagall",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Peter Pettigrew/Petunia Evans Dursley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Aurora Sinistra & Minerva McGonagall",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Sirius Black & Bellatrix Black Lestrange",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Merope Gaunt & Harry Potter",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Draco Malfoy/Pansy Parkinson",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Hibiki/Silver | Ethan/Silver | Gold/Silver",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "James Sirius Potter & Fred Weasley II",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Parvati Patil/Ron Weasley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Hermione Granger & Harry Potter & Ron Weasley",
+		"year" : 2013,
+		"count" : 1
+	},
+	{
+		"_id" : "Neville Longbottom/Original Female Character(s)",
+		"year" : 2013,
+		"count" : 1
+	}
+]

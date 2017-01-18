@@ -1,91 +1,135 @@
 [
 	{
 		"_id" : "01-1-2017",
-		"Draco Malfoy/Harry Potter" : 382
+		"Draco Malfoy/Harry Potter" : 407
 	},
 	{
 		"_id" : "12-1-2016",
-		"Draco Malfoy/Harry Potter" : 599
+		"Draco Malfoy/Harry Potter" : 622
 	},
 	{
 		"_id" : "11-1-2016",
-		"Draco Malfoy/Harry Potter" : 276
+		"Draco Malfoy/Harry Potter" : 301
 	},
 	{
 		"_id" : "10-1-2016",
-		"Draco Malfoy/Harry Potter" : 335
+		"Draco Malfoy/Harry Potter" : 348
 	},
 	{
 		"_id" : "09-1-2016",
-		"Draco Malfoy/Harry Potter" : 307
+		"Draco Malfoy/Harry Potter" : 320
 	},
 	{
 		"_id" : "08-1-2016",
-		"Draco Malfoy/Harry Potter" : 356
+		"Draco Malfoy/Harry Potter" : 379
 	},
 	{
 		"_id" : "07-1-2016",
-		"Draco Malfoy/Harry Potter" : 302
+		"Draco Malfoy/Harry Potter" : 323
 	},
 	{
 		"_id" : "06-1-2016",
-		"Draco Malfoy/Harry Potter" : 304
+		"Draco Malfoy/Harry Potter" : 328
 	},
 	{
 		"_id" : "05-1-2016",
-		"Draco Malfoy/Harry Potter" : 247
+		"Draco Malfoy/Harry Potter" : 267
 	},
 	{
 		"_id" : "04-1-2016",
-		"Draco Malfoy/Harry Potter" : 235
+		"Draco Malfoy/Harry Potter" : 262
 	},
 	{
 		"_id" : "03-1-2016",
-		"Draco Malfoy/Harry Potter" : 243
+		"Draco Malfoy/Harry Potter" : 268
 	},
 	{
 		"_id" : "02-1-2016",
-		"Draco Malfoy/Harry Potter" : 197
+		"Draco Malfoy/Harry Potter" : 218
 	},
 	{
 		"_id" : "01-1-2016",
-		"Draco Malfoy/Harry Potter" : 178
+		"Draco Malfoy/Harry Potter" : 271
 	},
 	{
 		"_id" : "12-1-2015",
-		"Draco Malfoy/Harry Potter" : 2
+		"Draco Malfoy/Harry Potter" : 313
+	},
+	{
+		"_id" : "11-1-2015",
+		"Draco Malfoy/Harry Potter" : 237
+	},
+	{
+		"_id" : "10-1-2015",
+		"Draco Malfoy/Harry Potter" : 219
+	},
+	{
+		"_id" : "09-1-2015",
+		"Draco Malfoy/Harry Potter" : 211
+	},
+	{
+		"_id" : "08-1-2015",
+		"Draco Malfoy/Harry Potter" : 199
+	},
+	{
+		"_id" : "07-1-2015",
+		"Draco Malfoy/Harry Potter" : 202
+	},
+	{
+		"_id" : "06-1-2015",
+		"Draco Malfoy/Harry Potter" : 238
+	},
+	{
+		"_id" : "05-1-2015",
+		"Draco Malfoy/Harry Potter" : 196
 	},
 	{
 		"_id" : "04-1-2015",
-		"Draco Malfoy/Harry Potter" : 1
+		"Draco Malfoy/Harry Potter" : 199
 	},
 	{
 		"_id" : "03-1-2015",
-		"Draco Malfoy/Harry Potter" : 1
+		"Draco Malfoy/Harry Potter" : 153
+	},
+	{
+		"_id" : "02-1-2015",
+		"Draco Malfoy/Harry Potter" : 141
 	},
 	{
 		"_id" : "01-1-2015",
-		"Draco Malfoy/Harry Potter" : 4
+		"Draco Malfoy/Harry Potter" : 164
 	},
 	{
 		"_id" : "12-1-2014",
-		"Draco Malfoy/Harry Potter" : 1
+		"Draco Malfoy/Harry Potter" : 209
 	},
 	{
 		"_id" : "11-1-2014",
-		"Draco Malfoy/Harry Potter" : 3
+		"Draco Malfoy/Harry Potter" : 170
+	},
+	{
+		"_id" : "10-1-2014",
+		"Draco Malfoy/Harry Potter" : 158
 	},
 	{
 		"_id" : "09-1-2014",
-		"Draco Malfoy/Harry Potter" : 1
+		"Draco Malfoy/Harry Potter" : 101
 	},
 	{
 		"_id" : "08-1-2014",
-		"Draco Malfoy/Harry Potter" : 2
+		"Draco Malfoy/Harry Potter" : 141
 	},
 	{
 		"_id" : "07-1-2014",
+		"Draco Malfoy/Harry Potter" : 125
+	},
+	{
+		"_id" : "06-1-2014",
 		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "05-1-2014",
+		"Draco Malfoy/Harry Potter" : 4
 	},
 	{
 		"_id" : "04-1-2014",
@@ -93,19 +137,59 @@
 	},
 	{
 		"_id" : "03-1-2014",
-		"Draco Malfoy/Harry Potter" : 1
+		"Draco Malfoy/Harry Potter" : 4
 	},
 	{
 		"_id" : "01-1-2014",
 		"Draco Malfoy/Harry Potter" : 1
 	},
 	{
+		"_id" : "12-1-2013",
+		"Draco Malfoy/Harry Potter" : 6
+	},
+	{
+		"_id" : "11-1-2013",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "10-1-2013",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "08-1-2013",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "07-1-2013",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "06-1-2013",
+		"Draco Malfoy/Harry Potter" : 2
+	},
+	{
+		"_id" : "05-1-2013",
+		"Draco Malfoy/Harry Potter" : 2
+	},
+	{
+		"_id" : "04-1-2013",
+		"Draco Malfoy/Harry Potter" : 2
+	},
+	{
+		"_id" : "03-1-2013",
+		"Draco Malfoy/Harry Potter" : 2
+	},
+	{
+		"_id" : "02-1-2013",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
 		"_id" : "01-1-2013",
-		"Draco Malfoy/Harry Potter" : 4
+		"Draco Malfoy/Harry Potter" : 5
 	},
 	{
 		"_id" : "12-1-2012",
-		"Draco Malfoy/Harry Potter" : 2
+		"Draco Malfoy/Harry Potter" : 7
 	},
 	{
 		"_id" : "11-1-2012",
@@ -113,59 +197,111 @@
 	},
 	{
 		"_id" : "10-1-2012",
+		"Draco Malfoy/Harry Potter" : 9
+	},
+	{
+		"_id" : "09-1-2012",
+		"Draco Malfoy/Harry Potter" : 6
+	},
+	{
+		"_id" : "08-1-2012",
+		"Draco Malfoy/Harry Potter" : 3
+	},
+	{
+		"_id" : "06-1-2012",
+		"Draco Malfoy/Harry Potter" : 5
+	},
+	{
+		"_id" : "05-1-2012",
 		"Draco Malfoy/Harry Potter" : 2
 	},
 	{
 		"_id" : "04-1-2012",
-		"Draco Malfoy/Harry Potter" : 1
-	},
-	{
-		"_id" : "03-1-2012",
-		"Draco Malfoy/Harry Potter" : 4
-	},
-	{
-		"_id" : "02-1-2012",
-		"Draco Malfoy/Harry Potter" : 2
-	},
-	{
-		"_id" : "01-1-2012",
 		"Draco Malfoy/Harry Potter" : 3
 	},
 	{
+		"_id" : "03-1-2012",
+		"Draco Malfoy/Harry Potter" : 5
+	},
+	{
+		"_id" : "02-1-2012",
+		"Draco Malfoy/Harry Potter" : 5
+	},
+	{
+		"_id" : "01-1-2012",
+		"Draco Malfoy/Harry Potter" : 9
+	},
+	{
+		"_id" : "12-1-2011",
+		"Draco Malfoy/Harry Potter" : 2
+	},
+	{
+		"_id" : "10-1-2011",
+		"Draco Malfoy/Harry Potter" : 2
+	},
+	{
+		"_id" : "09-1-2011",
+		"Draco Malfoy/Harry Potter" : 2
+	},
+	{
 		"_id" : "08-1-2011",
-		"Draco Malfoy/Harry Potter" : 1
+		"Draco Malfoy/Harry Potter" : 9
 	},
 	{
 		"_id" : "07-1-2011",
-		"Draco Malfoy/Harry Potter" : 2
+		"Draco Malfoy/Harry Potter" : 5
 	},
 	{
 		"_id" : "06-1-2011",
+		"Draco Malfoy/Harry Potter" : 6
+	},
+	{
+		"_id" : "05-1-2011",
 		"Draco Malfoy/Harry Potter" : 2
 	},
 	{
-		"_id" : "03-1-2011",
+		"_id" : "04-1-2011",
 		"Draco Malfoy/Harry Potter" : 1
 	},
 	{
+		"_id" : "03-1-2011",
+		"Draco Malfoy/Harry Potter" : 2
+	},
+	{
 		"_id" : "02-1-2011",
+		"Draco Malfoy/Harry Potter" : 3
+	},
+	{
+		"_id" : "01-1-2011",
 		"Draco Malfoy/Harry Potter" : 2
 	},
 	{
 		"_id" : "12-1-2010",
+		"Draco Malfoy/Harry Potter" : 6
+	},
+	{
+		"_id" : "11-1-2010",
 		"Draco Malfoy/Harry Potter" : 1
 	},
 	{
 		"_id" : "10-1-2010",
-		"Draco Malfoy/Harry Potter" : 1
+		"Draco Malfoy/Harry Potter" : 3
 	},
 	{
 		"_id" : "07-1-2010",
-		"Draco Malfoy/Harry Potter" : 2
+		"Draco Malfoy/Harry Potter" : 5
+	},
+	{
+		"_id" : "06-1-2010",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "05-1-2010",
+		"Draco Malfoy/Harry Potter" : 3
 	},
 	{
 		"_id" : "04-1-2010",
-		"Draco Malfoy/Harry Potter" : 3
+		"Draco Malfoy/Harry Potter" : 4
 	},
 	{
 		"_id" : "03-1-2010",
@@ -177,19 +313,19 @@
 	},
 	{
 		"_id" : "01-1-2010",
-		"Draco Malfoy/Harry Potter" : 1
-	},
-	{
-		"_id" : "12-1-2009",
 		"Draco Malfoy/Harry Potter" : 3
 	},
 	{
+		"_id" : "12-1-2009",
+		"Draco Malfoy/Harry Potter" : 4
+	},
+	{
 		"_id" : "11-1-2009",
-		"Draco Malfoy/Harry Potter" : 2
+		"Draco Malfoy/Harry Potter" : 3
 	},
 	{
 		"_id" : "10-1-2009",
-		"Draco Malfoy/Harry Potter" : 4
+		"Draco Malfoy/Harry Potter" : 5
 	},
 	{
 		"_id" : "09-1-2009",
@@ -197,7 +333,7 @@
 	},
 	{
 		"_id" : "08-1-2009",
-		"Draco Malfoy/Harry Potter" : 1
+		"Draco Malfoy/Harry Potter" : 3
 	},
 	{
 		"_id" : "07-1-2009",
@@ -208,16 +344,20 @@
 		"Draco Malfoy/Harry Potter" : 1
 	},
 	{
-		"_id" : "02-1-2009",
+		"_id" : "05-1-2009",
 		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "02-1-2009",
+		"Draco Malfoy/Harry Potter" : 2
 	},
 	{
 		"_id" : "01-1-2009",
-		"Draco Malfoy/Harry Potter" : 1
+		"Draco Malfoy/Harry Potter" : 4
 	},
 	{
 		"_id" : "12-1-2008",
-		"Draco Malfoy/Harry Potter" : 4
+		"Draco Malfoy/Harry Potter" : 6
 	},
 	{
 		"_id" : "11-1-2008",
@@ -245,11 +385,11 @@
 	},
 	{
 		"_id" : "04-1-2008",
-		"Draco Malfoy/Harry Potter" : 2
+		"Draco Malfoy/Harry Potter" : 3
 	},
 	{
 		"_id" : "03-1-2008",
-		"Draco Malfoy/Harry Potter" : 7
+		"Draco Malfoy/Harry Potter" : 8
 	},
 	{
 		"_id" : "02-1-2008",
@@ -261,7 +401,11 @@
 	},
 	{
 		"_id" : "12-1-2007",
-		"Draco Malfoy/Harry Potter" : 8
+		"Draco Malfoy/Harry Potter" : 10
+	},
+	{
+		"_id" : "11-1-2007",
+		"Draco Malfoy/Harry Potter" : 1
 	},
 	{
 		"_id" : "10-1-2007",
@@ -269,7 +413,7 @@
 	},
 	{
 		"_id" : "09-1-2007",
-		"Draco Malfoy/Harry Potter" : 4
+		"Draco Malfoy/Harry Potter" : 6
 	},
 	{
 		"_id" : "08-1-2007",
@@ -285,7 +429,7 @@
 	},
 	{
 		"_id" : "05-1-2007",
-		"Draco Malfoy/Harry Potter" : 6
+		"Draco Malfoy/Harry Potter" : 7
 	},
 	{
 		"_id" : "04-1-2007",
@@ -297,19 +441,19 @@
 	},
 	{
 		"_id" : "02-1-2007",
-		"Draco Malfoy/Harry Potter" : 1
+		"Draco Malfoy/Harry Potter" : 2
 	},
 	{
 		"_id" : "01-1-2007",
-		"Draco Malfoy/Harry Potter" : 4
+		"Draco Malfoy/Harry Potter" : 8
 	},
 	{
 		"_id" : "12-1-2006",
-		"Draco Malfoy/Harry Potter" : 5
+		"Draco Malfoy/Harry Potter" : 8
 	},
 	{
 		"_id" : "11-1-2006",
-		"Draco Malfoy/Harry Potter" : 3
+		"Draco Malfoy/Harry Potter" : 5
 	},
 	{
 		"_id" : "10-1-2006",
@@ -317,23 +461,23 @@
 	},
 	{
 		"_id" : "09-1-2006",
-		"Draco Malfoy/Harry Potter" : 3
+		"Draco Malfoy/Harry Potter" : 4
 	},
 	{
 		"_id" : "08-1-2006",
-		"Draco Malfoy/Harry Potter" : 2
+		"Draco Malfoy/Harry Potter" : 4
 	},
 	{
 		"_id" : "06-1-2006",
-		"Draco Malfoy/Harry Potter" : 2
+		"Draco Malfoy/Harry Potter" : 3
 	},
 	{
 		"_id" : "05-1-2006",
-		"Draco Malfoy/Harry Potter" : 1
+		"Draco Malfoy/Harry Potter" : 2
 	},
 	{
 		"_id" : "04-1-2006",
-		"Draco Malfoy/Harry Potter" : 2
+		"Draco Malfoy/Harry Potter" : 3
 	},
 	{
 		"_id" : "03-1-2006",
@@ -341,15 +485,19 @@
 	},
 	{
 		"_id" : "02-1-2006",
+		"Draco Malfoy/Harry Potter" : 3
+	},
+	{
+		"_id" : "01-1-2006",
 		"Draco Malfoy/Harry Potter" : 1
 	},
 	{
 		"_id" : "12-1-2005",
-		"Draco Malfoy/Harry Potter" : 3
+		"Draco Malfoy/Harry Potter" : 7
 	},
 	{
 		"_id" : "11-1-2005",
-		"Draco Malfoy/Harry Potter" : 2
+		"Draco Malfoy/Harry Potter" : 3
 	},
 	{
 		"_id" : "09-1-2005",
@@ -361,7 +509,7 @@
 	},
 	{
 		"_id" : "07-1-2005",
-		"Draco Malfoy/Harry Potter" : 1
+		"Draco Malfoy/Harry Potter" : 3
 	},
 	{
 		"_id" : "06-1-2005",
@@ -377,7 +525,7 @@
 	},
 	{
 		"_id" : "03-1-2005",
-		"Draco Malfoy/Harry Potter" : 3
+		"Draco Malfoy/Harry Potter" : 4
 	},
 	{
 		"_id" : "02-1-2005",
@@ -389,15 +537,19 @@
 	},
 	{
 		"_id" : "12-1-2004",
-		"Draco Malfoy/Harry Potter" : 4
+		"Draco Malfoy/Harry Potter" : 7
 	},
 	{
 		"_id" : "11-1-2004",
-		"Draco Malfoy/Harry Potter" : 1
+		"Draco Malfoy/Harry Potter" : 2
+	},
+	{
+		"_id" : "10-1-2004",
+		"Draco Malfoy/Harry Potter" : 2
 	},
 	{
 		"_id" : "09-1-2004",
-		"Draco Malfoy/Harry Potter" : 2
+		"Draco Malfoy/Harry Potter" : 6
 	},
 	{
 		"_id" : "08-1-2004",
@@ -405,10 +557,70 @@
 	},
 	{
 		"_id" : "07-1-2004",
-		"Draco Malfoy/Harry Potter" : 2
+		"Draco Malfoy/Harry Potter" : 3
+	},
+	{
+		"_id" : "05-1-2004",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "04-1-2004",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "03-1-2004",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "02-1-2004",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "01-1-2004",
+		"Draco Malfoy/Harry Potter" : 1
 	},
 	{
 		"_id" : "12-1-2003",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "11-1-2003",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "10-1-2003",
+		"Draco Malfoy/Harry Potter" : 2
+	},
+	{
+		"_id" : "08-1-2003",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "06-1-2003",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "05-1-2003",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "01-1-2003",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "10-1-2002",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "09-1-2002",
+		"Draco Malfoy/Harry Potter" : 2
+	},
+	{
+		"_id" : "08-1-2002",
+		"Draco Malfoy/Harry Potter" : 2
+	},
+	{
+		"_id" : "06-1-2002",
 		"Draco Malfoy/Harry Potter" : 1
 	},
 	{
@@ -416,7 +628,19 @@
 		"Draco Malfoy/Harry Potter" : 1
 	},
 	{
+		"_id" : "02-1-2002",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "01-1-2002",
+		"Draco Malfoy/Harry Potter" : 1
+	},
+	{
+		"_id" : "12-1-2001",
+		"Draco Malfoy/Harry Potter" : 2
+	},
+	{
 		"_id" : null,
-		"Draco Malfoy/Harry Potter" : 31
+		"Draco Malfoy/Harry Potter" : 11
 	}
 ]

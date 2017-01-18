@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Harry Potter",
+		"year" : 2015,
+		"count" : 7362
+	},
+	{
+		"_id" : "Draco Malfoy",
+		"year" : 2015,
+		"count" : 4326
+	},
+	{
+		"_id" : "Hermione Granger",
+		"year" : 2015,
+		"count" : 4249
+	},
+	{
+		"_id" : "Severus Snape",
+		"year" : 2015,
+		"count" : 2920
+	},
+	{
+		"_id" : "Ron Weasley",
+		"year" : 2015,
+		"count" : 2867
+	},
+	{
+		"_id" : "Sirius Black",
+		"year" : 2015,
+		"count" : 2850
+	},
+	{
+		"_id" : "Remus Lupin",
+		"year" : 2015,
+		"count" : 2743
+	},
+	{
+		"_id" : "James Potter",
+		"year" : 2015,
+		"count" : 1813
+	},
+	{
+		"_id" : "Ginny Weasley",
+		"year" : 2015,
+		"count" : 1668
+	},
+	{
+		"_id" : "Albus Dumbledore",
+		"year" : 2015,
+		"count" : 1324
+	},
+	{
+		"_id" : "Lily Evans Potter",
+		"year" : 2015,
+		"count" : 1292
+	},
+	{
+		"_id" : "Luna Lovegood",
+		"year" : 2015,
+		"count" : 985
+	},
+	{
+		"_id" : "Lucius Malfoy",
+		"year" : 2015,
+		"count" : 968
+	},
+	{
+		"_id" : "Neville Longbottom",
+		"year" : 2015,
+		"count" : 957
+	},
+	{
+		"_id" : "Minerva McGonagall",
+		"year" : 2015,
+		"count" : 913
+	},
+	{
+		"_id" : "Peter Pettigrew",
+		"year" : 2015,
+		"count" : 888
+	},
+	{
+		"_id" : "George Weasley",
+		"year" : 2015,
+		"count" : 827
+	},
+	{
+		"_id" : "Original Female Character(s)",
+		"year" : 2015,
+		"count" : 721
+	},
+	{
+		"_id" : "Narcissa Black Malfoy",
+		"year" : 2015,
+		"count" : 711
+	},
+	{
+		"_id" : "Fred Weasley",
+		"year" : 2015,
+		"count" : 698
+	},
+	{
+		"_id" : "Pansy Parkinson",
+		"year" : 2015,
+		"count" : 654
+	},
+	{
+		"_id" : "Blaise Zabini",
+		"year" : 2015,
+		"count" : 614
+	},
+	{
+		"_id" : "Scorpius Malfoy",
+		"year" : 2015,
+		"count" : 535
+	},
+	{
+		"_id" : "Voldemort",
+		"year" : 2015,
+		"count" : 528
+	},
+	{
+		"_id" : "Original Male Character(s)",
+		"year" : 2015,
+		"count" : 516
+	},
+	{
+		"_id" : "Molly Weasley",
+		"year" : 2015,
+		"count" : 490
+	},
+	{
+		"_id" : "Albus Severus Potter",
+		"year" : 2015,
+		"count" : 469
+	},
+	{
+		"_id" : "Teddy Lupin",
+		"year" : 2015,
+		"count" : 458
+	},
+	{
+		"_id" : "Bellatrix Black Lestrange",
+		"year" : 2015,
+		"count" : 442
+	},
+	{
+		"_id" : "Tom Riddle",
+		"year" : 2015,
+		"count" : 436
+	},
+	{
+		"_id" : "Tom Riddle | Voldemort",
+		"year" : 2015,
+		"count" : 435
+	},
+	{
+		"_id" : "Nymphadora Tonks",
+		"year" : 2015,
+		"count" : 396
+	},
+	{
+		"_id" : "James Sirius Potter",
+		"year" : 2015,
+		"count" : 367
+	},
+	{
+		"_id" : "Regulus Black",
+		"year" : 2015,
+		"count" : 353
+	},
+	{
+		"_id" : "Dean Thomas",
+		"year" : 2015,
+		"count" : 349
+	},
+	{
+		"_id" : "Seamus Finnigan",
+		"year" : 2015,
+		"count" : 348
+	},
+	{
+		"_id" : "Arthur Weasley",
+		"year" : 2015,
+		"count" : 327
+	},
+	{
+		"_id" : "Rose Weasley",
+		"year" : 2015,
+		"count" : 322
+	},
+	{
+		"_id" : "Bill Weasley",
+		"year" : 2015,
+		"count" : 301
+	},
+	{
+		"_id" : "Charlie Weasley",
+		"year" : 2015,
+		"count" : 294
+	},
+	{
+		"_id" : "Theodore Nott",
+		"year" : 2015,
+		"count" : 292
+	},
+	{
+		"_id" : "Percy Weasley",
+		"year" : 2015,
+		"count" : 285
+	},
+	{
+		"_id" : "Lily Luna Potter",
+		"year" : 2015,
+		"count" : 270
+	},
+	{
+		"_id" : "Rubeus Hagrid",
+		"year" : 2015,
+		"count" : 269
+	},
+	{
+		"_id" : "Andromeda Black Tonks",
+		"year" : 2015,
+		"count" : 242
+	},
+	{
+		"_id" : "Petunia Evans Dursley",
+		"year" : 2015,
+		"count" : 214
+	},
+	{
+		"_id" : "Astoria Greengrass",
+		"year" : 2015,
+		"count" : 208
+	},
+	{
+		"_id" : "Fleur Delacour",
+		"year" : 2015,
+		"count" : 202
+	},
+	{
+		"_id" : "Kingsley Shacklebolt",
+		"year" : 2015,
+		"count" : 198
+	},
+	{
+		"_id" : "Lavender Brown",
+		"year" : 2015,
+		"count" : 195
+	},
+	{
+		"_id" : "Daphne Greengrass",
+		"year" : 2015,
+		"count" : 188
+	},
+	{
+		"_id" : "Lily Evans",
+		"year" : 2015,
+		"count" : 182
+	},
+	{
+		"_id" : "Dudley Dursley",
+		"year" : 2015,
+		"count" : 175
+	},
+	{
+		"_id" : "Original Characters",
+		"year" : 2015,
+		"count" : 149
+	},
+	{
+		"_id" : "Sherlock Holmes",
+		"year" : 2015,
+		"count" : 147
+	},
+	{
+		"_id" : "Poppy Pomfrey",
+		"year" : 2015,
+		"count" : 146
+	},
+	{
+		"_id" : "Marlene McKinnon",
+		"year" : 2015,
+		"count" : 144
+	},
+	{
+		"_id" : "Hugo Weasley",
+		"year" : 2015,
+		"count" : 144
+	},
+	{
+		"_id" : "Gregory Goyle",
+		"year" : 2015,
+		"count" : 143
+	},
+	{
+		"_id" : "Cedric Diggory",
+		"year" : 2015,
+		"count" : 141
+	},
+	{
+		"_id" : "Oliver Wood",
+		"year" : 2015,
+		"count" : 140
+	},
+	{
+		"_id" : "Vernon Dursley",
+		"year" : 2015,
+		"count" : 140
+	},
+	{
+		"_id" : "John Watson",
+		"year" : 2015,
+		"count" : 134
+	},
+	{
+		"_id" : "Viktor Krum",
+		"year" : 2015,
+		"count" : 123
+	},
+	{
+		"_id" : "Victoire Weasley",
+		"year" : 2015,
+		"count" : 121
+	},
+	{
+		"_id" : "OC - Character",
+		"year" : 2015,
+		"count" : 119
+	},
+	{
+		"_id" : "Alice Longbottom",
+		"year" : 2015,
+		"count" : 118
+	},
+	{
+		"_id" : "Cho Chang",
+		"year" : 2015,
+		"count" : 117
+	},
+	{
+		"_id" : "Parvati Patil",
+		"year" : 2015,
+		"count" : 115
+	},
+	{
+		"_id" : "Vincent Crabbe",
+		"year" : 2015,
+		"count" : 115
+	},
+	{
+		"_id" : "Tony Stark",
+		"year" : 2015,
+		"count" : 112
+	},
+	{
+		"_id" : "Rodolphus Lestrange",
+		"year" : 2015,
+		"count" : 109
+	},
+	{
+		"_id" : "Steve Rogers",
+		"year" : 2015,
+		"count" : 107
+	},
+	{
+		"_id" : "Horace Slughorn",
+		"year" : 2015,
+		"count" : 107
+	},
+	{
+		"_id" : "Hannah Abbott",
+		"year" : 2015,
+		"count" : 107
+	},
+	{
+		"_id" : "Alastor “Mad-Eye” Moody",
+		"year" : 2015,
+		"count" : 105
+	},
+	{
+		"_id" : "Filius Flitwick",
+		"year" : 2015,
+		"count" : 100
+	},
+	{
+		"_id" : "Gellert Grindelwald",
+		"year" : 2015,
+		"count" : 98
+	},
+	{
+		"_id" : "Walburga Black",
+		"year" : 2015,
+		"count" : 98
+	},
+	{
+		"_id" : "Dolores Umbridge",
+		"year" : 2015,
+		"count" : 98
+	},
+	{
+		"_id" : "Angelina Johnson",
+		"year" : 2015,
+		"count" : 97
+	},
+	{
+		"_id" : "Dean Winchester",
+		"year" : 2015,
+		"count" : 96
+	},
+	{
+		"_id" : "Frank Longbottom",
+		"year" : 2015,
+		"count" : 95
+	},
+	{
+		"_id" : "Bartemius Crouch Jr.",
+		"year" : 2015,
+		"count" : 93
+	},
+	{
+		"_id" : "Susan Bones",
+		"year" : 2015,
+		"count" : 92
+	},
+	{
+		"_id" : "Marauders (Harry Potter)",
+		"year" : 2015,
+		"count" : 91
+	},
+	{
+		"_id" : "Fenrir Greyback",
+		"year" : 2015,
+		"count" : 90
+	},
+	{
+		"_id" : "Millicent Bulstrode",
+		"year" : 2015,
+		"count" : 89
+	},
+	{
+		"_id" : "Padma Patil",
+		"year" : 2015,
+		"count" : 86
+	},
+	{
+		"_id" : "Dominique Weasley",
+		"year" : 2015,
+		"count" : 86
+	},
+	{
+		"_id" : "Rabastan Lestrange",
+		"year" : 2015,
+		"count" : 85
+	},
+	{
+		"_id" : "Sam Winchester",
+		"year" : 2015,
+		"count" : 84
+	},
+	{
+		"_id" : "The Weasleys",
+		"year" : 2015,
+		"count" : 79
+	},
+	{
+		"_id" : "Marcus Flint",
+		"year" : 2015,
+		"count" : 79
+	},
+	{
+		"_id" : "Salazar Slytherin",
+		"year" : 2015,
+		"count" : 78
+	},
+	{
+		"_id" : "Natasha Romanov",
+		"year" : 2015,
+		"count" : 77
+	},
+	{
+		"_id" : "Colin Creevey",
+		"year" : 2015,
+		"count" : 77
+	},
+	{
+		"_id" : "Clint Barton",
+		"year" : 2015,
+		"count" : 75
+	},
+	{
+		"_id" : "Kreacher (Harry Potter)",
+		"year" : 2015,
+		"count" : 74
+	},
+	{
+		"_id" : "Orion Black",
+		"year" : 2015,
+		"count" : 70
+	}
+]

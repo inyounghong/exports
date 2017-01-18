@@ -1,252 +1,252 @@
 [
 	{
 		"_id" : "Draco Malfoy/Harry Potter",
-		"count" : 5467,
-		"words" : 51098815
+		"count" : 8131,
+		"words" : 82903307
 	},
 	{
 		"_id" : "Hermione Granger/Ron Weasley",
-		"count" : 1845,
-		"words" : 31388527
+		"count" : 2817,
+		"words" : 50568312
 	},
 	{
 		"_id" : "Sirius Black/Remus Lupin",
-		"count" : 3232,
-		"words" : 29861661
+		"count" : 4712,
+		"words" : 42468965
 	},
 	{
 		"_id" : "Harry Potter/Ginny Weasley",
-		"count" : 1492,
-		"words" : 25824445
+		"count" : 2272,
+		"words" : 37198225
 	},
 	{
 		"_id" : "James Potter/Lily Evans Potter",
-		"count" : 1693,
-		"words" : 19725744
+		"count" : 2497,
+		"words" : 27967957
 	},
 	{
 		"_id" : "Hermione Granger/Draco Malfoy",
-		"count" : 1415,
-		"words" : 16604720
+		"count" : 2111,
+		"words" : 24411643
 	},
 	{
 		"_id" : "Harry Potter/Severus Snape",
-		"count" : 1325,
-		"words" : 15472835
+		"count" : 2493,
+		"words" : 24158938
 	},
 	{
 		"_id" : "Harry Potter/Tom Riddle",
-		"count" : 668,
-		"words" : 10293183
-	},
-	{
-		"_id" : "Hermione Granger/Severus Snape",
-		"count" : 698,
-		"words" : 10049420
+		"count" : 966,
+		"words" : 16035119
 	},
 	{
 		"_id" : "Lucius Malfoy/Narcissa Black Malfoy",
-		"count" : 470,
-		"words" : 9897571
+		"count" : 713,
+		"words" : 14514791
 	},
 	{
-		"_id" : "Hermione Granger/Harry Potter",
-		"count" : 369,
-		"words" : 7215651
-	},
-	{
-		"_id" : "Scorpius Malfoy/Albus Severus Potter",
-		"count" : 745,
-		"words" : 6320259
+		"_id" : "Hermione Granger/Severus Snape",
+		"count" : 1003,
+		"words" : 13989589
 	},
 	{
 		"_id" : "Harry Potter/Voldemort",
-		"count" : 377,
-		"words" : 6234471
+		"count" : 579,
+		"words" : 10985985
 	},
 	{
-		"_id" : "Scorpius Malfoy/Rose Weasley",
-		"count" : 310,
-		"words" : 4774354
+		"_id" : "Hermione Granger/Harry Potter",
+		"count" : 594,
+		"words" : 9756554
 	},
 	{
 		"_id" : "Remus Lupin/Nymphadora Tonks",
-		"count" : 359,
-		"words" : 4551928
+		"count" : 571,
+		"words" : 8561993
 	},
 	{
-		"_id" : "Seamus Finnigan/Dean Thomas",
-		"count" : 427,
-		"words" : 4148543
-	},
-	{
-		"_id" : "Astoria Greengrass/Draco Malfoy",
-		"count" : 272,
-		"words" : 3850800
-	},
-	{
-		"_id" : "Arthur Weasley/Molly Weasley",
-		"count" : 206,
-		"words" : 3752647
-	},
-	{
-		"_id" : "Lily Evans Potter/Severus Snape",
-		"count" : 229,
-		"words" : 3509687
-	},
-	{
-		"_id" : "Neville Longbottom/Luna Lovegood",
-		"count" : 206,
-		"words" : 3348622
-	},
-	{
-		"_id" : "Draco Malfoy/Original Female Character(s)",
-		"count" : 109,
-		"words" : 3200171
-	},
-	{
-		"_id" : "Fleur Delacour/Bill Weasley",
-		"count" : 197,
-		"words" : 3129162
-	},
-	{
-		"_id" : "Hermione Granger/Tom Riddle",
-		"count" : 146,
-		"words" : 3025755
+		"_id" : "Scorpius Malfoy/Albus Severus Potter",
+		"count" : 891,
+		"words" : 7446040
 	},
 	{
 		"_id" : "Remus Lupin/Severus Snape",
-		"count" : 300,
-		"words" : 2581355
+		"count" : 508,
+		"words" : 7093310
 	},
 	{
-		"_id" : "Draco Malfoy & Harry Potter",
-		"count" : 192,
-		"words" : 2553660
+		"_id" : "Neville Longbottom/Luna Lovegood",
+		"count" : 319,
+		"words" : 7038327
+	},
+	{
+		"_id" : "Scorpius Malfoy/Rose Weasley",
+		"count" : 450,
+		"words" : 6389142
+	},
+	{
+		"_id" : "Arthur Weasley/Molly Weasley",
+		"count" : 300,
+		"words" : 6150948
+	},
+	{
+		"_id" : "Fleur Delacour/Bill Weasley",
+		"count" : 300,
+		"words" : 5870585
+	},
+	{
+		"_id" : "Astoria Greengrass/Draco Malfoy",
+		"count" : 415,
+		"words" : 5826059
+	},
+	{
+		"_id" : "Seamus Finnigan/Dean Thomas",
+		"count" : 532,
+		"words" : 5312161
+	},
+	{
+		"_id" : "Lily Evans Potter/Severus Snape",
+		"count" : 355,
+		"words" : 5019747
 	},
 	{
 		"_id" : "Draco Malfoy/Ginny Weasley",
-		"count" : 140,
-		"words" : 2480765
+		"count" : 237,
+		"words" : 4309338
 	},
 	{
-		"_id" : "Angelina Johnson/George Weasley",
-		"count" : 137,
-		"words" : 2468314
+		"_id" : "Draco Malfoy/Original Female Character(s)",
+		"count" : 154,
+		"words" : 4297891
 	},
 	{
-		"_id" : "James/Lily",
-		"count" : 257,
-		"words" : 2467738
-	},
-	{
-		"_id" : "Alice Longbottom/Frank Longbottom",
-		"count" : 108,
-		"words" : 2293662
+		"_id" : "Harry Potter/Original Male Character(s)",
+		"count" : 119,
+		"words" : 4105457
 	},
 	{
 		"_id" : "Luna Lovegood/Harry Potter",
-		"count" : 126,
-		"words" : 2292699
+		"count" : 230,
+		"words" : 3930978
 	},
 	{
-		"_id" : "Harry Potter & Severus Snape",
-		"count" : 112,
-		"words" : 2268671
-	},
-	{
-		"_id" : "Credence Barebone/Original Percival Graves",
-		"count" : 411,
-		"words" : 2265277
-	},
-	{
-		"_id" : "Hannah Abbott/Neville Longbottom",
-		"count" : 130,
-		"words" : 2262632
+		"_id" : "James/Lily",
+		"count" : 387,
+		"words" : 3830889
 	},
 	{
 		"_id" : "Severus Snape/Original Female Character(s)",
-		"count" : 133,
-		"words" : 2201360
+		"count" : 167,
+		"words" : 3810528
 	},
 	{
-		"_id" : "Pansy Parkinson/Ron Weasley",
-		"count" : 111,
-		"words" : 2147407
+		"_id" : "Angelina Johnson/George Weasley",
+		"count" : 193,
+		"words" : 3692151
 	},
 	{
-		"_id" : "Sirius Black/Severus Snape",
-		"count" : 157,
-		"words" : 2142404
+		"_id" : "Sirius Black/Original Female Character(s)",
+		"count" : 134,
+		"words" : 3570110
 	},
 	{
-		"_id" : "Bellatrix Black Lestrange/Rodolphus Lestrange",
-		"count" : 113,
-		"words" : 1998186
+		"_id" : "Hermione Granger/Tom Riddle",
+		"count" : 220,
+		"words" : 3555767
+	},
+	{
+		"_id" : "Draco Malfoy & Harry Potter",
+		"count" : 268,
+		"words" : 3541190
 	},
 	{
 		"_id" : "Hermione Granger/Viktor Krum",
-		"count" : 119,
-		"words" : 1986044
+		"count" : 183,
+		"words" : 3387171
 	},
 	{
-		"_id" : "Lavender Brown/Ron Weasley",
-		"count" : 128,
-		"words" : 1951431
+		"_id" : "Alice Longbottom/Frank Longbottom",
+		"count" : 157,
+		"words" : 3372306
 	},
 	{
-		"_id" : "Hermione Granger/Fred Weasley",
-		"count" : 153,
-		"words" : 1916799
+		"_id" : "Hannah Abbott/Neville Longbottom",
+		"count" : 193,
+		"words" : 3272267
 	},
 	{
-		"_id" : "Draco Malfoy/Pansy Parkinson",
-		"count" : 108,
-		"words" : 1912052
+		"_id" : "Harry Potter & Severus Snape",
+		"count" : 185,
+		"words" : 3270772
 	},
 	{
-		"_id" : "Hermione Granger/Harry Potter/Ron Weasley",
-		"count" : 121,
-		"words" : 1860896
+		"_id" : "Original Female Character/Original Male Character",
+		"count" : 113,
+		"words" : 3066161
+	},
+	{
+		"_id" : "Lucius Malfoy/Harry Potter",
+		"count" : 174,
+		"words" : 3051400
+	},
+	{
+		"_id" : "Hermione Granger/Lucius Malfoy",
+		"count" : 148,
+		"words" : 3003746
+	},
+	{
+		"_id" : "Bellatrix Black Lestrange/Rodolphus Lestrange",
+		"count" : 171,
+		"words" : 2965572
+	},
+	{
+		"_id" : "Hermione Granger/Remus Lupin",
+		"count" : 145,
+		"words" : 2920986
 	},
 	{
 		"_id" : "Harry Potter/Draco Malfoy",
-		"count" : 142,
-		"words" : 1806759
+		"count" : 435,
+		"words" : 2849948
 	},
 	{
-		"_id" : "Teddy Lupin/Victoire Weasley",
-		"count" : 163,
-		"words" : 1731204
+		"_id" : "Sirius Black/Severus Snape",
+		"count" : 241,
+		"words" : 2841015
 	},
 	{
-		"_id" : "Original Percival Graves/Newt Scamander",
-		"count" : 356,
-		"words" : 1702828
+		"_id" : "Draco Malfoy/Pansy Parkinson",
+		"count" : 151,
+		"words" : 2826551
 	},
 	{
-		"_id" : "Minor or Background Relationship(s)",
-		"count" : 114,
-		"words" : 1667113
+		"_id" : "Pansy Parkinson/Ron Weasley",
+		"count" : 143,
+		"words" : 2809999
+	},
+	{
+		"_id" : "Neville Longbottom/Ginny Weasley",
+		"count" : 136,
+		"words" : 2781884
+	},
+	{
+		"_id" : "Harry Potter/Tom Riddle | Harry Potter/Voldemort",
+		"count" : 151,
+		"words" : 2769575
+	},
+	{
+		"_id" : "Hermione Granger/Fred Weasley",
+		"count" : 219,
+		"words" : 2649406
 	},
 	{
 		"_id" : "Harry Potter/Ron Weasley",
-		"count" : 211,
-		"words" : 1591296
+		"count" : 459,
+		"words" : 2517266
 	},
 	{
-		"_id" : "Queenie Goldstein/Jacob Kowalski",
-		"count" : 209,
-		"words" : 1439184
-	},
-	{
-		"_id" : "Tina Goldstein/Newt Scamander",
-		"count" : 251,
-		"words" : 1435175
-	},
-	{
-		"_id" : "Lucius Malfoy/Severus Snape",
-		"count" : 115,
-		"words" : 1343248
+		"_id" : "Minor or Background Relationship(s)",
+		"count" : 162,
+		"words" : 2436538
 	}
 ]

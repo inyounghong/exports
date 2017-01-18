@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Harry Potter",
+		"year" : 2016,
+		"count" : 11687
+	},
+	{
+		"_id" : "Draco Malfoy",
+		"year" : 2016,
+		"count" : 7368
+	},
+	{
+		"_id" : "Hermione Granger",
+		"year" : 2016,
+		"count" : 7352
+	},
+	{
+		"_id" : "Ron Weasley",
+		"year" : 2016,
+		"count" : 5178
+	},
+	{
+		"_id" : "Severus Snape",
+		"year" : 2016,
+		"count" : 4409
+	},
+	{
+		"_id" : "Sirius Black",
+		"year" : 2016,
+		"count" : 4381
+	},
+	{
+		"_id" : "Remus Lupin",
+		"year" : 2016,
+		"count" : 4171
+	},
+	{
+		"_id" : "Ginny Weasley",
+		"year" : 2016,
+		"count" : 3178
+	},
+	{
+		"_id" : "James Potter",
+		"year" : 2016,
+		"count" : 2698
+	},
+	{
+		"_id" : "Albus Dumbledore",
+		"year" : 2016,
+		"count" : 2532
+	},
+	{
+		"_id" : "Luna Lovegood",
+		"year" : 2016,
+		"count" : 1936
+	},
+	{
+		"_id" : "Lily Evans Potter",
+		"year" : 2016,
+		"count" : 1913
+	},
+	{
+		"_id" : "Minerva McGonagall",
+		"year" : 2016,
+		"count" : 1876
+	},
+	{
+		"_id" : "Neville Longbottom",
+		"year" : 2016,
+		"count" : 1855
+	},
+	{
+		"_id" : "Lucius Malfoy",
+		"year" : 2016,
+		"count" : 1798
+	},
+	{
+		"_id" : "George Weasley",
+		"year" : 2016,
+		"count" : 1513
+	},
+	{
+		"_id" : "Original Female Character(s)",
+		"year" : 2016,
+		"count" : 1501
+	},
+	{
+		"_id" : "Peter Pettigrew",
+		"year" : 2016,
+		"count" : 1439
+	},
+	{
+		"_id" : "Pansy Parkinson",
+		"year" : 2016,
+		"count" : 1339
+	},
+	{
+		"_id" : "Narcissa Black Malfoy",
+		"year" : 2016,
+		"count" : 1337
+	},
+	{
+		"_id" : "Blaise Zabini",
+		"year" : 2016,
+		"count" : 1335
+	},
+	{
+		"_id" : "Fred Weasley",
+		"year" : 2016,
+		"count" : 1253
+	},
+	{
+		"_id" : "Scorpius Malfoy",
+		"year" : 2016,
+		"count" : 1213
+	},
+	{
+		"_id" : "Albus Severus Potter",
+		"year" : 2016,
+		"count" : 1156
+	},
+	{
+		"_id" : "Original Male Character(s)",
+		"year" : 2016,
+		"count" : 1105
+	},
+	{
+		"_id" : "Newt Scamander",
+		"year" : 2016,
+		"count" : 1023
+	},
+	{
+		"_id" : "Tom Riddle | Voldemort",
+		"year" : 2016,
+		"count" : 1019
+	},
+	{
+		"_id" : "Molly Weasley",
+		"year" : 2016,
+		"count" : 1002
+	},
+	{
+		"_id" : "Voldemort",
+		"year" : 2016,
+		"count" : 847
+	},
+	{
+		"_id" : "Teddy Lupin",
+		"year" : 2016,
+		"count" : 830
+	},
+	{
+		"_id" : "Credence Barebone",
+		"year" : 2016,
+		"count" : 797
+	},
+	{
+		"_id" : "Bellatrix Black Lestrange",
+		"year" : 2016,
+		"count" : 764
+	},
+	{
+		"_id" : "Tom Riddle",
+		"year" : 2016,
+		"count" : 740
+	},
+	{
+		"_id" : "James Sirius Potter",
+		"year" : 2016,
+		"count" : 701
+	},
+	{
+		"_id" : "Rose Weasley",
+		"year" : 2016,
+		"count" : 684
+	},
+	{
+		"_id" : "Arthur Weasley",
+		"year" : 2016,
+		"count" : 678
+	},
+	{
+		"_id" : "Charlie Weasley",
+		"year" : 2016,
+		"count" : 660
+	},
+	{
+		"_id" : "Nymphadora Tonks",
+		"year" : 2016,
+		"count" : 622
+	},
+	{
+		"_id" : "Theodore Nott",
+		"year" : 2016,
+		"count" : 610
+	},
+	{
+		"_id" : "Tina Goldstein",
+		"year" : 2016,
+		"count" : 588
+	},
+	{
+		"_id" : "Seamus Finnigan",
+		"year" : 2016,
+		"count" : 584
+	},
+	{
+		"_id" : "Regulus Black",
+		"year" : 2016,
+		"count" : 582
+	},
+	{
+		"_id" : "Dean Thomas",
+		"year" : 2016,
+		"count" : 581
+	},
+	{
+		"_id" : "Bill Weasley",
+		"year" : 2016,
+		"count" : 570
+	},
+	{
+		"_id" : "Original Percival Graves",
+		"year" : 2016,
+		"count" : 560
+	},
+	{
+		"_id" : "Lily Luna Potter",
+		"year" : 2016,
+		"count" : 492
+	},
+	{
+		"_id" : "Percy Weasley",
+		"year" : 2016,
+		"count" : 490
+	},
+	{
+		"_id" : "Fleur Delacour",
+		"year" : 2016,
+		"count" : 468
+	},
+	{
+		"_id" : "Rubeus Hagrid",
+		"year" : 2016,
+		"count" : 447
+	},
+	{
+		"_id" : "Queenie Goldstein",
+		"year" : 2016,
+		"count" : 415
+	},
+	{
+		"_id" : "Daphne Greengrass",
+		"year" : 2016,
+		"count" : 402
+	},
+	{
+		"_id" : "Andromeda Black Tonks",
+		"year" : 2016,
+		"count" : 397
+	},
+	{
+		"_id" : "Kingsley Shacklebolt",
+		"year" : 2016,
+		"count" : 391
+	},
+	{
+		"_id" : "Lavender Brown",
+		"year" : 2016,
+		"count" : 377
+	},
+	{
+		"_id" : "Astoria Greengrass",
+		"year" : 2016,
+		"count" : 372
+	},
+	{
+		"_id" : "Original Characters",
+		"year" : 2016,
+		"count" : 328
+	},
+	{
+		"_id" : "Gellert Grindelwald",
+		"year" : 2016,
+		"count" : 325
+	},
+	{
+		"_id" : "Petunia Evans Dursley",
+		"year" : 2016,
+		"count" : 324
+	},
+	{
+		"_id" : "Poppy Pomfrey",
+		"year" : 2016,
+		"count" : 311
+	},
+	{
+		"_id" : "Gregory Goyle",
+		"year" : 2016,
+		"count" : 306
+	},
+	{
+		"_id" : "Lily Evans",
+		"year" : 2016,
+		"count" : 299
+	},
+	{
+		"_id" : "Oliver Wood",
+		"year" : 2016,
+		"count" : 299
+	},
+	{
+		"_id" : "Marlene McKinnon",
+		"year" : 2016,
+		"count" : 299
+	},
+	{
+		"_id" : "Cedric Diggory",
+		"year" : 2016,
+		"count" : 292
+	},
+	{
+		"_id" : "Jacob Kowalski",
+		"year" : 2016,
+		"count" : 286
+	},
+	{
+		"_id" : "Dudley Dursley",
+		"year" : 2016,
+		"count" : 281
+	},
+	{
+		"_id" : "Parvati Patil",
+		"year" : 2016,
+		"count" : 277
+	},
+	{
+		"_id" : "Filius Flitwick",
+		"year" : 2016,
+		"count" : 257
+	},
+	{
+		"_id" : "Hugo Weasley",
+		"year" : 2016,
+		"count" : 252
+	},
+	{
+		"_id" : "Percival Graves | Gellert Grindelwald",
+		"year" : 2016,
+		"count" : 250
+	},
+	{
+		"_id" : "Vernon Dursley",
+		"year" : 2016,
+		"count" : 240
+	},
+	{
+		"_id" : "Hannah Abbott",
+		"year" : 2016,
+		"count" : 240
+	},
+	{
+		"_id" : "Alice Longbottom",
+		"year" : 2016,
+		"count" : 239
+	},
+	{
+		"_id" : "Cho Chang",
+		"year" : 2016,
+		"count" : 239
+	},
+	{
+		"_id" : "Vincent Crabbe",
+		"year" : 2016,
+		"count" : 229
+	},
+	{
+		"_id" : "Horace Slughorn",
+		"year" : 2016,
+		"count" : 221
+	},
+	{
+		"_id" : "Rodolphus Lestrange",
+		"year" : 2016,
+		"count" : 220
+	},
+	{
+		"_id" : "Victoire Weasley",
+		"year" : 2016,
+		"count" : 211
+	},
+	{
+		"_id" : "Padma Patil",
+		"year" : 2016,
+		"count" : 208
+	},
+	{
+		"_id" : "Viktor Krum",
+		"year" : 2016,
+		"count" : 207
+	},
+	{
+		"_id" : "Alastor “Mad-Eye” Moody",
+		"year" : 2016,
+		"count" : 207
+	},
+	{
+		"_id" : "Susan Bones",
+		"year" : 2016,
+		"count" : 206
+	},
+	{
+		"_id" : "Angelina Johnson",
+		"year" : 2016,
+		"count" : 202
+	},
+	{
+		"_id" : "Frank Longbottom",
+		"year" : 2016,
+		"count" : 199
+	},
+	{
+		"_id" : "Fenrir Greyback",
+		"year" : 2016,
+		"count" : 197
+	},
+	{
+		"_id" : "Marcus Flint",
+		"year" : 2016,
+		"count" : 195
+	},
+	{
+		"_id" : "Sherlock Holmes",
+		"year" : 2016,
+		"count" : 187
+	},
+	{
+		"_id" : "Dolores Umbridge",
+		"year" : 2016,
+		"count" : 185
+	},
+	{
+		"_id" : "Pomona Sprout",
+		"year" : 2016,
+		"count" : 184
+	},
+	{
+		"_id" : "OC - Character",
+		"year" : 2016,
+		"count" : 180
+	},
+	{
+		"_id" : "Tony Stark",
+		"year" : 2016,
+		"count" : 175
+	},
+	{
+		"_id" : "Reader",
+		"year" : 2016,
+		"count" : 171
+	},
+	{
+		"_id" : "Steve Rogers",
+		"year" : 2016,
+		"count" : 169
+	},
+	{
+		"_id" : "Kreacher (Harry Potter)",
+		"year" : 2016,
+		"count" : 168
+	},
+	{
+		"_id" : "Millicent Bulstrode",
+		"year" : 2016,
+		"count" : 162
+	},
+	{
+		"_id" : "The Weasleys",
+		"year" : 2016,
+		"count" : 161
+	},
+	{
+		"_id" : "Walburga Black",
+		"year" : 2016,
+		"count" : 154
+	},
+	{
+		"_id" : "Salazar Slytherin",
+		"year" : 2016,
+		"count" : 152
+	},
+	{
+		"_id" : "John Watson",
+		"year" : 2016,
+		"count" : 149
+	},
+	{
+		"_id" : "Dean Winchester",
+		"year" : 2016,
+		"count" : 148
+	}
+]

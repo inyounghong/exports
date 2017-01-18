@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Draco Malfoy/Harry Potter",
+		"year" : 2016,
+		"count" : 3907
+	},
+	{
+		"_id" : "Sirius Black/Remus Lupin",
+		"year" : 2016,
+		"count" : 1877
+	},
+	{
+		"_id" : "Hermione Granger/Ron Weasley",
+		"year" : 2016,
+		"count" : 1431
+	},
+	{
+		"_id" : "James Potter/Lily Evans Potter",
+		"year" : 2016,
+		"count" : 1252
+	},
+	{
+		"_id" : "Harry Potter/Ginny Weasley",
+		"year" : 2016,
+		"count" : 1180
+	},
+	{
+		"_id" : "Hermione Granger/Draco Malfoy",
+		"year" : 2016,
+		"count" : 1088
+	},
+	{
+		"_id" : "Harry Potter/Severus Snape",
+		"year" : 2016,
+		"count" : 964
+	},
+	{
+		"_id" : "Scorpius Malfoy/Albus Severus Potter",
+		"year" : 2016,
+		"count" : 584
+	},
+	{
+		"_id" : "Harry Potter/Tom Riddle",
+		"year" : 2016,
+		"count" : 540
+	},
+	{
+		"_id" : "Hermione Granger/Severus Snape",
+		"year" : 2016,
+		"count" : 487
+	},
+	{
+		"_id" : "Lucius Malfoy/Narcissa Black Malfoy",
+		"year" : 2016,
+		"count" : 367
+	},
+	{
+		"_id" : "Harry Potter/Voldemort",
+		"year" : 2016,
+		"count" : 300
+	},
+	{
+		"_id" : "Remus Lupin/Nymphadora Tonks",
+		"year" : 2016,
+		"count" : 263
+	},
+	{
+		"_id" : "Scorpius Malfoy/Rose Weasley",
+		"year" : 2016,
+		"count" : 261
+	},
+	{
+		"_id" : "Hermione Granger/Harry Potter",
+		"year" : 2016,
+		"count" : 261
+	},
+	{
+		"_id" : "Seamus Finnigan/Dean Thomas",
+		"year" : 2016,
+		"count" : 249
+	},
+	{
+		"_id" : "Credence Barebone/Original Percival Graves",
+		"year" : 2016,
+		"count" : 230
+	},
+	{
+		"_id" : "Astoria Greengrass/Draco Malfoy",
+		"year" : 2016,
+		"count" : 214
+	},
+	{
+		"_id" : "Credence Barebone/Percival Graves | Gellert Grindelwald",
+		"year" : 2016,
+		"count" : 210
+	},
+	{
+		"_id" : "Luna Lovegood/Ginny Weasley",
+		"year" : 2016,
+		"count" : 204
+	},
+	{
+		"_id" : "Original Percival Graves/Newt Scamander",
+		"year" : 2016,
+		"count" : 199
+	},
+	{
+		"_id" : "Credence Barebone/Newt Scamander",
+		"year" : 2016,
+		"count" : 189
+	},
+	{
+		"_id" : "Remus Lupin/Severus Snape",
+		"year" : 2016,
+		"count" : 187
+	},
+	{
+		"_id" : "James/Lily",
+		"year" : 2016,
+		"count" : 180
+	},
+	{
+		"_id" : "Tina Goldstein/Newt Scamander",
+		"year" : 2016,
+		"count" : 176
+	},
+	{
+		"_id" : "Neville Longbottom/Luna Lovegood",
+		"year" : 2016,
+		"count" : 167
+	},
+	{
+		"_id" : "Arthur Weasley/Molly Weasley",
+		"year" : 2016,
+		"count" : 167
+	},
+	{
+		"_id" : "Lily Evans Potter/Severus Snape",
+		"year" : 2016,
+		"count" : 165
+	},
+	{
+		"_id" : "Fleur Delacour/Bill Weasley",
+		"year" : 2016,
+		"count" : 158
+	},
+	{
+		"_id" : "Harry Potter/Ron Weasley",
+		"year" : 2016,
+		"count" : 147
+	},
+	{
+		"_id" : "Draco Malfoy & Harry Potter",
+		"year" : 2016,
+		"count" : 143
+	},
+	{
+		"_id" : "Sirius Black/James Potter",
+		"year" : 2016,
+		"count" : 137
+	},
+	{
+		"_id" : "Teddy Lupin/Victoire Weasley",
+		"year" : 2016,
+		"count" : 137
+	},
+	{
+		"_id" : "Albus Dumbledore/Gellert Grindelwald",
+		"year" : 2016,
+		"count" : 128
+	},
+	{
+		"_id" : "Queenie Goldstein/Jacob Kowalski",
+		"year" : 2016,
+		"count" : 128
+	},
+	{
+		"_id" : "Sirius Black/Severus Snape",
+		"year" : 2016,
+		"count" : 127
+	},
+	{
+		"_id" : "Newt Scamander/Porpentina Scamander",
+		"year" : 2016,
+		"count" : 125
+	},
+	{
+		"_id" : "Draco Malfoy/Ron Weasley",
+		"year" : 2016,
+		"count" : 120
+	},
+	{
+		"_id" : "Hermione Granger/Tom Riddle",
+		"year" : 2016,
+		"count" : 118
+	},
+	{
+		"_id" : "Angelina Johnson/George Weasley",
+		"year" : 2016,
+		"count" : 111
+	},
+	{
+		"_id" : "Hermione Granger/Fred Weasley",
+		"year" : 2016,
+		"count" : 110
+	},
+	{
+		"_id" : "Hannah Abbott/Neville Longbottom",
+		"year" : 2016,
+		"count" : 106
+	},
+	{
+		"_id" : "Severus Snape/Original Female Character(s)",
+		"year" : 2016,
+		"count" : 105
+	},
+	{
+		"_id" : "Harry Potter/Tom Riddle | Voldemort",
+		"year" : 2016,
+		"count" : 103
+	},
+	{
+		"_id" : "James Potter & Lily Evans Potter",
+		"year" : 2016,
+		"count" : 99
+	},
+	{
+		"_id" : "Luna Lovegood/Harry Potter",
+		"year" : 2016,
+		"count" : 97
+	},
+	{
+		"_id" : "Harry Potter/Draco Malfoy",
+		"year" : 2016,
+		"count" : 96
+	},
+	{
+		"_id" : "Draco Malfoy/Ginny Weasley",
+		"year" : 2016,
+		"count" : 96
+	},
+	{
+		"_id" : "Bellatrix Black Lestrange/Rodolphus Lestrange",
+		"year" : 2016,
+		"count" : 92
+	},
+	{
+		"_id" : "Lavender Brown/Ron Weasley",
+		"year" : 2016,
+		"count" : 92
+	},
+	{
+		"_id" : "Lucius Malfoy/Severus Snape",
+		"year" : 2016,
+		"count" : 92
+	},
+	{
+		"_id" : "Hermione Granger/Pansy Parkinson",
+		"year" : 2016,
+		"count" : 89
+	},
+	{
+		"_id" : "Harry Potter & Severus Snape",
+		"year" : 2016,
+		"count" : 87
+	},
+	{
+		"_id" : "Alice Longbottom/Frank Longbottom",
+		"year" : 2016,
+		"count" : 87
+	},
+	{
+		"_id" : "Hermione Granger/Ginny Weasley",
+		"year" : 2016,
+		"count" : 84
+	},
+	{
+		"_id" : "Fred Weasley/George Weasley",
+		"year" : 2016,
+		"count" : 83
+	},
+	{
+		"_id" : "Minor or Background Relationship(s)",
+		"year" : 2016,
+		"count" : 83
+	},
+	{
+		"_id" : "Lucius Malfoy/Harry Potter",
+		"year" : 2016,
+		"count" : 82
+	},
+	{
+		"_id" : "Pansy Parkinson/Ron Weasley",
+		"year" : 2016,
+		"count" : 81
+	},
+	{
+		"_id" : "Tina Goldstein & Newt Scamander",
+		"year" : 2016,
+		"count" : 81
+	},
+	{
+		"_id" : "Drarry - Relationship",
+		"year" : 2016,
+		"count" : 80
+	},
+	{
+		"_id" : "Sirius Black/Original Female Character(s)",
+		"year" : 2016,
+		"count" : 79
+	},
+	{
+		"_id" : "Draco Malfoy/Pansy Parkinson",
+		"year" : 2016,
+		"count" : 79
+	},
+	{
+		"_id" : "Hermione Granger/Lucius Malfoy",
+		"year" : 2016,
+		"count" : 79
+	},
+	{
+		"_id" : "Teddy Lupin/James Sirius Potter",
+		"year" : 2016,
+		"count" : 78
+	},
+	{
+		"_id" : "Bellatrix Black Lestrange/Voldemort",
+		"year" : 2016,
+		"count" : 78
+	},
+	{
+		"_id" : "Credence Barebone & Newt Scamander",
+		"year" : 2016,
+		"count" : 77
+	},
+	{
+		"_id" : "Hermione Granger/Remus Lupin",
+		"year" : 2016,
+		"count" : 76
+	},
+	{
+		"_id" : "Draco Malfoy/Original Female Character(s)",
+		"year" : 2016,
+		"count" : 76
+	},
+	{
+		"_id" : "Hermione Granger/Viktor Krum",
+		"year" : 2016,
+		"count" : 75
+	},
+	{
+		"_id" : "Sirius Black & Remus Lupin",
+		"year" : 2016,
+		"count" : 74
+	},
+	{
+		"_id" : "Marcus Flint/Oliver Wood",
+		"year" : 2016,
+		"count" : 73
+	},
+	{
+		"_id" : "Original Female Character/Original Male Character",
+		"year" : 2016,
+		"count" : 72
+	},
+	{
+		"_id" : "Andromeda Black Tonks/Ted Tonks",
+		"year" : 2016,
+		"count" : 71
+	},
+	{
+		"_id" : "Sherlock Holmes/John Watson",
+		"year" : 2016,
+		"count" : 69
+	},
+	{
+		"_id" : "Harry Potter/Original Male Character(s)",
+		"year" : 2016,
+		"count" : 68
+	},
+	{
+		"_id" : "Cedric Diggory/Harry Potter",
+		"year" : 2016,
+		"count" : 68
+	},
+	{
+		"_id" : "Sirius Black/Hermione Granger",
+		"year" : 2016,
+		"count" : 66
+	},
+	{
+		"_id" : "Neville Longbottom/Ginny Weasley",
+		"year" : 2016,
+		"count" : 65
+	},
+	{
+		"_id" : "wolfstar - Relationship",
+		"year" : 2016,
+		"count" : 64
+	},
+	{
+		"_id" : "Ginny Weasley/Blaise Zabini",
+		"year" : 2016,
+		"count" : 62
+	},
+	{
+		"_id" : "Neville Longbottom/Draco Malfoy",
+		"year" : 2016,
+		"count" : 61
+	},
+	{
+		"_id" : "Credence Barebone & Original Percival Graves",
+		"year" : 2016,
+		"count" : 61
+	},
+	{
+		"_id" : "Luna Lovegood/Draco Malfoy",
+		"year" : 2016,
+		"count" : 60
+	},
+	{
+		"_id" : "Harry Potter/Charlie Weasley",
+		"year" : 2016,
+		"count" : 60
+	},
+	{
+		"_id" : "Pansy Parkinson/Blaise Zabini",
+		"year" : 2016,
+		"count" : 60
+	},
+	{
+		"_id" : "Pansy Parkinson/Harry Potter",
+		"year" : 2016,
+		"count" : 59
+	},
+	{
+		"_id" : "Sirius Black/Harry Potter",
+		"year" : 2016,
+		"count" : 59
+	},
+	{
+		"_id" : "Regulus Black/James Potter",
+		"year" : 2016,
+		"count" : 58
+	},
+	{
+		"_id" : "Canon Relationship(s)",
+		"year" : 2016,
+		"count" : 57
+	},
+	{
+		"_id" : "Hermione Granger & Harry Potter",
+		"year" : 2016,
+		"count" : 57
+	},
+	{
+		"_id" : "Percy Weasley/Oliver Wood",
+		"year" : 2016,
+		"count" : 56
+	},
+	{
+		"_id" : "Draco Malfoy/Severus Snape",
+		"year" : 2016,
+		"count" : 56
+	},
+	{
+		"_id" : "Neville Longbottom/Blaise Zabini",
+		"year" : 2016,
+		"count" : 56
+	},
+	{
+		"_id" : "Hermione Granger/Luna Lovegood",
+		"year" : 2016,
+		"count" : 54
+	},
+	{
+		"_id" : "Harry Potter/Blaise Zabini",
+		"year" : 2016,
+		"count" : 53
+	},
+	{
+		"_id" : "Lavender Brown/Parvati Patil",
+		"year" : 2016,
+		"count" : 53
+	},
+	{
+		"_id" : "Harry Potter/Tom Riddle | Harry Potter/Voldemort",
+		"year" : 2016,
+		"count" : 53
+	},
+	{
+		"_id" : "Hermione Granger & Harry Potter & Ron Weasley",
+		"year" : 2016,
+		"count" : 53
+	},
+	{
+		"_id" : "Draco Malfoy/Blaise Zabini",
+		"year" : 2016,
+		"count" : 50
+	}
+]

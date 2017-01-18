@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Romance",
+		"year" : 2015,
+		"count" : 1076
+	},
+	{
+		"_id" : "Angst",
+		"year" : 2015,
+		"count" : 1001
+	},
+	{
+		"_id" : "Fluff",
+		"year" : 2015,
+		"count" : 988
+	},
+	{
+		"_id" : "Humor",
+		"year" : 2015,
+		"count" : 617
+	},
+	{
+		"_id" : "Alternate Universe",
+		"year" : 2015,
+		"count" : 549
+	},
+	{
+		"_id" : "Alternate Universe - Canon Divergence",
+		"year" : 2015,
+		"count" : 529
+	},
+	{
+		"_id" : "Marauders' Era",
+		"year" : 2015,
+		"count" : 428
+	},
+	{
+		"_id" : "Friendship",
+		"year" : 2015,
+		"count" : 383
+	},
+	{
+		"_id" : "Drama",
+		"year" : 2015,
+		"count" : 349
+	},
+	{
+		"_id" : "Slash",
+		"year" : 2015,
+		"count" : 348
+	},
+	{
+		"_id" : "Drabble",
+		"year" : 2015,
+		"count" : 347
+	},
+	{
+		"_id" : "Crossover",
+		"year" : 2015,
+		"count" : 341
+	},
+	{
+		"_id" : "Hurt/Comfort",
+		"year" : 2015,
+		"count" : 336
+	},
+	{
+		"_id" : "Post Hogwarts",
+		"year" : 2015,
+		"count" : 307
+	},
+	{
+		"_id" : "Established Relationship",
+		"year" : 2015,
+		"count" : 286
+	},
+	{
+		"_id" : "Anal Sex",
+		"year" : 2015,
+		"count" : 272
+	},
+	{
+		"_id" : "HP: EWE",
+		"year" : 2015,
+		"count" : 271
+	},
+	{
+		"_id" : "Hogwarts",
+		"year" : 2015,
+		"count" : 264
+	},
+	{
+		"_id" : "Family",
+		"year" : 2015,
+		"count" : 254
+	},
+	{
+		"_id" : "One Shot",
+		"year" : 2015,
+		"count" : 251
+	},
+	{
+		"_id" : "AU",
+		"year" : 2015,
+		"count" : 232
+	},
+	{
+		"_id" : "Smut",
+		"year" : 2015,
+		"count" : 208
+	},
+	{
+		"_id" : "Explicit Sexual Content",
+		"year" : 2015,
+		"count" : 205
+	},
+	{
+		"_id" : "Oral Sex",
+		"year" : 2015,
+		"count" : 202
+	},
+	{
+		"_id" : "Mpreg",
+		"year" : 2015,
+		"count" : 198
+	},
+	{
+		"_id" : "Time Travel",
+		"year" : 2015,
+		"count" : 195
+	},
+	{
+		"_id" : "Marauders",
+		"year" : 2015,
+		"count" : 192
+	},
+	{
+		"_id" : "Fluff and Angst",
+		"year" : 2015,
+		"count" : 180
+	},
+	{
+		"_id" : "Post-War",
+		"year" : 2015,
+		"count" : 177
+	},
+	{
+		"_id" : "Harry Potter Next Generation",
+		"year" : 2015,
+		"count" : 164
+	},
+	{
+		"_id" : "Blow Jobs",
+		"year" : 2015,
+		"count" : 154
+	},
+	{
+		"_id" : "Canon Compliant",
+		"year" : 2015,
+		"count" : 154
+	},
+	{
+		"_id" : "Alternate Universe - Hogwarts",
+		"year" : 2015,
+		"count" : 151
+	},
+	{
+		"_id" : "Sexual Content",
+		"year" : 2015,
+		"count" : 143
+	},
+	{
+		"_id" : "Love",
+		"year" : 2015,
+		"count" : 142
+	},
+	{
+		"_id" : "Violence",
+		"year" : 2015,
+		"count" : 137
+	},
+	{
+		"_id" : "First Time",
+		"year" : 2015,
+		"count" : 137
+	},
+	{
+		"_id" : "Crack",
+		"year" : 2015,
+		"count" : 136
+	},
+	{
+		"_id" : "Emotional Hurt/Comfort",
+		"year" : 2015,
+		"count" : 135
+	},
+	{
+		"_id" : "Character Death",
+		"year" : 2015,
+		"count" : 126
+	},
+	{
+		"_id" : "Alternate Universe - Non-Magical",
+		"year" : 2015,
+		"count" : 123
+	},
+	{
+		"_id" : "Anal Fingering",
+		"year" : 2015,
+		"count" : 123
+	},
+	{
+		"_id" : "Hogwarts Eighth Year",
+		"year" : 2015,
+		"count" : 120
+	},
+	{
+		"_id" : "Kissing",
+		"year" : 2015,
+		"count" : 119
+	},
+	{
+		"_id" : "Magic",
+		"year" : 2015,
+		"count" : 118
+	},
+	{
+		"_id" : "First Kiss",
+		"year" : 2015,
+		"count" : 116
+	},
+	{
+		"_id" : "Quidditch",
+		"year" : 2015,
+		"count" : 115
+	},
+	{
+		"_id" : "Canonical Character Death",
+		"year" : 2015,
+		"count" : 114
+	},
+	{
+		"_id" : "Pre-Slash",
+		"year" : 2015,
+		"count" : 113
+	},
+	{
+		"_id" : "wolfstar",
+		"year" : 2015,
+		"count" : 111
+	},
+	{
+		"_id" : "Not Epilogue Compliant",
+		"year" : 2015,
+		"count" : 108
+	},
+	{
+		"_id" : "Alternate Universe - Modern Setting",
+		"year" : 2015,
+		"count" : 107
+	},
+	{
+		"_id" : "Masturbation",
+		"year" : 2015,
+		"count" : 106
+	},
+	{
+		"_id" : "Dubious Consent",
+		"year" : 2015,
+		"count" : 104
+	},
+	{
+		"_id" : "First War with Voldemort",
+		"year" : 2015,
+		"count" : 104
+	},
+	{
+		"_id" : "Infidelity",
+		"year" : 2015,
+		"count" : 102
+	},
+	{
+		"_id" : "Child Abuse",
+		"year" : 2015,
+		"count" : 102
+	},
+	{
+		"_id" : "Minor Character Death",
+		"year" : 2015,
+		"count" : 100
+	},
+	{
+		"_id" : "Alternate Universe - Harry Potter Setting",
+		"year" : 2015,
+		"count" : 100
+	},
+	{
+		"_id" : "Friends to Lovers",
+		"year" : 2015,
+		"count" : 99
+	},
+	{
+		"_id" : "Explicit Language",
+		"year" : 2015,
+		"count" : 98
+	},
+	{
+		"_id" : "Angst with a Happy Ending",
+		"year" : 2015,
+		"count" : 95
+	},
+	{
+		"_id" : "Dirty Talk",
+		"year" : 2015,
+		"count" : 94
+	},
+	{
+		"_id" : "Grief/Mourning",
+		"year" : 2015,
+		"count" : 93
+	},
+	{
+		"_id" : "Drarry",
+		"year" : 2015,
+		"count" : 93
+	},
+	{
+		"_id" : "Age Difference",
+		"year" : 2015,
+		"count" : 92
+	},
+	{
+		"_id" : "Depression",
+		"year" : 2015,
+		"count" : 92
+	},
+	{
+		"_id" : "Christmas",
+		"year" : 2015,
+		"count" : 91
+	},
+	{
+		"_id" : "Rimming",
+		"year" : 2015,
+		"count" : 90
+	},
+	{
+		"_id" : "Manipulative Dumbledore",
+		"year" : 2015,
+		"count" : 89
+	},
+	{
+		"_id" : "Action/Adventure",
+		"year" : 2015,
+		"count" : 87
+	},
+	{
+		"_id" : "Original Character(s)",
+		"year" : 2015,
+		"count" : 87
+	},
+	{
+		"_id" : "Harry Potter - Freeform",
+		"year" : 2015,
+		"count" : 86
+	},
+	{
+		"_id" : "Dark",
+		"year" : 2015,
+		"count" : 85
+	},
+	{
+		"_id" : "Torture",
+		"year" : 2015,
+		"count" : 85
+	},
+	{
+		"_id" : "Plot What Plot/Porn Without Plot",
+		"year" : 2015,
+		"count" : 84
+	},
+	{
+		"_id" : "Fluff and Smut",
+		"year" : 2015,
+		"count" : 79
+	},
+	{
+		"_id" : "Dumbledore Bashing",
+		"year" : 2015,
+		"count" : 79
+	},
+	{
+		"_id" : "Post-Traumatic Stress Disorder - PTSD",
+		"year" : 2015,
+		"count" : 79
+	},
+	{
+		"_id" : "Male Slash",
+		"year" : 2015,
+		"count" : 78
+	},
+	{
+		"_id" : "Unrequited Love",
+		"year" : 2015,
+		"count" : 78
+	},
+	{
+		"_id" : "Light Angst",
+		"year" : 2015,
+		"count" : 78
+	},
+	{
+		"_id" : "Post-Battle of Hogwarts",
+		"year" : 2015,
+		"count" : 77
+	},
+	{
+		"_id" : "BDSM",
+		"year" : 2015,
+		"count" : 76
+	},
+	{
+		"_id" : "Complete",
+		"year" : 2015,
+		"count" : 75
+	},
+	{
+		"_id" : "Ficlet",
+		"year" : 2015,
+		"count" : 75
+	},
+	{
+		"_id" : "Happy Ending",
+		"year" : 2015,
+		"count" : 74
+	},
+	{
+		"_id" : "Slow Build",
+		"year" : 2015,
+		"count" : 73
+	},
+	{
+		"_id" : "Pining",
+		"year" : 2015,
+		"count" : 72
+	},
+	{
+		"_id" : "Songfic",
+		"year" : 2015,
+		"count" : 72
+	},
+	{
+		"_id" : "Incest",
+		"year" : 2015,
+		"count" : 71
+	},
+	{
+		"_id" : "Character Study",
+		"year" : 2015,
+		"count" : 70
+	},
+	{
+		"_id" : "Voyeurism",
+		"year" : 2015,
+		"count" : 70
+	},
+	{
+		"_id" : "Death",
+		"year" : 2015,
+		"count" : 69
+	},
+	{
+		"_id" : "Falling In Love",
+		"year" : 2015,
+		"count" : 69
+	},
+	{
+		"_id" : "Hogwarts Era",
+		"year" : 2015,
+		"count" : 68
+	},
+	{
+		"_id" : "Post-Canon",
+		"year" : 2015,
+		"count" : 67
+	},
+	{
+		"_id" : "Female Harry Potter",
+		"year" : 2015,
+		"count" : 67
+	},
+	{
+		"_id" : "Fluff and Humor",
+		"year" : 2015,
+		"count" : 66
+	},
+	{
+		"_id" : "Hand Jobs",
+		"year" : 2015,
+		"count" : 66
+	}
+]

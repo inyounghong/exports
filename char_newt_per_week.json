@@ -5,7 +5,7 @@
 			"month" : 1,
 			"year" : 2017
 		},
-		"Newt Scamander" : 87
+		"Newt Scamander" : 89
 	},
 	{
 		"_id" : {
@@ -140,6 +140,46 @@
 			"week" : 4,
 			"month" : 1,
 			"year" : 2016
+		},
+		"Newt Scamander" : 1
+	},
+	{
+		"_id" : {
+			"week" : 50,
+			"month" : 12,
+			"year" : 2015
+		},
+		"Newt Scamander" : 1
+	},
+	{
+		"_id" : {
+			"week" : 31,
+			"month" : 8,
+			"year" : 2015
+		},
+		"Newt Scamander" : 1
+	},
+	{
+		"_id" : {
+			"week" : 22,
+			"month" : 6,
+			"year" : 2015
+		},
+		"Newt Scamander" : 1
+	},
+	{
+		"_id" : {
+			"week" : 6,
+			"month" : 2,
+			"year" : 2015
+		},
+		"Newt Scamander" : 1
+	},
+	{
+		"_id" : {
+			"week" : 46,
+			"month" : 11,
+			"year" : 2014
 		},
 		"Newt Scamander" : 1
 	}

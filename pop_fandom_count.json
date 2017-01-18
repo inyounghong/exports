@@ -1,7 +1,7 @@
 [
 	{
 		"_id" : "Harry Potter - J. K. Rowling",
-		"count" : 34809
+		"count" : 54711
 	},
 	{
 		"_id" : "Fantastic Beasts and Where to Find Them (Movies)",
@@ -9,130 +9,194 @@
 	},
 	{
 		"_id" : "Harry Potter - Fandom",
-		"count" : 1118
-	},
-	{
-		"_id" : "Harry Potter and the Cursed Child - Thorne & Rowling",
-		"count" : 425
+		"count" : 1660
 	},
 	{
 		"_id" : "Supernatural",
-		"count" : 307
+		"count" : 567
 	},
 	{
 		"_id" : "Sherlock (TV)",
-		"count" : 271
+		"count" : 564
+	},
+	{
+		"_id" : "Harry Potter and the Cursed Child - Thorne & Rowling",
+		"count" : 426
 	},
 	{
 		"_id" : "The Avengers (Marvel Movies)",
-		"count" : 234
+		"count" : 401
 	},
 	{
 		"_id" : "Marvel Cinematic Universe",
-		"count" : 219
-	},
-	{
-		"_id" : "Percy Jackson and the Olympians - Rick Riordan",
-		"count" : 143
-	},
-	{
-		"_id" : "The Avengers (Marvel) - All Media Types",
-		"count" : 122
-	},
-	{
-		"_id" : "Naruto",
-		"count" : 120
+		"count" : 321
 	},
 	{
 		"_id" : "Doctor Who",
-		"count" : 118
+		"count" : 221
 	},
 	{
-		"_id" : "Buffy the Vampire Slayer",
-		"count" : 110
+		"_id" : "Percy Jackson and the Olympians - Rick Riordan",
+		"count" : 206
+	},
+	{
+		"_id" : "Naruto",
+		"count" : 197
 	},
 	{
 		"_id" : "Merlin (TV)",
-		"count" : 106
+		"count" : 196
 	},
 	{
-		"_id" : "Katekyou Hitman Reborn!",
-		"count" : 103
+		"_id" : "The Avengers (Marvel) - All Media Types",
+		"count" : 188
+	},
+	{
+		"_id" : "Buffy the Vampire Slayer",
+		"count" : 188
 	},
 	{
 		"_id" : "Teen Wolf (TV)",
-		"count" : 100
+		"count" : 180
 	},
 	{
-		"_id" : "Star Wars - All Media Types",
-		"count" : 95
-	},
-	{
-		"_id" : "Twilight Series - Stephenie Meyer",
-		"count" : 90
+		"_id" : "Katekyou Hitman Reborn!",
+		"count" : 144
 	},
 	{
 		"_id" : "The Lord of the Rings - All Media Types",
-		"count" : 88
+		"count" : 136
 	},
 	{
 		"_id" : "Thor (Movies)",
-		"count" : 76
+		"count" : 131
 	},
 	{
-		"_id" : "Once Upon a Time (TV)",
-		"count" : 72
-	},
-	{
-		"_id" : "Game of Thrones (TV)",
-		"count" : 71
-	},
-	{
-		"_id" : "Percy Jackson and the Olympians & Related Fandoms - All Media Types",
-		"count" : 68
+		"_id" : "Twilight Series - Stephenie Meyer",
+		"count" : 130
 	},
 	{
 		"_id" : "Captain America (Movies)",
-		"count" : 66
+		"count" : 123
 	},
 	{
-		"_id" : "The Heroes of Olympus - Rick Riordan",
-		"count" : 66
+		"_id" : "Star Wars - All Media Types",
+		"count" : 117
 	},
 	{
 		"_id" : "Doctor Who (2005)",
-		"count" : 65
+		"count" : 113
 	},
 	{
-		"_id" : "Hetalia: Axis Powers",
-		"count" : 64
+		"_id" : "Once Upon a Time (TV)",
+		"count" : 113
 	},
 	{
-		"_id" : "A Song of Ice and Fire - George R. R. Martin",
-		"count" : 63
-	},
-	{
-		"_id" : "The Lord of the Rings - J. R. R. Tolkien",
-		"count" : 58
-	},
-	{
-		"_id" : "Glee",
-		"count" : 54
-	},
-	{
-		"_id" : "Drarry - Fandom",
-		"count" : 53
-	},
-	{
-		"_id" : "Undertale (Video Game)",
-		"count" : 52
-	},
-	{
-		"_id" : "One Direction (Band)",
-		"count" : 52
+		"_id" : "Percy Jackson and the Olympians & Related Fandoms - All Media Types",
+		"count" : 108
 	},
 	{
 		"_id" : "The Hobbit - All Media Types",
-		"count" : 51
+		"count" : 101
+	},
+	{
+		"_id" : "Game of Thrones (TV)",
+		"count" : 101
+	},
+	{
+		"_id" : "One Direction (Band)",
+		"count" : 94
+	},
+	{
+		"_id" : "Glee",
+		"count" : 93
+	},
+	{
+		"_id" : "A Song of Ice and Fire - George R. R. Martin",
+		"count" : 93
+	},
+	{
+		"_id" : "Hetalia: Axis Powers",
+		"count" : 89
+	},
+	{
+		"_id" : "The Heroes of Olympus - Rick Riordan",
+		"count" : 89
+	},
+	{
+		"_id" : "Twilight Series - All Media Types",
+		"count" : 88
+	},
+	{
+		"_id" : "Sherlock Holmes & Related Fandoms",
+		"count" : 81
+	},
+	{
+		"_id" : "The Lord of the Rings - J. R. R. Tolkien",
+		"count" : 79
+	},
+	{
+		"_id" : "Iron Man (Movies)",
+		"count" : 79
+	},
+	{
+		"_id" : "Criminal Minds",
+		"count" : 76
+	},
+	{
+		"_id" : "Rise of the Guardians (2012)",
+		"count" : 75
+	},
+	{
+		"_id" : "Agents of S.H.I.E.L.D. (TV)",
+		"count" : 72
+	},
+	{
+		"_id" : "Homestuck",
+		"count" : 70
+	},
+	{
+		"_id" : "One Piece",
+		"count" : 67
+	},
+	{
+		"_id" : "Shingeki no Kyojin | Attack on Titan",
+		"count" : 66
+	},
+	{
+		"_id" : "Torchwood",
+		"count" : 66
+	},
+	{
+		"_id" : "Frozen (2013)",
+		"count" : 66
+	},
+	{
+		"_id" : "Bleach",
+		"count" : 66
+	},
+	{
+		"_id" : "Harry Potter RPF",
+		"count" : 61
+	},
+	{
+		"_id" : "Chronicles of Narnia - C. S. Lewis",
+		"count" : 60
+	},
+	{
+		"_id" : "Drarry - Fandom",
+		"count" : 59
+	},
+	{
+		"_id" : "The Lord of the Rings (Movies)",
+		"count" : 58
+	},
+	{
+		"_id" : "NCIS",
+		"count" : 56
+	},
+	{
+		"_id" : "Hunger Games Trilogy - Suzanne Collins",
+		"count" : 55
 	}
 ]

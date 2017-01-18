@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Draco Malfoy/Harry Potter",
+		"year" : 2015,
+		"count" : 2472
+	},
+	{
+		"_id" : "Sirius Black/Remus Lupin",
+		"year" : 2015,
+		"count" : 1353
+	},
+	{
+		"_id" : "Hermione Granger/Ron Weasley",
+		"year" : 2015,
+		"count" : 846
+	},
+	{
+		"_id" : "Harry Potter/Severus Snape",
+		"year" : 2015,
+		"count" : 819
+	},
+	{
+		"_id" : "James Potter/Lily Evans Potter",
+		"year" : 2015,
+		"count" : 800
+	},
+	{
+		"_id" : "Harry Potter/Ginny Weasley",
+		"year" : 2015,
+		"count" : 659
+	},
+	{
+		"_id" : "Hermione Granger/Draco Malfoy",
+		"year" : 2015,
+		"count" : 614
+	},
+	{
+		"_id" : "Hermione Granger/Severus Snape",
+		"year" : 2015,
+		"count" : 327
+	},
+	{
+		"_id" : "Harry Potter/Tom Riddle",
+		"year" : 2015,
+		"count" : 275
+	},
+	{
+		"_id" : "Seamus Finnigan/Dean Thomas",
+		"year" : 2015,
+		"count" : 219
+	},
+	{
+		"_id" : "Lucius Malfoy/Narcissa Black Malfoy",
+		"year" : 2015,
+		"count" : 207
+	},
+	{
+		"_id" : "Remus Lupin/Severus Snape",
+		"year" : 2015,
+		"count" : 192
+	},
+	{
+		"_id" : "Hermione Granger/Harry Potter",
+		"year" : 2015,
+		"count" : 183
+	},
+	{
+		"_id" : "Remus Lupin/Nymphadora Tonks",
+		"year" : 2015,
+		"count" : 180
+	},
+	{
+		"_id" : "Harry Potter/Voldemort",
+		"year" : 2015,
+		"count" : 159
+	},
+	{
+		"_id" : "James/Lily",
+		"year" : 2015,
+		"count" : 149
+	},
+	{
+		"_id" : "Scorpius Malfoy/Albus Severus Potter",
+		"year" : 2015,
+		"count" : 132
+	},
+	{
+		"_id" : "Scorpius Malfoy/Rose Weasley",
+		"year" : 2015,
+		"count" : 125
+	},
+	{
+		"_id" : "Astoria Greengrass/Draco Malfoy",
+		"year" : 2015,
+		"count" : 110
+	},
+	{
+		"_id" : "Lily Evans Potter/Severus Snape",
+		"year" : 2015,
+		"count" : 107
+	},
+	{
+		"_id" : "Harry Potter/Ron Weasley",
+		"year" : 2015,
+		"count" : 98
+	},
+	{
+		"_id" : "Sirius Black/James Potter",
+		"year" : 2015,
+		"count" : 90
+	},
+	{
+		"_id" : "Fleur Delacour/Bill Weasley",
+		"year" : 2015,
+		"count" : 88
+	},
+	{
+		"_id" : "Neville Longbottom/Luna Lovegood",
+		"year" : 2015,
+		"count" : 87
+	},
+	{
+		"_id" : "Draco Malfoy & Harry Potter",
+		"year" : 2015,
+		"count" : 83
+	},
+	{
+		"_id" : "Arthur Weasley/Molly Weasley",
+		"year" : 2015,
+		"count" : 79
+	},
+	{
+		"_id" : "Harry Potter/Tom Riddle | Harry Potter/Voldemort",
+		"year" : 2015,
+		"count" : 79
+	},
+	{
+		"_id" : "Draco Malfoy/Ginny Weasley",
+		"year" : 2015,
+		"count" : 74
+	},
+	{
+		"_id" : "Sherlock Holmes/John Watson",
+		"year" : 2015,
+		"count" : 74
+	},
+	{
+		"_id" : "Luna Lovegood/Harry Potter",
+		"year" : 2015,
+		"count" : 72
+	},
+	{
+		"_id" : "Luna Lovegood/Ginny Weasley",
+		"year" : 2015,
+		"count" : 72
+	},
+	{
+		"_id" : "Draco Malfoy/Ron Weasley",
+		"year" : 2015,
+		"count" : 71
+	},
+	{
+		"_id" : "Albus Dumbledore/Gellert Grindelwald",
+		"year" : 2015,
+		"count" : 65
+	},
+	{
+		"_id" : "Sirius Black/Severus Snape",
+		"year" : 2015,
+		"count" : 63
+	},
+	{
+		"_id" : "Harry Potter/Draco Malfoy",
+		"year" : 2015,
+		"count" : 62
+	},
+	{
+		"_id" : "Hermione Granger/Fred Weasley",
+		"year" : 2015,
+		"count" : 62
+	},
+	{
+		"_id" : "Teddy Lupin/Victoire Weasley",
+		"year" : 2015,
+		"count" : 62
+	},
+	{
+		"_id" : "James Potter & Lily Evans Potter",
+		"year" : 2015,
+		"count" : 60
+	},
+	{
+		"_id" : "Hermione Granger/Viktor Krum",
+		"year" : 2015,
+		"count" : 60
+	},
+	{
+		"_id" : "Harry Potter & Severus Snape",
+		"year" : 2015,
+		"count" : 56
+	},
+	{
+		"_id" : "Lucius Malfoy/Harry Potter",
+		"year" : 2015,
+		"count" : 52
+	},
+	{
+		"_id" : "Lucius Malfoy/Severus Snape",
+		"year" : 2015,
+		"count" : 50
+	},
+	{
+		"_id" : "Hermione Granger/Tom Riddle",
+		"year" : 2015,
+		"count" : 50
+	},
+	{
+		"_id" : "Sirius Black/Harry Potter",
+		"year" : 2015,
+		"count" : 49
+	},
+	{
+		"_id" : "Lavender Brown/Ron Weasley",
+		"year" : 2015,
+		"count" : 49
+	},
+	{
+		"_id" : "Minor or Background Relationship(s)",
+		"year" : 2015,
+		"count" : 49
+	},
+	{
+		"_id" : "Hannah Abbott/Neville Longbottom",
+		"year" : 2015,
+		"count" : 48
+	},
+	{
+		"_id" : "Angelina Johnson/George Weasley",
+		"year" : 2015,
+		"count" : 48
+	},
+	{
+		"_id" : "wolfstar - Relationship",
+		"year" : 2015,
+		"count" : 48
+	},
+	{
+		"_id" : "Teddy Lupin/James Sirius Potter",
+		"year" : 2015,
+		"count" : 46
+	},
+	{
+		"_id" : "Hermione Granger/Remus Lupin",
+		"year" : 2015,
+		"count" : 45
+	},
+	{
+		"_id" : "Percy Weasley/Oliver Wood",
+		"year" : 2015,
+		"count" : 44
+	},
+	{
+		"_id" : "Fred Weasley/George Weasley",
+		"year" : 2015,
+		"count" : 43
+	},
+	{
+		"_id" : "Hermione Granger/Lucius Malfoy",
+		"year" : 2015,
+		"count" : 42
+	},
+	{
+		"_id" : "Bellatrix Black Lestrange/Rodolphus Lestrange",
+		"year" : 2015,
+		"count" : 42
+	},
+	{
+		"_id" : "Sirius Black & Remus Lupin & Peter Pettigrew & James Potter",
+		"year" : 2015,
+		"count" : 41
+	},
+	{
+		"_id" : "Neville Longbottom/Draco Malfoy",
+		"year" : 2015,
+		"count" : 41
+	},
+	{
+		"_id" : "Draco Malfoy/Severus Snape",
+		"year" : 2015,
+		"count" : 41
+	},
+	{
+		"_id" : "Alice Longbottom/Frank Longbottom",
+		"year" : 2015,
+		"count" : 41
+	},
+	{
+		"_id" : "Andromeda Black Tonks/Ted Tonks",
+		"year" : 2015,
+		"count" : 40
+	},
+	{
+		"_id" : "Fleur Delacour/Hermione Granger",
+		"year" : 2015,
+		"count" : 40
+	},
+	{
+		"_id" : "Pansy Parkinson/Ron Weasley",
+		"year" : 2015,
+		"count" : 40
+	},
+	{
+		"_id" : "Luna Lovegood/Draco Malfoy",
+		"year" : 2015,
+		"count" : 39
+	},
+	{
+		"_id" : "Castiel/Dean Winchester",
+		"year" : 2015,
+		"count" : 38
+	},
+	{
+		"_id" : "Hermione Granger/Harry Potter/Ron Weasley",
+		"year" : 2015,
+		"count" : 37
+	},
+	{
+		"_id" : "Severus Snape/Original Female Character(s)",
+		"year" : 2015,
+		"count" : 37
+	},
+	{
+		"_id" : "Draco Malfoy/Original Female Character(s)",
+		"year" : 2015,
+		"count" : 36
+	},
+	{
+		"_id" : "Hermione Granger/Luna Lovegood",
+		"year" : 2015,
+		"count" : 35
+	},
+	{
+		"_id" : "Hermione Granger/Pansy Parkinson",
+		"year" : 2015,
+		"count" : 34
+	},
+	{
+		"_id" : "Hermione Granger & Harry Potter",
+		"year" : 2015,
+		"count" : 34
+	},
+	{
+		"_id" : "Sirius Black & James Potter",
+		"year" : 2015,
+		"count" : 34
+	},
+	{
+		"_id" : "Draco Malfoy/Theodore Nott",
+		"year" : 2015,
+		"count" : 34
+	},
+	{
+		"_id" : "Sirius Black & Harry Potter",
+		"year" : 2015,
+		"count" : 34
+	},
+	{
+		"_id" : "Lily Evans Potter & Severus Snape",
+		"year" : 2015,
+		"count" : 34
+	},
+	{
+		"_id" : "James Potter/Severus Snape",
+		"year" : 2015,
+		"count" : 33
+	},
+	{
+		"_id" : "Derek Hale/Stiles Stilinski",
+		"year" : 2015,
+		"count" : 32
+	},
+	{
+		"_id" : "Hermione Granger & Harry Potter & Ron Weasley",
+		"year" : 2015,
+		"count" : 32
+	},
+	{
+		"_id" : "Sirius Black & Remus Lupin",
+		"year" : 2015,
+		"count" : 31
+	},
+	{
+		"_id" : "Hermione Granger/Ginny Weasley",
+		"year" : 2015,
+		"count" : 31
+	},
+	{
+		"_id" : "Scorpius Malfoy/James Sirius Potter",
+		"year" : 2015,
+		"count" : 31
+	},
+	{
+		"_id" : "Draco Malfoy/Blaise Zabini",
+		"year" : 2015,
+		"count" : 30
+	},
+	{
+		"_id" : "Sirius Black/Marlene McKinnon",
+		"year" : 2015,
+		"count" : 30
+	},
+	{
+		"_id" : "Neville Longbottom/Ginny Weasley",
+		"year" : 2015,
+		"count" : 30
+	},
+	{
+		"_id" : "Bellatrix Black Lestrange/Voldemort",
+		"year" : 2015,
+		"count" : 30
+	},
+	{
+		"_id" : "Remus Lupin/Original Female Character(s)",
+		"year" : 2015,
+		"count" : 28
+	},
+	{
+		"_id" : "James Potter/Lily Evans",
+		"year" : 2015,
+		"count" : 28
+	},
+	{
+		"_id" : "Remus Lupin/Harry Potter",
+		"year" : 2015,
+		"count" : 28
+	},
+	{
+		"_id" : "Audrey Weasley/Percy Weasley",
+		"year" : 2015,
+		"count" : 28
+	},
+	{
+		"_id" : "Harry Potter/Original Male Character(s)",
+		"year" : 2015,
+		"count" : 28
+	},
+	{
+		"_id" : "Cedric Diggory/Harry Potter",
+		"year" : 2015,
+		"count" : 28
+	},
+	{
+		"_id" : "Daphne Greengrass/Harry Potter",
+		"year" : 2015,
+		"count" : 28
+	},
+	{
+		"_id" : "Ginny Weasley/Blaise Zabini",
+		"year" : 2015,
+		"count" : 28
+	},
+	{
+		"_id" : "Luna Lovegood/Rolf Scamander",
+		"year" : 2015,
+		"count" : 27
+	},
+	{
+		"_id" : "Pansy Parkinson/Harry Potter",
+		"year" : 2015,
+		"count" : 27
+	},
+	{
+		"_id" : "Draco Malfoy/Pansy Parkinson",
+		"year" : 2015,
+		"count" : 26
+	},
+	{
+		"_id" : "Sirius Black/Original Female Character(s)",
+		"year" : 2015,
+		"count" : 26
+	},
+	{
+		"_id" : "Harry Styles/Louis Tomlinson",
+		"year" : 2015,
+		"count" : 26
+	},
+	{
+		"_id" : "Regulus Black/Sirius Black",
+		"year" : 2015,
+		"count" : 26
+	},
+	{
+		"_id" : "Sirius Black/Hermione Granger",
+		"year" : 2015,
+		"count" : 26
+	},
+	{
+		"_id" : "Jily - Relationship",
+		"year" : 2015,
+		"count" : 25
+	}
+]

@@ -1,7 +1,7 @@
 [
 	{
 		"_id" : "2017-01-17",
-		"Newt Scamander" : 2
+		"Newt Scamander" : 4
 	},
 	{
 		"_id" : "2017-01-16",
@@ -277,6 +277,26 @@
 	},
 	{
 		"_id" : "2016-01-24",
+		"Newt Scamander" : 1
+	},
+	{
+		"_id" : "2015-12-15",
+		"Newt Scamander" : 1
+	},
+	{
+		"_id" : "2015-08-04",
+		"Newt Scamander" : 1
+	},
+	{
+		"_id" : "2015-06-01",
+		"Newt Scamander" : 1
+	},
+	{
+		"_id" : "2015-02-14",
+		"Newt Scamander" : 1
+	},
+	{
+		"_id" : "2014-11-21",
 		"Newt Scamander" : 1
 	},
 	{

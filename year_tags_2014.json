@@ -1,0 +1,502 @@
+[
+	{
+		"_id" : "Romance",
+		"year" : 2014,
+		"count" : 710
+	},
+	{
+		"_id" : "Fluff",
+		"year" : 2014,
+		"count" : 488
+	},
+	{
+		"_id" : "Angst",
+		"year" : 2014,
+		"count" : 459
+	},
+	{
+		"_id" : "Humor",
+		"year" : 2014,
+		"count" : 391
+	},
+	{
+		"_id" : "Alternate Universe",
+		"year" : 2014,
+		"count" : 217
+	},
+	{
+		"_id" : "Drabble",
+		"year" : 2014,
+		"count" : 199
+	},
+	{
+		"_id" : "Crossover",
+		"year" : 2014,
+		"count" : 194
+	},
+	{
+		"_id" : "Post Hogwarts",
+		"year" : 2014,
+		"count" : 191
+	},
+	{
+		"_id" : "Slash",
+		"year" : 2014,
+		"count" : 189
+	},
+	{
+		"_id" : "Friendship",
+		"year" : 2014,
+		"count" : 187
+	},
+	{
+		"_id" : "Alternate Universe - Canon Divergence",
+		"year" : 2014,
+		"count" : 177
+	},
+	{
+		"_id" : "HP: EWE",
+		"year" : 2014,
+		"count" : 172
+	},
+	{
+		"_id" : "Hogwarts",
+		"year" : 2014,
+		"count" : 165
+	},
+	{
+		"_id" : "Drama",
+		"year" : 2014,
+		"count" : 158
+	},
+	{
+		"_id" : "Established Relationship",
+		"year" : 2014,
+		"count" : 154
+	},
+	{
+		"_id" : "One Shot",
+		"year" : 2014,
+		"count" : 147
+	},
+	{
+		"_id" : "Hurt/Comfort",
+		"year" : 2014,
+		"count" : 137
+	},
+	{
+		"_id" : "AU",
+		"year" : 2014,
+		"count" : 133
+	},
+	{
+		"_id" : "Anal Sex",
+		"year" : 2014,
+		"count" : 131
+	},
+	{
+		"_id" : "Christmas",
+		"year" : 2014,
+		"count" : 128
+	},
+	{
+		"_id" : "Oral Sex",
+		"year" : 2014,
+		"count" : 125
+	},
+	{
+		"_id" : "Marauders' Era",
+		"year" : 2014,
+		"count" : 116
+	},
+	{
+		"_id" : "Explicit Sexual Content",
+		"year" : 2014,
+		"count" : 114
+	},
+	{
+		"_id" : "Family",
+		"year" : 2014,
+		"count" : 113
+	},
+	{
+		"_id" : "Smut",
+		"year" : 2014,
+		"count" : 100
+	},
+	{
+		"_id" : "Marauders",
+		"year" : 2014,
+		"count" : 95
+	},
+	{
+		"_id" : "Love",
+		"year" : 2014,
+		"count" : 93
+	},
+	{
+		"_id" : "Mpreg",
+		"year" : 2014,
+		"count" : 83
+	},
+	{
+		"_id" : "Alternate Universe - Hogwarts",
+		"year" : 2014,
+		"count" : 80
+	},
+	{
+		"_id" : "Post-War",
+		"year" : 2014,
+		"count" : 78
+	},
+	{
+		"_id" : "Blow Jobs",
+		"year" : 2014,
+		"count" : 78
+	},
+	{
+		"_id" : "Rimming",
+		"year" : 2014,
+		"count" : 78
+	},
+	{
+		"_id" : "Canon Compliant",
+		"year" : 2014,
+		"count" : 77
+	},
+	{
+		"_id" : "Post - Deathly Hallows",
+		"year" : 2014,
+		"count" : 76
+	},
+	{
+		"_id" : "Crack",
+		"year" : 2014,
+		"count" : 76
+	},
+	{
+		"_id" : "Character Death",
+		"year" : 2014,
+		"count" : 75
+	},
+	{
+		"_id" : "Harry Potter Next Generation",
+		"year" : 2014,
+		"count" : 75
+	},
+	{
+		"_id" : "Complete",
+		"year" : 2014,
+		"count" : 72
+	},
+	{
+		"_id" : "Masturbation",
+		"year" : 2014,
+		"count" : 72
+	},
+	{
+		"_id" : "Infidelity",
+		"year" : 2014,
+		"count" : 70
+	},
+	{
+		"_id" : "Parody",
+		"year" : 2014,
+		"count" : 69
+	},
+	{
+		"_id" : "Age Difference",
+		"year" : 2014,
+		"count" : 67
+	},
+	{
+		"_id" : "Time Travel",
+		"year" : 2014,
+		"count" : 66
+	},
+	{
+		"_id" : "First Time",
+		"year" : 2014,
+		"count" : 65
+	},
+	{
+		"_id" : "Violence",
+		"year" : 2014,
+		"count" : 64
+	},
+	{
+		"_id" : "old fic",
+		"year" : 2014,
+		"count" : 63
+	},
+	{
+		"_id" : "Unrequited Love",
+		"year" : 2014,
+		"count" : 61
+	},
+	{
+		"_id" : "Canonical Character Death",
+		"year" : 2014,
+		"count" : 60
+	},
+	{
+		"_id" : "Fluff and Angst",
+		"year" : 2014,
+		"count" : 59
+	},
+	{
+		"_id" : "Explicit Language",
+		"year" : 2014,
+		"count" : 59
+	},
+	{
+		"_id" : "POV Second Person",
+		"year" : 2014,
+		"count" : 58
+	},
+	{
+		"_id" : "Male Slash",
+		"year" : 2014,
+		"count" : 58
+	},
+	{
+		"_id" : "Alternate Universe - Harry Potter Setting",
+		"year" : 2014,
+		"count" : 58
+	},
+	{
+		"_id" : "Comedy",
+		"year" : 2014,
+		"count" : 58
+	},
+	{
+		"_id" : "Dubious Consent",
+		"year" : 2014,
+		"count" : 57
+	},
+	{
+		"_id" : "Dirty Talk",
+		"year" : 2014,
+		"count" : 55
+	},
+	{
+		"_id" : "Hogwarts Eighth Year",
+		"year" : 2014,
+		"count" : 55
+	},
+	{
+		"_id" : "Not Epilogue Compliant",
+		"year" : 2014,
+		"count" : 55
+	},
+	{
+		"_id" : "Filk",
+		"year" : 2014,
+		"count" : 53
+	},
+	{
+		"_id" : "Pre-Slash",
+		"year" : 2014,
+		"count" : 52
+	},
+	{
+		"_id" : "Song Parody",
+		"year" : 2014,
+		"count" : 52
+	},
+	{
+		"_id" : "Singing",
+		"year" : 2014,
+		"count" : 52
+	},
+	{
+		"_id" : "Oneshot",
+		"year" : 2014,
+		"count" : 52
+	},
+	{
+		"_id" : "Emotional Hurt/Comfort",
+		"year" : 2014,
+		"count" : 51
+	},
+	{
+		"_id" : "First Kiss",
+		"year" : 2014,
+		"count" : 51
+	},
+	{
+		"_id" : "Cross-Generation Relationship",
+		"year" : 2014,
+		"count" : 50
+	},
+	{
+		"_id" : "Sexual Content",
+		"year" : 2014,
+		"count" : 50
+	},
+	{
+		"_id" : "Mystery",
+		"year" : 2014,
+		"count" : 49
+	},
+	{
+		"_id" : "Implied Sexual Content",
+		"year" : 2014,
+		"count" : 48
+	},
+	{
+		"_id" : "Alternate Universe - Modern Setting",
+		"year" : 2014,
+		"count" : 48
+	},
+	{
+		"_id" : "Quidditch",
+		"year" : 2014,
+		"count" : 47
+	},
+	{
+		"_id" : "Potterlock",
+		"year" : 2014,
+		"count" : 47
+	},
+	{
+		"_id" : "Auror Harry",
+		"year" : 2014,
+		"count" : 47
+	},
+	{
+		"_id" : "Voyeurism",
+		"year" : 2014,
+		"count" : 46
+	},
+	{
+		"_id" : "Swearing",
+		"year" : 2014,
+		"count" : 46
+	},
+	{
+		"_id" : "Happy Ending",
+		"year" : 2014,
+		"count" : 45
+	},
+	{
+		"_id" : "Magic",
+		"year" : 2014,
+		"count" : 45
+	},
+	{
+		"_id" : "Fluff and Humor",
+		"year" : 2014,
+		"count" : 44
+	},
+	{
+		"_id" : "wolfstar",
+		"year" : 2014,
+		"count" : 44
+	},
+	{
+		"_id" : "Ficlet",
+		"year" : 2014,
+		"count" : 44
+	},
+	{
+		"_id" : "Mild Language",
+		"year" : 2014,
+		"count" : 43
+	},
+	{
+		"_id" : "Death",
+		"year" : 2014,
+		"count" : 43
+	},
+	{
+		"_id" : "Minor Character Death",
+		"year" : 2014,
+		"count" : 43
+	},
+	{
+		"_id" : "Depression",
+		"year" : 2014,
+		"count" : 43
+	},
+	{
+		"_id" : "Poetry",
+		"year" : 2014,
+		"count" : 42
+	},
+	{
+		"_id" : "Friends to Lovers",
+		"year" : 2014,
+		"count" : 42
+	},
+	{
+		"_id" : "Child Abuse",
+		"year" : 2014,
+		"count" : 42
+	},
+	{
+		"_id" : "Dark",
+		"year" : 2014,
+		"count" : 41
+	},
+	{
+		"_id" : "Kissing",
+		"year" : 2014,
+		"count" : 40
+	},
+	{
+		"_id" : "Sibling Incest",
+		"year" : 2014,
+		"count" : 40
+	},
+	{
+		"_id" : "Friendship/Love",
+		"year" : 2014,
+		"count" : 40
+	},
+	{
+		"_id" : "Spanking",
+		"year" : 2014,
+		"count" : 39
+	},
+	{
+		"_id" : "Frottage",
+		"year" : 2014,
+		"count" : 38
+	},
+	{
+		"_id" : "MWPP Era",
+		"year" : 2014,
+		"count" : 38
+	},
+	{
+		"_id" : "Audio Format: MP3",
+		"year" : 2014,
+		"count" : 38
+	},
+	{
+		"_id" : "Post-Canon",
+		"year" : 2014,
+		"count" : 37
+	},
+	{
+		"_id" : "Light Angst",
+		"year" : 2014,
+		"count" : 37
+	},
+	{
+		"_id" : "Halloween",
+		"year" : 2014,
+		"count" : 36
+	},
+	{
+		"_id" : "Incest",
+		"year" : 2014,
+		"count" : 36
+	},
+	{
+		"_id" : "Angst with a Happy Ending",
+		"year" : 2014,
+		"count" : 36
+	}
+]

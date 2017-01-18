@@ -1,172 +1,252 @@
 [
 	{
 		"_id" : "Harry Potter - J. K. Rowling",
-		"count" : 34809,
-		"words" : 318761415
+		"count" : 54713,
+		"words" : 496992522
 	},
 	{
 		"_id" : "Harry Potter - Fandom",
-		"count" : 1118,
-		"words" : 10060280
+		"count" : 1660,
+		"words" : 15331402
 	},
 	{
 		"_id" : "Fantastic Beasts and Where to Find Them (Movies)",
 		"count" : 2382,
-		"words" : 9844796
-	},
-	{
-		"_id" : "Harry Potter and the Cursed Child - Thorne & Rowling",
-		"count" : 425,
-		"words" : 3713056
+		"words" : 9984432
 	},
 	{
 		"_id" : "Supernatural",
-		"count" : 307,
-		"words" : 3541177
-	},
-	{
-		"_id" : "The Avengers (Marvel Movies)",
-		"count" : 234,
-		"words" : 2859075
+		"count" : 567,
+		"words" : 6493763
 	},
 	{
 		"_id" : "Sherlock (TV)",
-		"count" : 271,
-		"words" : 2824860
+		"count" : 564,
+		"words" : 5692124
 	},
 	{
-		"_id" : "Buffy the Vampire Slayer",
-		"count" : 110,
-		"words" : 2286610
+		"_id" : "The Avengers (Marvel Movies)",
+		"count" : 401,
+		"words" : 5613145
 	},
 	{
-		"_id" : "Marvel Cinematic Universe",
-		"count" : 219,
-		"words" : 2054745
+		"_id" : "Harry Potter and the Cursed Child - Thorne & Rowling",
+		"count" : 426,
+		"words" : 3750701
 	},
 	{
 		"_id" : "Naruto",
-		"count" : 120,
-		"words" : 2015152
+		"count" : 197,
+		"words" : 3675854
 	},
 	{
-		"_id" : "Katekyou Hitman Reborn!",
-		"count" : 103,
-		"words" : 1563073
+		"_id" : "Marvel Cinematic Universe",
+		"count" : 321,
+		"words" : 3248374
 	},
 	{
-		"_id" : "Twilight Series - Stephenie Meyer",
-		"count" : 90,
-		"words" : 1553268
-	},
-	{
-		"_id" : "Game of Thrones (TV)",
-		"count" : 71,
-		"words" : 1466121
-	},
-	{
-		"_id" : "A Song of Ice and Fire - George R. R. Martin",
-		"count" : 63,
-		"words" : 1448054
-	},
-	{
-		"_id" : "Teen Wolf (TV)",
-		"count" : 100,
-		"words" : 1433030
-	},
-	{
-		"_id" : "The Avengers (Marvel) - All Media Types",
-		"count" : 122,
-		"words" : 1426812
-	},
-	{
-		"_id" : "Thor (Movies)",
-		"count" : 76,
-		"words" : 1425291
+		"_id" : "Buffy the Vampire Slayer",
+		"count" : 188,
+		"words" : 3070230
 	},
 	{
 		"_id" : "Merlin (TV)",
-		"count" : 106,
-		"words" : 1423933
+		"count" : 196,
+		"words" : 2782884
+	},
+	{
+		"_id" : "Criminal Minds",
+		"count" : 76,
+		"words" : 2711617
+	},
+	{
+		"_id" : "The Avengers (Marvel) - All Media Types",
+		"count" : 188,
+		"words" : 2693875
+	},
+	{
+		"_id" : "Teen Wolf (TV)",
+		"count" : 180,
+		"words" : 2477775
+	},
+	{
+		"_id" : "Twilight Series - Stephenie Meyer",
+		"count" : 130,
+		"words" : 2460332
 	},
 	{
 		"_id" : "Percy Jackson and the Olympians - Rick Riordan",
-		"count" : 143,
-		"words" : 1283754
-	},
-	{
-		"_id" : "The Lord of the Rings - All Media Types",
-		"count" : 88,
-		"words" : 1220538
+		"count" : 206,
+		"words" : 2452456
 	},
 	{
 		"_id" : "Doctor Who",
-		"count" : 118,
-		"words" : 923889
+		"count" : 221,
+		"words" : 2198566
 	},
 	{
-		"_id" : "One Direction (Band)",
-		"count" : 52,
-		"words" : 896495
+		"_id" : "Katekyou Hitman Reborn!",
+		"count" : 144,
+		"words" : 2140910
 	},
 	{
-		"_id" : "Star Wars - All Media Types",
-		"count" : 95,
-		"words" : 865427
+		"_id" : "The Lord of the Rings - All Media Types",
+		"count" : 136,
+		"words" : 2120915
 	},
 	{
-		"_id" : "The Lord of the Rings - J. R. R. Tolkien",
-		"count" : 58,
-		"words" : 859585
+		"_id" : "Thor (Movies)",
+		"count" : 131,
+		"words" : 2072831
+	},
+	{
+		"_id" : "Game of Thrones (TV)",
+		"count" : 101,
+		"words" : 1766205
 	},
 	{
 		"_id" : "Captain America (Movies)",
-		"count" : 66,
-		"words" : 837844
+		"count" : 123,
+		"words" : 1753299
+	},
+	{
+		"_id" : "A Song of Ice and Fire - George R. R. Martin",
+		"count" : 93,
+		"words" : 1745853
+	},
+	{
+		"_id" : "Marvel",
+		"count" : 54,
+		"words" : 1578570
 	},
 	{
 		"_id" : "Once Upon a Time (TV)",
-		"count" : 72,
-		"words" : 790806
+		"count" : 113,
+		"words" : 1537928
+	},
+	{
+		"_id" : "Iron Man (Movies)",
+		"count" : 79,
+		"words" : 1399984
 	},
 	{
 		"_id" : "The Hobbit - All Media Types",
-		"count" : 51,
-		"words" : 742865
+		"count" : 101,
+		"words" : 1394274
 	},
 	{
-		"_id" : "Drarry - Fandom",
-		"count" : 53,
-		"words" : 725372
+		"_id" : "One Direction (Band)",
+		"count" : 94,
+		"words" : 1387767
 	},
 	{
-		"_id" : "Hetalia: Axis Powers",
-		"count" : 64,
-		"words" : 628825
+		"_id" : "One Piece",
+		"count" : 67,
+		"words" : 1345996
 	},
 	{
-		"_id" : "Undertale (Video Game)",
-		"count" : 52,
-		"words" : 549724
+		"_id" : "The Lord of the Rings - J. R. R. Tolkien",
+		"count" : 79,
+		"words" : 1310670
 	},
 	{
 		"_id" : "Glee",
-		"count" : 54,
-		"words" : 544329
+		"count" : 93,
+		"words" : 1228449
+	},
+	{
+		"_id" : "The Walking Dead (TV)",
+		"count" : 52,
+		"words" : 1226203
+	},
+	{
+		"_id" : "The Lord of the Rings (Movies)",
+		"count" : 58,
+		"words" : 1174584
+	},
+	{
+		"_id" : "Torchwood",
+		"count" : 66,
+		"words" : 1165142
+	},
+	{
+		"_id" : "Bleach",
+		"count" : 66,
+		"words" : 1119373
 	},
 	{
 		"_id" : "Percy Jackson and the Olympians & Related Fandoms - All Media Types",
-		"count" : 68,
-		"words" : 482119
+		"count" : 108,
+		"words" : 1112983
 	},
 	{
-		"_id" : "The Heroes of Olympus - Rick Riordan",
-		"count" : 66,
-		"words" : 453891
+		"_id" : "Agents of S.H.I.E.L.D. (TV)",
+		"count" : 72,
+		"words" : 1110480
 	},
 	{
 		"_id" : "Doctor Who (2005)",
-		"count" : 65,
-		"words" : 348774
+		"count" : 113,
+		"words" : 1098315
+	},
+	{
+		"_id" : "Twilight Series - All Media Types",
+		"count" : 88,
+		"words" : 1082711
+	},
+	{
+		"_id" : "Star Wars - All Media Types",
+		"count" : 117,
+		"words" : 1080671
+	},
+	{
+		"_id" : "Drarry - Fandom",
+		"count" : 59,
+		"words" : 1061385
+	},
+	{
+		"_id" : "Shingeki no Kyojin | Attack on Titan",
+		"count" : 66,
+		"words" : 980623
+	},
+	{
+		"_id" : "Rise of the Guardians (2012)",
+		"count" : 75,
+		"words" : 975803
+	},
+	{
+		"_id" : "The Heroes of Olympus - Rick Riordan",
+		"count" : 89,
+		"words" : 972623
+	},
+	{
+		"_id" : "Frozen (2013)",
+		"count" : 66,
+		"words" : 971274
+	},
+	{
+		"_id" : "NCIS",
+		"count" : 56,
+		"words" : 931884
+	},
+	{
+		"_id" : "How to Train Your Dragon (Movies)",
+		"count" : 53,
+		"words" : 858367
+	},
+	{
+		"_id" : "Hetalia: Axis Powers",
+		"count" : 89,
+		"words" : 857528
+	},
+	{
+		"_id" : "The Flash (TV 2014)",
+		"count" : 55,
+		"words" : 728289
+	},
+	{
+		"_id" : "Hunger Games Trilogy - Suzanne Collins",
+		"count" : 55,
+		"words" : 708962
 	}
 ]

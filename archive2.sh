@@ -5,6 +5,29 @@
 echo "\nRunning bash for collection Harry Potter"
 Fandom="Harry Potter"
 
+mongo --quiet archive --eval 'printjson(db.getCollection("Harry Potter")
+.aggregate([
+    { $match: {"dateUpdated": {$ne : null}}},
+    {
+       $project: {
+           day: { $dateToString: { format: "%m-1-%Y", date: "$dateUpdated" } },
+            date: { $dateToString: { format: "%Y-%m", date: "$dateUpdated" } },
+           words: "$words",
+       }
+   },
+
+   { $group : {
+         _id: {
+             day: "$day",
+             date: "$date",
+        },
+        "count": { $sum: 1 },
+        "words": { $sum: "$words" },
+        }
+    },
+       {$sort : {"_id.date": -1}},
+]).toArray())' > per_month_count.json
+
 getStats() {
     mongo --quiet archive --eval 'printjson(db.getCollection("'"$Fandom"'")
     .aggregate([

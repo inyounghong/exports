@@ -1,20 +1,66 @@
 #!/bin/bash
 Fandom="Harry Potter"
 
-mongo --quiet archive --eval 'printjson(db.getCollection("Harry Potter")
-.aggregate ( [ 
-    {
-    $bucket: {
-      groupBy: "$kudos",
-      boundaries: [ 0, 5, 10, 20, 50, 100, 200, 500, 1000, 2000, 5000, 10000],
-      default: "Other",
-              output: {
-                "count": { $sum: 1 },
+mostPopularPerYear() {
+    mongo --quiet archive --eval 'printjson(db.getCollection("'"$Fandom"'")
+    .aggregate([
+        { $match: {"dateUpdated": {$ne : null}}},
+        { "$unwind" : "$'"$1"'"},
+        {
+           $project: {
+               year: {$year: "$dateUpdated"},
+               '"$1"': "$'"$1"'",
+           }
+       },
+       { $match : {"year": '"$2"'}},
+       { "$group" : {
+            _id: {
+                '"$1"': "$'"$1"'",
+                year: "$year",
+            },
+            count: {$sum: 1},
             }
-    }
+        },
+        { $sort: {"count": -1}},
+        { $limit: 100 },
+        { $project: {
+            _id: "$_id.'"$1"'",
+            year: "$_id.year",
+            count: "$count",
+        }}
+    ]).toArray())' > $3
 }
 
-]).toArray())' > _kudos.json
+getMostPopularPerYear() {
+    mostPopularPerYear $1 '2016' year_$1_2016.json
+    mostPopularPerYear $1 '2015' year_$1_2015.json
+    mostPopularPerYear $1 '2014' year_$1_2014.json
+}
+
+getMostPopularPerYear 'tags'
+getMostPopularPerYear 'characters'
+getMostPopularPerYear 'relationships'
+getMostPopularPerYear 'fandoms'
+
+
+bucket() {
+    mongo --quiet archive --eval 'printjson(db.getCollection("'"$Fandom"'")
+        .aggregate ( [ 
+            {
+            $bucket: {
+                groupBy: '"$1"',
+                boundaries: '"$2"',
+                default: "Other",
+                output: {
+                    '"$3"': { $sum: 1 },
+                }
+            }
+        }
+    ]).toArray())' > $4
+}
+
+bucket '"$kudos"' '[ 0, 500, 1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000, 5500, 6000]' '"kudos"' _kudos.json
+bucket '"$words"' '[ 0, 10000, 20000, 30000, 40000, 50000, 60000, 70000, 80000, 90000, 100000]' '"words"' _words.json
 
 
 getBasicStats() {
@@ -46,6 +92,10 @@ getBasicStats "fandoms" 'words: { $sum : "$words" },' 'words' pop_fandom_words.j
 getBasicStats "fandoms" 'kudos: { $avg : "$kudos" },' 'kudos' pop_fandom_kudos.json "50"
 
 getBasicStats "tags" "" 'count' pop_tag_count.json "20"
+
+
+
+
 
 exit
 

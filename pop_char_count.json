@@ -1,202 +1,202 @@
 [
 	{
 		"_id" : "Harry Potter",
-		"count" : 15516
+		"count" : 23995
 	},
 	{
 		"_id" : "Draco Malfoy",
-		"count" : 9751
+		"count" : 14643
 	},
 	{
 		"_id" : "Hermione Granger",
-		"count" : 9588
+		"count" : 14514
 	},
 	{
 		"_id" : "Ron Weasley",
-		"count" : 6734
+		"count" : 10086
 	},
 	{
 		"_id" : "Sirius Black",
-		"count" : 6425
-	},
-	{
-		"_id" : "Remus Lupin",
-		"count" : 6235
+		"count" : 9635
 	},
 	{
 		"_id" : "Severus Snape",
-		"count" : 5953
+		"count" : 9340
+	},
+	{
+		"_id" : "Remus Lupin",
+		"count" : 9291
 	},
 	{
 		"_id" : "Ginny Weasley",
-		"count" : 4104
+		"count" : 6013
 	},
 	{
 		"_id" : "James Potter",
-		"count" : 3638
+		"count" : 5543
 	},
 	{
 		"_id" : "Albus Dumbledore",
-		"count" : 3142
+		"count" : 4752
 	},
 	{
 		"_id" : "Lily Evans Potter",
-		"count" : 2608
+		"count" : 3961
 	},
 	{
 		"_id" : "Luna Lovegood",
-		"count" : 2467
-	},
-	{
-		"_id" : "Minerva McGonagall",
-		"count" : 2374
+		"count" : 3606
 	},
 	{
 		"_id" : "Neville Longbottom",
-		"count" : 2325
+		"count" : 3526
 	},
 	{
 		"_id" : "Lucius Malfoy",
-		"count" : 2260
+		"count" : 3448
 	},
 	{
-		"_id" : "Peter Pettigrew",
-		"count" : 1912
-	},
-	{
-		"_id" : "Original Female Character(s)",
-		"count" : 1905
+		"_id" : "Minerva McGonagall",
+		"count" : 3446
 	},
 	{
 		"_id" : "George Weasley",
-		"count" : 1903
+		"count" : 2870
 	},
 	{
-		"_id" : "Pansy Parkinson",
-		"count" : 1756
+		"_id" : "Peter Pettigrew",
+		"count" : 2847
+	},
+	{
+		"_id" : "Original Female Character(s)",
+		"count" : 2726
 	},
 	{
 		"_id" : "Narcissa Black Malfoy",
-		"count" : 1697
+		"count" : 2554
+	},
+	{
+		"_id" : "Pansy Parkinson",
+		"count" : 2491
 	},
 	{
 		"_id" : "Blaise Zabini",
-		"count" : 1660
-	},
-	{
-		"_id" : "Scorpius Malfoy",
-		"count" : 1614
+		"count" : 2413
 	},
 	{
 		"_id" : "Fred Weasley",
-		"count" : 1579
+		"count" : 2406
 	},
 	{
-		"_id" : "Albus Severus Potter",
-		"count" : 1500
-	},
-	{
-		"_id" : "Newt Scamander",
-		"count" : 1476
+		"_id" : "Scorpius Malfoy",
+		"count" : 2214
 	},
 	{
 		"_id" : "Original Male Character(s)",
-		"count" : 1378
+		"count" : 2027
 	},
 	{
-		"_id" : "Tom Riddle | Voldemort",
-		"count" : 1271
+		"_id" : "Albus Severus Potter",
+		"count" : 2019
 	},
 	{
 		"_id" : "Molly Weasley",
-		"count" : 1248
+		"count" : 1828
 	},
 	{
-		"_id" : "Credence Barebone",
-		"count" : 1116
+		"_id" : "Tom Riddle | Voldemort",
+		"count" : 1813
 	},
 	{
 		"_id" : "Voldemort",
-		"count" : 1065
+		"count" : 1731
 	},
 	{
 		"_id" : "Teddy Lupin",
-		"count" : 1058
-	},
-	{
-		"_id" : "Original Percival Graves",
-		"count" : 999
+		"count" : 1586
 	},
 	{
 		"_id" : "Bellatrix Black Lestrange",
-		"count" : 978
+		"count" : 1528
+	},
+	{
+		"_id" : "Newt Scamander",
+		"count" : 1480
 	},
 	{
 		"_id" : "Tom Riddle",
-		"count" : 945
+		"count" : 1435
 	},
 	{
 		"_id" : "James Sirius Potter",
-		"count" : 919
-	},
-	{
-		"_id" : "Tina Goldstein",
-		"count" : 905
-	},
-	{
-		"_id" : "Rose Weasley",
-		"count" : 877
-	},
-	{
-		"_id" : "Arthur Weasley",
-		"count" : 827
+		"count" : 1347
 	},
 	{
 		"_id" : "Nymphadora Tonks",
-		"count" : 826
+		"count" : 1289
+	},
+	{
+		"_id" : "Rose Weasley",
+		"count" : 1234
+	},
+	{
+		"_id" : "Arthur Weasley",
+		"count" : 1219
 	},
 	{
 		"_id" : "Charlie Weasley",
-		"count" : 821
+		"count" : 1205
 	},
 	{
 		"_id" : "Seamus Finnigan",
-		"count" : 807
-	},
-	{
-		"_id" : "Dean Thomas",
-		"count" : 799
-	},
-	{
-		"_id" : "Regulus Black",
-		"count" : 783
+		"count" : 1153
 	},
 	{
 		"_id" : "Theodore Nott",
-		"count" : 761
+		"count" : 1150
+	},
+	{
+		"_id" : "Dean Thomas",
+		"count" : 1131
+	},
+	{
+		"_id" : "Regulus Black",
+		"count" : 1129
+	},
+	{
+		"_id" : "Credence Barebone",
+		"count" : 1117
 	},
 	{
 		"_id" : "Bill Weasley",
-		"count" : 706
+		"count" : 1103
 	},
 	{
-		"_id" : "Lily Luna Potter",
-		"count" : 671
-	},
-	{
-		"_id" : "Queenie Goldstein",
-		"count" : 655
+		"_id" : "Original Percival Graves",
+		"count" : 997
 	},
 	{
 		"_id" : "Percy Weasley",
-		"count" : 635
+		"count" : 991
+	},
+	{
+		"_id" : "Lily Luna Potter",
+		"count" : 968
+	},
+	{
+		"_id" : "Tina Goldstein",
+		"count" : 907
 	},
 	{
 		"_id" : "Rubeus Hagrid",
-		"count" : 565
+		"count" : 881
 	},
 	{
 		"_id" : "Fleur Delacour",
-		"count" : 560
+		"count" : 810
+	},
+	{
+		"_id" : "Andromeda Black Tonks",
+		"count" : 795
 	}
 ]
